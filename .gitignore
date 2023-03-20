@@ -3,6 +3,7 @@
 *.log
 *.sql
 *.sqlite
+__pycache__/
 
 # OS generated files #
 ######################
