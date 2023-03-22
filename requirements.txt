@@ -1,5 +1,3 @@
 pandas
 numpy
 PyPDF2
-nltk
-re
