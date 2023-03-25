@@ -1,0 +1,1670 @@
+ENVIRONMENTAL,  
+SOCIAL & GOVERNANCE  
+REPORT 2020PFIZER’S ANNUAL ESG PERFORMANCE
+This report represents a new chapter in Pfizer’s  
+commitment to enhance stakeholder awareness of  our priority Environmental, Social and Governance  (ESG) issues and disclose how our performance on  non-financial metrics is contributing to long-term  value creation and a sustainable, responsible  and patient-centric business model.
+The disclosures contained in this report underscore our commitment  
+to delivering breakthroughs that change patients’ lives through  ethical decision-making and our core values – Equity, Courage,  Excellence and Joy.Introduction
+2
+ A letter from our Chair
+man & CEO
+4
+ Highlights 2020
+5
+ Our approach to ESG 
+7
+ Priority ESG issues
+Bold Mo
+ves
+10 
+ Unleash the pow
+er of our people
+11 
+ Deliver fir
+st-in-class science
+12 
+ T
+ransform our go-to-market model
+13 
+ Win the digital race in phar
+ma
+14 
+ Lead the con
+versation
+ 
+En
+vironment
+16 
+ Over
+view
+Social20 
+ Over
+view
+Governance25 
+ Over
+view
+Performance29 
+ En
+vironment
+30 
+ Social
+33 
+ Go
+vernance
+Appendix35 
+ GRI Index
+43 
+ SASB Index
+ 
+47 
+ TCFD
+49 
+  About this repor
+t
+50
+ Independent accountants’ repor
+tWhat this  
+report covers
+ 
+This report provides information 
+on our ESG progress
+  in the 
+year from Januar
+y 1, 2020, to 
+December 31, 2020; it includes an overview of performance, as well as data
+  on 28 k
+ey 
+performance indicators.
+ For more information please see  
+About this Report on page 49In this report
+Where to find more information
+ О  2019 Annual Review
+ О2020 Annual Documents 
+– 2020 Annual Review – 2020 Annual Report on Form 10-K – 2021 Proxy Statement
+ ОCOVID-19 Hub
+1 En vironmental, Social & Governance Report 2020
+Introduction Bold Moves Environment Social Governance Performance AppendixA LETTER FROM OUR CHAIRMAN & CEO
+Guided by our purpose – Breakthroughs that 
+change patients’ lives – we are applying our core capabilities and values to help deliver courageous solutions. We know Pfizer alone cannot combat the COVID-19 pandemic, systemic racial inequalities or climate change. Because we are a purpose and science-driven company, we are working with public and private partners to overcome current challenges and prepare  for those to come.
+For 171 years, our deep passion for science and 
+dedication to patients have been foundational to Pfizer. So too have been our commitments to nurturing a diverse, inclusive and positive workplace to which all colleagues can bring  their best selves; improving equitable access to our vaccines and medicines; and minimizing negative impact of our work on the environment. 
+It was not a surprise, therefore, to see that 93% 
+of Pfizer colleagues surveyed in 2020 agreed that their daily work contributes to our purpose, and 95% feel proud to work for our company. And with purpose fueling their activities, colleagues found the courage to make bolder commitments to help overcome the persistent gaps in equity we are facing as a society.Integrating ESG into our core business We are on a journey to more intentionally connect our purpose with our environmental, social and governance (ESG) efforts in order  to better understand and address the needs  of our patients, colleagues, partners, shareholders and communities. 
+Through our Purpose Blueprint, Pfizer’s business 
+strategy is inextricably linked to our ESG efforts. To take these efforts a step further, we are integrating ESG into our core business and amplifying our commitments. Globally, stakeholders increasingly expect corporations  to step up and address threats to social, economic and environmental welfare. We  are meeting those expectations.
+Truly integrating ESG also means focusing  
+on the needs and welfare of our colleagues. Addressing the health, safety and mental well-being of our colleagues became even more critical in the face of the pandemic. Pfizer quickly responded to employees' needs while maintaining business resiliency across all therapeutic areas and functions, and while advancing the research, development and manufacturing of a COVID-19 vaccine.
+Amplifying our ESG commitments
+Pfizer has consistently supported and prioritized its ESG-related programs and commitments. 2020 marked an important inflection point when it comes to the role of corporations in society, and I am very proud of the ways in which Pfizer stepped up to lead. 
+Pfizer has consistently supported  
+and prioritized its ESG-related programs and commitments. 2020 marked an important inflection point when it comes to the role of corporations in society, and I am  very proud of the ways in which  Pfizer stepped up to lead.
+Dr. Albert Bourla
+Pfizer Chairman & CEO
+1st COVID-19 vaccine
+granted Emergency Use 
+Authorization (EUA) in the U.S.
+93 %
+of Pfizer colleagues surveyed  in 2020 agreed that their daily  work contributes to our purposeIn a year unlike any other, Pfizer’s 
+purpose-driven commitment to patients and the broader needs of society has never been more urgent. In the face of simultaneous health, economic and cultural crises, we took bold steps in 2020 to address the needs of all stakeholders, including shareholders.
+2 En vironmental, Social & Governance Report 2020
+Introduction Bold Moves Environment Social Governance Performance AppendixA LETTER FROM OUR CHAIRMAN & CEO CONTINUED
+Our faith in social and cultural norms, as well as 
+our personal health and safety, were challenged greatly in 2020 and may continue to be in the years to come. In such an environment, we believe companies like Pfizer that abide by core values  
+such as equity and courage and make ethical decisions will have a competitive advantage.  We will attract and retain the best and the brightest colleagues. We will endure today’s crisis and be better prepared for the next. 
+I am proud of what we accomplished in 2020. 
+Specifically:
+ ОPfizer progressed our COVID-19 vaccination trials at the speed of science while remaining grounded in the importance of public trust and our commitment to equitable distribution. We will work with the COVAX facility to facilitate equitable access to our COVID vaccine to eligible countries, with support from partners at the global and local levels. 
+ ОWe were the first biopharmaceutical company to issue a Sustainability Bond ($1 billion+), the proceeds of which are earmarked for environmental and social initiatives. Proceeds are being allocated to enhance our ability to reach more women and children in low-income countries, address antimicrobial resistance, strengthen health care infrastructure and help manage our environmental impact.
+ ОWe doubled down on our Infectious Disease (I.D.) Impact Initiative, Pfizer’s long-term global health commitment to redefine the way we fight infectious disease and help protect underserved people in the U.S. and around the world from these deadly threats.
+ ОWe set concrete goals to address systemic racism and gender equity challenges by reviewing and augmenting our plans to increase diversity and opportunity parity by 2025, particularly focusing on increasing female and U.S. minority representation at leadership levels. ОPfizer has long-recognized the societal impacts from environmental issues such as climate change. We successfully achieved our 2020 environmental goals and made a commitment to become carbon neutral across our company’s operations by 2030. The Science Based Targets Initiative (SBTi) has commended Pfizer's 2030 Scope 1 & 2 greenhouse gas (GHG) emission goal as an ambitious 1.5°C-aligned target. 
+ ОOur improvement on the Access to Medicine Index to fourth place in 2021 from 11th in 2018 underscores our commitment to access and equity in health care. For example, through our ex-U.S. patient assistance programs, we were able to reach nearly 700,000 patients in 2020, some of whom may not have otherwise been reached through traditional commercial channels. In total, we reached more than 58 million patients through access and affordability programs.
+Every day, more than 78,000
+1 Pfizer colleagues 
+work toward a future where disease doesn’t win, but science does. A future where we unite transformational technology and cutting-edge science to fulfill our purpose – Breakthroughs that change patients’ lives. And a future where these breakthrough treatments and therapies are accessible to all. 
+Even with the enormous focus and significant 
+resources we have dedicated to addressing  the COVID-19 pandemic for people around  the world, our colleagues remain steadfast in working to develop breakthroughs across all of  our therapeutic areas and helping to strengthen  the underlying health infrastructure needed to  address the full spectrum of health issues – from prevention to primary and critical care.Looking aheadUncertainty and instability remain the only constants as we enter 2021. In the face of these challenges, our belief that Science Will Win™, and our purpose-driven approach, will help us lead the battle against COVID-19 and any variants of the virus that may arise. We will support and enable our colleagues as they balance competing responsibilities at home and at work. And we will work to ensure we do our part to protect our environment for generations to come. 
+We are optimistic about the future and our ability 
+to favorably impact our society and environment through our business and our philanthropic efforts. We aim to help stakeholders achieve the UN Sustainable Development Goals, a task all the more critical given the global development setbacks from COVID-19 over the past year. 
+I have never been prouder of the passion and 
+dedication of our employees to delivering on our purpose. Because of them, Pfizer is positioned not only to continue advancing breakthroughs  to combat COVID-19 and other priority diseases, but also to help lead the conversation about the value of science, the importance of ensuring affordable and equitable access to medicines and vaccines, and the obligation to do all  of these things while acting with integrity. 
+Dr. Albert BourlaChairman & Chief Executive Officer420 +m
+patients treated globally
+met 2020 climate goals and set 
+carbon neutral target for 2030
+1. Headcount as of Dec. 31,  2020.
+3 En vironmental, Social & Governance Report 2020
+Introduction Bold Moves Environment Social Governance Performance AppendixHIGHLIGHTS
+Successfully  
+achieved our 2020  environment goals:  
+compared to 2012 baseline; 
+including Upjohn data
+33% 
+reduction in direct greenhouse gas emissions; exceeded 20% reduction goal
+19% 
+reduction in water withdrawal; exceeded 5% reduction goal
+15%  
+reduction in waste disposed;  met 15% reduction goal
+7of 12
+members of Board of Directors are diverse based on gender or ethnicity4th
+in 2021 Access to Medicine Index (ATMI) ranking$1.25 bn
+committed to social and environmental initiatives through our landmark Sustainability Bond
+58 +m
+patients reached through our access and affordability programs  for medicines and vaccines$40 m
+donated (2020-2021) by Pfizer, Inc.  and The Pfizer Foundation
+1 in medical 
+and charitable cash grants and medicines to more than 165 partners  
+to support COVID-19 response
+1. The Pfizer F oundation is a charitable organization  
+established by Pfizer Inc. It is a separate legal entity  
+from Pfizer Inc. with distinct legal restrictions.99.8 % 
+parity for U.S. minority versus  
+non-minority pay levels
+38 %
+female representation  of VP+ globally
+4 En vironmental, Social & Governance Report 2020
+Social Governance Environment Bold Moves Performance AppendixIntroductionOUR APPROACH TO ESG
+Our new approach to ESG  
+helps us advance our purpose, drive positive impact relevant  to the breakthroughs we aim  to deliver, demonstrate the  value they bring to patients and other stakeholders, and govern our operations and impact  on society.
+Connecting our purpose, strategy and ESG
+At Pfizer, our purpose is more important now than ever, as societal, environmental and economic shifts challenge the way in which  we think about global health and, more broadly, health equity. As such, we are on a journey to more intentionally connect our purpose with our ESG strategy in order to better understand and address the needs of patients, colleagues, partners, shareholders and communities. 
+In 2020, we aligned our ESG priority areas and 
+key KPIs to our Purpose Blueprint, a strategy consisting of bold moves and core values that we believe will allow Pfizer’s colleagues to deliver on the promise of our purpose and unlock the power of our science. 
+We believe in strong governance, acting with 
+integrity and increased transparency to help  us measure the impact we have on society and the value we bring to patients and health care systems, local economies, employees and  the environment.Courage
+ExcellenceEquityJoyEnvironmental, Social, 
+Governance
+Enterprise Risk 
+ManagementBreakthroughs 
+that change 
+patients’ livesKey
+Our Bold Moves
+#1 
+Unleash the power of our people
+#2 Deliver first-in-class science
+#3 Transform our go-to-market model
+#4 Win the digital race in pharma
+#5 Lead the conversation
+Our values 
+Equity: Every person deserves to be seen, 
+heard and cared for. This happens when  we are inclusive, act with integrity and reduce health care disparities.
+Excellence: We can only change patients’ 
+lives when we perform at our best together. This happens when we focus on what matters, agree who does what and  measure outcomes.
+Courage: Breakthroughs start by challenging 
+convention – especially in the face of uncertainty or adversity. This happens when we think big, speak up and are decisive.
+Joy: We give ourselves to our work, and it 
+also gives to us. We find joy when we take pride, recognize one another and have fun.Underpinned by our core values, our ESG approach  
+helps us deliver on our strategy and purpose
+5 En vironmental, Social & Governance Report 2020
+Introduction Bold Moves Environment Social Governance Performance AppendixOUR APPROACH TO ESG CONTINUED
+Increased integration of ESG in 2020
+In 2020, we took the following steps to demonstrate the increased alignment of ESG with corporate strategy and governance:
+ ОUnderwent a stakeholder engagement process  to help prioritize the ESG topics most important to Pfizer’s stakeholders and our business to inform future strategic direction, reporting  and disclosure.
+ ОUpdated our governance structure to establish oversight of ESG risks and opportunities as  a cross-enterprise priority consistent with  our values. 
+ ОEvolved our enterprise risk management  (ERM) framework to include ESG-related  risks while evaluating how ESG factors impact  other enterprise wide risk management and mitigation; and 
+ ОWhere appropriate, we intentionally aligned our efforts and reporting to recognize ESG standards (the Sustainability Accounting Standards Board and Global Reporting Initiative) and reporting frameworks (the Task Force for Climate-Related Financial Disclosure) in our continued commitment to best-in-class transparency.
+We are also amplifying our commitments in  the areas where we believe we can make the  most meaningful impact on society and the environment, including signature commitments focused on equitable access to medicines and  vaccines, colleague diversity and inclusion,  product innovation, product quality and safety, climate change, antimicrobial resistance,  among others (see examples pages 19–23).
+ For more information about our governance  
+approach to ESG, please see page 27Unleash the power 
+of our people
+We are further 
+building on our inclusive, engaging work environment to recognize and reward both performance and leadership and empower all colleagues to bring their best selves to work for the benefit  of patients.Deliver first-in- 
+class science
+We aim to deliver 
+first-in-class science by sourcing the best science in the world and significantly improving our innovation success rate. We will bring forward our most promising and transformational products with a focus on getting them to patients as quickly  as possible.Transform our  
+go-to-market model
+We are creating new 
+solutions to address patient access and affordability challenges by exploring new, flexible business models allowing us to reach patients and improve their health care experience.Win the digital  
+race in pharma
+We are continually 
+exploring ways that digital, data and technology can accelerate our business and expedite the drug discovery and development process and enhance patient experiences and outcomes.Lead the 
+conversation
+We are engaging with 
+policymakers and other stakeholders to advocate for policies that allow innovation to flourish while helping ensure patient access to the latest therapies – all while communicating the value our science brings to society.Our Bold Moves
+Governance
+Ethics, Transparency, 
+QualityAccountabilitySocial
+Innovation and  
+Global HealthHuman CapitalEnvironment
+Climate Change Sustainable Medicines
+Our ESG focus areas
+6 En vironmental, Social & Governance Report 2020
+Introduction Bold Moves Environment Social Governance Performance AppendixPRIORITY ISSUE ASSESSMENT
+NGOs Health professionals Payers Patient groups Investors
+ ОHealth care 
+infrastructure
+ ОClimate change
+ ОEquitable access О  Employee diversity  
+and equity
+ О Health care infrastructure
+ О Equitable access О Pricing
+ О Equitable access
+ О  Employee diversity  
+and equity О Partnerships
+ О  Health care infrastructure
+ О Clinical trials О  Product effectiveness  
+and safety
+ О  Health, safety, well-being
+ О Ethical conduct
+Academics Government and policy Suppliers Peers Employees (current and future)
+ О Climate change
+ О Data privacy
+ О Right incentives О Ethical conduct
+ О Human rights
+ О  Employee diversity  
+and equity О  Community investment
+ О Responsible  
+supply chain
+ О  Laws and regulatory compliance О Product effectiveness and safety
+ О Ethical conduct
+ О  Health, safety,  
+well-being О Employee diversity  
+and equity
+ О Community investment
+ О Pay equityPriority topics highlighted throughout this document closely align with our strategic initiatives outlined in our Purpose Blueprint and the risks and opportunities identified in our ERM approach. Utilized approximately 80 stakeholder  inputs and a Big 4 firm’s assessment process to prioritize the topics. Conducted consensus meeting with leadership  to validate.Interviewed external stakeholders and conducted desktop research to rank the topics on importance to their organization and understand their expectations and priorities for Pfizer.Conducted discussions and surveys with internal experts to rank the ESG topics on their importance regarding the impact and performance on  our business.Identified internal topic experts and conferred with business partners and external ESG experts to develop a list of key external stakeholders from  10 relevant groups.Evaluated best-practice guidelines from sustainability standards and conducted peer benchmarking to identify important ESG topics impacting our business.
+Evaluate relevant  ESG topicsIdentify internal and external stakeholdersAssess the impacts on the organizationAssess the influence on stakeholder decision-makingTopic prioritization and leadership reviewIntegrate findings in business strategy and ESG reportingProcess overviewOur process
+As we evolve as a company and as the challenges facing society change, we are committed to advancing our purpose through an integrated strategy guided by our values, accountable to our stakeholders, and designed to create value and mitigate risks. In 2020, we began a process to integrate the core drivers of corporate strategy with the most relevant issues we face from an environmental, social and governance perspective. We are making this link more explicit to our stakeholders and increasing our disclosure around decision-useful metrics to enhance transparency and accountability. 
+Understanding and prioritizing the ESG topics that could have 
+a significant impact on our business and matter most to our external stakeholders is enabling us to focus on the right issues, communicate more effectively internally and externally, and ultimately allocate our resources in a manner aimed at creating long-term value and impact for shareholders and  the broader society.
+In 2020, we engaged a Big 4 Firm to undertake a process 
+to prioritize ESG topics based on importance to external stakeholders interviewed and perceived impact on  Pfizer’s business. 
+Engaging with our stakeholders
+Our assessment was informed by virtual interviews with internal and external stakeholders, surveys and supplemental desk research, representing approximately 80 inputs in total. Stakeholder feedback was sourced from a broad range of external groups, including health professionals, patient groups, payers, investors, non-governmental organizations (NGOs), peers, academics, government and policy setters and suppliers. 
+Key issues identified by stakeholder groups
+7 En vironmental, Social & Governance Report 2020
+Introduction Bold Moves Environment Social Governance Performance AppendixPRIORITY ISSUE ASSESSMENT CONTINUED
+Integration with our Enterprise Risk Management  
+(ERM) processThe priorities were also informed by our ERM process, the outputs of which are reported to the Audit Committee of the Board of Directors. Pfizer Corporate Audit facilitates the ERM process in coordination with Legal and Corporate Compliance and helps ensure that ERM is integrated into our strategic  and operating planning process. ESG risks were integrated  into the process for the first time in 2020. We will continue  to further align our ESG, corporate strategy and ERM processes  
+to enable a holistic view of risks and opportunities to help protect and enhance value.
+Reporting on our highest priority issues
+The priority assessment we conducted helped map current  ESG issues and the relative impact on our business and expectations of our external stakeholders. 
+Through our analysis, we identified 30 topics, the most 
+significant of which are discussed in this ESG Report.  These have been mapped to our six ESG priority areas,  which closely align to our Bold Moves outlined in our Purpose Blueprint, as well as the risks and opportunities identified  with our ERM approach:
+ ОInnovation and Global Health
+ ОHuman Capital
+ ОEthics, Transparency, Quality
+ ОAccountability
+ ОSustainable Medicines
+ ОClimate Change
+We recognize that our priority issues may evolve over time. We will continue to regularly engage with a wide variety of stakeholders to understand their changing needs, interests  and expectations of Pfizer. 
+KeySignificance of impact to Pfizer’s businessImportance to stakeholders
+Monitor Manage Prioritize
+Very high High Monitor Health care infrastructure  Product innovation
+ Health, safety, well-being  Equitable access and pricing
+ Ethical decision-making  Product quality and safety
+  Colleague diver sity, equity and 
+inclusion
+ Climate change
+ Partnerships  Clinical trials  Transparency
+ Board diversity  Patient-centered design  IP protection
+ Water scarcity and discharge  Supply chain transparency  Data privacy
+ Waste management  Human rights
+ Lobbying  Environment and health
+ Product end-of-life
+ Disease prevention  Retention and attraction
+ Employee development  Reliable supply
+ Global community investment  Pharmaceuticals in the environment
+ Laws and regulation compliance
+ Right incentives
+Monitor – topics that we monitor for a change in relative importance Environment
+Manage – topics that we actively manage as a business Social
+Prioritize – topics that we give the most prominence to Governance
+8 En vironmental, Social & Governance Report 2020
+Introduction Bold Moves Environment Social Governance Performance AppendixIn 2019, we launched our Bold Moves, five strategies  intended to pivot 
+Pfizer from an era of re
+venue stabilization
+  to one of expected sustained 
+growth. Our ESG approach
+  is aligned to these Bold Mo
+ves and will help 
+us deliver
+  on our pur
+pose – Breakthroughs that change patients’ lives.BOLD MOVES
+Highlights in 2020
+>99%
+pay parity between 
+female and male colleagues globally
+21%
+success rate from  first-in-human to approval for new molecular entities, which is among industry leaders; based on  rolling averages
+420 +m
+patients treated by medicines or protected by vaccines
+28
+digital solutions across R&D, manufacturing, health care provider and patient engagement
+#4 out of  48
+biopharma companies ranked on PatientView Global Survey (includes Upjohn)How our Bold Moves Support the UN Sustainable 
+Development Goals (SDGs) 
+Good Health and Well-Being: We aspire to ensure health and  
+well-being for all at all ages through equitable access to medicines and vaccines.
+Gender Equality: We aim to end discrimination against women, ensure equal opportunities for leadership and access to reproductive health.
+Decent Work and Economic Growth: We promote inclusive and sustainable economic growth, employment and decent and safe working environments.
+Industry, Innovation and Infrastructure: We promote resilient and sustainable infrastructure, scientific research and innovation.
+Reduced Inequalities: We empower and promote the social and economic inclusion of all, irrespective of age, sex, disability, race, ethnicity, origin, religion or economic or other status.
+Climate Action: We seek to leverage scientific innovation to reduce the environmental impact through climate impact mitigation, conservation of resources and the reduction of waste.
+Partnerships for the Goals: We are working to create new partnerships to help attain relevant sustainable development goals.
+ More information on the SDGs can be found on their website
+Priority issues covered in this section
+10 Unleash the pow er of our people
+11
+ Deliver fir
+st-in-class science
+12
+ T
+ransform our go-to-market model
+13
+ Win the digital race in phar
+ma
+14
+ Lead the con
+versationBold Moves
+9
+ En
+vironmental, Social & Governance Report 2020
+Social Governance Environment Introduction Performance Appendix For more information on our people initiatives
+and performance in 2020, see page 22 UNLEASH THE POWER  
+OF OUR PEOPLE
+Payal Sahni Becher
+Chief Human Resources Officer, Executive Vice President 
+Q&A with Payal Sahni Becherindicators (KPIs) focus on employee engagement, global female and U.S. minority representation, and measures of pay equity  and opportunity parity. 
+What is your strategy for advancing this Bold Move?
+2020’s unprecedented challenges created a tremendous opportunity to reimagine the way we work, innovate and serve patients. Ongoing surveys with colleagues revealed they want more growth and development opportunities, a more inclusive work environment and practices that simplify our work. We are working to reward their performance and leadership skills, provide equal growth opportunities and maintain a healthy work-life balance, so colleagues feel ready, equipped and energized.
+What would you consider your biggest advance against these KPIs  
+this year? How do you plan to continue progress in 2021 and beyond?We are very proud of our Diversity, Equity and Inclusion – or DE&I – efforts and we strive to make Pfizer as diverse as the patients and communities we serve. We want to ensure everyone has resources available to be a voice for change and enable courageous conversations on race, equity, bias and unconscious bias.
+Although we made substantial progress in 2020, there is more  
+to do. We will continue to work with external and internal leaders to accelerate our efforts.
+ 
+In 2020, Pfizer colleagues lived our  
+four core values as a company – Courage, Excellence, Equity and Joy. From helping develop a COVID-19 vaccine at record speed, supporting racial justice, to embracing new ways of working, they demonstrated that despite any challenge our passion for our purpose makes the impossible possible.VP+ Opportunity Parity Goals2
+GLOBAL FEMALE U.S. MINORITY2020 2025
+Goal2020 2025
+Goal38%
+22%
+2019 201933%
+19%47%
+32%Employee Engagement  Emplo yee Purpose1
+91%
+favorable 93%
+favorable
+Global pay equity3
+Pfizer pays our female colleagues globally at greater than 99% 
+(99.3%) of what we pay male colleagues. When looking at minority versus non-minority pay in the U.S., minorities are at almost dollar-for-dollar parity (99.8%) with the pay of non-minorities.Measuring 2020 Progress
+What does this Bold Move mean to Pfizer? To you personally?
+Pfizer’s purpose – Breakthroughs that change patients’ lives  – fuels 
+everything we do and is at the core of every decision we make. Pfizer’s Bold Move 1, Unleash the Power of Our People, is the one that makes all the others possible. It empowers us to simplify so that our colleagues can focus on meaningful work in support of  
+our purpose. It encourages us to recognize colleague performance and leadership and reminds us to make Pfizer an amazing place  to work so that all colleagues can reach their full potential. 
+How is this Bold Move driving long-term value creation for Pfizer 
+and its stakeholders? Our success links directly to the commitment, engagement and performance of our employees. Biopharmaceutical companies like Pfizer face intense competition for highly talented employees. We must not only attract the best and brightest, but also ensure they can thrive in an environment committed to their professional and personal success.
+How does this Bold Move link to Pfizer's ESG goals?
+Workplace diversity, equality and engagement are critical to unleashing the power of our people and empowering employees to realize their full potential. Therefore, our key performance 
+1.  Scored from question: My wor k contributes to our purpose: 
+"Breakthroughs that change patients' lives."
+2.
+ Please see Social Nar
+rative (page 22) for more details.
+3.
+ Please see Social Nar
+rative (page 22) for more details.
+10 En vironmental, Social & Governance Report 2020
+Introduction Bold Moves Environment Social Governance Performance AppendixDELIVER FIRST-IN-CLASS  
+SCIENCE
+Mikael Dolsten (left)
+Chief Scientific Officer President  Worldwide Research, Development and Medical 
+Rod MacKenzie (right)
+Chief Development Officer Global Product Development, Executive Vice PresidentWe’re proud that we have more than tripled our Phase 2 success rate on a five-year rolling average from 2016 to 2020 and are now among industry leaders. Significantly, most of these successes are either first-in-class assets or innovations built on established mechanisms with novel scientific designs.
+Bold Move Key Performance Indicators (KPIs) in 2020 and beyond
+Another critical measure of success – and a KPI we will track moving forward – is asset success rate in clinical trials from first-in-human (FIH) trials to regulatory approval. It measures if, through our science, we are selecting assets to move through the research and development process that have the best chance of benefiting patients. Our performance for this metric has varied over the past decade, often lagging the industry. But in 2020, we achieved  a success rate of 21%, thanks in large part to the increase in  our Phase 2 success rate. We aim to be an industry leader on success rates. 
+The remarkable timeline to achieve Emergency Use Authorization 
+of our COVID-19 vaccine is a prominent example of another KPI – time to market. In this area, we are exploring accelerated R&D paths to enable earlier approvals while continuing our laser focus on quality, safety and cycle time reductions.
+In addition, we aim to bolster our internal R&D efforts with 
+strategic external collaborations and licensing agreements; therefore, the number of external collaborations and licensing agreements we execute is another KPI. Key milestones in  2020 included entry into: our collaboration with BioNTech SE  on the COVID-19 vaccine, a collaboration with Valneva SE on  a potential first-in-class Lyme disease vaccine candidate, an updated agreement with Vivet Therapeutics for an investigational gene therapy for Wilson disease and a collaboration with  Myovant Sciences Ltd. to develop and commercialize an  asset in oncology and women’s health.
+Harnessing our momentum for continued success
+Our performance against these KPIs supports our most important goal: serving the needs of patients. We are proud of what we’ve achieved and excited about where the future will take us, making good on our promise that Science Will Win™.Measuring 2020 Progress
+Our Bold Move 2 goal is to deliver first-in-class science by sourcing the best science in the world, doubling our innovation success rate and bringing medicines to the world faster. 
+Declining R&D productivity has been a persistent problem for 
+our industry, driven by long cycle times and low success rates. In the 2010s, Pfizer’s R&D performance, particularly our Phase 2 success rates, lagged compared to our peers.
+Establishing a reason to believe in Pfizer science
+Reinvigorating our innovative core was essential. We made  a conscious decision to sharpen our focus on five therapeutic areas with the greatest potential impact for patients, areas where we had strong expertise and capabilities to succeed. We pivoted from a volume-based development strategy to one focused on  high-quality therapeutic candidates.1.  F rom 2017 to 2020, Pfizer has reduced its first-in-human to approval cycle 
+time for new molecular entities from 9.4 years to 8.4 years in 2020, a 
+reduction of 11%, based on a five-year rolling average.Time to Market (First-in-Human to Approval)1
+R&D Pipeline2
+Product Success Rate32. Pfizer's Research & De velopment Pipeline
+3.
+  Represents composite success rate across phases from fir
+st-in-human to 
+approval for new molecular entities; calculated using 5-year rolling cohorts for all Phases except Phase 1 (3-year).2017 2020
+9.4  
+YEARS8.4  
+YEARS 11%
+reduction
+95 
+projects in R&D 
+pipeline as of February 2, 2021
+21% 
+product success  rate
+11 En vironmental, Social & Governance Report 2020
+Introduction Bold Moves Environment Social Governance Performance AppendixTRANSFORM OUR  
+GO-TO-MARKET MODEL
+combine Pfizer-reported data on the number of patients treated 
+and number of patients receiving our medicines through access and affordability programs, with our industry peer-ranking on the Access to Medicine Index, or ATMI. 
+What is your strategy for advancing this Bold Move?
+Bold Move 3 is about reimagining the delivery of medicine and seeking new ways to bring treatments to patients who need them the most, as quickly as possible. Specifically, we are leveraging our strengths in market access, health economics and patient experience to “go beyond the pill,” exploring new partnerships, including value-based agreements and shared-value contracting, with integrated delivery networks. 
+What would you consider your biggest advance for patients against 
+these KPIs this year? How do you plan to continue progress in 2021 and beyond?We are proud of our upward movement on the ATMI this year and will continue this momentum in coming years by partnering with leaders across the health care ecosystem to design and deliver solutions to help increase access and affordability. Another key goal is to reduce the number of patients who cannot afford our medicines by 50% by 2023. 
+ 
+2020 has shown that we are capable  
+of great agility and change, in the face  of which nothing is impossible! And while we can’t anticipate what comes next, maintaining a strong pace of innovation will always give us a head start in addressing the health challenges  of the future.What does this Bold Move mean to Pfizer? To you personally?
+Pfizer’s medicines and vaccines are created to help address the most challenging diseases, in areas of high unmet need. But if patients can't access these medicines and vaccines, then our cutting-edge science doesn’t matter. I believe everyone deserves access to health care innovation, particularly as we enter an era of breakthrough science. And to achieve more equitable access, we must be willing to change the standard go-to-market model and hold ourselves accountable for the results. 
+How does this Bold Move link to Pfizer's ESG goals?
+Bold Move 3 focuses on creating new solutions to access medications, allowing us not only to reach more patients, but  to address their affordability challenges and improve their  health care experience. This is highly complementary to our ESG goals, because while Bold Move 3 pushes the frontier on how many patients overall can access our medicines, ESG zeroes in on monitoring our socioeconomic reach by understanding who and where we reach people through our assistance programs. To create this holistic view of our socioeconomic impact, we Angela Hwang Group President, Pfizer Biopharmaceuticals Group
+Q&A with Angela HwangMeasuring 2020 Progress
+1. Please see perfor mance KPIs for additional details, page 31.
+2.
+ Please see perfor
+mance KPIs for additional details, page 31.
+3. Access to Medicine Index (A TMI) Ranking 
+4.
+ Antimicrobial Resistance Benchmar
+k420 +m
+patients treated
+58+m
+patients reached2
+via Access and Affordability 
+Programs
+Access to Medicine Foundation Rankings
+2nd
+in Antimicrobial Resistance  (AMR) Benchmark position
+44th
+in 2021 Access to Medicine Index (ATMI) ranking
+3
+12 En vironmental, Social & Governance Report 2020
+Introduction Bold Moves Environment Social Governance Performance AppendixWIN THE DIGITAL  
+RACE IN PHARMA
+Lidia Fonseca
+Chief Digital and Technology Officer,  Executive Vice President
+Pfizer is continually exploring ways that 
+digital, data and technology can accelerate our business and deliver breakthrough medicines to patients as safely and  quickly as possible. Digital is impacting every aspect of our business -- how we 
+discover and develop medicines, improve customer experiences, aim to enhance health outcomes, and make our work faster and easier to deliver breakthroughs as quickly as we can. This year’s highlights include:
+ О Pfizer Digital CompanionTM tools to empower and engage 
+patients and physicians. Pfizer launched our first artificial intelligence (AI)-powered educational tool to help health care providers test hypothetical patient scenarios to understand clinical red flags and risk factors for wild-type ATTR-CM, a rare, serious and underdiagnosed form of heart disease. Pfizer’s Living With
+TM tool is helping patients and their loved ones 
+navigate their cancer journey and access support.
+ О Empowering our manufacturing colleagues. Pfizer’s Digital Operations Center, a first-in-industry capability, acts as a cockpit for operations and has changed how manufacturing collaborates and accesses data to predict issues and make decisions in real time, saving thousands of hours and allowing Pfizer to get medicines and vaccines to patients faster.
+ О Process automation makes our work faster and easier. Pfizer set an ambitious goal to automate 75% of 100 million transactional processes across the company by 2021, and we are on target to deliver. By focusing automation efforts on labor-intensive, high-value areas, we are improving quality by eliminating error in manual-intensive tasks while driving agile ways of working and reducing costs. 
+Pfizer’s dedication to digital drives long-term value creation for  the company as well as stakeholders. For example, this year,  we enabled virtual clinical trial capabilities to expand study participant access while also accelerating virtual engagement with customers and leveraging our AI-powered Digital Rep Advisor, which provides decision support to help make our physician interactions more impactful.
+One important measure is the number of key projects driving large-scale digital solutions in research and development, manufacturing and patient and health care provider engagement. Innovative and novel digital solutions help us enhance our patient experience, make our work faster and easier, and drive our purpose of Breakthroughs that change patients’ lives.
+When COVID-19 threatened to disrupt our approach to testing 
+potential new drugs and devices in our clinical trials, we responded by ramping up innovation and harnessing digital tools to rapidly adapt to this new reality while continuing to deliver on our promise to patients around the world. By digitally enabling our clinical trials, we anticipate we will improve access for all participants and increase diversity and inclusion with a broader representative patient population. Pfizer is harnessing the power 
+of digital across all aspects of our business and customer engagement, leading the industry in adopting novel data, technology and digital solutions into 2021 and beyond.Measuring 2020 Progress
+Digital Solutions
+28 projects 
+driving large-scale digital 
+solutions across R&D, manufacturing and health care provider and patient engagement
+Automation Goals
+75%
+of 100 million transactional processes to be automated  by 2021
+13 En vironmental, Social & Governance Report 2020
+Introduction Bold Moves Environment Social Governance Performance AppendixLEAD THE CONVERSATION
+How is this Bold Move driving long-term value creation 
+for Pfizer and its stakeholders? The public increasingly wants to understand where companies stand on issues of the day. At Pfizer, we seek to be candid about our values and communicate how they translate into action.  We know that our stakeholders – including patients, health care professionals, advocacy groups, industry partners, policymakers and more – recognize when our decisions are driven by science on behalf of patients. This has never been more apparent than in the positive response we received to our fight against COVID-19. 
+How does this Bold Move link to Pfizer's ESG goals?
+As we witness governments and key institutions struggle with the enormity of the challenges of today, businesses are called upon to address complex societal and environmental challenges. As we face uncertainty in the public sphere, Pfizer continues to be motivated by our purpose and values. This means pursuing policies with governments that focus on science and share our pro-patient and pro-innovation values and looking for new opportunities to advance scientific breakthroughs. 
+What’s more, we want to be the most patient-centric company.  
+Our goal is to be ranked #1 on the Global PatientView Survey by 2023 – a bold endeavor that represents our patients-first focus.
+What is your strategy for advancing this Bold Move? 
+Our strategy is rooted in prioritizing collaboration and inclusivity while sharing best practices across the company. We recruited experienced leaders to build a framework and align colleagues around our goals of being a patient-centric company and driving pro-innovation policies at local and global levels. 
+What would you consider your biggest advance against this  
+Bold Move this year?In 2019, we set an extraordinary goal to increase the positive media impressions of our scientific contributions a hundredfold by 2023. In November 2020, and in large part because of Pfizer’s response to COVID-19, we achieved that goal three years early. We’ve gone beyond conventional tactics and industry standards to test and implement new communications tools that more creatively and robustly explain our scientific contributions. 
+What does this Bold Move mean to Pfizer? 2020 was a crucial year for communicating with our colleagues, stakeholders and the public at large. There was a great thirst for health information. The pandemic underscored the urgency of compelling communications that are collaborative, transparent  and inclusive.
+Our proactive communications strategy created an opportunity 
+to educate and connect. We earned a front-row seat in public policy forums and were constructive in our work with government agencies positively impacting our ability to operate and deliver value for patients. 
+CEO Albert Bourla’s leadership and our company’s multipronged 
+response to COVID-19 not only generated enormous pride among colleagues, but also allowed us to reach the public with important information about our role in driving innovation. We’ve also deepened our engagement in public debate around health care's most important issues. Sally SusmanChief Corporate Affairs Officer, Executive Vice President
+Q&A with Sally SusmanMeasuring 2020 Progress
+1. Includes Upjohn; PatientView Global Survey Ranking, April 2020
+The pandemic underscored 
+the urgency of compelling communications that are collaborative, transparent  and inclusive.#4
+Pfizer ranking1
+out of 48 companies 
+evaluated for the  PatientView Global Survey
+Positive media impressions  
+of our scientific contributions
+2019 2020Achieved 2023 
+goal in 20202023 TARGET
+14 En vironmental, Social & Governance Report 2020
+Introduction Bold Moves Environment Social Governance Performance AppendixENVIRONMENT
+Highlights in 2020
+33% 
+reduction in direct  
+GHG emissions  (Scope 1 and 2) vs.  2012 baseline
+3rd
+consecutive year on CDP's Supplier Engagement Leaderboard
+15% 
+reduction in waste disposed vs. 2012 baseline
+19% 
+reduction in water withdrawal vs. 2012 baseline
+Greenhouse gas, water and 
+waste-related metrics in this 2020 ESG report include Upjohn data.Environment
+Pfizer recognizes the profound societal and public health impacts 
+that are expected to result from environmental issues. Our company purpose – 
+Breakthroughs that change patients’ lives  – guides our 
+environmental sustainability priorities, with a focus on climate impact mitigation, conservation of resources and the reduction of waste arising from our operations.
+How our approach to environmental sustainability 
+supports the SDGs
+Industry, Innovation and Infrastructure: We promote resilient and 
+sustainable infrastructure, scientific research and innovation.
+Responsible Consumption and Production: We aim to achieve environmentally sound life cycle management and adopt sustainable practices.
+Climate Action: Through our goals we are taking urgent action to combat climate change and its impacts.
+ More information on the SDGs can be found on their website
+Priority issues covered in this section
+16 Climate change
+17
+ Sustainable medicines
+ W ater scarcity and discharge
+ W
+aste management
+ Product end-of-life
+ Supply chain transparency
+ En
+vironment and health
+15 En vironmental, Social & Governance Report 2020
+Social Governance Bold Moves Introduction Performance AppendixENVIRONMENT OVERVIEW
+ Climate change
+Rising global temperatures are associated with adverse health 
+outcomes, including increases in water-borne diseases due to severe flooding, the prevalence of vector-borne diseases like Lyme disease and malaria, and cardiovascular conditions exacerbated by heatstroke. Climate change also has the potential to disrupt supply chains through severe weather events and rising sea levels. As a company committed to applying science to confront the world’s greatest challenges, reducing the impact of Pfizer’s operations and value chain on climate through greenhouse gas (GHG) emission reductions is a strategic priority. In addition to mitigation, prioritizing adaptation to the potential impacts of climate change is a focus area to increase supply chain resiliency.
+Achieving our 2020 climate goals
+We have demonstrated our commitment to climate action through our history of GHG emission reductions, with our first formal GHG goal set in 2001. Through successive goal periods, we have reduced our GHG emissions by more than 60%. Additionally, expectations were established with key suppliers in 2015, driving them to establish GHG reduction goals. 
+Overall: 
+ ОWe exceeded our third-generation GHG goal, delivering a 33% 
+reduction in emissions by the end of 2020 from a 2012 baseline.1 
+ ОMore than 75% of our key suppliers2 are progressing GHG 
+reduction goals. Our efforts to drive climate action within our supply chain were recognized through Pfizer’s placement on CDP's 2020 Supplier Engagement Leaderboard in 2018, 2019 and 2020,  
+and within CDP's Stories of Change as one of 11 companies  
+with leading practices in environmental impact reduction. 
+Launching our 2030 climate ambitionsAs one of the first companies to receive validation of our GHG reduction goal by the Science Based Target Initiative in 2015, Pfizer remains committed to ambitious long-term actions. We are therefore advancing our Science Based Target Initiative (SBTi) approved fourth-generation GHG reduction goals aligned with a 1.5°C pathway: 
+ ОBy 2030, we aim to become carbon neutral across our internal operations, delivering a 46% absolute reduction in direct emissions from a 2019 baseline, including purchasing 100% renewable energy. Any remaining emissions will be offset through carbon credits.Our progress
+33 % 
+reduction in Scope 1 + 2 GHG 
+emissions (2012 – 2020)75 %
+of our key suppliers are progressing GHG reduction goals
+Future ambitions
+ ОCarbon neutral: We aim to be carbon neutral across our internal operations by 2030. This includes reduction of Scope 1 and 2 emissions by 46% from a 2019 baseline.
+ ОRenewable energy: We aim to purchase 100% renewable energy by 2030.Direct Greenhouse Gas Emission Reduction Journey
+Pfizer has delivered significant reductions in greenhouse gas (GHG) emissions through sustained commitment. Our next generation goal increases our level of ambition to align with contemporary science. 
+ ОRecognizing that indirect emissions account for approximately 80% of our carbon footprint, we aim to use our influence to catalyze similar reductions across our value chain. We are implementing a multipronged approach, including embedding environmental sustainability criteria in our vendor selection processes, strengthening expectations within contracts  and engaging with key suppliers of goods and services to  drive the adoption of science-based GHG reduction goals.
+ ОWe also aim to reduce emissions related to upstream  logistics by 10% and business travel by 25% by 2025 from  a 2019 baseline.
+1.  Includes Upjohn data. Goal exceedance due to a range of factor s including 
+reductions in fleet and office activities in 2020 due to COVID-19.
+2.
+  Includes Upjohn data. K
+ey suppliers include 111 major contributors to our external 
+environmental footprint, including suppliers of pharmaceutical ingredients, drug 
+products, raw materials, product packaging services, key research and development collaborators, and freight forwarders. Key suppliers represent a portion of Pfizer’s overall supply chain for goods and services.0500,000
+2000 2005 2010 2015 20201,000,0001,500,0002,000,0002,500,0003,000,0003,500,0004,000,000
+Actual performanceScope 1+2 GHG Emissions in Metric Tons CO 2eq
+GHG Emissions (Scope 1 & 2)
+60% reduction from 2000 baseline1st Public GHG Goal
+Achieved in 2007.  
+20% reduction from 2000 baseline 2nd Public GHG Goal
+Achieved in 2011 (a year ahead of commitment). 28% reduction from 2007 baseline3rd Public GHG Goal
+Achieved in 2020. 33% reduction from 2012 baseline
+16 En vironmental, Social & Governance Report 2020
+Bold Moves Environment Introduction Social Governance Performance AppendixENVIRONMENT CONTINUED
+Proactive external engagement
+We appreciate that voluntary measures often offer the greatest opportunity for companies to design innovative solutions that work best for their particular situation, product range and investment timelines. Tackling climate change, however, will require action from all parties across all sectors, and Pfizer supports efforts to encourage and advance such action. To learn more, see Pfizer’s Climate Change Position Statement.
+Understanding how climate change could impact our business
+We are committed to transparency in evaluating the risks and opportunities that climate change may present to our business. To meet this commitment, we incorporate the Task Force on Climate-Related Financial Disclosures (TCFD) framework into our enterprise risk management governance process and voluntary report aligned with TCFD recommendations.
+ 
+As a company committed to applying 
+science to confront the world’s greatest challenges, reducing the impact of Pfizer’soperations and value chain on climate through greenhouse gas (GHG) emission reductions is a strategic priority. Our Sustainability Bond
+In March 2020, Pfizer launched a $1.25 billion “Sustainability 
+Bond”, the first to be issued by a biopharmaceutical company. Proceeds from the bond will help manage our social impact (see page 21), by supporting increased patient access to Pfizer’s medicines and vaccines, especially among underserved populations, and strengthen health care systems. 
+Interest on the notes will accrue at the annual rate of 2.625% 
+and the 10-year bond will mature on April 1, 2030. Sustainalytics, a leading global provider of environmental, social and corporate governance research and ratings, issued an opinion in March 2020 that the Pfizer Sustainability Bond Framework was credible, impactful and aligned with the four core components of the Green Bond Principles 2018 (GBP 2018) and Social Bond Principles 2018 (SBP 2018). 
+Pfizer’s Sustainability Bond framework of eligible investments 
+is aligned with the International Capital Market Association Sustainability Bond Guidelines 2018. As of December 31, 2020, $43 million in net proceeds from our Sustainability Bond issuance have been allocated to environmental projects supporting green design and construction of new office and manufacturing facilities.
+1 
+ Please see the Social section for further information about funding  
+use to increase access to Pfizer medicines.  
+$1.25 bn
+bond launched in 2020 $43 m1
+net proceeds allocated  
+to environmental projects  (as at December 31, 2020) Sustainable medicines
+Pfizer seeks to leverage our strengths in scientific innovation to 
+reduce the environmental impact of our medicines throughout the product life cycle. Unleashing the power of our scientific core on the environmental sustainability challenge has enabled the development of effective decision-making tools and selective investment in contemporary manufacturing technologies, increasing efficiency and reducing time to market.
+Achieving our 2020 goals
+Pfizer established commitments in 2012 to reduce water withdrawal and waste disposed of by our operations. 
+ ОWe exceeded our 2020 water withdrawal goal, delivering a 19% reduction from a 2012 baseline, and achieved a Leadership rating (A-) for our 2020 CDP Water Security disclosure.
+2
+ ОWe delivered our 2020 waste disposal goal, achieving a 15%2 
+reduction from a 2012 baseline.
+2. These figures include Upjohn data.
+ Additionally, we implemented a multistep process to assess and mitigate water-related risks within our direct operations and supply chain. We also continued to pursue opportunities to reduce waste generated by our operations despite increases in production and the acquisition of Hospira midway through the goal period. 
+As we enter a new environmental goal period, we are pursuing 
+ways to progressively apply scientific innovation and operational efficiency to reduce the environmental impact of our medicines throughout the product life cycle. In this next phase of our sustainability journey, we aim to develop sustainable medicines criteria to help demonstrate the social and environmental value of our products. Our intent is to demonstrate a reduction in our environmental footprint, addressing areas such as GHG emissions, water, waste management and circular economy, substances of environmental concern, and allow for targeted goals to facilitate improvement, transparency and accountability. 
+1.  Please see Pfizer’ s Management Assertion on page 49 and KPMG’s  
+Independent Accountant’s Report on page 50.
+17 En vironmental, Social & Governance Report 2020
+Bold Moves Environment Introduction Social Governance Performance AppendixENVIRONMENT CONTINUED
+Clean water 
+The availability of clean water is a basic human need requiring management at the local watershed level. We remain committed to conserving resources and reducing water withdrawal, particularly in water-stressed areas. We have evaluated our practices and are focused on being effective stewards by implementing water stewardship plans and responsibly managing water discharges from manufacturing processes. 
+Pharmaceuticals in the environment and antimicrobial resistance
+Pharmaceuticals in the environment is the signature environmental issue for our industry. Recognizing the threat to human health from antimicrobial resistance (AMR), we remain committed to the AMR Industry Alliance (AMRIA) roadmap demonstrating the responsible manufacturing of our products and to providing greater transparency to our actions. Our progress in driving a responsible manufacturing strategy, including risk assessments against science-based discharge targets, was positively recognized through the 2020 Access to Medicine AMR Benchmark. We remain committed to our goal of meeting industry targets no later than 2025. Application of Green Chemistry to Reduce  Environmental Impact
+Through our Green Chemistry program, which is grounded in Paul 
+Anastas and John Warner’s 12 Principles of Green Chemistry, we are dedicated to promoting the selection and use of environmentally preferable materials, eliminating waste and conserving energy. One such example is the application of Green Chemistry principles to abrocitinib, a late-stage development candidate for the treatment of moderate and severe atopic dermatitis.
+A life cycle assessment comparison of the early abrocitinib 
+synthetic route to the current innovative enzymatic process
+1 
+demonstrates significant environmental impact reduction. The enzymatic process reduces process mass intensity by 68% in addition to a 60% reduction of CO
+2 emissions (kg CO 2e/kgA). 
+The enzymatic process also eliminated the use of two inherently hazardous substances and replaced halogenated solvents with lower-impact alternatives, reducing solvent and aqueous waste.
+1.  Connor , C. G.; DeForest, J. C.; Dietrich, P .; Do, N. M.; Doyle, K. M.; Eisenbeis, S.; 
+Greenberg, E.; Griffin, S. H.; Jones, B. P .; Jones, K. N.; Karmilowicz, M.; Kumar, R.; 
+Lewis, C. A.; McInturff, E. L.; McWilliams, J. C.; Mehta, R.; Nguyen, B. D.; Rane, A. M.; Samas, B.; Sitter, B. J.; Ward, H. W.; Webster, M. E., Development of a Nitrene-Type Rearrangement for the Commercial Route of the JAK1 Inhibitor Abrocitinib. Organic Process Research and Development 2020. 10.1021/acs.oprd.0c00366.As a next step, and aligned with our commitment to transparency, 
+Pfizer is leading the development of a consensus-based standard with the sponsorship of AMRIA. The development process includes input from many interested stakeholders, including governments, academia, private companies and non-governmental organizations. The standard will be the forerunner of a certification scheme to demonstrate responsible manufacturing of antibiotics. We intend to certify our antibiotics to this standard.
+Supply chain transparency
+Pfizer contributes to industry efforts to improve environment, health and safety (EHS) performance in supply chain  management, including: 
+ О  Verifying through audits that our suppliers operate in compliance with laws and in alignment with Pfizer’s Supplier Conduct Principles and the Pharmaceutical Supply Chain Initiative (PSCI) Principles for Responsible Supply  Chain Management.
+ О  Coaching to increase capability, drive impact reduction and sustain EHS improvement.
+Environment and healthAs a biopharmaceutical company, Pfizer is uniquely positioned to help address the global health challenges resulting from climate change. We evaluate our current product portfolio against diseases that are exacerbated by climate change to identify medicines and vaccines potentially responsive to this global health challenge, such as treatments for various vector and waterborne diseases. 
+We are proud to be recognized as  
+one of the leading pharmaceutical companies in the infectious disease market by the Access to Medicine Foundation’s 2020 Antimicrobial Resistance Benchmark Report, ranking #2 overall among large research-based pharmaceutical companies and ranked #1 in the Stewardship category. 
+Angela Lukin 
+Global President – HospitalScience Based Targets Initiative (SBTi) Classification
+The Science Based Targets Initiative (SBTi) has commended 
+Pfizer's 2030 Scope 1 and 2 GHG emission goal as an ambitious 1.5°C-aligned target, currently the most ambitious designation available through the SBTi process.
+18 En vironmental, Social & Governance Report 2020
+Bold Moves Environment Introduction Social Governance Performance AppendixSOCIAL
+Highlights in 2020
+1st  
+COVID-19  vaccine
+granted Emergency  
+Use Authorization (EUA)  in the U.S.
+1
+58+m 
+patients reached through access and affordability programs
+4th
+ranking in Access to Medicine Index (ATMI)
+38%
+female representation of VP+ globallySocial
+As the COVID-19 pandemic magnifies disparities for underserved communities, 
+Pfizer is working to address the complex issues we face as a global society and create a healthier, more equitable world for all. Through our partnerships and programs, we are seeking to expand affordable access to our breakthrough medicines and vaccines, particularly among underserved communities. As  we look to protect all people from the burden of infectious and other diseases, we are also focused on creating opportunities to advance diversity, equity,  and inclusion across our workforce and those with whom we do business.
+How our approach to social issues supports the SDGs
+Good Health and Well-Being: We aspire to ensure health and well-
+being for all at all ages through equitable access to medicines and vaccines.
+Gender Equality: We aim to end discrimination against women, ensure equal opportunities for leadership and access to reproductive health.
+Decent Work and Economic Growth: We promote inclusive and sustainable economic growth, employment, and decent and safe working environments.
+Reduced Inequalities: We empower and promote the social and economic inclusion of all, irrespective of age, sex, disability, race, ethnicity, origin, religion or economic or other status.
+Partnerships for the Goals: We are working to create new partnerships to help attain relevant sustainable development goals.
+ More information on the SDGs can be found on their website
+Priority issues covered in this section
+20 Inno vation and global health
+ Product inno vation
+ Equitable access and pricing
+ Health care infrastr
+ucture
+ P
+atient-centric design
+22 Human capital
+ Colleague diver sity, equity and inclusion 
+ Health,
+ safety, well-being1.  The Pfizer-BioNT ech COVID-19 vaccine has not been approved or licensed by the U.S. Food and Drug Administration (FDA), but has been authorized for emergency use by FDA 
+under an Emergency Use Authorization (EUA) to prevent Coronavirus Disease 2019 (COVID-19) for use in individuals 16 years of age and older. The emergency use of this product is only authorized for the duration of the declaration that circumstances exist justifying the authorization of emergency use of the medical product under Section 564(b)(1) of the FD&C Act unless the declaration is terminated or authorization revoked sooner. Please see EUA Fact Sheet at www.cvdvaccine.com
+19 En vironmental, Social & Governance Report 2020
+Governance Environment Bold Moves Introduction Performance AppendixSOCIAL OVERVIEW
+ Inno vation and global health
+In a year of unprecedented challenges due to the COVID-19 
+pandemic and the significant disparities that still exist for underserved communities, Pfizer, now more than ever, is creating a positive impact on the world. We take this responsibility seriously. Our colleagues are working tirelessly every day, alongside our partners, to help address the complex issues we face as a global society and create a healthier, more equitable world for all.
+While the COVID-19 pandemic has magnified the disproportionate 
+burden of infectious diseases on vulnerable communities, the inequity of infectious disease prevention, diagnosis, treatment and care is unfortunately nothing new. That’s why, in 2020, we increased our focus on our Infectious Disease (I.D.) Impact Initiative. Established in 2018, the I.D. Impact Initiative is Pfizer’s long-term global health commitment to redefine the way we fight infectious disease and help protect underserved people in the U.S. and around the world from these deadly threats. Building on a  
+170-year legacy in infectious disease, we are partnering to  
+create meaningful and sustainable solutions that address  
+today’s and tomorrow’s biggest challenges. Product innovationTrue to Pfizer’s Purpose, our priority is bringing to market innovations that positively impact patients. As the global COVID-19 pandemic  
+grew, we began collaborating with BioNTech SE on a COVID-19 vaccine. We have already invested about $2 billion at risk and are prepared to continue bearing the costs of development and manufacturing, in an effort to help find a solution to this pandemic. Pfizer’s at-risk investment allowed for the initiation of rapid distribution of vaccines by governments as soon as we received emergency or conditional use authorizations in countries around the world. The dedicated focus and efficiency with which the vaccine was developed, manufactured and distributed – always with patient safety and quality at the forefront – demonstrates how our transformation to a more focused, innovative science-based organization has positioned Pfizer for long-term, sustainable growth potential. 
+However, our commitment to product innovation in infectious 
+disease goes well beyond our work to try to address COVID-19 disease. For example, this year, we committed $100 million  ($20 million per year for five years) to the AMR Action Fund –  an industry-led, groundbreaking initiative to help reinvigorate  the pipeline of antibiotics that the world desperately needs due  to the rapid rise of antibiotic-resistant infections. 
+$100 m
+committed to the AMR Action Fund
+Pfizer is also a leading developer of other vaccines that help prevent infectious diseases. In 2020, Pfizer initiated Phase 3 trials for three vaccine candidates:
+1)
+  The 20-valent pneumococcal polysaccharide conjugate vaccine 
+candidate,
+ 20vPnC, in infants starting at 2 months of age.
+2)
+  The respirator
+y syncytial virus (RSV) vaccine candidate, 
+RSVpreF, in pregnant women to evaluate the safety and  efficacy in infants born to immunized pregnant women.
+3)
+  The penta
+valent meningococcal vaccine candidate, MenABCWY , 
+in adolescents and young adults.Equitable access and pricingWe know that access is complex. Through our partnerships, programs and innovative strategies, we are working to expand access, including for the world’s most vulnerable people. We employ access and affordability strategies to reach additional patients through equitable pricing as well as unique commercial and noncommercial strategies, including donations. We advance novel payment and financing mechanisms and ways to partner  with governments and other relevant stakeholders to broaden access for patients and help improve patient outcomes.
+Pfizer’s ranking in the 2021 Access to Medicine Index significantly 
+improved to fourth place, up from 11th place in 2018. The improvement was due to strong performance in access strategies and capacity building as well as access planning during R&D. 
+We are committed to creating sustainable business models to 
+broaden access. Many of our approaches focus on patients with the greatest coverage gaps and patient out-of-pocket exposure. We seek to apply programs across the patient journey and to the entire product portfolio, to all therapeutic areas and both launch phase and in-line assets. We are pursuing disruptive solutions in terms of differential pricing, cash flow solutions, business model transformation and transaction cost reduction. 
+For example, we were able to reach nearly 700,000 patients 
+outside the U.S. through patient assistance programs in 2020.
+1 
+Additionally, we aim to follow a tiered pricing strategy for both our in-line and pipeline vaccine products (once regulatory approvals are achieved). As part of that strategy, we work with partners like Gavi, the Vaccine Alliance, through which we committed to supply up to 930 million doses of pneumococcal conjugate vaccine by 2027 to infants and young children around the world.
+1.  The ex-U.S. P atient Assistance Program Patient Reach metric is calculated from 
+Pfizer and third-party datasets. Datasets consist of either direct patient numbers 
+or are based on calculations of the number of doses needed for treatment or to complete a full schedule. Despite contractual data standards and consistent reporting schedules, datasets may be subject to uncertainty due to the non-financial nature of the metric and may not detect errors or other irregularities.Contributing to SDG 3
+Our goal is to combat infectious diseases by supporting new 
+approaches that create greater health equity for underserved communities. To help create a world safer from infection, Pfizer colleagues around the world are working together to make progress across five key impact areas, which are related to our ongoing efforts to help achieve the global health targets included in the UN Sustainable Development Goal #3: Good Health and Well-being: 1)
+ Reducing childhood mor
+tality (SDG 3.2)
+2)
+  Addressing antimicrobial resistance (AMR) (SDG 3.D)
+3)
+  Ridding society of neglected tropical diseases (SDG 3.3)
+4
+) 
+ Protecting society against ne
+wly emerging infections (SDG 3.D)
+5)
+  Advancing progress tow
+ard universal health coverage by driving 
+equitable access to care and medicines (SDG 3.8)
+The Initiative includes new multiyear, multi-million-dollar investments that build on previous charitable and product donations, programming and collaborations, which are the bedrock of Pfizer’s legacy in infectious disease.
+20 En vironmental, Social & Governance Report 2020
+Environment Social Bold Moves Introduction Governance Performance AppendixIn addition to these access programs, we also have several global 
+product donation initiatives (see, for example, the International Trachoma Initiative case study). In the U.S., Pfizer RxPathways connects patients to assistance options that provide Pfizer medicines across our portfolio for free or at a savings to  eligible insured and uninsured patients. Outside the U.S.,  we maintain active market-based patient assistance programs  for launched medicines. Health care infrastructure Pfizer recognizes the important role of governments, civil  society and the private health sector in facilitating access by establishing and enhancing the local health care infrastructure. Pfizer Inc. and The Pfizer Foundation
+1 also endeavor to play a 
+catalytic role, for example, by donating $40 million (2020-2021)  in medical and charitable cash grants and medicines to more than 165 partners worldwide to support frontline health needs and strengthen the global response to the COVID-19 pandemic. This included funding for 19 charitable grants to help U.S. partners address the significant and disproportionate impact of COVID-19 on underserved communities.
+A portion of the proceeds from Pfizer’s Sustainability Bond was 
+allocated to replenish The Pfizer Foundation endowment, which deployed resources in 2020 to strengthen health systems in low- and middle-income countries to help address infectious disease in these underserved populations. In 2020, The Pfizer Foundation launched a new program in partnership with Direct Relief to support innovative approaches to improve infectious disease care in U.S. safety-net community health care settings serving underserved populations. The Pfizer Foundation also launched  a new grant program to advance health equity and improve health outcomes in African American communities in the U.S., including funding for organizations working to address social determinants of health and strengthen health systems. 
+Patient-centric design 
+Pfizer recognizes there are many ways we can streamline efforts and enhance operational efficiency to ultimately realize a greater global impact on behalf of the patients we serve. In 2020, our Chief Patient Officer introduced a new enterprise-wide patient-centricity framework to empower key stakeholders to collaborate as one team to co-create and implement a comprehensive and impactful approach to patient-centricity. One of the goals of this effort is to develop and implement a health equity roadmap designed to reduce health care disparities and advance our  core value of equity. Through Pfizer’s Multicultural Center of Excellence (MCoE), we  
+are working in partnership with key groups across the U.S. to address health disparities among the historically disregarded populations through grassroots community programming and outreach. Building upon the trust that has been established over six years of partnership, the MCoE conducted educational briefing sessions with these organizations on the COVID-19 vaccine investigational clinical trial, which reflected the diversity of the world we live in and is inclusive of communities that have been disproportionately affected by COVID-19. We took the lead to help co-create and customize these engagements to meet the needs of the organizations and the needs of their constituents. Examples include: 
+ О  Culturally appropriate content translated into multiple languages.
+ О  Regular one-on-one briefings with trial clinicians and  their leadership.
+ О  Educational video series on clinical trials.
+For all organizations, we incorporated their guidance into the development of clinical trial materials and shared information  to raise awareness about trial participation. SOCIAL CONTINUED
+Our Sustainability Bond2
+In March 2020, Pfizer launched a $1.25 billion “Sustainability 
+Bond”, the first to be issued by a biopharmaceutical company.  For more details on our Sustainability Bond, please see page 17.
+As of December 31, 2020, approximately $253 million of net proceeds 
+from our Sustainability Bond issuance have been allocated to enhance Pfizer’s ability to reach more women in low-income countries with reproductive health products, address antimicrobial resistance through innovative financing mechanisms for new R&D, and strengthen health care infrastructure in underserved populations through charitable grants provided by The Pfizer Foundation. 
+$1.25 bn
+Sustainability Bond launched in 2020 $253 m
+net proceeds allocated to social projects (as of December 31, 2020)
+2.  Please see Pfizer’ s Management Assertion on page 49 and KPMG’s 
+Independent Accountant’s Report on page 50.International Trachoma Initiative (ITI) 
+In 1998, Pfizer and the Edna McConnell Clark Foundation co-established the ITI, a nonprofit dedicated to eliminating trachoma, the leading infectious cause of blindness worldwide. The ITI manages Pfizer’s donated antibiotic and collaborates with governments and partners to implement the World Health Organization’s (WHO) recommended strategy for trachoma control.
+Our impact
+ О Since 1998,  more than 925 million doses of Zithromax®  have 
+been donated to ITI, and more than 184 million people in 40 countries were treated.
+ О A 91% decrease in the number of people at risk for blindness from trachoma betw
+een 2002 and 2020. 
+ О Thanks to global par
+tners’ efforts, Cambodia, China, Iran, 
+Ghana, Laos, Mexico, Morocco, Myanmar, Oman and Nepal have eliminated trachoma as a public health problem with four other counties reporting elimination to the WHO.
+ To learn more visit their website 
+* As of September 2020.
+ Read more about how Pfizer is advancing health equity and social justice 
+through community investments.
+1.
+  The Pfizer F
+oundation is a charitable organization established by Pfizer Inc.  
+It is a separate legal entity from Pfizer Inc. with distinct legal restrictions.
+21 En vironmental, Social & Governance Report 2020
+Environment Social Bold Moves Introduction Governance Performance AppendixAt Pfizer, we celebrate our differences and take action to create 
+opportunities and advance diversity across our workforce and  our business. Our new and expanded commitments to equity  
+include specific actions to help foster a more inclusive environment within our company.
+Colleague resource groups
+In 2020, we provided managers with new resources and guides to support colleagues having courageous conversations on race, equity and bias. Our more than 100 global Colleague Resource Groups (CRGs) offer support, developmental opportunities, mentoring and networking opportunities to help their members enhance their skills and advance their careers. With this year’s global pandemic and social justice movements, our CRGs hosted virtual events with external experts and internal leaders to discuss equity, systemic racism, allyship, clinical trial diversity and COVID-19’s impact on Black and Latino communities. We also held a Global Conversation on Race for our annual Diversity and Inclusion Summit and, for the first time ever, are continuing the conversation on race with regional discussions around the world. 
+Partnerships
+We hire, grow and empower diverse talent by partnering with external organizations that provide rich engagement opportunities with people of diverse backgrounds and experiences. In 2020, we launched Men As Allies, engaging leaders as allies for women and Women Inspiring  
+Women (WIW), a development program designed to accelerate the careers of its members and create a community of women leaders who thrive together and commit to advocating for other women, both inside and outside our company. We expanded our relationships with many of our partners dedicated to underrepresented talent, including a three-year agreement with Inroads, and new partnerships with the National Society of Black Engineers, Society of Women Engineers, Society of Hispanic Professional Engineers and the National Sales Network. We received a 100% score on the Disability Equality Index  
+and the Human Rights Campaign Corporate Equality Index, we became  
+a signatory of the Catalyst CEO Champions for Change initiative, The  
+Hispanic Promise and the National Association of Manufacturers  
+Pledge to close the opportunity gap among women and underrepresented ethnic groups, and during a time when many companies canceled their summer internship programs due to the pandemic, we transformed our program into a virtual experience with 67% of participants in the U.S. from underrepresented communities. We maintain a robust Supplier Diversity Program so that underrepresented or disadvantaged businesses have an equal opportunity to compete for our business. 
+~100  
+global Colleague 
+Resource Groups100 %
+score on the Disability  Equality Index 100 %
+score on the  Human Rights Campaign Corporate Equality Index
+Pay equity
+For the second year in a row, Pfizer announced, both internally and externally, the findings of a recognized compensation expert which confirmed equitable pay practices at Pfizer for employees based on role, education, experience, performance and location. In terms of both base pay and total compensation, Pfizer pays our female colleagues globally at greater than 99% (99.3%) of what we pay male colleagues. When looking at minority versus non-minority pay in the U.S., minorities are at almost dollar-for-dollar parity (99.8%) with the pay of non-minorities. The study covered 69,000 colleagues globally, approximately 85% of the global workforce. 
+For the first time this year, Pfizer also released median pay 
+gaps, which measure differences in pay without accounting for factors such as role, location, education and experience. The study demonstrated that Pfizer’s median pay for women globally SOCIAL CONTINUED
+ Human capital
+Colleague diversity, equity and inclusionThroughout the year, our colleagues demonstrated unwavering resilience, driven by our purpose, with heightened internal support for their physical and mental well-being. Colleagues also found the courage to do more – to make bolder commitments to addressing the persistent gaps in equity. We realize that delivering on our purpose means not just attracting the best and brightest talent but also ensuring our colleagues can thrive in an environment and culture where we champion diversity and inclusion. We believe everyone deserves to be seen, heard and cared for and aim to ensure that our workforce and business model reflect the diversity of the patients we serve by employing a diverse array of colleagues, engaging diverse suppliers, and including diverse individuals in our research and clinical studies.
+Our 2025 opportunity parity goals:
+ ОBy 2025, we aim to achieve global workforce parity of 47% for 
+women at the VP level and above.
+ ОBy 2025, we aim to achieve parity at the VP+ level for U.S. minorities by increasing our minority representation from 19% to 32% and doubling the underrepresented population of African Americans/Blacks and Hispanics/Latinos.
+1
+5.1 % 
+VP+ women 2.5 % 
+VP+ U.S. Minority
+2020 progress:At the end of 2019, we reported that our representation for women at the VP level and above was 33%. By December 2020, we have increased by 5.1 percentage points to 38.1%. 
+At the end of 2019, we reported that our representation for U.S. 
+minorities at the VP level and above was 19%. By December 2020, we have increased by 2.5 percentage points to 21.5%.
+1. Re vised in June 2020. 
+We realize that delivering on our purpose 
+means not just attracting the best and brightest talent but also ensuring our colleagues can thrive in an environment and culture where we champion diversity and inclusion. 
+22 En vironmental, Social & Governance Report 2020
+Environment Social Bold Moves Introduction Governance Performance AppendixSOCIAL CONTINUED
+Our pandemic response
+During 2020, our pandemic preparedness and response was a primary focus. Our comprehensive pandemic response plan incorporates guidance issued by external health authorities and is designed to keep on-site workers at our manufacturing and research sites safe and healthy. A task force of senior leaders oversees implementation of the plan, which has been instrumental in protecting our workforce and helping ensure a continued supply of medicines and vaccines to patients. Key actions included:
+ О  Enabling working from home for those colleagues who can work remotely, allowing site populations to be reduced and facilitate social distancing best practices.
+ О  Daily self-assessments of health status before accessing  a Pfizer site. 
+ О  Providing personal protective equipment, including appropriate facial coverings at all Pfizer sites.
+ О  Increasing sanitation stations (including hand sanitizers) throughout our sites.
+ О  Increasing cleaning frequencies, using U.S. Environmental Protection Agency-registered disinfectants, with an increased focus on all high-traffic and high-touch areas. 
+ О  Immediately activating contact outreach and the targeted disinfection of work areas on notification of a potential COVID-19 case.
+ О  Distributing resources, including regular all-colleague communications, providing status updates and reminders  of COVID-19 preventative actions.Employee assistance program launchIn 2020, Pfizer launched the global employee assistance program (EAP) known as Healthy Pfizer Living. This program provides stress management, mental health, emotional, resiliency and pandemic guidance and support to our colleagues. 59% of global colleagues participated in one of the EAP programs, including more than 20 webinars and specialized communications to colleagues regarding tips and services to manage through challenging times.
+is 99.6% of the median pay of males, and the median pay for minorities in the U.S. is 85.7% of the median pay for non-minorities. Because this median pay gap does not measure  a “like for like” comparison and instead is a measure of representation across an organization, the gaps are expected to narrow as the company makes progress with increasing representation of women and minorities in senior-level roles. 
+Our commitment to pay equity for all colleagues is based in our 
+value of Equity and our intention to continue to build a diverse and inclusive workforce where all colleagues are seen, heard and cared for. The company intends to continue to measure pay equity on an annual basis and to publicly release results.
+Scientific colleague development
+We are committed to the growth and development of our scientific talent. The Broadening Horizons program is a professional development, learning opportunity designed to give participants exposure to different scientific functions across Worldwide Research, Development and Medical (WRDM). Objectives include increased scientific and business acumen through broad exposure to WRDM:
+ О  Build and expand networks to promote cross-line knowledge-sharing and professional development.
+ О  Energize and engage critical WRDM talent in the broader objectives of the organization.
+ О  Provide insights into potential internal alternate career paths.
+ О  Provide WRDM line leadership with exposure to top talent throughout the organization.
+Health, safety and well-beingScientific breakthroughs are delivered through the relentless collaboration of our talented workforce. Therefore, ensuring engagement and productivity has never been more critical to our purpose; health, safety and the well-being of our workforce are key areas of focus. We continue to advance a comprehensive occupational injury and illness prevention program. Our colleague-centered approach focuses on proactive risk assessment to guide the application of protective measures prior to the initiation of work activities. Hazard reporting processes facilitate timely investigation and follow-up, thereby helping ensure learnings are promptly acted upon to keep our colleagues and collaborators healthy and safe so they remain engaged and productive.Pfizer’s total injury rate (TIR)1
+0.27
+in 2020 32 %
+lower than in 2019 (0.39)
+Employee assistance programs
+59 %
+of global employees participated 
+in one of our EAPs in 2020
+1.  Injuries per 100 colleagues. T o facilitate consistent reporting practices, 
+Pfizer applies the U.S. Occupational Safety and Health Administration 
+Recordkeeping Requirements as its global reporting standard. The 2020 TIR includes work related illnesses and injuries reported by Upjohn employees up to Nov. 16, 2020, the date of separation from Pfizer. With Upjohn’s contribution excluded, Pfizer’s 2020 TIR was 0.28.
+23 En vironmental, Social & Governance Report 2020
+Environment Social Bold Moves Introduction Governance Performance AppendixGOVERNANCE  Governance
+As we work to meet patient and societal needs, we are committed to 
+acting ethically, thoughtfully and responsibly and continually prioritizing safety and transparency in all that we do. Our compliance program supports proactive business-led quality and compliance governance built around elements of effective risk management. The Board of Directors is critical to our governance by representing shareholders’ interests and seeking to enhance long-term shareholder value. The Board is composed of a majority of independent directors, reflecting diversity with respect to gender, age, race, ethnicity, background, professional experience and perspectives.
+How our approach to governance supports the SDGs
+Good Health & Well-Being: We aspire to ensure health and well-being 
+for all at all ages through equitable access to medicines and vaccines.
+Gender Equality: We aim to end discrimination against women, ensure equal opportunities for leadership and access to reproductive health.
+Peace, Justice and Strong Institutions: We operate to uphold justice, promote the rule of law, and develop ethical, transparent and representative decision-making. 
+ More information on the SDGs can be found on their websiteHighlights in 2020
+TRANSPARENCY
+public disclosure  of COVID-19 vaccine protocol data
+HUMAN RIGHTSupdated Human Rights Policy Statement in August 2020
+7 out of 12
+members of the Board of Directors are diverse based on gender and ethnicity
+ESG
+enhanced Board of Directors' oversight of ESG and established dedicated ESG functionPriority issues covered in this section
+25 Ethics,  Transparency, Quality
+ Ethical decision-making
+ 
+Transparency
+ Quality and safety
+ 
+Counterfeiting
+ Supply chain transparency
+ Intellectual proper
+ty
+ Clinical trials
+ Human rights
+ La
+ws and regulations compliance
+27 Accountability
+ Board diver sity and independence
+24 En vironmental, Social & Governance Report 2020
+Social Environment Bold Moves Introduction Performance AppendixGOVERNANCE OVERVIEW  
+ Ethics,  transparency, quality
+At Pfizer, we have established clear expectations regarding how we 
+achieve our purpose – Breakthroughs that change patients’ lives . 
+We are committed to living our values and to acting with integrity. Our values guide us in making decisions ethically, thoughtfully and responsibly, so that our business can appropriately meet patient and societal needs. Business-led Quality and Compliance Committees across our core functions drive proactive risk management and accountability. Through our strong culture, our leaders set the tone for the company, emphasizing the importance of acting with integrity in all that we do and supporting a strong speak-up culture in which colleagues can raise concerns without fear of retaliation. 
+Ethical decision-making
+Ethical decisions promote trust and accountability for doing the right thing, both internally and externally. Values-based decision-making integrates our values into our business decisions and helps ensure we continue to act ethically and live our values, which define our company and our culture. Our Code of Conduct (The Blue Book) and related policies, procedures and training are designed to support these values, including Excellence, as we perform at our best together; Equity, as we are inclusive and act with integrity; and Courage, because seeking advice, raising concerns and reporting misconduct are critical to our ability to serve patients. Policies governing colleague interactions with health care organizations, physicians, patients and other stakeholders are contained in the White Guide for U.S. headquarters-based colleagues  
+and the Orange Guide for U.S. field-based colleagues. Pfizer also 
+maintains a Global Policy on Interactions with Health care Professionals.
+TransparencyPfizer is committed to the principle of transparency – the disclosure of activities reflecting participation in efforts of public interest. We uphold high ethical, scientific and medical standards in all our research and development activities and are committed to disclosing financial and other interests and relationships that may create apparent or perceived conflicts of interest. 
+These include such areas as funding for educational activities, the 
+status of our U.S. pharmaceutical post-marketing commitments, our pipeline of experimental medicines, the registration and reporting of results of clinical trials, corporate political contributions in the U.S., federal and state lobbying activities and disclosures of medical  
+grants. Pfizer also reports to the Centers for Medicare and Medicaid Services (CMS) payments and other transfers of value made to U.S.-licensed physicians and U.S. teaching hospitals. 
+Our approach to COVID-19 demonstrates our commitment to 
+transparency. We quickly established a dedicated COVID information site on Pfizer.com to directly provide the public with updates. We made the protocol for our COVID-19 vaccine study publicly available 
+on this site to reinforce our longstanding commitment to scientific and regulatory rigor that benefits patients. 
+Quality and safety
+Our patients rely on Pfizer products to improve health and enhance the quality of their lives. To meet this expectation, Pfizer commits to a strong quality culture that helps ensure highest priority is placed on the safety of patients, the safety, efficacy, quality and reliability of our products, and the quality and integrity of our data. Pfizer’s commitment to safety, efficacy and quality includes:
+ О  That our science, research, development, manufacturing and business complies with applicable quality regulations, codes and standards as well as our own rigorous internal standards.
+ О  Having leader accountability for ensuring procedures to adequately define the expectations for work that supports or directly affects product quality, safety and efficacy; product registration; and data that supports product quality and patient safety.
+ О  Ensuring colleagues and contingent workers have appropriate education, training, skills and experience to carry out their work competently, in accordance with applicable regulations and Pfizer policies and procedures.
+ О  Managing records, documentation and data in accordance with applicable regulations and corporate policies. 
+ ОImplementing processes to create consistency in escalating issues, ensuring product quality, data integrity and patient safety.
+ О  Providing effective oversight of third parties carrying out work for Pfizer.
+ О  Monitoring and regularly reviewing our performance to ensure our standards of conduct meet our high expectations of quality for our patients and stakeholders.
+CounterfeitingFor Pfizer, counterfeit medicines are, first and foremost, a matter of patient health and safety. We work with wholesalers, pharmacies, customs offices and law enforcement agencies worldwide to increase inspection coverage, monitor distribution channels, and improve surveillance of distributors and repackagers. 
+Pfizer invests in packaging and information technologies to 
+align with global mandates around serialization. The Unique Product Identifiers developed for serialization, along with the associated data, enable the ability to track and trace product movement through the supply chain, from manufacturing site to patient dispensation (including Government Systems and Trading Partners), and allows authorized trading partners to check the authenticity of our medicines with a simple scan.
+Launched in 2012, our Internet Disruption Program conducts 
+systematic takedowns of illicit internet networks and social media profiles dispensing counterfeit Pfizer medicines.
+We consistently invest in an enterprise-wide strategy to 
+aggressively combat counterfeit threats by educating patients and health care providers about the risks; proactively monitoring and interdicting supply with the help of law enforcement; and advocating to legislators and regulators to enhance public and private sector collaboration. For example, our Counterfeiting awareness webpage aims to raise awareness about the dangers of fake medicines. Pfizer also provides training to health care professionals – such as pharmacists and doctors who interact directly with patients – as well as law enforcement authorities to raise awareness to the counterfeiting problem and advance their ability to distinguish counterfeit from authentic Pfizer medicines.When a counterfeit product is identified in the legitimate supply chain, a formalized process is in place to alert impacted patients, partners, regulatory agencies and law enforcement.
+Supply chain transparency
+Providing a reliable supply of safe and effective medicines requires a foundation of compliance and the effective management of quality and environmental, health and safety (EHS) performance across the supply chain. 
+We are committed to maintaining appropriate quality standards 
+throughout our extensive internal and external supply network. Pfizer has robust governance and processes in place to oversee the overall manufacturing and supply quality and compliance control framework and effectively identify and mitigate potential risks to manufacturing and supply activities. 
+25 En vironmental, Social & Governance Report 2020
+Social Governance Environment Bold Moves Introduction Performance AppendixGOVERNANCE CONTINUED
+Our governance and processes also extend to EHS, where 
+we assess our suppliers’ EHS performance, including labor and ethics, by performing audits and reviewing environmental sustainability data. See our Modern Slavery Statement for  more information.
+Pfizer contributes to pharmaceutical industry efforts to improve 
+performance in supply chain EHS management. We pursue opportunities to help suppliers achieve better performance by:
+ О  Verifying through audits that our suppliers operate in compliance with laws and in alignment with Pfizer’s Supplier Conduct Principles  
+and the Pharmaceutical Supply Chain Initiative (PSCI) Principles for 
+Responsible Supply Chain Management.
+ О  Coaching to help increase capability, drive impact reduction  and sustain EHS improvements.
+Intellectual propertyThe incentives provided by a reliable intellectual property system are fundamental to our ability to invest the resources necessary to deliver breakthroughs that change patients’ lives. Pfizer seeks patents for inventions that we, in good faith, believe meet patentability requirements, and we are committed to continually acting in a responsible, ethical and proportionate way when protecting our inventions and resolving patent disputes. 
+We recognize the unique level of economic development and 
+social challenges of Least Developed Countries and have a policy of patent non-enforcement in those countries. We believe that accessible patent information promotes scientific progress and helps improve the procurement of medicines; in line with this belief, we are a member of the Patent Information Initiative for Medicines (Pat-INFORMED), an initiative that facilitates easy access to medicine patent information.
+Responsible use of our intellectual property (IP) enables us to 
+engage in collaborations and partnerships that have the potential to speed up progress on the most pressing unmet medical needs, and we are a founding member of World Intellectual Property Organization (WIPO) Re:Search, an initiative that aims to catalyze a broad range of innovative collaborations to support early stage research and development in the fight against neglected tropical diseases, malaria and tuberculosis. Pfizer is a sponsor of the Inventor Assistance Program, a WIPO initiative in cooperation with the World Economic Forum that matches developing country inventors and small businesses of limited financial means with patent attorneys that provide pro bono legal assistance to secure patent protection. 
+Clinical trials
+Every clinical trial is a partnership built on trust. Pfizer honors that trust by transparently sharing the policies that govern our global clinical research. These policies help ensure that every clinical trial is planned, conducted and reviewed according to high scientific, ethical and clinical standards. As we work to develop new medicines and vaccines for the patients we serve, our strict standards of moral and ethical conduct are guided with the help and oversight of institutional review boards, regulatory authorities and medical and industry association guidelines governing ethical clinical trial conduct and research integrity as well as our own bioethics advisory panel.
+All Pfizer-sponsored interventional studies are conducted in 
+accordance with applicable laws and regulations, as well as principles derived from relevant international standards including:
+ О  The Council for International Organizations of Medical Sciences (CIOMS) International Ethical Guidelines.
+ О  The International Council for Harmonisation of Technical Requirements for Pharmaceuticals for Human Use (ICH)  E6 guideline for Good Clinical Practice.
+ О  PhRMA’s Principles on Conduct of Clinical Trials and Communication of Clinical Trial Results.
+ О  The Declaration of Helsinki.
+ О  The United States Belmont report.
+ More information on Pfizer policies related to clinical trials can be 
+found on our research integrity and transparency page at Pfizer.com.Data privacy
+Pfizer is committed to the responsible and transparent use of personal data entrusted to us by patients, customers, employees and others. Our Global Privacy Office maintains policies that guide how we collect, maintain and protect personal data taking into account relevant legal and regulatory requirements of the many regions where we do business. Examples of the practices  we follow to help ensure the integrity of our data protection  processes include:
+ О  Collecting and using the minimum amount of personal  data necessary to achieve our business purposes. 
+ О  Sharing personal data only with individuals who have  a legitimate need for it and will protect it.
+ О  Maintaining appropriate administrative, technical and organizational security measures to protect personal data.
+ О  Training our employees on the responsible use of  personal information.
+Human rights Pfizer is committed to respecting internationally recognized human rights throughout our operations. We seek to prevent and mitigate adverse human rights impacts in our global operations, remediate any we may inadvertently cause or contribute to, and advance human rights when possible. Our approach to human rights risks is informed by international standards, industry best practice and expert assessments. In line with the UN Guiding Principles on Business and Human Rights, Pfizer’s human rights policy focuses on addressing risks that could have the most severe impact on people: our patients, our colleagues, the workers of our business partners, and the communities in which we operate. Our responsibility to respect human rights extends throughout our operations, from lab to patient, including our diverse global supply chain of numerous local, third-party vendors. 
+As a biopharmaceutical company, the right to health is of 
+paramount importance to us. Other salient human rights are the principle of non-discrimination; the right to privacy; freedom from slavery and forced labor; the right to enjoy just and favorable working conditions; the right to a safe workplace; and the right to a healthy environment. Our Human Rights Policy Statement describes our approach to each of these salient rights. 
+26 En vironmental, Social & Governance Report 2020
+Social Governance Environment Bold Moves Introduction Performance AppendixGOVERNANCE CONTINUED
+Laws and regulations compliance 
+Pfizer’s compliance program represents a shared undertaking on the part of colleagues ranging from the highest levels of management to the most junior colleagues. Our quality and compliance governance framework is driven by a global, cross-functional approach built around key elements of effective compliance and risk management, including culture, policies, training, risk assessment, monitoring and communications. Pfizer maintains a compliance organization with sufficient independence, experience and resources, and provides multiple avenues for colleagues to ask questions and raise concerns. 
+Quality and compliance committees for each of our core functional 
+areas provide an innovative framework to advance business-led proactive risk management and drive clear accountabilities for leaders and colleagues to act with integrity in all that they do. Our tiered compliance committee structure promotes leadership oversight and complements our embedded divisional and operating unit compliance organization. 
+  Accountability
+Board of Directors and Board CommitteesThe Board of Directors is elected annually by the shareholders. The primary responsibility of the Board is to represent shareholders and to enhance long-term shareholder value. The Board elects the chief executive officer and other members of the senior management team, and acts as an advisor and counselor to senior management and ultimately monitors its performance. The function of the Board to monitor the performance of senior management is facilitated by the presence of a majority of independent non-employee Directors who have substantive knowledge of the Company’s business. 
+Pfizer’s Board Committees are integral to the overall functioning  
+of the Board. The Board has six committees:
+ О  Audit Committee
+ О  Compensation Committee
+ О  Executive Committee
+ О  Governance & Sustainability Committee
+ О  Regulatory and Compliance Committee
+ О  Science and Technology Committee
+ The committee’s charters may be viewed on our corporate website at: 
+Board Committee ChartersGovernance of ESG
+The Governance & Sustainability Committee of the Board provides oversight of our ESG strategy and reporting, and policies and practices related to our management of human capital resources, including diversity and inclusion. The Committee, composed solely of independent Directors, is regularly updated by management on corporate social responsibility, sustainability and philanthropic efforts and, in addition, receives updates on human capital management and issues related to public policy, including corporate political spending and lobbying activities. In early  2020, we changed the name of the “Corporate Governance Committee” to the “Governance & Sustainability Committee” to more prominently reflect its oversight responsibility for sustainability and corporate responsibility matters. 
+In addition, ESG is managed internally by our cross-functional 
+Sustainability Steering Committee, which advises on key ESG issues and guides the integration and implementation of Pfizer’s non-financial reporting. The Committee is co-chaired by our Chief Sustainability Officer and ESG Head and sponsored by the Executive Leadership Team member leading External Engagement, who reports directly to the Chief Executive Officer and regularly reports our progress to the Governance & Sustainability Committee of our Board of Directors. 
+Board diversity and independence
+Our Board is composed entirely of independent directors other than our chairman and CEO, Albert Bourla, and is diverse, with diversity reflecting gender, age, race, ethnicity, background, professional experience and perspectives. Each director provides a unique perspective, experience and skill set, all valuable to  the company. 
+To help ensure effective refreshment and proactively manage 
+eventual vacancies on the Board, the Governance & Sustainability Committee and the full Board consider a diverse pool of qualified director candidates on an ongoing basis. This process resulted in the election of six new independent directors over the past five years, bringing our average Board tenure to five years.
+ Shareholders and other interested parties may communicate with any of our 
+directors, including the lead independent director and the audit committee chair, as follows: By e-mail: https://investors.pfizer.com/corporate-governance/ contact-our-directors/default.aspxBy mail: Corporate Secretary, Pfizer Inc., 235 East 42nd Street, New York, New York 10017Board Composition
+Average Director tenure
+10+ years
+6 to 10 years1
+4
+0 to 5 years 7
+Board Diversity
+Female
+Ethnically Diverse4 of 12 Directors
+3 of 12 Directors
+Key Skills and Experience
+6
+6
+6
+64
+3
+34
+49 Business Leadership and Operations 
+International Business
+Medicine and Science
+Risk Management
+Health care and Pharma
+Government and Public Policy
+Human Capital Management
+Technology
+Finance and Accounting
+Academia5 years
+average
+27
+ En
+vironmental, Social & Governance Report 2020
+Social Governance Environment Bold Moves Introduction Performance AppendixPERFORMANCE
+Measuring and reporting our environmental, social and governance 
+performance is key to understanding the impact of our operations, driving continuous improvement, and maintaining a transparent dialogue with our stakeholders. We are committed to improving our ESG performance because we think it is crucial to our long-term success as a business. The key performance indicators we track are driven by an assessment of issues of greatest relevance and impact to our external stakeholders and our business.Performance
+In this section
+29  En vironment
+30 
+ Social
+33 
+ Go
+vernance
+28 En vironmental, Social & Governance Report 2020
+Social Governance Environment Bold Moves Introduction AppendixENVIRONMENT
+Our 2020 environmental sustainability goals
+Having reached the end of the term for our environmental sustainability goals, we are proud to report that we have reduced our direct (Scope 1+2) GHG emissions by 33% from a 2012 baseline, exceeding our 20% reduction goal.
+1 This was achieved 
+through the implementation of over 1,000 projects, delivering  in excess of $5 million in annual savings. 
+We reduced water withdrawal across our operations by 19% from  
+a 2012 baseline, exceeding our 5% target. 
+While increases in production and significant business 
+acquisitions and divestitures challenged our conservation efforts, we are pleased to report that we were able to achieve our goal  of reducing waste disposal by 15% from a 2012 baseline.
+In 2015, we established our first ambitious goals aimed at 
+influencing our key suppliers to establish robust environmental sustainability programs with GHG, waste and water reduction targets. Pfizer was recognized as a CDP Supplier Engagement Leader in 2018, 2019 and 2020. Although we fell short of meeting our 2020 targets, we learned from the experience and have established a firm foundation on which to continue to build through an ambitious second-generation supply chain goal to catalyze suppliers to establish science-based targets by 2025. We will report year-over-year comparisons beginning in the 2021 reporting cycle (publishing 2022) where relevant.2012
+(baseline)2016 2017 2018 2019 2020
+Climate change1,2
+Carbon emissions (in million metric tons) (GHG Scope 1/2)32.00 1.63 1.53 1.54 1.46 1.33
+Sustainable medicines1,2
+Waste disposed (in thousand metric tons) 121.30 101.16 94.61 93.96 102.76 103.36
+Water withdrawal (in million cubic meters) 17.43 15.61 14.55 15.44 15.09 14.12
+2018 2019 20202020
+Goal
+Supply chain environmental sustainability4
+Key suppliers supporting Pfizer’s supplier code of conduct 88% 90% 90% 100%
+Key suppliers aligning with Pharmaceutical Supply Chain Initiative (PSCI) principles 88% 90% 93% 100%
+Key suppliers managing their environmental impacts 84% 88% 86% 100%
+Key suppliers with reduction goals for GHG, waste disposal and water withdrawal 52% 49% 52% 90%
+1.  Pfizer’ s organizational boundaries for environmental performance reporting include all owned sites and leased facilities where Pfizer has operational control. Goal exceedance due 
+to a range of factors including reductions in fleet and office activities in 2020 due to COVID-19.
+2.
+  Includes facilities that exited with the separation of Upjohn (on No
+vember 16) for the full reporting year. Data are baseline adjusted, reported absolute, using reporting boundaries 
+per the World Resources Institute (WRI) GHG Protocol. The 2012–2019 GHG data is independently verified to the limited assurance level. Verification of the 2020 GHG data will 
+be completed in 2021. Find more details on our EHS KPIs here. 
+3.
+  Scope 1 and 2 as defined b
+y the Greenhouse Gas Protocol Corporate Standard: Scope 1: Direct GHG emissions. Direct GHG emissions occur from sources that are owned or 
+controlled by the company, for example, emissions from combustion in owned or controlled boilers, furnaces, vehicles, etc.; emissions from chemical production in owned or controlled process equipment. Scope 2: Electricity indirect GHG emissions. GHG emissions from the generation of purchased electricity consumed b y the company. Purchased 
+electricity is defined as electricity that is purchased or otherwise brought into the organizational boundary of the company.
+4.
+  Includes Upjohn data. K
+ey suppliers include 111 major contributors to our external environmental footprint, including suppliers of pharmaceutical ingredients, drug products, raw 
+materials, product packaging services, key research and development collaborators, and freight forwarders. Key suppliers represent a portion of Pfizer’s overall supply chain for goods and services.
+29 En vironmental, Social & Governance Report 2020
+Social Governance Environment Bold Moves Introduction Performance AppendixSOCIAL
+Performance 
+We are using 2020 as a baseline for our Social performance metrics. In most cases, we have not reported these metrics  in a consolidated manner on an annual basis prior to the 2020 reporting cycle. In addition, Pfizer divested the Upjohn business unit in 2020 to focus on breakthrough innovations that change patients’ lives, making year-over-year comparisons challenging for certain Social metrics. We are looking to set forward-looking targets where appropriate in the future. We will report year-over-year comparisons beginning in the 2021 reporting cycle (publishing 2022) where relevant. Innovation and Global Health
+Product Innovation 2020
+Time to market (in years) (first-in-human (FIH) to approval)1 8.4
+Success rate (FIH to approval)2 21%
+Number of drugs in portfolio3Product Listing
+Number of drugs in research and development495
+Products on WHO List of Prequalified Medicinal Products and Vaccines WHO Medicinal Products and Vaccines List
+Key projects driving large-scale digital solutions in R&D, manufacturing and health care provider  
+and patient engagement5 28
+Key
+ Links to our Bold Move 2See page 11 for more information
+ Links to our Bold Move 4See page 13 for more information1.  Biosimilar s and generics are excluded from all analyses, as are product 
+enhancements (supplemental indications, major new formulations, etc.). New 
+molecular entities (NME) are the foundation of Pfizer's, and industry's, innovative medicines pipelines. NMEs originating outside of Pfizer and acquired or licensed  by Pfizer after achieving FIH or more advanced development milestones are generally excluded from FIH-approval cycle time calculations where substantial development effort occurred before Pfizer's operational control. Cycle times from FIH to approval are calculated between the FIH date for the NME in its first indication pursued,  and first major regulatory approval (U.S. FDA or EU European Medicines Agency) approval for the NME. The NME approval may or may not be for the same  indication by which the NME triggered its first FIH milestone. Rolling cohorts are used to provide sufficient sample sizes to calculate cycle times between major development milestones.
+2.
+  The FIH to appro
+val NME success rate metric is a composite metric. It is a 
+cumulative success rate derived using individual phase success rates from FIH (start of Phase 1) to approval (first regulatory approval) at an NME level. Combinations of approved NMEs, biosimilars and generics are excluded from all success rate calculations. Cumulative NME success rate is calculated using three-year rolling cohorts for Phase 1 and five-year rolling cohorts for Phase 2, Phase 3 and registration.3. Included on Pfizer’s Product Listing:
+ oU.S. Products Only: The product listing shows products available to U.S. consumers only.
+ oNew Drug Application (NDA): Products included are only shown (or removed)  if it has an active NDA (or the NDA has been withdrawn). This results in certain products being listed that are no longer available to the general public or are actively marketed.
+ oBiosimilars, dosages, etc.: A product in the listing may be made up of biosimilars, Product Enhancements (PEs), or different dosages. A count of the products  shown in the listing would not represent the total number of products (understating the total).
+ oCo-Marketing Agreements: Products that were co-marketed with other companies are included in the products listing. However, the third party may be taking or be responsible for a significant portion of the underlying marketing.
+4.
+  As of F
+ebruary 2, 2021 and represents the number of R&D programs in Phase 1 to 
+registration, including programs for additional uses and dosage forms for in-line and in-registration products. For latest information, please see Pfizer's R&D Portfolio  and Bold Move 2 (page 11).
+5.
+ Please see Bold Mo
+ve 4 (page 13) for more information.
+30 En vironmental, Social & Governance Report 2020
+Social Governance Environment Bold Moves Introduction Performance Appendix1.  The P atients Treated metric is calculated from Pfizer and third-party datasets. 
+Figures may be limited given the coverage provided by external sources (e.g., 
+calendar duration, geographic and product coverage). Patient counts assume similar patient dynamics (e.g., adherence) between U.S. and ex-U.S. markets, and in some cases use global volume, daily dosage and number of treatment days to facilitate calculations and to extend applicability for the Rest of World. Methodologies to calculate estimates may vary by product type given the nature of the product and available data. Patients taking multiple Pfizer products may be counted as multiple patients towards total. In certain instances, there is overlap between patients Treated and patients Reached through our access and affordability programs. Historical estimates may periodically be subject to revision due to restatements  in the underlying data sources.
+2.
+  P
+atient reach focuses on the potential number of patients globally who could be 
+reached with a Pfizer medicine or vaccine through a program designed to facilitate access to individuals who face challenges or barriers through traditional commercial delivery channels, which could be private or public in nature based on the national health system. These include: U.S. and ex-U.S. patient assistance programs, product donations, and tenders with national and multi-lateral procurement agencies. In certain instances, there is overlap between the number of patients Treated and number of patients Reached through Access and Affordability Programs.  The metric is calculated from Pfizer and third-party datasets. Datasets consist of either direct patient numbers or are based on calculations of the number of doses needed for treatment or to complete a full schedule. Despite contractual data standards and consistent reporting schedules, datasets may be subject to uncertainty due to the non-financial nature of the metric and may not detect errors or other irregularities. It is possible that patients could be counted multiple times  if they receive multiple Pfizer medicines from different administrative vendors.3.  Includes Upjohn; the 2021 Access to Medicine Index assesses the top 20 largest research-based phar
+maceutical companies on their actions to improve access to 
+medicine in 106 low- and middle-income countries for 82 diseases, conditions and pathogens. ATMI 2021 Ranking .
+4.
+  Includes Upjohn; Pfizer perfor
+med second among the eight R&D-based multinational 
+companies active in development and deployment of antibacterials and antifungals. ATM AMR Benchmark.
+5.
+  The U.S. por
+tfolio includes all pharmaceutical products marketed by the company.  
+The product sales utilized in the analysis excludes our alliance products and contract manufacturing operation and represents approximately 81% of the total U.S. portfolio in 2020. The annual percent change vs. prior year was calculated at  a product level and represents the year-over-year change in average net price, which is Wholesale Acquisition Cost (WAC) less rebates, discounts and returns.
+6.
+  Includes Upjohn; rank
+ed #4 among large Pharma in PatientView Global Survey, April 
+2020 PatientView Survey was conducted from November 2019 to February 2020 across 1,850 respondent patient groups from 95 countries, covering 124 medical specialties. Forty-eight companies were assessed for performance on 12 patient-related key-indicators of reputation. PatientView website.Innovation and Global Health continued
+Equitable Access and Pricing 2020
+Description of actions and initiatives to promote access Social Narrative (page 20)
+Patients treated1 420+million
+Patients reached through access and affordability programs2 58+million
+Access to Medicine Index (ATMI) Ranking3 4th
+Antimicrobial Resistance (AMR) Benchmark Position4 2nd
+Percent change in average net price for U.S. portfolio51%
+Patient-centric design
+Position in Global PatientView Survey6 4thSOCIAL CONTINUED
+Key
+ Links to our Bold Move 3
+See page 12 for more information
+ Links to our Bold Move 5See page 14 for more informationPerformance 
+We are using 2020 as a baseline for our Social performance metrics. In most cases, we have not reported these metrics  in a consolidated manner on an annual basis prior to the 2020 reporting cycle. In addition, Pfizer divested the Upjohn business unit in 2020 to focus on breakthrough innovations that change patients’ lives, making year-over-year comparisons challenging for certain Social metrics. We are looking to set forward-looking targets where appropriate in the future. We will report year-over-year comparisons beginning in the 2021 reporting cycle (publishing 2022) where relevant. 
+31 En vironmental, Social & Governance Report 2020
+Social Governance Environment Bold Moves Introduction Performance AppendixPerformance 
+We are using 2020 as a baseline for our Social performance metrics. In most cases, we have not reported these metrics  in a consolidated manner on an annual basis prior to the 2020 reporting cycle. In addition, Pfizer divested the Upjohn business unit in 2020 to focus on breakthrough innovations that change patients’ lives, making year-over-year comparisons challenging for certain Social metrics. We are looking to set forward-looking targets where appropriate in the future. We will report year-over-year comparisons beginning in the 2021 reporting cycle (publishing 2022) where relevant. Human Capital
+Colleague Diversity, Equity and Inclusion 2020
+Gender representation (global)1 Female Male
+Vice President and above 38.1% 61.9%
+Senior Director 42.4% 57.6%
+Director 49.7% 50.3%
+Manager/Senior Manager 50.7% 49.3%
+Analyst and below 47.3% 52.7%
+Racial/Ethnic Group Representation (U.S. only)1AsianBlack
+ or African
+ AmericanHispanic
+ or Latino WhiteTwo
+ or More
+ Races Other
+Vice President and above 10.7% 4.8% 4.8% 78.5% 1.2% 0.0%
+Senior Director 14.4% 2.9% 5.6% 75.9% 1.2% 0.0% 
+Director 18.3% 3.2% 4.5% 72.7% 1.0% 0.3%
+Manager/Senior Manager 19.1% 4.7% 5.5% 69.0% 1.3% 0.4%
+Analyst and below 7.0% 19.7% 6.2% 64.0% 2.0% 1.1%
+2020
+Description of talent and recruitment efforts Social Narrative (page 22) 
+Pay equity Social Narrative (page 22) 
+Employee Engagement and Purpose
+Employee Engagement (composite score, favorable %)2 91%
+Employee Purpose (favorable %)3 93%
+Employee Turnover4
+Voluntary Employee Turnover 5.3%
+Involuntary Employee Turnover 3.9%
+1.  Colleagues who select “Do Not Disclose” or ha ve not filled in their profile are not included in the denominator or numerator for gender or racial/ethnic representation. 
+Gender representation is calculated globally. Puerto Rico is excluded within racial/ethnic representation but included in the Global Gender Representation. Please see Bold Move 
+1 (page 10) for additional information.
+2.
+  Composite score across four questions: 1. I am proud to wor
+k for Pfizer, 2. I would recommend Pfizer as a great place to work, 3. I would like to be working at Pfizer one year from 
+now, 4. If I were offered a comparable position with similar pay and benefits at another company, I would stay with Pfizer.
+3.
+  Scored from question: "My wor
+k contributes to our purpose – Breakthroughs that change patients’ lives "
+4.
+  A
+verage Monthly Headcount = (Total of Headcounts for December 2019 through December 2020)/13. The number of employees at Pfizer who are actively working and are paid 
+directly by the company, or those on leave for 6 months or less and eligible for benefits available to Pfizer employees in the country of their employment, or hired without an actual expected termination date.SOCIAL CONTINUED
+Key
+ Links to our Bold Move 1
+See page 10 for more information
+32
+ En
+vironmental, Social & Governance Report 2020
+Social Governance Environment Bold Moves Introduction Performance AppendixGOVERNANCE
+Performance 
+We are using 2020 as a baseline for our Governance reporting performance. Data has been available in the public domain prior to the 2020 reporting cycle, but this is the first year we have reported against these metrics in a consolidated ESG report. In some cases, we have not previously disclosed the data. We will report year-over-year comparisons beginning in the 2021 reporting cycle (publishing 2022) where relevant. Ethics, Transparency, Quality 2020
+Ensuring quality and patient safety during clinical trials Governance Narrative (page 25)
+Products listed on FDA's MedWatch List FDA’s MedWatch List
+Fatalities as reported in FDA Adverse Event Reporting System FDA AE Reporting System
+Code of ethics governing the promotion of off-label use of products Governance Narrative (page 25)
+Code of ethics governing interactions with health care providers Governance Narrative (page 25)
+Alerts of risks associated with counterfeit products Governance Narrative (page 25)
+Counterfeit drug process for maintaining traceability Governance Narrative (page 25)
+Accountability
+Proportion of women on Board of Directors14 out of 12
+1. Pfizer's Board of Director s
+33 En vironmental, Social & Governance Report 2020
+Social Governance Environment Bold Moves Introduction Performance AppendixAPPENDIX
+We are aligning our efforts and reporting to recognized ESG standards 
+The Sustainability Accounting Standards Board (SASB), Global Reporting Initiative (GRI) and Task Force on Climate-Related Financial Disclosures (TCFD), as well as the UN Sustainable Development Goals (SDGs),  
+where appropriate.Appendix
+In this section
+35 GRI Index
+43
+ SASB Index
+47
+ TCFD
+49
+ About this repor
+t
+50
+  
+Independent  
+accountant's report
+34 En vironmental, Social & Governance Report 2020
+Social Governance Environment Bold Moves Introduction PerformanceGRI REFERENCE TABLE
+We have included a GRI Reference Table in this ESG Report as a reference tool to help readers more readily locate relevant information 
+across Pfizer's web-based resources. Pfizer continues to evaluate our approach to non-financial reporting, including reference to several existing, globally recognized external frameworks – for more information see Global Reporting Frameworks on page 49.
+GRI Table
+GRI Indicator Description ReferenceUnited Nations (UN) Sustainable
+Development Goals (SDGs)1
+GRI 101: Foundation (no disclosures) 
+GRI 102: General Disclosures 2020
+Organizational Profile
+102-1 Name of the organization Pfizer Inc.
+102-2 Activities, brands, products and services Annual Review: Chairman & CEO Letter
+ESG Report: pg. 2-3
+102-3 Location of headquarters New York, New York (U.S.)
+102-4 Location of operations Pfizer Global Sites
+102-5 Ownership and legal form Annual Review: Corporate and Shareholder Information
+102-6 Markets served Annual Review: Chairman & CEO Letter
+102-7 Scale of the organization Annual Review: Chairman & CEO Letter
+102-9 Supply chain ESG Report: pg. 25-26; 29ESG Report (SASB Index): pg. 43; 45ESG Report (TCFD): pg. 47-48
+102-11 Precautionary principle or approach Pfizer manages and reports on our risks and impacts in consideration of the precautionary principle.
+102-12 External initiatives ESG Report: pg. 7-8; 20-23; 26; 49ESG Report (TCFD): pg. 47-48
+102-13 Membership of associations
+ESG Report: pg. 26Lobbying and Political Contributions
+1. Based on ‘SDG Compass: Linking the SDGs and GRI’, as available on the SDG Compass website
+35 Environmental, Social & Governance Report 2020
+Governance Appendix Social Environment Bold Moves Introduction PerformanceGRI REFERENCE TABLE CONTINUED
+GRI Indicator Description ReferenceUnited Nations (UN) Sustainable
+Development Goals (SDGs)1
+Strategy
+102-14 Statement from senior decision-maker Annual Review: Chairman & CEO Letter
+ESG Report: Chairman & CEO Letter
+102-15 Key impacts, risks and opportunities ESG Report: pg. 5-8
+Ethics & Integrity
+102-16 Values, principles, standards and norms of behavior ESG Report: pg. 5; 7-8 ; 18; 24-27 Goal 16 
+Peace, Justice and Strong Institutions
+102-17 Mechanisms for advice and concerns about ethics ESG Report: pg. 25-26  
+ESG Report (SASB Index): pg. 45Goal 16 
+Peace, Justice and Strong Institutions
+Governance
+102-18 Governance structure ESG Report: pg. 27
+102-19 Delegating authority ESG Report: pg. 27
+Board Committees and Charters
+102-20 Executive-level responsibility for economic, environmental and social topicsESG Report: pg. 2-3; 27; 49 Goal 16 
+Peace, Justice and Strong Institutions
+102-21 Consulting stakeholders on economic, environmental and social topicsESG Report: pg. 10; 13; 14; 20-21; 25; 28 Goal 16 
+Peace, Justice and Strong Institutions
+102-22 Composition of the highest governance body and its committees
+ESG Report: pg. 27Board of DirectorsBoard Committees and ChartersGoal 5 
+Gender Equality
+Goal 16 
+Peace, Justice and Strong Institutions
+102-23 Chair of the highest governance body
+Board of Directors  
+Corporate Governance Principles
+The Pfizer Board: Board Policies
+SEC FilingsGoal 16 
+Peace, Justice and Strong Institutions
+102-24 Nominating and selecting the highest governance body Goal 5 
+Gender Equality
+Goal 16 
+Peace, Justice and Strong Institutions
+102-25 Conflicts of interest The Pfizer Board: Board Policies Goal 16 
+Peace, Justice and Strong Institutions
+102-26 Role of highest governance body in setting purpose, 
+values and strategyCorporate Governance Principles
+102-27 Collective knowledge of highest governance body Corporate Governance Principles
+102-28 Evaluating the highest governance body's performance Corporate Governance Principles PDF
+102-29 Identifying and managing economic, environmental and social impactsBoard Committees and Charters 
+ESG Report: pg. 7-8; 25-26; 32
+ESG Report (SASB Index): pg. 43-45Goal 16 
+Peace, Justice and Strong Institutions
+1. Based on ‘SDG Compass: Linking the SDGs and GRI’, as available on the SDG Compass websiteRelevant SDGs  
+on this page
+36 Environmental, Social & Governance Report 2020
+Governance Appendix Social Environment Bold Moves Introduction PerformanceESG Report: pg. 27
+Corporate Governance PrinciplesGRI REFERENCE TABLE CONTINUED
+GRI Indicator Description ReferenceUnited Nations (UN) Sustainable
+Development Goals (SDGs)1
+Governance
+102-30 Effectiveness of risk management processes Board Committees and Charters
+ESG Report: pg. 17; 24ESG Report (TCFD): pg. 47-48
+102-31 Review of economic, environmental and social topics
+Board Committees and Charters
+102-32 Highest governance body's role in sustainability reporting Board Committees and ChartersESG Report: pg. 27; 49
+102-33 Communicating critical concerns
+ESG Report: pg. 25
+102-36 Process for determining remuneration Board Compensation Committee CharterFinancials: Annual Reports
+102-38 Annual total compensation ratio
+2021 Proxy Statement
+Stakeholder Engagement
+102-40 List of stakeholder groups ESG Report: pg. 5-8
+102-42 Identifying and selecting stakeholders ESG Report: pg. 5-8
+102-43 Approach to stakeholder engagement ESG Report: pg. 5-8; 25Transparency
+102-44 Key topics and concerns raised ESG Report: pg. 7-8
+Reporting Practice
+102-45 Entities included in the consolidated financial statements Financials: Annual Reports 
+ESG Report: pg. 49
+102-46 Defining report content and topic boundaries Annual Review PDF: Page 2 Table of Contents 
+ESG Report: pg. 5-8
+102-47 List of material topics Annual Review PDF: Page 2 Table of Contents 
+ESG Report: pg. 8
+102-49 Changes in reporting ESG Report: pg. 5-8
+102-50 Reporting period ESG Report: pg. 49
+102-51 Date of most recent report March 12, 2021
+102-52 Reporting cycle We report on an annual basis
+1. Based on ‘SDG Compass: Linking the SDGs and GRI’, as available on the SDG Compass website
+37 Environmental, Social & Governance Report 2020
+Governance Appendix Social Environment Bold Moves Introduction PerformanceGRI REFERENCE TABLE CONTINUED
+GRI Indicator Description ReferenceUnited Nations (UN) Sustainable
+Development Goals (SDGs)1
+Reporting Practice
+102-53 Contact point for questions regarding the report Annual Review: Frank Briamonte, 
+VP Executive CommunicationsESG Report: Chris Gray, Head of ESG
+102-55 GRI content index ESG Report: pg. 35-42
+GRI 103: Management Approach 2020
+103-1 Explanation of the material topic and its boundary ESG Report: pg. 5-8
+103-2 The management approach and its components ESG Report: pg. 5-8
+Economic
+Economic Performance
+201-1 Direct economic value generated and distributed Annual Review: Performance
+Indirect Economic Impacts
+203-1 Infrastructure investments and services supported ESG Report: pg. 5-8; 21Global HealthGoal 5
+Gender Equality 
+Goal 9
+Industry, Innovation and Infrastructure
+Goal 17
+Partnerships for the Goals
+203-2 Significant indirect economic impacts
+ESG Report: pg. 2-8; 21Annual Review: Market ContextGoal 1 
+No Poverty
+Goal 3 
+Good Health and Well-being
+Goal 8 
+Decent Work and Economic Growth
+1. Based on ‘SDG Compass: Linking the SDGs and GRI’, as a vailable on the SDG Compass websiteRelevant SDGs 
+on this page
+38 Environmental, Social & Governance Report 2020
+Governance Appendix Social Environment Bold Moves Introduction PerformanceGRI REFERENCE TABLE CONTINUED
+GRI Indicator Description ReferenceUnited Nations (UN) Sustainable
+Development Goals (SDGs)1
+Anti-Corruption
+205-1 Operations assessed for risks related to corruption ESG Report: pg. 24-27
+Pfizer ComplianceGoal 16  
+Peace, Justice and Strong Institutions
+Environmental 
+Water
+303-2 Water withdrawal ESG Report: pg. 17-18; 29 Goal 6  
+Clean Water and Sanitation
+Emissions
+305-1 Direct (Scope 1) GHG emissions ESG Report: pg. 15-16; 29
+ESG Report (TCFD): pg. 47-48Goal 3 
+Good Health and Well-being
+Goal 12 
+Responsible Consumption and 
+Production
+Goal 13 
+Climate Action
+Goal 14 
+Life Below Water
+Goal 15 
+Life on Land
+305-2 Energy indirect (Scope 2) GHG emissions ESG Report: pg. 15-16; 29
+ESG Report (TCFD): pg. 47-48Goal 3 
+Good Health and Well-being
+Goal 12 
+Responsible Consumption and 
+Production
+Goal 13 
+Climate Action
+Goal 14 
+Life Below Water
+Goal 15 
+Life on Land
+1. Based on ‘SDG Compass: Linking the SDGs and GRI’,  as available on the SDG Compass websiteRelevant SDGs  
+on this page
+39 En vironmental, Social & Governance Report 2020
+Governance Appendix Social Environment Bold Moves Introduction PerformanceGRI REFERENCE TABLE CONTINUED
+GRI Indicator Description ReferenceUnited Nations (UN) Sustainable
+Development Goals (SDGs)1
+Effluents and Waste
+306-2 Management of significant waste-related impacts ESG Report: pg. 15; 17-18; 29
+ESG Report (TCFD): pg. 47-48Goal 3
+Good Health & Well-being
+Goal 6
+Clean Water and Sanitation
+Goal 12
+Responsible Consumption and 
+Production
+306-5 Waste directed to disposal ESG Report: pg. 29 Goal 6
+Clean Water and Sanitation
+Goal 12
+Responsible Consumption and 
+Production
+Goal 14
+Life Below Water
+Goal 15
+Life on Land
+Social
+Employment 
+401-1 New employee hires and employee turnover ESG Report: pg. 32ESG Report (SASB Index): pg. 45Goal 5
+Gender Equality 
+Goal 8
+Decent Work and Economic Growth
+Goal 10
+Reduced Inequality
+Occupational Health and Safety
+403-1 Occupational health and safety management system ESG Report: pg. 23 Goal 3
+Good Health & Well-being
+403-2 Types of injury and rates of injury, occupational  diseases, lost days and absenteeism, and number  of work-related fatalitiesESG Report: pg. 23 Goal 8
+Decent Work and Economic Growth
+1. Based on ‘SDG Compass: Linking the SDGs and GRI’,  as available on the SDG Compass websiteRelevant SDGs  
+on this page
+40 En vironmental, Social & Governance Report 2020
+Governance Appendix Social Environment Bold Moves Introduction PerformanceGRI REFERENCE TABLE CONTINUED
+GRI Indicator Description ReferenceUnited Nations (UN) Sustainable
+Development Goals (SDGs)1
+Occupational Health and Safety
+403-3 Occupational health services ESG Report: pg. 23 Goal 8 
+Decent Work and Economic Growth
+403-4 Worker participation, consultation and communication on 
+occupational health and safetyESG Report: pg. 5-8; 23 Goal 8 
+Decent Work and Economic Growth
+Goal 16 
+Peace, Justice and Strong Institutions
+403-5 Worker training on occupational health and safety ESG Report: pg. 23 Goal 8 
+Decent Work and Economic Growth
+403-6 Promotion of worker health ESG Report: pg. 23 Goal 3 
+Good Health and Well-being
+403-9 Work-related injuries ESG Report: pg. 23 Goal 3 
+Good Health and Well-being
+Goal 8 
+Decent Work and Economic Growth
+Goal 16 
+Peace, Justice and Strong Institutions
+Training and Education
+405-2 Programs for upgrading employee skills and transition assistance programsESG Report: pg. 23 Goal 8 
+Decent Work and Economic Growth
+Diversity and Equal Opportunity
+405-1 Diversity of governance bodies and employees ESG Report: pg. 10; 22; 27; 32 Goal 5 
+Gender Equality
+Goal 8 
+Decent Work and Economic Growth
+405-2 Ratio of basic salary and remuneration of women to men ESG Report: pg. 10; 22-23 Goal 5 
+Gender Equality
+Goal 8 
+Decent Work and Economic Growth
+Goal 10 
+Reduced Inequality
+1. Based on ‘SDG Compass: Linking the SDGs and GRI’, as a vailable on the SDG Compass websiteRelevant SDGs  
+on this page
+41 Environmental, Social & Governance Report 2020
+Governance Appendix Social Environment Bold Moves Introduction PerformanceGRI REFERENCE TABLE CONTINUED
+GRI Indicator Description ReferenceUnited Nations (UN) Sustainable
+Development Goals (SDGs)1
+Human Rights Assessment
+412-1 Operations that have been subject to human rights reviews 
+or impact assessmentsESG Report: pg. 26Human Rights Statement 
+412-2 Employee training on human rights policies or procedures
+Human Rights Statement ESG Report: pg. 22; 26
+Local Communities
+413-1 Operations with local community engagement, impact assessments and development programsESG Report: pg. 21-22
+Public Policy
+415-1 Political contributions Lobbying and Political ContributionsESG Report: pg. 25Goal 16 
+Peace, Justice and Strong Institutions
+1. Based on ‘SDG Compass: Linking the SDGs and GRI’,  as available on the SDG Compass websiteRelevant SDGs  
+on this page
+42 En vironmental, Social & Governance Report 2020
+Governance Appendix Social Environment Bold Moves Introduction PerformanceSASB INDEX
+The Sustainability Accounting Standards Board 
+(SASB) is an independent, standards-setting organization that aims to increase consistency in environmental, social and governance (ESG) reporting by sector and has been developed in conjunction with investors. Pfizer has chosen to report this first disclosure in 2020 through the voluntary SASB framework for our industry – biotechnology and pharmaceuticals. This is an important step in our ESG reporting journey and enables us to communicate our progress in a transparent and standardized manner for investors and other stakeholders. We provide a rationale in instances where SASB recommendations are not addressed in the data table. We are continually improving our data collection and coordination across Pfizer’s operations in support of our commitment to strengthen our reporting processes and disclosures in the coming years.SASB Code SASB Metric Description Disclosure Location / Rationale For Omission
+Safety of Clinical Trial Participants
+HC-BP-210a.1 Discussion, by world region, the management process for 
+ensuring quality and patient safety during clinical trialsPage 25-26 – Governance overview 
+HC-BP-210a.2 Number of FDA Sponsor Inspections related to clinical trial management and pharmacovigilance that resulted in: (1) Voluntary Action Indicated (VAI) and (2) Official Action Indicated (OAI)Pfizer is not reporting against this metric at this time.
+HC-BP-210a.3 Total amount of monetary losses as a result of legal proceedings associated with clinical trials in developing countriesPfizer is not reporting against this metric at this time.
+43
+ En
+vironmental, Social & Governance Report 2020
+Governance Appendix Social Environment Bold Moves Introduction PerformanceSASB INDEX CONTINUED
+SASB Code SASB Metric Description Disclosure Location / Rationale For Omission
+Access to Medicines
+HC-BP-240a.1 Description of actions and initiatives to promote access to health care products for 
+priority diseases and in priority countries as defined by the Access to Medicine IndexPages 20-21 – Social Overview
+HC-BP-240a.2 List of products on the WHO List of Prequalified Medicinal Products as part of its Prequalification of Medicines Programme (PQP) Page 30 – Social PerformanceWHO Medicinal Products and Vaccines List
+Affordability & Pricing
+HC-BP-240b.1 Number of settlements of Abbreviated New Drug Application (ANDA) litigation that involved payments and/or provisions to delay bringing an authorized generic product to market for a defined time periodPfizer is not reporting against this metric at this time.
+HC-BP-240b.2 Percentage change in: (1) average list price and (2) average net price across U.S. product portfolio compared to previous yearPage 31 – Social Performance
+HC-BP-240b.3 Percentage change in: (1) list price and (2) net price of product with largest increase compared to previous yearPfizer is not reporting against this metric at this time.
+Drug Safety
+HC-BP-250a.1 List of products listed in the FDA's MedWatch Safety Alerts for Human Medical Products database FDA MedWatch Safety Alerts for Human Medical Products database
+HC-BP-250a.2 Number of fatalities associated with products as reported in the FDA Adverse Event Reporting System FDA Adverse Event Reporting System
+HC-BP-250a.3 Number of recalls issued, total units recalled Pfizer is not reporting against this metric at this time.
+HC-BP-250a.4 Total amount of product accepted for takeback, reuse or disposal Pfizer is not reporting against this metric at this time.
+HC-BP-250a.5 Number of FDA enforcement actions taken in response to violations of current Good Manufacturing Practices (cGMP), by typePfizer is not reporting against this metric at this time.
+44
+ En
+vironmental, Social & Governance Report 2020
+Governance Appendix Social Environment Bold Moves Introduction PerformanceSASB INDEX CONTINUED
+SASB Code SASB Metric Description Disclosure Location / Rationale For Omission
+Counterfeit Drugs
+HC-BP-260a.1 Description of methods and technologies used to maintain traceability of products 
+throughout the supply chain and prevent counterfeitingPage 25 – Governance Overview
+HC-BP-260a.2 Discussion of process for alerting customers and business partners of potential or known risks associated with counterfeit productsPage 25 – Governance Overview
+HC-BP-260a.3 Number of actions that led to raids, seizure, arrests, and/or filing of criminal charges related to counterfeit productsPfizer is not reporting against this metric at this time.
+Ethical Marketing
+HC-BP-270a.1 Total amount of monetary losses as a result of legal proceedings associated with false marketing claimsPfizer is not reporting against this metric at this time.
+HC-BP-270a.2 Description of code of ethics governing promotion of off-label use of products Our Global Policy covers information on ethical marketing and off-label promotion. Furthermore, we disclose several policies and information that address ethical marketing and promotion of off-label use of products. Further information can be found on page 25 – Governance Overview.
+Employee Recruitment, Development & Retention
+HC-BP-330a.1 Discussion of talent recruitment and retention efforts for scientists and research and development personnelPage 23 – Social Overview
+HC-BP-330a.2 (1) Voluntary and (2) involuntary turnover rate for: (a) executives/senior managers, (b) midlevel managers, (c) professionals, and (d) all othersPage 32 – Social Performance
+Supply Chain Management
+HC-BP-430a.1 Percentage of (1) entity's facilities and (2) Tier I suppliers' facilities participating in the Rx-360 International Pharmaceutical Supply Chain Consortium audit program or equivalent third-party audit programs for integrity of supply chain and ingredientsPfizer is not reporting against this metric at this time.
+45
+ En
+vironmental, Social & Governance Report 2020
+Governance Appendix Social Environment Bold Moves Introduction PerformanceSASB Code SASB Metric Description Disclosure Location / Rationale For Omission
+Business Ethics
+HC-BP-510a.1 Total amount of monetary losses as a result of legal proceedings associated with 
+corruption and briberyPfizer is not reporting against this metric at this time.
+HC-BP-510a.2 Description of code of ethics governing interactions with health care professionals We publish several policies that address interactions with health care professionals. These policies are discussed on page 25, and the policies can be found below.  Global Policy on Interactions with Health Care ProfessionalsHealth care Law Compliance GuideField Guide
+Activity Metrics
+HC-BP-000.A Number of patients treated Page 31 – Social Performance
+HC-BP-000.B Number of drugs (1) in portfolio and (2) in research and development (Phases 1-3) Page 30 – Social Performance
+Other Relevant Industry Standards
+Additionally, there are certain SASB metrics that are not explicitly set out for our industry, but that we believe are relevant and appropriate to our business, based on our priority assessment outcomes, purpose and strategy. These are listed below.
+Activity Metrics SASB Metric Description Disclosure Location
+TC-SI-330a.2 Employee engagement as a percentage Page 32 – Social PerformanceSASB INDEX CONTINUED
+46 En vironmental, Social & Governance Report 2020
+Governance Appendix Social Environment Bold Moves Introduction PerformanceTASK FORCE ON CLIMATE-RELATED  
+FINANCIAL DISCLOSURES (TCFD) REPORT
+Pfizer has long acknowledged the significant risks posed to society 
+by climate change, including increased adverse impacts on human health, frequency of severe weather events, and the potential disruption of value chains critical to providing medicines and vaccines to patients. We have been working for over two decades to address this global challenge through three generations of greenhouse gas (GHG) reduction goals and other resource conservation efforts. We are committed to developing and implementing a science-based climate action strategy and, in December 2020, announced our ambition to become carbon neutral by 2030. In addition, as outlined in our Climate Change Position Statement, we aim to conduct robust risk assessments to safeguard the resiliency of our research, manufacturing, and commercial activities and to transparently report on our progress, risks and opportunities aligned with Task Force of Climate-related Financial Disclosure (TCFD) recommendations. 
+Governance
+Pfizer's climate change program is co-led by senior colleagues in Environmental, Health, and Safety (EHS) and Legal and is integrated into Pfizer’s proactive risk management governance and processes as described below. 
+Risk Governance
+The Pfizer Global Supply (PGS) Quality & Compliance Committee (PGS QCC) reports priority risks and related mitigation, including those related to climate change, to the Executive Compliance Committee, which includes the CEO, and to the Regulatory  and Compliance Committee (RCC) of the Board of Directors. The PGS QCC risk management process also informs Pfizer’s Enterprise Risk Management (ERM) program. 
+Pfizer’s ERM program provides a framework for the identification and 
+management of significant risks, including risks related to climate change and the long-term sustainability of the business. Each risk is assigned to a member or members, as appropriate, of Pfizer’s Executive Leadership Team. The Audit Committee (AC) of the Board of Directors has primary responsibility for overseeing Pfizer’s ERM program. Periodically, the Regulatory and Compliance Committee  
+and the Audit Committee hold joint sessions to discuss risks relevant to both Committees’ areas of risk oversight, including an annual discussion of the ERM program. The Board is kept informed of its Committees’ risk oversight and other activities through reports by  
+the Committee Chairs to the full Board. More information on the risk assessment process for climate change is provided in the Risk Management section below.
+Operational Governance
+Manufacturing at our internal network of sites, managed by PGS, accounts for 70% of the company’s direct energy consumption and GHG emissions. The Chief Financial Officer and Executive Vice President, Global Supply, leads Pfizer’s manufacturing and supply chain and serves as the executive “risk owner” for the company’s business continuity risk and key elements of climate change risk. The President, PGS, reports to the CFO and EVP , Global Supply, and has operational control over PGS operations and strategy, including operating expenses and capital expense investment  in emission reduction projects. 
+Environmental sustainability has been integrated into the overarching 
+PGS strategy and GHG emissions reduction is monitored as a key performance indicator. Performance against this goal is included in  
+a dashboard regularly reviewed by the CFO and EVP Global Supply.
+ESG Governance 
+Pfizer’s Sustainability Steering Committee, co-chaired by the Chief Sustainability Officer and ESG Lead, provides formal oversight and an accountability mechanism for ESG and climate-related risks and opportunities and is responsible for strategy implementation. The Sustainability Steering Committee reports on priorities and progress to the Board of Directors Governance & Sustainability Committee, (formerly the Corporate Governance Committee until 2020), which provides oversight of the Company’s environmental, social and governance strategy and reporting, and corporate citizenship matters. 
+Strategy
+Pfizer has identified climate-related risks with the potential  to have a strategic impact on our business, including:
+ ОIncreases in operating costs due the introduction of carbon pricing/taxation schemes (short and medium term).
+ ОReduced revenue and potential impact on the supply of medically necessary products resulting from disruption caused by climate-related severe weather events (short, medium and long term).
+ ОPotential impacts to reputation if Pfizer falls short of stakeholder expectations (short, medium and long term). We have implemented business continuity programs designed to ensure our physical operations and supply chains are taking steps to mitigate the risk and potential impact of interruption. We have identified and leveraged opportunities to progress projects that improve operational efficiency and we engage with stakeholders to explore markets for environmentally preferable products. Refer to our 2020 CDP response for additional detail on how climate-related 
+risks have impacted our business, strategy and financial planning.
+Pfizer has completed an assessment of physical risk for all our 
+manufacturing facilities and for over 5,000 of our suppliers using climate modeling scenarios predicting temperature increases ranging from 0.2°C to 3°C. For our internal manufacturing sites, the output of this analysis supports decisions related to business continuity and recovery planning at the sites. 
+We will be initiating scenario analysis to assess transition and 
+physical risk in 2021 and will determine how to use the output of this predictive analysis to inform business strategy going forward.
+Opportunities with the potential to impact our business include:
+ ОReductions in operating costs resulting from energy efficiency 
+improvements (short and medium term).
+ ОIncreased demand for lower-carbon products (medium and  long term).
+ ОIncreased need for medicines that treat climate-related diseases (medium and long term).
+ ОIncreased revenues through demand from new and emerging markets as disease patterns shift (short term).
+In 2020, Pfizer completed a $1.25 billion 10-year Sustainability Bond, a first for a biopharmaceutical company. Proceeds from the bond will be used to help manage our environmental impact and support increased patient access to Pfizer’s medicines and vaccines, especially among underserved populations, and strengthen health care systems. See Pfizer’s website for more information on the bond framework. 
+47 En vironmental, Social & Governance Report 2020
+Governance Appendix Social Environment Bold Moves Introduction PerformanceTCFD CONTINUED
+Risk Management
+Pfizer assesses climate change risk as part of our enterprise-level 
+EHS and business continuity risk management process. Under this process, we conduct operational risk evaluations (OREs), which are structured evaluations of risks with the potential to have a substantive impact on Pfizer. The process assesses the effectiveness of controls in place to manage or mitigate risk. 
+Climate change risk is evaluated by a team that includes relevant 
+cross-functional program leaders and subject matter experts. The Climate Change ORE is designed to assess potential risk to Pfizer across four risk factors: external and reputational, physical, regulatory and legal, and market and technology risks. Individual risks across each of the four risk factors are evaluated and rated based on considerations such as the severity, vulnerability, and risk to Pfizer to ensure that sufficient controls are in place to mitigate climate change risks and prevent material impact to Pfizer. The higher the severity and the vulnerability, the higher we score overall risk. Based on the risk scores, we prioritize action. Of the TCFD categories of climate risks, we have determined that physical risk presents the highest potential risk to our operations.
+Pfizer uses tools such as Swiss Re CatNet to monitor short-, 
+medium- and long-term physical threats to internal operations and for more than 5,000 contract manufacturers and material suppliers. Risks identified through these assessments are reviewed as part of the ORE, and mitigation of risk is monitored through Pfizer's Business Resilience program and monitored by and escalated to company leadership as needed.
+Acute and chronic physical risks related to climate change are 
+managed through Pfizer’s Business Resilience program at the enterprise and local levels and provide input on the potential impact of physical risks that may be related to climate change (e.g., severe weather events, flooding).
+Reputational risks are managed through our process to 
+transparently disclose information related to our climate change program and engage with key stakeholders to help lead the conversation on voluntary actions companies can take to address their GHG emissions.Regulatory risks are managed through regulatory development tracking and analysis enabled by our Legal and GEHS teams. 
+Market and technology risks are monitored and managed through 
+our Global EHS and Business Continuity risk management process.
+Pfizer has integrated the climate change risk assessments 
+described above into divisional and enterprise risk management processes, which includes a periodic review of risk that could be material to the company. 
+Metrics and Targets
+In an effort to mitigate the acute and chronic physical impacts of climate change on our operations (e.g., more severe weather events, population displacement), Pfizer has taken steps to voluntarily reduce our GHG emissions in line with a science-based target and is working with key suppliers to do the same. We expect our sites and suppliers to have fully implemented business continuity and disaster recovery plans and require our internal sites to maintain energy master plans that identify conservation opportunities.
+Pfizer calculates Scope 1 and 2 emissions in accordance with  
+the GHG Protocol (revised edition). Our 2019 GHG footprint (including Scope 3 categories 1-8 and 15) was independently assured pursuant to International Standard on Assurance Engagements (ISAE) 3000 (revised) by ERM Certification  and Verification Services and verification of 2020 data is underway. Emissions are reported annually in our CDP response and are broken down by type, country and business division. We also track metrics relative to our business continuity and disaster recovery programs (e.g., number of supplier assessments completed; sites with fully implemented plans for the management of risk associated with natural perils such as flooding and severe weather, noting it is not possible to state with certainty whether individual weather events are a result of climate change). 
+Pfizer discloses our Scope 1, Scope 2 and Scope 3 emissions 
+annually through our CDP Response and publishes our Scope 1 and 2 emissions in our ESG Report (formerly in our Annual Review) and on our website.We exceeded our 2012-2020 climate goal, delivering a 33% reduction in GHG emissions from our 2012 baseline
+1. We 
+previously achieved two GHG reduction goals (2000-2007 and 2007-2012) and have reduced our GHG emissions by 60% since 2000. We remain committed to ambitious long-term actions and have announced our ambition to become carbon neutral across our internal operations, procuring 100% renewable electricity and delivering a 46% absolute reduction in direct emissions from a 2019 baseline. Any remaining emissions will be offset through carbon credits. Additionally, recognizing that indirect emissions account for 80% of our carbon footprint, we also aim to reduce emissions related to upstream logistics by 10% and business travel by 25% by 2025 from a 2019 baseline, and to use our considerable influence to catalyze similar reductions across  our value chain. 
+1.  Goal exceedance due to a range of factor s including reductions in fleet and office 
+activities in 2020 due to COVID-19.
+48 En vironmental, Social & Governance Report 2020
+Governance Appendix Social Environment Bold Moves Introduction PerformanceABOUT THIS REPORT
+This ESG Report details our performance 
+on Environmental, Social and Governance topics and contains non-financial disclosures covering the period of January 1, 2020, through December 31, 2020, unless otherwise stated. Our financial disclosures can be found in the 2020 Annual Review and our 2020 Annual Report on Form 10-K. Moving forward, we will report our ESG performance on an annual basis as a supplement to our Annual Review.
+This report covers all of Pfizer’s global operations 
+included within the 2020 financial statements, unless otherwise stated. On November 16, 2020, our Upjohn business, which was our global, primarily off-patent branded and generics business, was spun off and combined with Mylan to create a new global pharmaceutical company, Viatris. Given the separation of the Upjohn business, we have not included ESG performance relating to the Upjohn business except 1) overall company ratings (ATMI and PatientView Survey), and 2) to provide continuity with our 2020 environmental sustainability goals, which were set in 2012. Metrics that include Upjohn data are described as such throughout this report. 
+Our priority assessment has validated issues 
+that traditionally have been viewed as meaningful to our business and our external stakeholders. Through our priority assessment, we also identified new areas for us to focus our data collection and reporting efforts (see more on our ESG Priority Assessment process and outcomes on pages 7-8 of this report).
+In addition, we intend to continually evaluate our 
+performance reporting and enhance our related data collection processes and controls. Some of our disclosures in this report are estimates or based on assumptions, due to the inherent measurement uncertainties.  As an example, because of patient privacy laws, data constraints and contractual obligations, we have used shipping data, financial performance and third-party reports to determine patient counts in support of our KPI measuring the number of patients reached through access and affordability programs. Although we believe such estimates and assumptions are reasonable, actual results will vary. 
+Except as indicated on this page, the information 
+in this report has not been audited, verified or attested to by any third party. We have obtained limited assurance verification by ERM-CVS of certain greenhouse gas emissions data that we submit to CDP . 
+This report has been reviewed by our head of 
+Corporate Affairs, our Chairman and CEO, members of our cross-functional Sustainability Steering Committee, and the Governance & Sustainability Committee of our Board of Directors.
+Global Reporting Frameworks
+This report’s content is grounded in our ESG priority assessment and has been informed by several globally recognized external frameworks. These include the Sustainability Accounting Standards Board (SASB), Global Reporting Initiative (GRI) and Task Force for Climate-Related Financial Disclosure (TCFD). We relied  to some extent on each framework to develop this report while formally adhering to none in their entirety. 
+Pfizer also considers elements of other ESG 
+indices and sustainability indicators – in particular, the ATMI and the United Nations (UN) Sustainability Development Goals (also known as the Global Goals). As a signatory to the UN Global Compact, we submit an annual communication to the UN on our progress made toward achieving the Global Goals. For questions or feedback, contact Chris Gray,  
+Head of ESG: Chris.Gray@pfizer.com
+Management Assertion
+Pfizer has allocated $296 million in net  proceeds from the issuance of its Sustainability Bond as of December 31, 2020, to the eligible  
+projects identified on pages 17 and 21 of  this report in accordance with the Use of Proceeds defined on pages S-6 and S-7 of the Prospectus Supplement dated March 25, 2020. Please see Independent Accountants' Report (pg. 50) for additional information.
+Pfizer is responsible for the completeness, 
+accuracy and validity of the information and metrics presented in this ESG Report.
+Third Party Websites and Links
+This ESG Report may contain references or links to other websites maintained by third parties over whom Pfizer has no control. Such links are provided merely as a convenience. Pfizer makes no warranties or representations of any kind as to the accuracy, currency, or completeness of any information contained in such third-party websites, including any third-party social media or mobile app platform. The information contained on our website, our Facebook, YouTube and LinkedIn pages or our Twitter accounts is not incorporated by reference into this ESG Report. Inclusion of any third-party link in this ESG Report does not imply an endorsement or recommendation by Pfizer and a link to this ESG Report from another website does not imply a relationship between Pfizer and any third party. Your use of any such third-party site or platform is at your own risk and will be governed by such third party's terms and policies (including its privacy policy). Forward-looking statementsThis ESG Report includes forward-looking statements about, among other things, our performance on Environmental, Social and Governance topics, our ESG goals and targets, company strategies and growth potential, that are subject to substantial risks and uncertainties that could cause actual results to differ materially from those expressed or implied by such statements. Please refer to Pfizer's Annual Report on Form 10-K for the year ended December 31, 2020, and Pfizer's subsequent reports on Form 10-Q, including the sections thereof captioned “Risk Factors” and “Forward-Looking Information and Factors That May Affect Future Results,” as well as Pfizer's subsequent reports on Form 8-K for a description of the substantial risks and uncertainties related to the forward-looking statements included in this ESG Report. These reports are available on our website at www.pfizer.com and on the U.S. Securities and Exchange Commission's (SEC) website at www.sec.gov . The 
+forward-looking statements in this ESG Report speak only as of the original date of this ESG Report, and we undertake no obligation to update or revise any of these statements, except as required by law or the rules and regulations of the SEC.
+49 En vironmental, Social & Governance Report 2020
+Governance Appendix Social Environment Bold Moves Introduction PerformanceINDEPENDENT ACCOUNTANTS’ REPORT
+To Pfizer Inc. ’s Management:
+We have examined management of Pfizer Inc.’s (“Pfizer”) assertion on page 49 of the Pfizer Environmental, Social, & Governance Report 2020 (the “Report”) that Pfizer has allocated $296 million in net proceeds (the “Allocation”) from the issuance of its March 27, 2020, 2.625% Notes due April 1, 2030 (the “Sustainability Bond”) as of December 31, 2020 in accordance with the Use of Proceeds defined on pages S-6 and S-7 of the Prospectus Supplement dated March 25, 2020 (the “Prospectus Supplement”). Pfizer’s management is responsible for its assertion. Our responsibility is to express an opinion that the Allocation  was performed in accordance with the Use  of Proceeds based on our examination.Our examination was conducted in accordance with attestation standards established by the American Institute of Certified Public Accountants. Those standards require that we plan and perform the examination to obtain reasonable assurance about whether management’s assertion is fairly stated, in  all material respects. An examination involves performing procedures to obtain evidence about management’s assertion. The nature, timing,  and extent of the procedures selected depend on our judgment, including an assessment  of the risks of material misstatement of management’s assertion, whether due to  fraud or error. We believe that the evidence  we obtained is sufficient and appropriate to provide a reasonable basis for our opinion.Our examination was not conducted for the purpose of evaluating Pfizer’s Environmental, Social & Governance Report 2020 or any of the metrics contained herein. Thus, we did not audit or opine on the sufficiency, completeness, appropriateness or accuracy of the reporting criteria or methodology of such metrics. Accordingly, we do not express an opinion  or any other form of assurance other than  on whether the Allocation was performed  in accordance with the Use of Proceeds  set forth in the Prospectus Supplement.
+In our opinion, management’s assertion that  
+the Allocation was performed in accordance  with the Use of Proceeds, is fairly stated in  all material respects.
+New York, New York March 12, 2021
+50 En vironmental, Social & Governance Report 2020
+Governance Appendix Social Environment Bold Moves Introduction PerformanceContact and feedback
+We aim to develop our disclosure over time and welcome feedback and questions from readers.
+Please contact:Chris Gray 
+Head of ESG E Chris.Gray@pfizer.com T 212.733.2884
+Pfizer Inc. 
+235 East 42nd Street New York, NY 10017 www.pfizer.com
+BREAKTHROUGHS THAT 
+CHANGE PATIENTS' LIVES

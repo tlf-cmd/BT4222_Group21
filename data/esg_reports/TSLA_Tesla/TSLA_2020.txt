@@ -1,0 +1,2243 @@
+Impact Report
+2020
+12
+The very purpose of Tesla’s existence is to accelerate the world’s transition 
+to sustainable energy.
+The objective of an Environmental, Social and Governance (ESG) impact report is to disclose the impact a company has on those three areas, as well as to present, to the extent possible, data and other information qualifying 
+and quantifying that impact. 
+At Tesla, we strive to be the best on every metric relevant to our mission to 
+accelerate the world’s transition to sustainable energy. In order to maximize 
+our impact, we plan to continue increasing our production volumes and the accessibility of our products. In more concrete terms, this means that by 
+2030 we are aiming to sell 20 million electric vehicles per year (compared 
+to 0.5 million in 2020) as well as to deploy 1,500 GWh of energy storage per year (compared to 3 GWh in 2020). 
+If we were to achieve such a vehicle delivery milestone through a 
+consistent growth rate, the total Tesla vehicle fleet would surpass tens of 
+millions of vehicles by 2030 and each of those vehicles could save tons of 
+CO
+2from being emitted every year of usage. 
+Furthermore, each product we make must be continuously improved at 
+each step of its lifecycle: from manufacturing to consumer use to recycling. 
+We must also improve every metric, including the energy and water used to 
+make our products, how safe our customers and employees are and theIntroduction
+Focusing on What Matters
+affordability and accessibility of our products. All these themes will be 
+covered in this year’s Impact Report.
+Tesla aspires to do the right thing, and we are constantly looking for ways to do better. If you have suggestions about how our company can improve 
+in any way, feel free to send your ideas to impactreport@tesla.com
+. 
+Finally, it is important to note that current ESG evaluation methodologies 
+tend to use a generic template to analyze every manufacturing company’s 
+carbon footprint. Vehicle use phase, which realistically accounts for 80 -
+90% of total automotive emissions (included in Scope 3 of ESG reporting) 
+is repeatedly underreported. As use phase reporting guidelines remain 
+vague, OEMs often use unrealistic assumptions for lifetime mileage and 
+unrealistic fuel consumption figures rather than real -world figures. As a 
+result, it is not uncommon for the carbon footprint of the use phase to be 
+underreported by up to 50%. 
+Our estimates in this report use real -world mileage and real -world energy 
+consumption data sourced from our fleet of over one million cars on the 
+road to calculate greenhouse gas (GHG) savings. We believe that reporting 
+use phase emissions based on real -world fleet data should become an ESG 
+standard. 3We conducted our first -ever materiality analysis, the results of which 
+identified key areas that our stakeholders said they cared about and are 
+reflected in the content of this year’s Impact Report.
+To conduct the materiality analysis, we surveyed key stakeholders for Tesla, including Tesla’s Board of Directors, operational leadership, employees, 
+suppliers, investors and customers, as well as state and local policymakers, 
+to understand which ESG topics these groups find most relevant to our 
+business. Environmental impact is a front -and- center theme for 
+stakeholders, who are advocating for emissions reductions in both our 
+manufacturing processes and the charging of Tesla vehicles.Materiality Analysis
+Our stakeholders also want us to use industry best practices in a variety of ways –from human rights, to mining and recycling, to vehicle capacity 
+expansion and new factory construction. 
+Our discussions of each of these themes are listed in our Table of Contents 
+on the next page, and we dive into the details throughout this report. More 
+information about our materiality survey can be found on page 84.
+Focusing on What Matters  02
+Materiality Analysis 03
+Measuring What Matters 06Lifecycle Analysis of Tesla Vehicles vs. Average ICE
+NOx, Particulates and Other Pollutants
+Tesla SemiBattery Recycling
+Waste Generated per Vehicle Manufactured
+Water Used per Vehicle ManufacturedEmissions Credits
+Net Energy Impact of Our ProductsOur Response to COVID -19
+Our Environmental, Health and Safety Strategy
+Safety Improvements
+Rewarding the Individual
+Community Engagement
+Culture of Diversity, Equity and Inclusion
+Corporate GovernanceProduct Affordability (Price Equivalency)
+Product Usage and Usability
+Active SafetyPassive Safety
+Tesla Safety Awards
+Fire Safety
+Cybersecurity
+Resilience of the GridEnvironmental Impact 10
+Product Impact 32Responsible Material Sourcing
+Cobalt Sourcing
+Battery Materials SourcingSupply Chain 44
+People and Culture 54
+Summary 81
+Appendix 845
+In 2020, the global fleet of Tesla vehicles and solar panels 
+enabled our customers to avoid emitting
+5.0 million metric tons of CO2e
+The 3.5 million metric tons of vehicle CO2e savings estimate is based on the net CO2e savings during the use phase of a Tesla vehicle compared to an ICE vehicle with a real -world fuel 
+economy of ~25 mpg. The 1.5 million metric tons of solar CO2e savings estimate is based on CO2e avoided through generation of zero- emission electricity from Tesla solar panels.
+Distribution of our deliveries (both vehicle and solar), grid mix at the country, state and province level and upstream emissions are reflected in these figures.6012345
+GF
+Berlin
+(est.)*BMW GF
+Texas
+(est.)*Tesla
+(2020)FCA Industry
+Avg.VW
+GroupFord PSA GM Toyota Daimler
+(cars)Water Withdrawal Intensity in Vehicle Manufacturing 
+(m3/vehicle)
+Cell ManufacturingTesla vehicles’ all-in emissions per mile 
+are significantly lower than ICE vehicles’Capacity retention of Tesla vehicle batteries 
+averages ~90% after 200,000 miles of usageOur upcoming factories will set a new standard 
+for low energy and water usage per vehicle
+Global energy generation from Tesla -installed 
+solar panels far outpaces our total energy useCommodities we use are sourced responsibly
+and as locally as possibleWe are a majority -minority company0100200300400500
+Model 3
+Ridesharing Use
+(solar charged)Model 3
+Personal Use
+(solar charged)Model 3
+Ridesharing Use
+(grid charged)Model 3
+Personal Use
+(grid charged)Avg. Mid-Size
+Premium ICEAverage Lifecycle Emissions in U.S. (gCO2e/mi)
+Manufacturing Phase Use Phase0%20%40%60%80%100%
+0 25 50 75 100 125 150 175 200
+Distance Traveled (thousands of miles)Tesla Model S/X Battery Capacity Retention per 
+Distance Traveled
+Standard Deviation Retention
+-5,00005,00010,00015,00020,00025,000
+2012 2013 2014 2015 2016 2017 2018 2019 2020Cumulative Energy Produced by Tesla Solar Panels vs 
+Consumed by Tesla Factories
+Energy Consumed (GWh; fossil)* Energy Consumed (GWh; clean)*
+Energy Produced (GWh)Measuring What Matters
+Underrepresented Communities
+Representation in our U.S. Workforce
+20% 10% 24% 7% 32%
+Asian Black HispanicAdditional 
+GroupsWhite
+Underrepresented Communities in LeadershipRepresentation in our U.S. Workforce
+24% 4% 4% 1% 59%
+Asian Black HispanicAdditional 
+GroupsWhiteTesla 2020 Supply Chain List of Miners & Refiners for Purchased Cobalt Materials
+Battery Supply 
+ChainCobalt Miner & Refiner
+Sourced from 
+DRCSupplierRMI 
+Classification*
+Gigafactory 
+Nevada and 
+Fremont 
+external cell 
+sourcingYes Umicore Finland Oy (Finland) Conformant
+NoMurrin Murrin Nickel Cobalt Plant 
+(Australia)Conformant
+No Norilsk Nickel Harjavalta Oy (Finland) Active
+NoHarima Refinery, Sumitomo Metal Mining (Japan)Conformant
+No Sumitomo Metal Mining (Japan) Active
+NoGuandong Fangyuan Environment Co. Ltd. (China) Not Listed
+Gigafactory 
+ShanghaiYes Kamoto Copper Company (DRC) Conformant
+YesGuizhou CNGR Resource Recycling 
+Industry Development Co., Ltd. (China)Active
+Fremont in-
+house cell productionYes Kamoto Copper Company (DRC) Conformant
+YesQuzhou Huayou Cobalt New Material 
+Co., Ltd. (China)Active7Driven by Sustainability
+Mission and Tesla EcosystemSustainability drives us at Tesla. And not just our products —it drives our values and mission as a company. It’s at the core of 
+everything we do and is what motivates us in our work. It also matters greatly to our customers, employees and shareholders. 
+Our products and services are focused on transportation and energy production and storage —traditionally some of the biggest 
+polluters both in the U.S. and globally.
+To achieve a zero -emissions future, we have implemented several programs and initiatives at our global manufacturing facilities 
+and in the communities in which we operate. These programs provide clean energy to local schools, nonprofits and everything 
+in between.
+Electricity & 
+Heat 
+Production*
+31%
+Transportation*
+17%Industry
+19%Agriculture, Forestry 
+& Other Land Use
+15%Building
+6%Other
+12%Global 
+Greenhouse Gas (GHG) Emissions 
+by Economic Sector
+Electricity & 
+Heat 
+Production*
+35%
+Transportation*
+30%Industry
+12%Building
+11%Agriculture, Forestry & 
+Other Land Use
+3%Other
+9%U.S. 
+Greenhouse Gas (GHG) Emissions 
+by Economic Sector
+*Tesla -related sectors. Source: World Resources Institute8
+Driven by Sustainability
+Mission and Tesla EcosystemAddressing climate change through an entire ecosystem
+Climate change is reaching alarming levels globally due in large part to emissions from burning fossil fuels for transportation 
+and electricity generation. The world cannot reduce CO2emissions without addressing both energy generation and 
+consumption. And the world cannot address its energy habits without first directly reducing emissions in the transportation a nd 
+energy sectors.
+We are designing and manufacturing a complete energy and transportation ecosystem . We not only develop the technology 
+behind this ecosystem, but we also focus heavily on the affordability of our products that comprise it. We seek to achieve th is 
+through our R&D and software development efforts as well as through our continuous drive to develop advanced manufacturing 
+capabilities. This is not only the right thing to do, but it also makes economic sense. 9Driven by Sustainability
+Management and OversightManagement involvement
+Our ESG Sustainability Council, made up of leaders from across Tesla, collects data and prepares the analysis and content of 
+this report. The Sustainability Council also regularly presents this information to Tesla’s Board of Directors for review.
+Board of Directors oversight
+The Board of Directors serves as a prudent fiduciary for shareholders and oversees the management of Tesla’s business –
+including oversight of Tesla’s ESG impacts, initiatives and priorities. With those responsibilities in mind, the Board sets high
+standards for Tesla and its employees, officers and directors. Implicit in this approach is the importance of sound corporate
+governance. 
+10
+Environmental 
+Impact11
+Introduction In this section of the Impact Report, we will go over the details and calculations of the lifetime environmental impact of our 
+products.
+Our lifecycle analysis (LCA) combines Scope 1 and 2, and material Scope 3 emissions* for a Fremont -made Model 3
+While we are implementing processes to be able to measure and report Scope 1, 2 and 3 emissions on an enterprise level 
+starting with our 2021 report, for the purpose of this report, we have conducted an LCA which includes the vast majority of 
+Scope 1, 2 and 3 emissions, including the vehicle manufacturing phase, emissions from our supply chain, vehicle use and end- of-
+life for a Fremont -made Model 3. While not a perfect measure, given the importance of the Model 3 and its high volume of 
+deliveries since 2018, it is a good proxy for understanding the emissions impact of our vehicle business. The details and 
+boundaries of this LCA analysis are described on page 90. Our goal is to eventually produce an LCA for each of our products i n 
+addition to reporting our Scope 1, 2 and 3 emissions.
+EVs undeniably generate less lifetime greenhouse gas emissions than ICE vehiclesWe are often asked if electric vehicles (EVs) are more sustainable than internal combustion engine (ICE) vehicles. The 
+environmental impact of zero- emission transport and energy products, like the products that Tesla produces and sells, is 
+undeniably more positive than the GHG -emitting alternatives. This becomes more pronounced when determining the lifetime 
+impact of EVs versus ICE vehicles, which requires looking at the entire lifecycle —from raw materials to use phase emissions to 
+disposal —and not just at vehicle usage emissions.
+Variables often overlooked by other lifecycle studies:
+•Using Worldwide Harmonized Light Vehicle Test Procedure (WLTP) or Environmental Protection Agency (EPA) fuel/energy 
+consumption data (both of which overestimate fuel -economy and underestimate emissions) rather than real -world data;
+•Not considering the higher energy efficiency of Tesla’s powertrains;
+•Assuming the average EV needs a battery replacement at some point in its life;
+•Not considering emissions generated through the oil refining and the transportation process; and
+•Using outdated data for the carbon impact of cell manufacturing.
+We try to address these considerations and complexities in deriving a more accurate calculation in the following lifecycle 
+analysis.5,340 miles
+The manufacturing process of a Model 3 currently results in slightly 
+higher GHG emissions than an equivalent combustion engine vehicle. However, based on the global weighted average grid mix, a Model 3 
+has lower lifetime emissions than an equivalent ICE after driving 5,340 
+miles.
+*For a definition of Scope 1, 2 and 3 emissions see page 90 of this report. 12Lifecycle Analysis of Tesla EVs vs.
+Equivalent ICE Vehicles
+69 tons
+Lifetime CO2e emitted by an average internal combustion engine 
+vehicle (model year 2020) sold in the U.S. through its use phase, 
+excluding CO2e emitted during the oil refining phase.Using only real -world data, not official NEDC, WLPT or EPA* consumption data
+The most important variable in a lifecycle analysis of an automobile is real -world fuel consumption or electricity consumption, 
+as applicable, which impacts the use phase of the lifecycle. Various efficiency testing cycles such as NEDC, WLTP or EPA do not 
+truly represent real -world fuel or energy consumption. Therefore, for the purpose of this analysis, we used average energy 
+consumption over the more than 10 billion miles Tesla Model 3s have travelled as of December 31, 2020, including energy losse s 
+during the charging process. For ICE vehicles, we used real -world fuel consumption data provided by Consumer Reports, which 
+reports model year 2020 mid -size premium sedans achieve 24.8 MPG on average. This translates to ~400 grams of CO2per mile 
+once we account for emissions generated through the extraction, refining and shipment of oil.
+The carbon impact of ICE vehicles remains the same every year of use, but for EVs, it should improve every yearBased on publicly available sales and fleet data, we estimate that an average vehicle in the U.S. is driven slightly less tha n 
+12,000 miles per year for about 17 years before it is scrapped. Furthermore, as an ICE vehicle ages, its fuel efficiency only
+remains stable if serviced properly. On the other hand, electricity generation to charge EVs has become “greener” over time 
+with the addition of cleaner energy sources to the grid. Thus, emissions generated through EV charging should continue to 
+decline over time.
+On the following pages, we will show the per mile lifecycle emissions of a current Fremont -made Model 3
+This includes emissions from upstream supply chain, direct emissions from manufacturing and electricity consumption, and use 
+phase emissions when charged from a grid with a generation mix that reflects the geographic distribution of Model 3 deliverie s 
+in each of the U.S., Europe and China. Below are the lifecycle emissions scenarios we show, and the assumptions used in each of 
+the charts on the following pages:
+•What emissions per mile could be if a Model 3 were used for ridesharing over one million miles using cell chemistry from 
+Tesla energy products.
+•What emissions per mile could be if a Model 3 were principally charged at home using a solar system and energy storage.
+•What emissions per mile could be if a Model 3 were used for ridesharing over one million miles using cell chemistry from our energy products and if it were only charged using a solar system and energy storage.
+•The reference ICE vehicle is based on the average mid -size premium sedan in the U.S.
+•Charging a Model 3 using solar panels and a Powerwall adds emissions to the manufacturing phase while reducing use phase emissions to as low as zero when 100% of charging is done using that system.
+•We assume no additional renewable energy capacity on the grid during the life of the vehicle given the shape of the 
+renewable energy adoption curve is still very much up for debate.
+* NEDC = New European Driving Cycle; WLPT = Worldwide Harmonised Light Vehicles Test Procedure; EPA = U.S. Environmental Protection Agency13The electricity grid keeps getting cleaner, while emissions from ICE vehicles do not
+While the makeup of the electricity grid varies from region to region, charging EVs is becoming less carbon intensive every y ear. 
+In the U.S., coal has historically been the dominant energy source for generating electricity. However, in the last decade, c oal
+power has declined significantly as regions turn to cleaner energy sources, such as wind and solar. Energy generated 
+byrenewable sources has grown rapidly —in 2021, wind, solar and battery storage are expected to account for an estimated 81% 
+of new electricity generation capacity in the U.S. Many U.S. states (such as New York, referenced in the chart below) have been 
+making significant investments in renewable energy, as these sustainable options become more cost competitive compared to 
+fossil fuel resources.
+To put this in perspective, average GHG emissions from charging one New York -based Tesla vehicle equates to the emissions 
+from an ICE vehicle with a fuel economy of 135 MPG (no such vehicle is on the market). Even when charging a Tesla in Michigan, 
+where approximately 60% of energy comes from natural gas and coal, the emissions from our vehicles still equates to the 
+emissions from an ICE vehicle with 59 real -world MPG (considerably more in terms of EPA rated MPG). As more regions adopt 
+sustainable energy solutions to generate power, emissions related to charging an EV from the grid will decrease even further.
+EV customers can increase their renewable energy mix by installing solar panels or a Solar Roof and an energy storage solution, 
+such as Powerwall, in their homes. This dramatically reduces the lifetime carbon footprint of an EV, even when accounting for
+the carbon footprint of both the solar panel/Solar Roof and Powerwall manufacturing and upstream supply chain.EV vs. ICE Vehicle Emissions per Mile
+United States
+0100200300400500
+Model 3
+Ridesharing Use
+(solar charged)Model 3
+Personal Use
+(solar charged)Model 3
+Ridesharing Use
+(grid charged)Model 3
+Personal Use
+(grid charged)Avg. Mid-Size
+Premium ICEAverage Lifecycle Emissions in New York State (gCO2e/mi)
+Manufacturing Phase Use Phase0100200300400500
+Model 3
+Ridesharing Use
+(solar charged)Model 3
+Personal Use
+(solar charged)Model 3
+Ridesharing Use
+(grid charged)Model 3
+Personal Use
+(grid charged)Avg. Mid-Size
+Premium ICEAverage Lifecycle Emissions in U.S. (gCO2e/mi)*
+Manufacturing Phase Use PhaseShift to 
+greener 
+grid
+*gCO2e/mi = grams of CO2-equivalent per mile driven140100200300400500
+Model 3
+Ridesharing Use
+(solar charged)Model 3
+Personal Use
+(solar charged)Model 3
+Ridesharing Use
+(grid charged)Model 3
+Personal Use
+(grid charged)Avg. Mid-Size
+Premium ICEAverage Lifecycle Emissions in Austria (gCO2e/mi)
+Manufacturing Phase Use Phase0100200300400500
+Model 3
+Ridesharing Use
+(solar charged)Model 3
+Personal Use
+(solar charged)Model 3
+Ridesharing Use
+(grid charged)Model 3
+Personal Use
+(grid charged)Avg. Mid-Size
+Premium ICEAverage Lifecycle Emissions in Europe (gCO2e/mi)
+Manufacturing Phase Use PhaseA cleaner grid in Europe means a bigger emissions gap between Model 3 and a comparable ICE vehicle
+In Europe, the U.K. and EFTA (Iceland, Liechtenstein, Norway and Switzerland), larger portions of energy generation come from
+either renewable sources or nuclear, which means that in Europe the use phase emissions gap between ICEs and EVs is even 
+wider than it is in the U.S.
+On the other hand, since an average European driver covers fewer miles per year than a U.S. driver, emissions from the 
+manufacturing phase are divided by fewer miles. While in the U.S., an average vehicle covers 200,000 miles before getting 
+scrapped, in Europe, total mileage is closer to 150,000 miles.
+We used Austria as an example of how use phase emissions should evolve once the European grid becomes greener. As seen in 
+the chart on the right, in Austria, all -in lifecycle emissions of a personal, grid- charged Model 3 are more than 4x lower than a ll-in 
+lifecycle emissions of an equivalent ICE vehicle.EV vs. ICE Vehicle Emissions per Mile
+European Union, U.K. & EFTA
+Shift to 
+greener 
+grid150100200300400500
+Model 3
+Ridesharing Use
+(solar charged)Model 3
+Personal Use
+(solar charged)Model 3
+Ridesharing Use
+(grid charged)Model 3
+Personal Use
+(grid charged)Avg. Mid-Size
+Premium ICEAverage Lifecycle Emissions in Sichuan Province (gCO2e/mi)
+Manufacturing Phase Use Phase0100200300400500
+Model 3
+Ridesharing Use
+(solar charged)Model 3
+Personal Use
+(solar charged)Model 3
+Ridesharing Use
+(grid charged)Model 3
+Personal Use
+(grid charged)Avg. Mid-Size
+Premium ICEAverage Lifecycle Emissions in China (gCO2e/mi)
+Manufacturing Phase Use PhaseDespite a higher -emissions grid in China, Model 3 still has lower emissions than comparable ICE vehicles
+In China, much of the grid is powered by coal. That said, even in this scenario, charging a Tesla Model 3 from the grid is st illless 
+emission intensive than running an ICE vehicle. Just like in Europe, we have assumed a vehicle lifetime of 150,000 miles.
+We are expecting the grid mix in China to improve dramatically over time as China remains a dominant deployer and 
+manufacturer of renewable energy. Sichuan Province (with a population of 81 million) is a great example of this. In this prov ince, 
+given the high percentage of renewable energy penetration, charging an EV from the grid is less polluting than charging an EV
+in most global countries or states.
+In conclusion, even as of 2020, charging a Tesla Model 3 in any of our major markets is more environmentally friendly than 
+burning gasoline. Considering that vehicles are used for 17 to 20 years before getting scrapped, it is reasonable to assume t hat
+in the coming years, the gap in emissions per mile between EVs and ICEs will only get wider.EV vs. ICE Vehicle Emissions per Mile
+China
+Shift to 
+greener 
+grid160100200300400500
+Model 3
+Ridesharing Use
+(solar charged)Model 3
+Personal Use
+(solar charged)Model 3
+Ridesharing Use
+(grid charged)Model 3
+Personal Use
+(grid charged)Avg. Mid-Size
+Premium ICEAverage Lifecycle Emissions in U.S. (gCO2e/mi)
+Manufacturing Phase Use PhaseReducing Carbon Footprint Even Further
+Improving Powertrain EfficiencyEfficiency of a Prius, performance of a Porsche
+Tesla vehicles are known to have the highest energy efficiency of any EV built to date. In the early days of Model S producti on,
+we were able to achieve energy efficiency of 3.1 EPA miles / kWh. Today, our most efficient Model 3 Standard Range Plus (SR+)
+achieves an EPA range of 5.1 miles / kWh, higher than any EV in production to date. Model Y all -wheel drive (AWD) achieves 4.2 
+EPA miles / kWh, which makes it the most efficient electric SUV produced to date. The gap between Tesla AWD vehicle 
+efficiency continues to stand out compared to competitors in the same segment. While achieving the best -in-class energy 
+efficiency, our AWD models can accelerate to 60 mph in just 3.7 seconds (4.2s for Model Y) and reach a top speed of 145 mph 
+(135 mph for Model Y). In isolation, high energy efficiency is already difficult to achieve, but getting both performance and
+efficiency is the tricky part.
+Tesla Robotaxis will be even more energy efficient
+The energy efficiency of Tesla vehicles will continue to improve over time as we continue to improve our technology and 
+powertrain efficiency. It is also reasonable to assume that our high- mileage products, such as our future Tesla Robotaxis, will be 
+designed for maximum energy efficiency as handling, acceleration and top speed become less relevant. This will minimize cost for our customers as well as reduce the carbon footprint per mile driven.
+*Tesla estimate; Source: OEM websites, ev -database.org012345
+Model Y VW
+ID.4Ford
+Mach EJaguar
+iPaceAudi
+e-tronMercedes
+EQC*Energy Efficiency -EPA range in miles/kWh
+Small SUVs (AWD)
+012345
+Model 3 AWD Polestar 2 BMW i4 M50 Audi e-tron
+SportsbackEnergy Efficiency -EPA range in miles/kWh
+Mid-sized sedans (AWD)
+Impacted by EV 
+motor efficiency 170100200300400500
+Model 3
+Ridesharing Use
+(solar charged)Model 3
+Personal Use
+(solar charged)Model 3
+Ridesharing Use
+(grid charged)Model 3
+Personal Use
+(grid charged)Avg. Mid-Size
+Premium ICEAverage Lifecycle Emissions in U.S. (gCO2e/mi)
+Manufacturing Phase Use PhaseWhile emissions from the manufacturing phase can account for a relatively minor portion of lifetime vehicle emissions when 
+compared to the use phase, it is still an important part of lifecycle emissions. These are the steps that we are taking to re duce 
+themanufacturing GHG footprint:
+1.  Building new, better designed, more efficient vehicle factories
+Building a factory from the ground up with sustainability in mind can have a material impact on reducing energy use. For each
+component that requires less movement around the factory, and as we use fewer robots in the vehicle production process, energy consumption declines.
+Our Fremont Factory, where we started operation in 2010, was built over 60 years ago by established automotive original 
+equipment manufacturers (OEM). While substantial improvements have been implemented since, it was not possible to 
+fundamentally change the layout of this facility. In contrast, Tesla’s newer factories are built by us from the ground up and
+designed to be sustainable and efficient. For example, a delivery truck can back up and offload components at the exact part of 
+the production line where such components are needed— reducing emissions associated with the production process.
+In our quest for constant improvement, we build each new factory to be better and more sustainably designed than the 
+previous one. While we have already completed substantial improvements at Gigafactory Shanghai, further improvements will 
+continue at Gigafactory Berlin- Brandenburg and Gigafactory Texas.Reducing Carbon Footprint Even Further
+Tesla Manufacturing Footprint: 
+Current Actions
+Impacted by energy -
+efficient factories
+Model 3 in Fremont, CA Model 3 in Gigafactory Shanghai180100200300400500
+Model 3
+Ridesharing Use
+(solar charged)Model 3
+Personal Use
+(solar charged)Model 3
+Ridesharing Use
+(grid charged)Model 3
+Personal Use
+(grid charged)Avg. Mid-Size
+Premium ICEAverage Lifecycle Emissions in U.S. (gCO2e/mi)
+Manufacturing Phase Use Phase
+While emissions from the manufacturing phase can account for a relatively minor portion of lifetime vehicle emissions when 
+compared to the use phase, it is still an important part of lifecycle emissions. These are the steps that we are taking to re duce 
+themanufacturing GHG footprint:
+2.Production localization
+Prior to the end of 2019, all our vehicles were produced in a single location, California (with batteries and powertrains from Nevada), and shipped to the rest of the world. As Tesla’s operating cash flows improved substantially ($2.1B in 2018, $2.4B i n 
+2019 and $5.9B in 2020), we were able to start global expansion of our vehicle manufacturing footprint. Since the vast majori ty 
+of our demand comes from North America, Europe and China, we wanted to make sure we could produce and deliver vehicles locally from each of these locations.
+a)Fremont Factory + Gigafactory Nevada (open since 2017)
+b)Gigafactory Shanghai (open since 2019)
+c)Gigafactory Berlin -Brandenburg (will open in late 2021)
+d)Gigafactory Texas (will open in late 2021)Reducing Carbon Footprint Even Further
+Tesla Manufacturing Footprint: 
+Current Actions
+Impacted by 
+production localizationFormer approach New approach19North 
+America
+73%Other
+27%
+0100200300400500
+Model 3
+Ridesharing Use
+(solar charged)Model 3
+Personal Use
+(solar charged)Model 3
+Ridesharing Use
+(grid charged)Model 3
+Personal Use
+(grid charged)Avg. Mid-Size
+Premium ICEAverage Lifecycle Emissions in U.S. (gCO2e/mi)
+Manufacturing Phase Use PhaseWhile emissions from the manufacturing phase can account for a relatively minor portion of lifetime vehicle emissions when 
+compared to the use phase, it is still an important part of lifecycle emissions. These are the steps that we are taking to re duce 
+themanufacturing GHG footprint:
+3.Supply chain localization
+In alignment with our mission, Tesla believes in reducing emissions upstream of our factories, including the carbon footprint of
+our supply chains. When it comes to subcomponent manufacturing, such as the instrument panel and large stamped portions of the vehicle body, we believe the closer they are manufactured to our factories, the better. Localizing suppliers reduces the 
+distance parts need to travel before they are assembled into our vehicles, and reduces the emissions associated with 
+transportation. Supplier localization also supports the local community and its workforce and reduces the risk of a supply disruption due to geopolitical dynamics. While some components (for example, semiconductors) are and will continue to be 
+fabricated at highly specialized manufacturing facilities in specific locations around the globe, heavy vehicle parts will increasingly be produced near our Gigafactories in order to be closer to our vehicle manufacturing process.
+As a testament to Tesla’s localization efforts and our strategy to manufacture key modules, such as the battery pack, drive u nit
+and seating in- house at Tesla, Tesla’s Model 3 was recently awarded the top spot (Model Y was third) on the Cars.com
+American -Made Index. The index ranks vehicles using five factors: assembly location, parts content, engine (powertrain) origin, 
+transmission origin and U.S. manufacturing workforce. Reducing Carbon Footprint Even Further
+Tesla Manufacturing Footprint: 
+Current Actions
+Impacted by supply 
+chain localizationVehicle Manufacturing in California, USA Vehicle Manufacturing in Shanghai, China
+China
+86%Other
+14%
+Component origin calculations are based on expenditures for non-Tesla produced Model 3 and Model Y vehicle components purchased in the fourth quarter of 2020. 
+Location information is based on country -of-origin data as captured through Tesla’s external supply base.Origin of Non -Tesla Produced Vehicle Components 
+Model 3/Y 200100200300400500
+Model 3
+Ridesharing Use
+(solar charged)Model 3
+Personal Use
+(solar charged)Model 3
+Ridesharing Use
+(grid charged)Model 3
+Personal Use
+(grid charged)Avg. Mid-Size
+Premium ICEAverage Lifecycle Emissions in U.S. (gCO2e/mi)
+Manufacturing Phase Use PhaseWhile emissions from the manufacturing phase can account for a relatively minor portion of lifetime vehicle emissions when 
+compared to the use phase, it is still an important part of lifecycle emissions. These are the steps that we are taking to re duce 
+themanufacturing GHG footprint:
+4.  Covering roof space with solar panels
+Gigafactory Nevada was designed to be covered with solar panels. To date, we have installed solar panels with a capacity of 
+3,200 KW. This installation will grow to about 24,000 KW —the whole roof of the current building structure —by the end of next 
+year. This will make it the largest rooftop solar installation in the U.S. We are installing solar panels at other locations, too, such 
+as our Fremont Factory, Lathrop factory and Gigafactory New York.Reducing Carbon Footprint Even Further
+Tesla Manufacturing Footprint: 
+Current Actions
+Impacted by energy -
+efficient factories
+21
+0100200300400500
+Model 3
+Ridesharing Use
+(solar charged)Model 3
+Personal Use
+(solar charged)Model 3
+Ridesharing Use
+(grid charged)Model 3
+Personal Use
+(grid charged)Avg. Mid-Size
+Premium ICEAverage Lifecycle Emissions in U.S. (gCO2e/mi)
+Manufacturing Phase Use PhaseReducing Carbon Footprint Even Further
+Tesla Manufacturing Footprint: 
+Upcoming Plans
+Impacted by energy -
+efficient factoriesWe will not be content until all of our factories become carbon neutral, and there are other projects that we are working on to 
+further reduce emissions. In order to reduce the cost of our vehicles and batteries, we also need to use less energy to produce them. Many of the projects created to achieve this goal were showcased at our Battery Day presentation in September 2020.
+5. Transitioning to in- house manufactured 4680 Tesla cells, whose production process can reduce energy consumption by 70%
+At Tesla’s 2020 Battery Day, we presented a novel way that cells can be manufactured using a dry electrode process. Current 
+electrode production processes involve mixing liquids with cathode or anode powders and using massive machinery to coat and dry the electrode. Since this process involves large ovens, today’s cell production consumes a lot of energy. The new dry -
+electrode process allows for the direct transition from a cathode or anode powder to an electrode film, reducing energy consumption in the overall cell manufacturing phase by at least 70% based on our latest analysis.
+6.Transitioning to in -house cathode material manufacturing
+While transitioning to in- house cathode materials should take longer than transitioning to in -house cells, our cathode materials
+manufacturing process has the potential to reduce energy use in this step of the process (currently undertaken by suppliers) by 
+40%.
+7.Utilizing renewable energy as much as possible throughout all our operations
+It is our intention to shift energy consumption toward renewable energy as quickly as possible throughout our operations, 
+whether its at our factories, sales, service or delivery locations, or through our Supercharger Network.220100200300400500
+Model 3
+Ridesharing Use
+(solar charged)Model 3
+Personal Use
+(solar charged)Model 3
+Ridesharing Use
+(grid charged)Model 3
+Personal Use
+(grid charged)Avg. Mid-Size
+Premium ICEAverage Lifecycle Emissions in U.S. (gCO2e/mi)
+Manufacturing Phase Use PhaseOur batteries are designed to function for the entire life of the vehicle
+Tesla’s battery packs are designed to outlast the vehicle. We estimate that a vehicle gets scrapped after approximately 200,000 
+miles of usage in the U.S. and roughly 150,000 miles in Europe. Creating a battery that could instead last for 1,000,000 mile s 
+(4,000 charging cycles) would dramatically reduce the emissions per mile driven for high- mileage vehicles such as taxis, 
+delivery vans or trucks. This is clear when comparing the per mile emissions of a Model 3 for personal use versus ridesharing 
+use –the per mile emissions from the use phase remain the same, but the emissions per mile from the manufacturing phase are 
+substantially lower because the emissions are spread over many more miles.
+Producing Robotaxis is a core part of our mission to accelerate the world's transition to sustainable energy
+All vehicles in the world combined travel trillions of miles every year. A relatively small number of vehicles, such as taxis , 
+delivery vans, trucks and buses account for a disproportionate amount of vehicle miles and, as a result, a disproportionate 
+amount of emissions. A single future Tesla vehicle with a million -mile battery could be utilized over five -times more than an 
+average vehicle in the U.S. After being fully optimized, and even once it is scrapped, a battery can still be recycled and it s 
+materials used in a brand -new battery.Reducing Carbon Footprint Even Further
+Increasing Vehicle Utilization
+Increasing 
+Vehicle Utilization
+0%20%40%60%80%100%
+0 25 50 75 100 125 150 175 200
+Distance Traveled (thousands of miles)Tesla Model S/X Battery Capacity Retention per Distance Traveled
+Standard Deviation Retention23Pollution from burning fossil fuels leads to eight million premature deaths globally each year
+According to recently published research in Environmental Research by Harvard University, in collaboration with the University 
+of Birmingham, the University of Leicester and University College London, air pollution causes over eight million premature 
+deaths annually. That is double the previous estimate of deaths from the negative effects of fine -particle pollution and would 
+account for one -in-five premature deaths worldwide. This is a major advantage of EVs that is often forgotten about as the 
+overall EV debate tends to focus on greenhouse gases. EVs are not just about the future of our planet, but very much about addressing preventable deaths today.
+While air -quality is often categorized as a problem in developing countries, Nitrogen oxide (NOx) and other PM2.5 particulates* 
+cause significant issues in developed countries as well. In Europe alone, almost 800,000 people die prematurely every year du e 
+to pollution- related illnesses. EVs not only reduce the world's total carbon footprint, but also help to reduce city pollution.
+Lockdowns have shown how clean cities could look
+Cities around the world are gradually setting targets for banning diesel vehicles, which are known for their high NOx and 
+particulate emissions. We have seen throughout the first half of 2020 that air quality can rapidly improve with the reduction of
+ICE-related traffic as the restrictions on business and travel due to COVID -19 led to dramatically fewer miles being driven. It is 
+not hard to imagine that many cities could become electric -only in the near future as they were able to witness the positive 
+impact that fewer ICE vehicles on the road has on air quality.NOx, Particulates and Other Pollutants
+Pollution in the Italian Alps prior to stay -at-home orders
+*PM2.5 refers to atmospheric particulate matter (PM) that have a diameter of less than 2.5 micrometers and include combustion particles, organic compounds, metals, etc.
+Image: Flavio Lo Scalzo /ReutersPollution in the Italian Alps during COVID -19 lockdowns
+24
+Tesla Semi
+Reducing Fleetwide Emissions
+1.1%
+98.9%% of U.S. Vehicle Fleet
+Combination Trucks Rest of Fleet17.0%
+83.0%% of U.S. Vehicle Emissions
+Combination Trucks Rest of FleetVery few combination trucks are on the road, but account for 17% of total vehicle emissions
+Combination trucks -of which the vast majority are semi trucks -in the U.S. account for just 1.1% of the total fleet of vehicl es on 
+the road. That said, because combination trucks have high fuel consumption due to their weight and heavily utilization, they 
+account for approximately 17% of all U.S. vehicle emissions. Electrifying the heavy -duty truck segment is an essential part of 
+transitioning the world to sustainable energy.
+Payload equal to a diesel truckWith both the U.S. and E.U. having approved higher weight allowances for electric heavy -duty trucks, we expect the payload to 
+be at least as high as it would be for a diesel truck. In the E.U., electric semi trucks are allowed to be 2 tons (~4,400 pou nds) 
+heavier than diesel equivalents, and in the U.S. the allowance is 0.9 tons (2,000 pounds). When fully loaded, the Tesla Semi 
+should be able to achieve over 500 miles of range, achieved through aerodynamics and highly efficient motors. This truck will
+be able to reach an efficiency of over 0.5 miles per kWh.
+While most heavy trucking journeys are shorter than 500 miles, we want long- distance hauling to also be sustainable. We are in 
+the process of developing a Megacharger network at trucking rest stops across the U.S. and Europe, where each Tesla Semi 
+could top up their range.25
+Extracting raw 
+materialsA common question we receive is: “What happens to Tesla battery packs once they reach the end of 
+their life?” An important distinction between fossil fuels and lithium -ion batteries as an energy source is 
+that while fossil fuels are extracted and used once, the materials in a lithium -ion battery are recyclable. 
+When petroleum is pumped out of the ground, chemically refined and then burned, it releases toxic 
+emissions into the atmosphere that are not recoverable for reuse. Battery materials, in contrast, are 
+refined and put into a cell and will remain in the cell at the end of their life when they can be recycled 
+to recover valuable materials for reuse repeatedly.
+Longer battery longevity is the most sustainable option
+Battery pack life extension is the superior option to recycling for both environmental and business 
+reasons. This is why before decommissioning and recycling a consumer battery pack, Tesla does 
+everything it can to extend the useful life of each battery pack, including sending out over -the-air 
+software updates to Tesla vehicles to improve battery efficiency when our engineers find new ways to do so. In addition, any battery that is no longer meeting a customer’s needs can be serviced at a Tesla 
+service center.
+Every battery used in R&D or returned from the field that cannot be remanufactured are recycled
+Tesla batteries, including the battery packs in our vehicles and our energy storage products, are made 
+to last many years, and therefore, we have only received a limited number of these batteries back from the field. Most batteries that Tesla recycles today are pre- consumer, coming to us through R&D and 
+quality control. None of our scrapped lithium -ion batteries go to landfills and 100% are recycled. 
+Furthermore, Tesla has an established internal ecosystem to re -manufacture batteries coming from the 
+field to our service centers. We actively implement circular economy principles and consider all other 
+options before opting for battery recycling.
+The small number of post -consumer batteries that we receive are primarily generated from our fleet of 
+vehicles on the road, predominantly from taxi -like vehicles. Since we have only been producing Model S 
+(our oldest model) for approximately nine years, and our energy storage products for even less time, it 
+will likely be some time before we start receiving back vehicle batteries in larger volumes.Battery Materials LifecycleBattery Recycling26
+While Tesla works with third -party recyclers, we are also recycling in -house
+In the fourth quarter of 2020, Tesla successfully installed the first phase of our cell recycling facility at Gigafactory Nev adafor 
+in-house processing of both battery manufacturing scrap and end- of-life batteries. While Tesla has worked for years with third -
+party battery recyclers to ensure our batteries do not end up in a landfill, we understand the importance of also building 
+recycling capacity in -house to supplement these relationships. Onsite recycling brings us one step closer to closing the loop on
+materials generation, allowing for raw material transfer straight to our nickel and cobalt suppliers. The facility unlocks th e cycle 
+of innovation for battery recycling at scale, allowing Tesla to rapidly improve current designs through operational learnings and 
+to perform process testing of R&D products. 
+Every Tesla battery factory will recycle batteries on site
+As the manufacturer of our in- house cell program, we are best positioned to recycle our products efficiently to maximize key 
+battery material recovery. With the implementation of in -house cell manufacturing at Gigafactory Berlin- Brandenburg and 
+Gigafactory Texas, we expect substantial increases in manufacturing scrap globally. We intend to tailor recycling solutions t o 
+each location and thereby re -introduce valuable materials back into our manufacturing process. Our goal is to develop a safe 
+recycling process with high recovery rates, low costs and low environmental impact. From an economic perspective, we expect 
+to recognize significant savings over the long term as the costs associated with large -scale battery material recovery and 
+recycling will be far lower than purchasing additional raw materials for cell manufacturing.Battery Recycling at Gigafactory Nevada
+Global annual amount of lithium -ion battery metals sent for recycling 
+by Tesla in 2020:
+1,300
+Tons of Nickel
+400
+Tons of Copper
+80
+Tons of Cobalt
+A closed -loop battery recycling process presents a compelling 
+solution to move energy supply away from the fossil -fuel based 
+practice of take, make and burn, to a more circular model of recycling 
+end-of-life batteries for reuse over and over again.
+“Black mass” awaiting enrichment at Tesla’s 
+recycling facility in Nevada.
+27Waste Generated 
+Per Vehicle ManufacturedAs Tesla builds more efficient factories, our waste per vehicle decreases
+Building localized factories both makes sense economically and reduces waste. Because the automotive supply chain doesn’t 
+have a strong presence on the West Coast of the U.S, many components need to be shipped from long distances, requiring 
+excessive packaging and creating more waste than necessary.
+Second, modern factories are better designed for material flow. Trailer entry points surround the whole factory, which means 
+that components can be offloaded precisely at the part of the factory where they are needed. Less material flow results in le ss 
+waste, because a shorter journey requires less protective packaging. The chart below shows that waste generation per vehicle 
+at Gigafactory Shanghai is about half of what it is in the U.S. We are expecting our upcoming factories such as Gigafactory 
+Berlin -Brandenburg and Gigafactory Texas to continue the same trend.
+Any materials that are possible to recycle, we recycle
+The vast majority of generated waste, such as paper, plastics and metals, is recyclable. At Gigafactory Shanghai, for example , 
+just 4% of total waste generated is not recyclable.
+We continue to push for innovative approaches to reducing waste, which includes reduction of non- recyclable materials in the 
+first place, learning from local factories and deploying improvements globally or working with our logistics team to minimize
+shipments and packaging per vehicle.
+0200400600
+Global Vehicle Manufacturing Legacy Manufacturing Sites New Manufacturing SitesWaste Generated Per Vehicle (2020; kg/vehicle)
+Waste Diverted from Disposal (Recycled) Waste Directed to Disposal
+•Global Vehicle Manufacturing = all major factories dedicated to vehicle manufacturing, including the Fremont Factory and supp orting facilities, Gigafactory Nevada, and 
+Gigafactory Shanghai.
+•Legacy Manufacturing Sites = Gigafactory Nevada, Fremont Factory and supporting facilities.
+•New Manufacturing Sites = Gigafactory Shanghai.28Water Used Per Vehicle Manufactured
+Current State
+012345
+GF Berlin
+(est.)*BMW GF Texas
+(est.)*Tesla
+(2020)FCA Industry
+Avg.VW
+GroupFord PSA GM Toyota Daimler
+(cars)Water Withdrawal Intensity in Vehicle Manufacturing (m3/vehicle)
+Cell ManufacturingCurrently, Tesla uses less water per vehicle than almost any ICE carmaker
+There is a misconception that producing an EV requires more water than producing an ICE vehicle. Our data shows this is not 
+the case. While each automaker may draw their boundaries slightly differently (depending on how vertically integrated they 
+are), according to the latest publicly available figures, Tesla withdrew less water at facilities dedicated to vehicle manufa cturing 
+per vehicle produced than the majority of established carmakers. Furthermore, the efficient manufacturing design we are 
+implementing at our new factories in Texas and Berlin- Brandenburg will result in further reductions in our water usage per 
+vehicle. Our goal is to have industry -leading low water usage per vehicle, even when accounting for cell manufacturing. The 
+below chart includes our latest estimates for water usage per vehicle at those facilities.
+Water usage and power generationWhile many recognize the impact that power generation has on CO
+2emissions, its impact on water consumption is less 
+appreciated. Power generation is one of the leading causes of water withdrawal in the U.S., as water for thermoelectric power is
+used to generate electricity with steam -driven turbine generators andto cool power -producing equipment. This means that 
+every kilowatt- hour (kWh) of clean solar energy produced not only lowers CO2emissions, but also lowers water consumption.
+*Latest estimate for water consumption based on factory design. Actual production figures will not be known until factories a re ramped to full production speed.
+29Future Tesla factories will set a new standard of water use per vehicle
+Water is becoming increasingly scarce as the climate changes. That is why we are reducing our water usage throughout our 
+operations as much as possible. We have prioritized direct use in manufacturing and will continue to explore the rest of our 
+impact throughout the supply chain and in sales, service and delivery.
+The “cooling tower makeup” is the single biggest contributor to water usage in any car factory after paint operations. As wat er 
+that cools machinery evaporates, it needs to be topped up regularly. The total cooling tower makeup could be offset entirely by 
+non- potable sources such as rainwater or wastewater. These are some of the initiatives we are taking at Gigafactory Berlin -
+Brandenburg and/or Gigafactory Texas in order to reduce water consumption per complete vehicle (including cells).
+1.Water intensive process optimization
+We are constantly looking into reducing water consumption by optimizing or eliminating water intensive production processes 
+across our operations. At Gigafactory Berlin- Brandenburg, we will use hybrid cooling towers, eliminate quench tanks in casting 
+and introduce cascade rinsing systems in the paint shop and battery can wash process for cell manufacturing. 
+2.  Rainwater harvesting and reuse
+We are planning to capture at least 25% of roof runoff (1 million square feet) to a central underground storage system within
+Gigafactory Texas. Rainwater will be recycled for use in the cooling of manufacturing equipment. In an average year, such 
+systems should save an estimated 7.5 million gallons of potable city water. 
+3.Reclaimed water (wastewater reuse)
+Using local treated wastewater could result in offsetting the entire annual cooling tower makeup water demand with non -
+drinkable uses. At Gigafactory Texas, this could result in an estimated 40 million gallons of potable city water conserved 
+annually, which equates to the total cooling tower needs for a vehicle production rate of about 250,000 vehicles a year. 
+Reclaimed water is available and under investigation for use at both Gigafactory Texas and Gigafactory Berlin -Brandenburg.
+4.In-house cathode production
+As we stated at our 2020 Battery Day, we are developing a more sustainable method to produce cathode in- house. This new 
+production process will decrease the water needed by current cathode production methods used in the industry by ~95% based 
+on our estimates. We are currently validating this new production process at our pilot production line in Fremont, California , 
+and hope to launch it as soon as practicable.Water Used Per Vehicle Manufactured
+Future State
+30Emissions credit systems around the world are designed to economically benefit companies with non- polluting products by 
+allowing them to sell their credits to polluting companies. In order to meet various countries’ emission targets and avoid 
+government fines, polluting companies pay non -polluting companies through credit purchases. The goal of this system is for 
+every OEM to be incentivized to reduce emissions and themselves become non- polluting by selling more of their own 
+manufactured EVs instead of paying another company for their non -polluting credits. We have seen strong positive signs from 
+several OEMs who are launching competitive EVs rather than resorting to manufacturing “compliance cars,” which are usually 
+EVs built on an ICE architecture. These compliance cars are designed to meet regulatory requirements rather than to create the 
+best possible product to help create a more sustainable future for the world.
+Emissions credit revenue is used for EV capacity expansion, which in turn displaces ICEs
+In 2020, we generated almost $1.6 billion in revenue selling zero- emission regulatory credits to other OEMs. Proceeds from such 
+sales will go towards building new factories to produce EVs that will continue to displace ICE vehicles. While it is common 
+practice today for ICE vehicle OEMs to purchase regulatory credits from other companies (such as Tesla) to offset their totalCO
+2emissions, it is not a sustainable strategy. In order to meet increasingly strict regulatory requirements across the world, 
+OEMs will be forced to develop truly competitive EVs.
+EV sales by all carmakers need to accelerate, taking market share from ICEs
+In 2020, Tesla delivered almost 500,000 EVs globally. While many OEMs introduced new EV models in the past few years, with 
+few exceptions their actual global deliveries of EVs increased only marginally. We hope that every car manufacturer will stri ve to 
+produce hundreds of thousands of EVs per year, as significant reduction of emissions will only be achieved if all carmakers pushfor an industry -wide shift to EVs.Emissions Credits
+Accelerating Deployment of New Factories
+0100,000200,000300,000400,000500,000
+Tesla Inc. VW Group R-N-M
+AllianceHyundai
+MotorBYD GM Stellantis Daimler
+AGBMW
+GroupJaguar
+Land
+Rover
+(Tata)Toyota FordElectric Vehicles Sold
+2017
+2018
+2019
+2020
+Source: EV -volumes.com; Micro-cars not included31Net Energy Impact of Our Products Tesla solar panels have generated multiple times the electricity consumed by our factories
+As of the end of 2020, Tesla (including SolarCity prior to its 2016 acquisition by Tesla) has installed almost 4.0 Gigawatts of solar 
+systems and cumulatively generated over 20.8 Terawatt- hours ( TWhs ) of emissions -free electricity. For reference, that is multiple 
+times more energy generated by our installations than the total energy Tesla has used to run all our factories since we began
+producing Model S in 2012.
+We are striving to always remain a net contributor to renewable energy generation. It is our goal to eventually have all our 
+manufacturing energy needs satisfied through renewable sources where possible. Additionally, we are hoping to see more Tesla 
+vehicle customers installing solar panels or Solar Roof along with a Powerwall to meet their own energy needs in a sustainabl e 
+way. 
+In conclusion, we are currently enhancing our internal processes for measuring relevant environmental data as accurately and 
+timely as possible. Once this process is completed, Tesla will start publishing Scope 1, 2 and 3 emissions in detail. 
+-5,00005,00010,00015,00020,00025,000
+2012 2013 2014 2015 2016 2017 2018 2019 2020Cumulative Energy Produced by Tesla Solar Panels vs Consumed by Tesla Factories
+Energy Consumed (GWh; fossil)* Energy Consumed (GWh; clean)* Energy Produced (GWh)
+*Estimated based onstate andcountry level grid data supplied byDOE andIEA.Please seeappendix fordetailed explanation ofenergy consumption figures .32
+Product
+Impact33
+Model 3 is the first EV to be priced on- par with ICE vehicle equivalents
+Model 3 is the first EV in history priced on- par with its gas- powered equivalents, even before 
+taking into consideration any regional subsidies and lower running costs. Unfortunately, most 
+other EVs on the market today are still priced at a $10,000 to $20,000 premium compared to 
+their direct ICE vehicle equivalents.
+There doesn’t need to be a tradeoff between sustainability, performance and affordabilityTesla’s ability to achieve our mission rests first and foremost on our products. We are not just 
+trying to build the best electric cars, we are striving to build the best cars, period. Our focus 
+from the beginning has been to develop products that are not only sustainable, but also superior 
+to fossil -fuel alternatives in every way. Many incorrectly believe that choosing sustainable 
+products requires consumers to compromise on price or performance, but Tesla vehicles 
+combine performance, safety, efficiency and competitive prices. Similarly, Tesla’s energy 
+generation and storage products power both urban and remote communities with reliable, 
+affordable energy.Product Affordability
+Price Equivalency Between EVs and ICE Vehicles
+$0$10,000$20,000$30,000$40,000
+Mercedes C-class BMW 3-Series Model 3 SR+ Audi A4Starting Price of Mid -Sized Premium Sedans 
+(before subsidies or dealer incentives)
+Source: OEM websites34Over five years of average driving, the ownership costs of a Tesla Model 3 are roughly the same as a Toyota Camry
+The accessibility of our products is fundamental to our mission. While the “sticker price” of Model 3 is on -par with an equivale nt 
+BMW or Audi, the sticker price of a vehicle itself is only one of many cost items that need to be considered. The lifetime runni ng 
+costs of EVs are lower than those of ICE vehicles due to lower maintenance costs and cheap electricity, and the residual valu e of 
+used Tesla vehicles remains exceptionally strong since we first introduced them to the market. As a result, Tesla Model 3 has a 
+base price similar to BMW 3- series, but the total cost of ownership per mile is nearly on- par with America’s best -selling sedan,
+the Toyota Camry*.
+Cost data is based on data collected from our fleet
+The advantage of having a fleet of vehicles that is constantly online is the ability to analyze real -world data rather than only
+being able to use estimates. We have an extensive database of Model 3 residual values and cost of repairs, maintenance, energy 
+use, etc.  Additionally, the insurance cost for the Model 3 SR+ below is based on the projected median insurance rate in the U.S. 
+for Tesla Model 3 drivers. Our analysis shows that over five years and 60,000 miles, running a Model 3 SR+ costs 55 cents per
+mile.
+Notably, running costs such as fuel (electricity or gasoline), maintenance, tires and repairs for Model 3 should cost just ov er half 
+of a mass- market ICE vehicle such as a Toyota Camry.
+$0.00 $0.30 $0.60 $0.90BMW 3
+SeriesToyota
+CamryModel 3
+SR+Total Cost of Ownership ($ per mile) -5 years, 60,000 miles
+Depreciation, Taxes, Fees, Incentives & Financing Insurance Maintenance, Tires & Repairs Fuel (Electricity or Gasoline)
+*Based onmodel year 2020 vehicles .Please seepage 92forsources .
+Product Affordability
+Total Cost of Ownership35Model 3Model S
+Model X
+Model Y
+04,0008,00012,00016,00020,000
+0 100 200 300 400Annual Miles Driven
+Vehicle Range (EPA mi)Average Annual Miles Driven
+ Customers are using their Tesla as their main car
+For an EV to have an impact on the environment, it must be genuinely displacing internal 
+combustion engine miles, rather than sitting in the driveway as a secondary car used for errands 
+or short trips only. Our data show that Tesla vehicles are being driven more than average vehicles 
+in the U.S., suggesting that they are generally being used as a customer’s primary vehicle. We 
+fundamentally believe that you shouldn’t have to choose between price, quality, usability and 
+sustainability. An EV should be the best vehicle in every way, so consumers don’t ever need to use ICE vehicles.
+The longer the range, the higher the usage
+There is a clear relationship between range, how often an EV is utilized and whether it is a 
+primary -use vehicle. The more confident owners are that their EV can be used for commuting, 
+errands and long road trips, the less they will feel they need to supplement their EV with an ICE 
+vehicle. Surveys consistently indicate that the real or perceived lack of EV range is the key reason 
+why many people do not consider replacing their ICE vehicle with an EV.EVs as the Primary Vehicle
+Non-Tesla EVs
+Data tracking annual miles driven during the first three years of ownership in the U.K., collected by the 
+RAC Foundation for non -Tesla vehicles, and data on average annual miles driven by Tesla vehicles 
+collected from our fleet show a clear relationship between an EV’s range and the annual mileage driven. Tesla vehicles (shown in blue) have by far the longest range and most annual miles driven.36Long -Distance Travel Freedom of travel is the reason people buy vehicles in the first place. To ensure we replace as many ICE vehicles with EVs as
+possible, we have been focused on increasing the range of Tesla vehicles. While most personal vehicle journeys are relativelyshort, and thus drivable on a single charge, consumers do not buy cars that can meet 
+most of their driving needs; they buy a 
+car that meets alltheir driving needs.
+The longer the range, the lower the Supercharger use
+Since its introduction in 2012, we have increased the range of the Model S by over 50%: from 265 miles to 405 miles of range 
+for the long- range variant. Our focus on energy efficiency —achieving superior range from the same size battery —has allowed to 
+us continue to increase range while keeping the battery size relatively stable. Our data shows that the longer the range of our 
+vehicles, the less Supercharging Tesla customers do. After all, day trips of over 400 miles are quite rare.
+Super -fast charging: V3 Superchargers can increase range by up to 200 miles in just 15 minutes
+Around 300 miles of range at highway speeds is equal to roughly four hours of driving. At that stage, drivers are often likel y to 
+take a break. We want to make sure that such a break can be relatively short before continuing the journey. Our latest 
+generation of Superchargers can recover up to 200 miles of range in just 15 minutes of charging, long enough for a quick brea k 
+and snack.
+Substantial coverage and near -perfect reliability
+In 2020 alone, we opened 743 new Supercharger locations around the world— an average of two new locations every day. We 
+want to make sure that every highway in each of our markets is one day covered with Superchargers. At the end of 2020, the 
+size of our Supercharging network stood at over 2,500 locations and over 23,000 stalls. Perhaps even more importantly, we 
+have been focused on the reliability of our network. As we can see from the chart below, the chances of not being able to 
+charge at any location at any given time are close to zero.
+1Uptime ofSupercharger Sites reflects theaverage percentage ofsites globally that hadatleast 50%daily capacity fully functional fortheyear.90%92%94%96%98%100%
+2018 2019 2020Uptime of Supercharger Sites1
+37Because every Tesla car made since October 2016 is equipped with the necessary sensor suite for full self- driving, each of these
+cars also supports our autonomous driving development. Tesla’s vertical integration and scale provides the company with 
+billions of miles of global real -world data that is gathered as Tesla vehicles are driven. This helps us identify edge cases, tr ain 
+our autonomous driving system and test how a feature would perform in the real world without activating it.
+Data collection is accurate and conservative compared to industry standards
+We collect the exact number of miles traveled by each vehicle with Autopilot active or in manual driving mode and do so 
+without identifying specific vehicles to protect privacy. When there is a crash, we also receive an alert that is correlated to the 
+exact vehicle state at the time. To ensure our statistics are conservative, we count any crash in which Autopilot was deactiv ated 
+within 5 seconds before a crash, and we count all crashes in which the crash alert indicated an airbag or other active restra int
+deployed. In practice, this correlates to nearly any crash at about 12 mph (20 kph) or above, depending on the crash forces 
+generated. On the other hand, police -reported crashes from government databases are notoriously under -reported, by some 
+estimates as much as 50%, in large part because most fender benders are not investigated. We also do not differentiate based 
+on the type of crash or fault, and in fact, more than 35% of all Autopilot crashes occur when the Tesla vehicle is rear -ended by
+another vehicle.
+In 2020, a Tesla vehicle with Autopilot engaged in the U.S. experienced just 0.2 accidents per million miles driven while the U.S. 
+average was ~9x higher at 2.0 accidents per million miles driven. Even in cases where only active safety features were engaged, 
+our vehicles had a ~4.5x lower collision rate than the U.S. average in 2020.Active Safety
+0.00.51.01.52.0
+Autopilot Engaged Active Safety Features Only No Active Safety U.S. AvgNumbers of Vehicular Accidents per Million Miles Driven (2020)
+Our commitment to safety is why all Tesla vehicles built 
+since October 2016 come with a suite of external 
+cameras, additional sensors and onboard computing 
+that enable enhanced advanced safety features like Automatic Emergency Braking, Lane Departure Warning, 
+Forward and Side Collision Warning, Obstacle -Aware 
+Acceleration, blind spot warnings and more —all of which 
+continue to improve over time through software updates.
+For the latest quarterly accident data related to our vehicles, please view our 
+Vehicle Safety Report .38
+Passive Safety
+Safety starts with our clean sheet design
+Improving occupant safety has always been key to our mission. All our vehicles 
+are built off a safety -first architecture with a low center of gravity (thanks to 
+the positioning of our battery) and enhanced frontal impact safety (thanks to 
+the front trunk that is void of the engine found in ICE vehicles).
+Added benefit of enhanced performanceBased on the advanced architecture of Model S and Model X, we engineered 
+Model 3 and Model Y to be the safest cars built to date. Even though Model 3 
+and Model Y have no engine, their performance is similar to a “mid- engine car” 
+due to a centered battery pack and the fact that the rear motor is placed 
+slightly in front of the rear axle rather than behind it. Not only does this architecture add to the overall agility and handling of the car, but it also 
+improves the capability of stability control by minimizing rotational kinetic 
+energy.
+Model 3 and Model Y score 5 -stars in all NCAP categories 
+After putting Model 3 and Model Y through a series of crash tests used as part 
+of the New Car Assessment Program to calculate the likelihood of serious 
+bodily injury for front, side and rollover crashes, the National Highway Traffic 
+Safety Administration (NHTSA) awarded each a perfect 5 -star safety rating in 
+every category and subcategory.2020 Tesla Model Y 2020 Subaru Outback39Tesla Safety Awards
+Rating Agency Model X Model 3 Model Y
+NHTSA
+U.S. New Car
+Assessment ProgramNCAPrating overall and in every category for 
+all 2020 variantsrating overall and in every category for 
+all 2020 variants
+Best Vehicle Safety Score (VSS) ever achieved 
+according to published NHTSA datarating overall and in every category for 
+all 2020 variants
+Lowest rollover risk for any SUV ever tested 
+(AWD variant) according to NHTSA testing
+European New Car 
+Assessment Programme
+Euro NCAPrating overall and in every category for 
+all 2020 variantsrating overall and in every category for 
+all 2020 variantsNot Rated
+Australasian New CarAssessment Program
+ANCAP rating overall and in every category for 
+all 2020 variantsrating overall and in every category for 
+all 2020 variantsNot Rated
+Insurance Institute for
+Highway Safety
+IIHSNot Rated Received 2020 Top Safety Pick + Award Not RatedIn 2020, Tesla vehicles earned 5 -star ratings from safety rating agencies across the U.S., Europe and Australia. Furthermore, al l of Tesla’s safety features come standard with every vehicle and our 
+ratings are based on our standard safety equipment. At Tesla, we do not believe that safety should be optional.40Fire incidents are ~11x lower for Tesla vehicles than the average vehicle in the U.S.
+When the media reports a story about a vehicle fire, it is usually reporting on an EV fire. This is likely a result of the no velty of 
+EV technology, rather than the prevalence of EV -related fires compared to ICE vehicle -related fires. The reality is, when 
+compared to Tesla vehicles, ICE vehicles catch fire at a vastly higher rate. According to the latest available data, in 2019, there 
+were almost 190,000 vehicle fires in the U.S. alone.  
+Due to this public misconception, we decided to start publishing vehicle fire data annually. From 2012 to 2020, there has been 
+approximately one Tesla vehicle fire for every 205 million miles traveled. By comparison, data from the National Fire Protect ion
+Association (NFPA) and U.S. Department of Transportation show that in the U.S. there is one vehicle fire for every 19 million
+miles traveled. 
+In order to provide an apt comparison to NFPA data, Tesla’s data set includes instances of vehicle fires caused by structure fires, 
+arson and other reasons unrelated to the vehicle, which account for some of the Tesla vehicle fires over this time period.
+We continue to improve safety
+We continue to improve our battery chemistry, cell structure, battery pack structure and vehicle passive safety in order to 
+decrease fire risk to as close to zero as possible. As Tesla’s vehicle technology continues to improve, fires will be even le ss likely 
+for our EVs.
+Finally, for the rare instances where Tesla vehicles are involved in a fire, we make detailed information available to first 
+responders so they can safely handle those emergency situations.Fire Safety
+01020304050
+Tesla U.S. AvgNumber of Vehicle Fires per Billion Miles Driven (2012 -2020)
+For the latest fire data related to our vehicles, please view our Vehicle Safety Report .41We are also focused on ensuring that our vehicles are the most secure on the road. To do that, our team of world- class 
+engineers works day in and day out to ensure that our systems are always as secure as possible. And while some of the best 
+security engineers work at Tesla, we believe that in order to design and build inherently secure systems, we cannot work alon e. 
+We work closely with the security research community to benefit from their collective expertise and diversity of thought. 
+Here is a snapshot of what we do:
+Continuous product improvementTesla pioneered the concept of vehicles that improve and become more capable over time by ensuring that every Tesla vehicle 
+made since 2012 can accept free over -the-air (OTA) software updates. These updates have introduced new features and 
+functionality that have made our vehicles smarter, safer and more enjoyable to drive. We have also used the OTA system to 
+ensure that our vehicles are not just as secure as possible when they are delivered, but that they continue to stay as secure as
+possible throughout their lifetime —meaning that any older Tesla vehicle that keeps its software updated through the OTA 
+system will be just as secure as a newly built Tesla. To date, we are the only major automotive company capable of continual 
+software enhancements across its entire vehicle fleet.
+Active engagement
+Whether through formal events, such as our Bug Bounty program or the Pwn2Own research competition, or less formal 
+channels of communication, we are constantly working with academic researchers and security experts around the world. We 
+have found that these relationships allow us to benefit from great work being conducted by stakeholders outside of our 
+organization who are just as passionate about digital security as we are.
+For example, when researchers found a vulnerability in the Model S key fob, they reported it to Tesla, allowing us to examine
+their report and engineer a new in -vehicle update for the key fob, making it even more secure within a matter of seconds 
+following the update.
+The above examples are just a few of the many ways that our industry -leading team of security experts works every day to 
+ensure our vehicles are the most secure on the road today.Cybersecurity
+42Resilience of the Grid Grid outages are becoming more common
+Electrical disturbances in the U.S. are becoming more common, predominantly due to weather and natural disasters. According 
+to the U.S. Department of Energy, electrical disturbances cost businesses $150 billion per year. It is not surprising that 
+homeowners and businesses are increasingly turning to backup power supply options.
+Low cost is key to mass adoption
+We are continuously working on reducing the cost of our products in order to foster mass adoption. Ultimately, using renewabl e 
+energy (such as solar or wind) with battery storage will become the cheapest energy option available, regardless of location.
+This is already the case in many, but not all, locations around the world. As the cost continues to decline, more customers w ill
+be able to financially benefit from turning to renewable energy. 
+Source: U.S. Department Of Energy, Pew Charitable Trusts
+1Includes cases of suspicious activity.
+2 Other includes all disturbances that are not clearly identified as weather, natural disaster, vandalism, attack or sabotage.0100200300400
+2004 2005 2006 2007 2008 2009 2010 2011 2012 2013 2014 2015 2016 2017 2018 2019 2020Reported Electrical Disturbances in the U.S.
+Weather or natural disaster Vandalism, attack, or sabotage¹ Other²
+43
+Solar & Storage The best way to avoid blackouts is to reduce your reliance on the grid. Tesla is a one -stop shop for taking our customers off-
+grid by covering a large variety of their needs. In 2020, Tesla sold 3 GWh worth of energy storage products, roughly 25% of t he 
+12 GWh global market. In order to switch global energy usage to renewable sources, we estimate that global annual battery 
+storage production will need to increase to ~10,000 GWh.
+Residential customers: Solar Roof, solar panels and Powerwall
+Anyone can dramatically reduce their carbon footprint by installing a Tesla Solar Roof or solar panels with Powerwall. In the ory, 
+all U.S. domestic electricity needs, as well as vehicle transportation needs, could be met by sunlight alone. Naturally, inst allation 
+of such a system needs to make financial sense for the customer. In Massachusetts, for example, we estimate that an average 
+solar and storage system pays for itself with energy cost savings within approximately 12 years. As the cost of these product s 
+continues to decline, more customers will be willing to switch to solar and storage purely due to lower overall cost.
+Commercial scale customers: Megapack and renewables
+The beauty of selling commercial storage systems such as Megapack is that purchasing such a product is almost purely a 
+mathematical decision for our commercial customers. If installing Megapack makes economic sense, there is no reason not to 
+install one. A single Megapack has on average 3,000 kWh worth of battery storage capacity, and given its scalability, enables
+projects over 1,000,000 kWh. Tesla Energy continues to be dependent on global cell supply. In 2020, the global demand for 
+energy storage products continued to be far above available global supply.
+Residential Solution: Solar and Storage Commercial Solution: Solar and Storage Tesla Energy Storage Deployment (GWh)0.00.51.01.52.02.53.0
+2015 2016 2017 2018 2019 202044
+Supply
+Chain45
+Protecting human rights and the environment is at the center of our procurement strategy
+Tesla is committed to only sourcing responsibly produced materials. The Tesla Supplier Code of Conduct (“Code”), Human 
+Rights Policy and Responsible Materials Policy outline our expectations for suppliers and partners who work with us. Tesla is 
+committed to making working conditions in our supply chain safe and humane, ensuring that workers are treated with respect 
+and dignity and building manufacturing processes are environmentally responsible. Tesla suppliers are required to provide 
+evidence of management systems that ensure social, environmental and sustainability best practices in their own operations, a s 
+well as to demonstrate a commitment to responsible sourcing into their supply chains.
+As our business grows, our strategy evolves according to changing opportunities and risks
+Our existing Conflict Minerals Steering Committee has broadened its scope to include the Responsible Sourcing Steering 
+Committee in recognition of the diverse sourcing issues Tesla faces as we expand our manufacturing locations globally. The 
+committee includes members of senior leadership from supply chain, compliance, environmental health and safety, investor relations, internal audit, legal and policy. This diverse group of stakeholders allows consensus to be found on addressing 
+existing issues while also discussing emerging areas of risk or concern and finding ways to mitigate negative impacts as soon
+as possible. Risks are prioritized based on several factors: their impact on human rights, significance to the business, Tesl a’s
+ability to drive change and our relationship with the supply base, among other things. Tesla has also established dedicated 
+internal supply chain resources to manage responsible sourcing efforts.
+Our complex supply chain is a unique hybrid of the traditional automotive and high -tech industries and encompasses suppliers 
+from around the world. Many of our Tier 1 suppliers (
+i.e., direct suppliers) do not purchase all of their raw materials directly and 
+instead obtain them from their suppliers and sub- suppliers. Therefore, reliably determining the origin is a difficult task, but the 
+due diligence practices required of our suppliers adds transparency to help us and our suppliers adhere to the responsible 
+sourcing principles of our Code and guidelines established by the Organization for Economic Co- operation and Development 
+(OECD) and Responsible Minerals Initiative (RMI).
+We require our suppliers to follow stringent, internationally accepted standards
+Our Tier 1 automotive suppliers are required to register and complete the domestic and international material compliance 
+requirements in the International Material Data System (IMDS) to meet EU and other international material and environmental -
+related regulations. This requirement is mandated for all suppliers who supply their products or raw materials to us as part of 
+our production -parts approval process. Tesla, along with our partners and independent third parties, conducts audits to 
+observe these principles in action. If there is a reasonable basis to believe a supplier partner is in violation of the Code, Tesla 
+will transition away from that relationship unless the violation is cured in a satisfactory manner.Supply Chain Introduction
+Responsible Material 
+Sourcing
+Lithium Sourcing
+The vast majority of lithium used in our batteries in 2020 was sourced 
+directly by Tesla. 100% of the lithium we sourced was mined in Australia and Argentina. We are currently looking at ways to source lithium raw material from the U.S. as well. 46Cobalt Sourcing Human rights issues in the cobalt supply chain require a robust approach to due diligence
+Tesla’s supply chain due diligence program and efforts to conduct a country -of-origin inquiry with respect to our entire supply 
+chain are in line with the OECD Due Diligence Guidance for Responsible Sourcing from Conflict -Affected and High -Risk Areas 
+(OECD Guidelines). In addition to following our due diligence program requirements, all suppliers, sub- suppliers and mining 
+companies within Tesla’s supply chain are required to adhere to our Code, including taking a proactive approach to reducing 
+environmental and resource impacts. All our suppliers are also expected to follow our Code of Business Conduct and Ethics , 
+including avoiding any activities related to corruption, conflict of interest or money laundering and any actions that would harm 
+the health and safety of their employees.
+In order to further increase the transparency of our cobalt supply chain, we collect detailed data from relevant suppliers us ing
+the RMI Cobalt Reporting Template. Because Tesla recognizes the history of human rights issues within cobalt supply chains, 
+particularly in the Democratic Republic of the Congo (DRC), we have established processes to prevent these risks in our suppl y 
+chain. We also recognize that mining conducted in a responsible and ethical manner is an important part of the economic and 
+social well- being of those communities. We review all information provided by our suppliers for red flags and risks associated 
+with ethical sourcing. Where we can be assured that minerals, including cobalt, are coming from mines that meet our social and 
+environmental standards, we will continue to support sourcing from the DRC and other regions.
+47Cobalt in Our Battery Supply 
+Chain and Our Diversified 
+Cathode StrategyAs Tesla expands our global manufacturing operations, our supply chain will continue to grow and become more complex. 
+Regardless of this increased complexity, we continue to maintain high standards for our suppliers’ business practices and respect for human rights. Prior to introducing a new battery cell supplier or sub- supplier, we require them to disclose a full 
+mapping of their cobalt supply chain and to provide a recent, verified, independent third- party audit conducted on the 
+refineries within their supply chain over the prior 12 -month period, along with evidence of implementation of any corrective 
+action plan following such audit.
+Third -party audits and ad- hoc Tesla -led inspections of cobalt suppliers and refiners help ensure compliance
+Once a supplier is approved and integrated into our supply chain, Tesla requires these same suppliers to conduct ongoing 
+annual third- party audits in accordance with the latest edition of OECD Guidelines and the commitments adopted by the RMI in 
+their Cobalt Refiner Supply Chain Due Diligence Standard. We also conduct ad- hoc Tesla internal inspections of our cobalt 
+refiners to ensure ongoing compliance throughout the annual cycle. Following results from conducted audits, we engage with our suppliers to implement audit recommendations as part of a process of continuous improvement of our supply chain. To date, we have not identified any instances of any human rights violations in our cobalt supply chain.
+Our nickel -based cathode has less cobalt content than similar chemistries used elsewhere in the industry
+Tesla’s batteries contain a variety of different cathode chemistries, including nickel -cobalt -aluminum (NCA) and nickel -cobalt -
+manganese (NCM) for higher energy applications and lithium -iron-phosphate (LFP) for lower energy applications. Tesla’s 
+batteries that use nickel -based cathode materials contain less cobalt than other similar cathode chemistries used in the 
+industry. We continue to work toward batteries that contain lower levels of cobalt, and for some applications it may be 
+eliminated entirely in the future. The trend toward higher nickel cathodes is designed to improve vehicle range while lowering 
+overall battery costs, without compromising overall cell performance, such as battery safety and lifetime that is currently 
+enabled by the use of cobalt. Tesla will continue to work to advance a diversified cathode strategy for both LFP -and nickel -
+based cathodes with varying cobalt contents (ranging from zero to low percentage amounts), for both our vehicle and energy 
+products.
+While we work to eliminate cobalt from our cathode long- term, in the short -term it will continue to be an important material
+It is important to note that we expect our absolute cobalt demand to increase over the coming years because our vehicle and 
+cell production growth rate is forecasted to outpace the overall rate of cobalt reduction on a per -cell basis. Tesla is committe d 
+to using only responsible sources of cobalt; ensuring transparency and preventing instances of human rights violations 
+associated with cobalt are priorities in our supply chain due diligence.
+48How We Managed Our 
+Battery Cobalt Supply Chain 
+in 2020Any of our suppliers or sub- suppliers sourcing from the DRC must exclusively source from RMAP conformant refiners
+In 2020, our battery cell sourcing was divided into three distinct supply chains for cobalt: Gigafactory Nevada and Fremont 
+external cell sourcing, Gigafactory Shanghai and Fremont in- house cell production. For Gigafactory Shanghai and Fremont in -
+house cell production, we procure cobalt materials directly from producers that are verified as compliant with Tesla’s Code a nd 
+with whom we have direct contractual obligations around responsible sourcing per OECD Guidelines. We work with participants along the value chain to shorten the supply chain by eliminating third- party cobalt refiners and by ensuring that 
+Tesla’s material is stored in clearly marked, segregated areas of the plant and is toll processed on lines dedicated for Tesl a.For 
+Gigafactory Nevada and Fremont external cell sourcing, where Tesla does not directly procure cobalt materials, cobalt is 
+sourced by our battery cell suppliers from many different countries (listed below). For material originating from the DRC, 
+Tesla’s battery cell supplier and sub- suppliers are required to purchase refined cobalt exclusively from qualified, conformant 
+cobalt refiners as per the Responsible Minerals Assurance Process (RMAP) standards set forth by the RMI.
+Audits are conducted by third parties approved by the RMI, and an “Active” or “Conformant” classification provides an 
+acceptable level of supplier transparency. Currently, the only suppliers with a “Not Listed” classification that Tesla has a 
+relationship with do not source minerals from the DRC.
+Tesla 2020 Supply Chain List of Miners & Refiners for Purchased Cobalt Materials
+Battery Supply 
+ChainCobalt Miner & Refiner
+Sourced from DRC Supplier RMI Classification*
+Gigafactory Nevada 
+and Fremont external cell sourcingYes Umicore Finland Oy (Finland) Conformant
+No Murrin Murrin Nickel Cobalt Plant (Australia) Conformant
+No Norilsk Nickel Harjavalta Oy (Finland) Active
+No Harima Refinery, Sumitomo Metal Mining (Japan) Conformant
+No Sumitomo Metal Mining (Japan) Active
+No Guandong Fangyuan Environment Co. Ltd. (China) Not Listed
+Gigafactory Shanghai Yes Kamoto Copper Company (DRC) Conformant
+YesGuizhou CNGR Resource Recycling Industry 
+Development Co., Ltd. (China)Active
+Fremont in -house cell 
+productionYes Kamoto Copper Company (DRC) Conformant
+Yes Quzhou Huayou Cobalt New Material Co., Ltd. (China) Active
+*A smelter or refiner is considered “Conformant” when they have passed a third -party audit to industry accepted standards coveri ng their internal processes and policies 
+on due diligence to identify and mitigate the risk of human rights abuses in their supply chain; “Active” means a smelter or refiner is pursuing certification through one of 
+the approved auditing processes; “Not Listed” means a smelter or refiner is not yet listed on the RMI's Cobalt Reporting Temp late and may not yet have been engaged 
+by the RMI to participate in the RMAP or equivalent program.49Cobalt in Non -Battery Parts 
+of Our Supply ChainWe are committed to managing cobalt throughout our entire supply chain (not just in our cathode)
+While Tesla’s battery supply chain is the most significant portion of our cobalt sourcing activities, our supply chain due 
+diligence efforts are not limited to these suppliers listed in the prior table. We also engage with any suppliers that use cobal t in 
+their part -material composition and work to collect additional information from them on the origin of these materials and their 
+associated risk -reduction efforts. Tesla leverages the automotive industry’s IMDS to best identify those of our automotive 
+suppliers whose parts include cobalt. In addition, our energy production and storage business segment suppliers are asked to 
+provide information on their cobalt sourcing, so we can apply the same standards to our Tesla Energy suppliers as we do to our 
+automotive suppliers and sub- suppliers.
+Transparent sourcing of cobalt for our supply chain allows us to better ensure procurement is done in an ethical and responsible manner. Through our membership with the RMI, other organizations and our sourcing decisions Tesla continues to 
+emphasize the importance of responsible sourcing of cobalt both inside and outside of the DRC. This additional engagement 
+effort is part of a business decision to improve Tesla’s supply chain transparency, improve our due diligence practices and minimize supply risk.50Battery Materials Sourcing The scope of our due diligence within our battery supply chain extends beyond cobalt
+In this year’s report, we have decided to extend the scope of our battery supply chain disclosure beyond cobalt. We recognize
+that the battery materials lithium and nickel are among the highest contributors of carbon emissions in the battery cell supply 
+chain and present complex challenges related to environmental and social governance. For this reason, much of our responsible 
+sourcing efforts in 2020 were focused on these materials and their use in the cathode supply chain.
+Direct engagement with upstream producers allows us to better manage social and environmental concernsTesla continues to expand the scope of its battery metals procurement strategy by executing long- term agreements directly 
+with upstream producers and mining companies to supply Gigafactory Nevada, Gigafactory Shanghai and our Fremont Factory. 
+Tesla works directly with mineral producers and refiners that are aligned with our mission and are committed to supplying 
+sustainably and responsibly sourced materials in accordance with our Code and other policies protecting human rights. The 
+battery metal producers we work with directly in our supply chain have committed to the standards of ethical business, environmental performance and social responsibility set by the International Council on Mining & Metals (ICMM) and/or the 
+Initiative for Responsible Mining Assurance (IRMA).
+This work provides greater transparency into our supply chain environmental footprint —and we will continue to expand the 
+scope
+By collaborating directly with producers, we can more effectively reinforce our auditing, monitoring and due diligence practi ces
+and address sustainability issues such as biodiversity impact, energy consumption, human rights and tailings 
+management*. Where we discover any risks within our supply chain around environmental, social or other concerns, we will 
+work with the respective party to mitigate that risk and drive for resolution. We have also engaged with our suppliers to col lect 
+CO
+2emissions data to determine a baseline of the carbon footprint of our cathode supply chain. Over the coming years, we will 
+continue to work with our suppliers to standardize and streamline the methodology for emissions calculation, identify opportunities for reducing the carbon footprint of our supply chain and expand the scope to include other battery materials 
+beyond cathode.
+* “Tailings management” refers to the practice of managing mining 
+bi-products leftover after valuable minerals have been extracted 
+from a mining site.51Battery Materials Sourcing
+2020 Battery Day HighlightsOn September 22, 2020, Tesla hosted Battery Day where we presented several developments in our cathode technology 
+roadmap, which are designed to enable the scaling of cathode materials production to TWh /year scale, and in doing so 
+improve the sustainability of our cathode materials.
+Our novel in -house cathode development aims to reduce resource intensity and the use of hazardous chemicals
+Tesla will begin in -house production of precursor and cathode materials, leveraging novel processing techniques that we are 
+developing to reduce costs while positively impacting the environmental footprint when compared to the conventional process 
+used in the industry. Tesla’s new cathode process will aim to:
+•Reduce the energy intensity of the process and the number of process steps;
+•Eliminate the use of hazardous chemicals, such as sulfuric acid and caustic soda; and
+•Reduce water consumption by >95%, thereby eliminating a significant waste stream.
+Our novel in -house process for refining of U.S. lithium resources will reduce carbon emissions and sulfate biproducts
+We also announced plans to scale in- house lithium refining and the development of U.S. lithium resources in the future. An 
+integrated lithium strategy will enable Tesla to:
+•Create a domestic U.S. lithium supply chain by sourcing spodumene raw material within the U.S., thereby reducing emissions 
+related to the transportation efforts of moving material from traditional lithium -producing countries in South America and 
+Australia; and
+•Commercialize a non -standard flow sheet that will eliminate dependence on sulfuric acid and sodium hydroxide, thus 
+removing sulfate biproducts generated during the traditional spodumene conversion process.
+Our closed -loop production, including in- house recycling, will further reduce carbon emissions in battery manufacturing
+Finally, our closed -loop cathode production via in -house battery recycling and metals refining will enable us to:
+•Recover >99% of the metals contained in scrap and end- of-life batteries and convert these metals directly back into cathode 
+materials for re -introduction into our cell production; and 
+•Bypass the extractive processing systems (mining), which significantly reduces the carbon footprint of metals contained in 
+our battery cells.
+52Battery Materials Sourcing
+Our Participation in 
+International Multi- stakeholder 
+InitiativesWe are working with others in the industry to drive greater transparency, opportunity and equity in our supply chain
+In addition to our in- house cell production and responsible sourcing efforts, Tesla is engaged in several new cross -industry 
+initiatives, including our memberships to the Global Battery Alliance and the Fair Cobalt Alliance, as well as collaborating with 
+various battery supply chain participants to implement technology solutions using blockchain to improve our supply chain 
+transparency and traceability programs for nickel and cobalt.
+Global Battery Alliance (GBA): In mid -2020, Tesla began participating in the GBA’s Human Rights and Child Labor and 
+Greenhouse Gas (GHG) Footprint working groups. This GBA multi -stakeholder effort, including members from throughout the 
+industry, is undertaking the creation of a “Battery Passport” to give consumers greater visibility into the environmental and
+societal impact of lithium -ion batteries. Tesla joined the GBA as a full member in 2021. Tesla has also helped GBA in its 
+transition from being incubated by the World Economic Forum to a fully functioning and independent entity today and has 
+joined the GBA’s Board of Directors.
+Fair Cobalt Alliance (FCA): Artisanal cobalt represents 10- 20% of the DRC’s cobalt supply and provides a source of direct 
+employment for more than 100,000 people in the DRC. In 2020, Tesla joined the FCA, whose mission is to positively transform 
+and professionalize the artisanal mining sector (ASM) by adopting safer mining practices, to eliminate and prevent child labor 
+by allowing children and youth access to education and vocational training and to increase household incomes and reduce 
+poverty by supporting the transition of ASM communities to more sustainable livelihoods. The FCA is an action platform that 
+engages with both the national and provincial governments of the DRC, as well as with civil society and technical partners to
+achieve its objectives.
+53Battery Materials Sourcing
+Our Participation in 
+International Multi- stakeholder 
+InitiativesRe|Source Blockchain Collaboration for Cobalt
+Tesla has been collaborating with the Re|Source consortium founded by the leading industrial cobalt producers in the DRC —
+China Molybdenum, Eurasian Resources Group and Glencore —to develop a blockchain platform by creating a transparent, open 
+and global registry that aims to ensure that all cobalt used in end- products is sustainably sourced and users can account for 
+and verify the provenance of each unit. Tesla selected to collaborate with Re|Source because it is industry -led, is designed to be 
+readily accessible and inclusive to all parties across the supply chain and is scalable, which means it can include other cri tical 
+battery materials in the future.
+Upon completion, the system will allow users to fully track cobalt from the mine to the battery with assurance that the volum e 
+of traceable material is understood as well as the sustainability efforts of upstream suppliers. This solution will be pilote d in real 
+operating conditions, starting from the cobalt production sites in the DRC all the way through to electric vehicle production
+sites. Tesla is participating in this pilot program, scheduled to run until the end of 2021. The full roll -out of the platform i s 
+expected in 2022.
+BHP Blockchain Collaboration for Nickel
+Tesla has partnered with BHP in a blockchain pilot program to improve  supply chain transparency and assess various 
+sustainability criteria. Over a three- month period, we traced nickel shipments from BHP’s Nickel West operations in Western 
+Australia through the various transformation phases right through to vehicle production in Gigafactory Shanghai.
+This program supports Tesla’s supply chain due diligence product provenance and confirms if any raw material “dilution” occur s 
+in the supply chain. Furthermore, blockchain’s digital nature enables scalability of the technology and CO2 tracking validate s 
+the environmental footprint for Tesla’s vehicles, allowing the supply chain to adjust its long- term strategies on emission 
+minimization and leverage those in day -to-day operations. These will be included in important disclosures that will eventually 
+form part of an environmental battery passport and future EU battery regulation. The pilot also enabled us to identify potent ial
+inefficiencies in supply chains and suggest pathways for improvement.All the initiatives described above will contribute to Tesla aligning with regulations incentivizing transparency, traceabili ty and 
+sustainability across the battery supply chain, including through clear external communication with relevant third parties.
+54
+People and
+Culture55Tesla is on a mission to accelerate the world’s transition to sustainable 
+energy. We focus relentlessly on innovation and rely on collaboration 
+across our teams to help achieve this goal. Along the way, we are 
+committed to maintaining safe and humane working conditions, 
+ensuring that all workers, including those within our supply chain, are 
+treated with respect and dignity and that our manufacturing 
+processes are environmentally responsible. Internally, we are 
+continuing to build a culture that is safe, respectful, fair and inclusive for all our employees.
+As cliché as it sounds, it is only thanks to our employees that we’ve 
+gotten to where we are today. If we expect to continue innovating and 
+changing the world for the better, we must ensure we have a talented 
+and engaged workforce with ample opportunity to contribute to our mission and grow professionally. 
+At the center of Tesla’s strategy is:
+•Regular and meaningful engagement with our employees;
+•A robust culture of safety;
+•Clear development pathways for all our employees;
+•Highly competitive compensation programs; and
+•Principles of diversity, equity and inclusion built into all aspects of 
+hiring, promotion and retention.Introduction
+56Our Response to COVID -19
+Six-Step Return/Resume Operations Plan:We planned very early —with Gigafactory Shanghai as the blueprint
+In December 2019, we started planning for the potential spread of COVID -19 outside of China. Because Tesla had proactively 
+worked early on with our Gigafactory Shanghai operations on how the local government and businesses responded to COVID -
+19, we were better prepared on the ground in our other global locations before the impact was felt in the rest of the world. 
+Specifically, we convened a pandemic management team at the leadership level and created a Tesla Playbook, including 
+COVID -19 response plans, policies and best practices. This team also implemented a six -step Return/Resume Operations Plan, 
+which involved Tesla’s EHS, HR, Security and Travel teams, including members at all levels of the organization, from associat es 
+on the ground up through leadership, conducting risk assessments and executing plans to minimize identified risks.
+Fact and figures*
+•A track -and- trace system was implemented —99.9% effective at stopping spread of the virus
+•We saw fewer than 40 workplace transmission cases of COVID -19 in all of 2020
+•Employee COVID -19 testing positivity rates were less than half the community rate, whether they were in the workplace or 
+working remotely
+•All employees received COVID -19 prevention training
+•Launched touchless vehicle delivery option globally in 2020
+•Free vaccines for employees aged 65+ began on March 1, 2021
+•Free vaccines for allemployees began on April 16, 20211.Prepare the Building
+2.Prepare the Workforce
+3.Control Access
+4.Create Social Distancing Plans
+5.Reduce Touchpoints and Increase Cleaning
+6.Verify 
+* Facts and figures apply to the U.S. unless otherwise indicated. 57Human Rights
+Tesla believes the ethical treatment of all people and regard for 
+human rights is core to our mission of a sustainable future. We also believe all businesses within our supply chain have a responsibility to 
+support our mission and share our respect for human rights. This 
+human rights policy is the formalization of our commitment to uphold 
+and respect these rights and the values they represent 
+We endorse and base our definition of human rights on the United 
+Nation's Universal Declaration for Human Rights (UDHR). The UDHR 
+focuses on dignity, respect and equality, without discrimination, for all 
+people. We are committed to upholding these rights and values 
+throughout our value chain— including with respect to our employees, 
+customers, shareholders, suppliers and the communities in which we 
+operate. We expect that our suppliers will also support and promote these values in their own operations and in those of their own 
+suppliers.
+Addressing human rights risks is an ongoing effort, involving 
+engagement with our value chain for potential impacts, incorporating 
+input from external stakeholders and reviewing and updating our own 
+policies where necessary. With this understanding, Tesla is committed 
+to addressing any potential human rights issues both within our own operations and those of our value chain.
+You can see our full Human Rights policy here.Appropriate 
+photo
+here
+58We have a zero -tolerance policy when it comes to child or forced labor and human trafficking by our suppliers
+At Tesla, we are committed to ensuring that the way we conduct our business and dealings with our suppliers reflects our 
+values and our belief that everyone should be treated with dignity and respect. Tesla is committed to ensuring that our 
+suppliers do not use slave or child labor or engage in human trafficking. Modern slavery, child labor and human trafficking a re 
+crimes under the laws of countries throughout the world, but unfortunately continue to exist all over the globe. Our 
+commitment on this front is summarized in the Tesla Supplier Code of Conduct as well as in our Human Rights Policy and 
+Responsible Materials Policy , and we continue to work to ensure that our suppliers uphold the principles in these statements. 
+We look to the OECD Due Diligence Guidelines to inform our process and use feedback from our internal and external stakeholders to find ways to continually improve it.
+Through our commitment to enforce our Supplier Code of Conduct, Human Rights Policy and Responsible Materials Policy, 
+continuous training and the supplier audit and due diligence efforts, Tesla believes that there is minimal risk of, and have fou nd 
+no evidence to date of Tesla causing, contributing to or being linked to modern slavery, child labor or human trafficking in our
+supply chain.
+For more information on our commitment to anti -slavery practices and an affirmation of the values we hold and adopt across 
+Tesla’s business operations and supply chain, including how we assess risks and effectiveness of our actions, please see our 
+California Transparency in Supply Chain Acts Statement and our U.K. Modern Slavery Act Transparency Statement .Human Rights
+Human Trafficking, Modern 
+Slavery and Child Labor59Employee Engagement Since our earliest days, Tesla has been built upon a culture of open communication. Over the years, as Tesla has grown as a 
+company, we have worked to maintain this culture. Quite simply, we believe that raising matters openly and discussing them 
+freely is the best way to solve problems and ensure a healthy, fulfilling, productive and amicable workplace. Employees have the
+right to freely discuss their wages, benefits and terms and conditions of employment and to raise complaints internally or 
+externally.
+Tesla encourages employees to bring any concerns or complaints they may have to any member of management. This open 
+communication is a reality at Tesla and employee concerns are given attention as promptly as possible. While the open floor 
+policy is available to all employees at any time, we all have a role to play in ensuring we maintain a respectful and safe 
+workplace. To this end, any employee who is subjected to, a witness of or has knowledge of any conduct that violates Tesla 
+policies, is asked to immediately report the conduct. Members of management may be subject to discipline if they fail to report 
+in a timely manner.
+Our employees can report concerns to their supervisor or HR partner. If they prefer to report another way, the Integrity Line is
+available 24 hours a day, seven days a week. The Integrity Line allows employees to report concerns anonymously and without 
+fear of retaliation. Consistent with the U.N. Guiding Principles, Tesla publicizes the Integrity Line to promote accessibilit y, 
+including an internal website link for quick and easy access. Concerns are reviewed in accordance with established protocols by 
+investigators with expertise in employee relations, human relations, compliance, information security, internal audit and environmental, health and safety. Investigations teams periodically review trends, outcomes and opportunities for remediation 
+and appropriate controls.
+60At Tesla, we are driving safety by shifting our focus to listening to and learning from the people closest to our operations.
+1.3 million+
+EHSS Engagements in 20201
+In 2020, we had a record number of worker engagements, including safety suggestions, inspections, audits and trainings. 
+Engagements at every level are what enable us to be proactive in our approach to the environment, health, safety and security .
+Our Environmental, Health, Safety and Security (EHSS) strategy remains focused on three pillars:
+1. Do the basics right
+2. Engage and empower our stakeholders
+3. Reduce risk
+How we measure success —aligning our metrics so health and safety can be managed globally
+As we grew as a global company, so did our perspective on injuries and illnesses. In 2020, we shifted our focus to the 
+elimination of fatal and serious injuries. Part of that change was trending our data against the ASTM standard E2920 -19, a 
+safety metric that captures cases with a meaningful connection to work and cases with such potential consequence that they 
+have value for prevention purposes .This standard is intended to define world- related injuries and illnesses in a way that can 
+easily be understood and measured across countries, which better represents our expanding global footprint. The resultant 
+data and incident rates improve global benchmarking consistency, which enables us to provide greater transparency and better 
+protect our workers.Our EHSS Strategy 
+Becoming the Safest and 
+Most Resilient Company in 
+the World
+1EHSS = Environmental, Health, Safety and Security. In 2020, our Security team joined the larger EHS organization becoming EHS S.Our engagement figures in 2020 
+are not comparable to 2019 given this new team structure and the addition of trainings in the measurement. In addition, COVID -19safety efforts drove substantially 
+higher engagements across the organization.
+*Industry average from latest available data, which is 2019. See our appendix for more details.2.6
+0.01.02.03.0
+Tesla Industry Avg.*ASTM Level One Rate
+3.1
+17% below industry 
+average
+Tesla’s ASTM Level One Rate is17%below theindustry
+average* .61As our production volumes increase, our incidents per vehicle continue to drop
+Our main objective is to identify events with a meaningful connection to our employees’ daily work and recognize similar 
+situations with comparable potential consequences for prevention purposes. These events can be used to evaluate, compare 
+and continually improve management systems and programs related to worker safety and health.
+Although we have turned our attention away from traditional lagging metrics, we maintain historical records for comparative 
+purposes. We continue to see reductions across all OSHA injury rates for Total Recordables (TRIR), Days Away/Restricted Time (DART) and Lost Time (LTIR), which translates to fewer injuries per 1,000 cars produced.Safety Improvements
+7.5
+4.9
+3.3
+0125,000250,000375,000500,000
+0.02.04.06.08.0
+2018 2019 2020Global Total Recordable Injuries per 1,000 Vehicles Produced
+Global Incident Rate/1,000 Vehicles Vehicles Produced
+62The Fremont Factory achieves injury rates far below the industry average
+As our worker engagement increased throughout 2020, our Fremont Factory injury rates decreased. Compared to the 
+automotive national industry average, we continued to drive performance through the integration of safety in design and 
+focusing on the presence and effectiveness of safeguards. Safety Improvements
+Factory Highlights
+4.96.0
+4.55.05.56.0
+Tesla Industry Avg.2020 Fremont Factory TRIR
+3.54.3
+3.03.54.04.5
+Tesla Industry Avg.2020 Fremont Factory DART
+External Certifications for Tesla Factories
+Gigafactory Nevada, Gigafactory New York and Gigafactory Shanghai were externally certified for ISO 14001 and ISO 45001, 
+which are the international standards for implementing an environmental management system and managing health and safety 
+concerns. Gigafactory Nevada also submitted Tesla’s first application for a voluntary protection plan, which is a partnership 
+between Tesla and NVOSHA. Transparency with regulators continues to be key to our strategy.18% below industry average
+Fremont TRIR is 18% below the NAICS industry average for 
+automobile manufacturing.
+19% below industry average
+Fremont DART is 19% below the NAICS industry average for automobile manufacturing.63Health and Safety Committees enable real -time feedback, driving improvement in EHSS processes and outcomes
+Across our operations, we have effective and engaged Health and Safety Committees that include representatives from 
+production and management. The initiative is managed by our EHSS team, but the exact structure and function is determined by 
+teams on the ground depending on their location and function. We are striving to create a culture where we learn and improve 
+by involving the people closest to the work.
+For example, in Fremont, our General Assembly 4 (GA4) -Model Y -EHS Committee is a combination of Production, Quality, and 
+Production Control (PC) associates. The cross -functional nature of the membership is meant to encourage collaboration between 
+all production teams who work in GA4. Activities undertaken by the committee include action tracking for top risks, safety 
+audits, proactive safety discussions, recognition and spotlights for associate -led improvements and discussing concerns or risks
+brought up by the peer group. Safety members have also been trained on the Take Charge* program and have been leading the 
+initial roll- out in GA4. 
+In Energy, Committees are both national and regional in nature across North America, APAC and EMEA. They include a variety of 
+formats to suit our geographically and functionally diverse business. Much like the GA4 team, the objectives of the committee
+center around improving EHS outcomes by conveying important information regarding incidents, new products or safety 
+techniques, and other relevant learnings for the organization. Meetings are centered on sharing feedback and improving our 
+processes.
+All EHS committees utilize real -time chat functionality that allow the teams to communicate issues and ideas and collaborate on 
+health and safety improvements. Associates can take pictures of concerns and address issues in real time within the group cha t. 
+Site EHS Representative Program for Sales, Service and Delivery (SSD)
+To keep a geographically distributed and diverse organization informed and aligned, a Site EHS Representatives program has 
+been instituted globally. Up to two EHS ambassadors are recruited at each SSD site. The Representatives help with safety and 
+compliance tasks such as workplace inspections, disseminating EHS -related information, relaying feedback to regional EHS 
+specialists, participating in monthly employee safety committee meetings and monthly regional EHS representative trainings  a nd 
+assisting with incident reporting and investigations. Site EHS Representatives attend monthly calls that center on education and
+sharing of issues and concerns.
+Safety Committee Meetings are held monthly in each region to facilitate information sharing and encourage collaboration. 
+Participants in the monthly safety committees include technicians, Tesla Advisors, managers, engineers, business partners and
+regional leadership. Meetings cover company news, review of incidents and trends, educational content on relevant EHS topics,
+one-point lessons, upcoming EHS events, trainings, Safety Alerts, Take Charge and recognition.Safety Improvements
+Active Engagement
+Take Charge Program
+Take Charge is a new EHSS program designed to empower all Tesla 
+employees to assist in building a strong safety culture by submitting improvement ideas for environment, health, safety or security at Tesla.
+64Rewarding the Individual
+Tesla offers wages and benefits that meet or exceed those of other comparable 
+manufacturing jobs in the regions where we have a presence, and we recently increased 
+our base pay even further. In addition, unlike other manufacturers, the majority of 
+employees have the opportunity to receive additional Tesla equity each year based on 
+their performance, which can result in significantly higher compensation beyond our 
+already industry -leading base compensation. 
+The impact of stock -based compensation can be material for employees
+Our employees have benefited enormously from value appreciation seen through the 
+years. While share prices will remain volatile and past performance is not indicative of 
+future results, stock -based compensation brings shared ownership to the workforce, and 
+our employees are encouraged to make a positive change for the benefit of all. Culturally, 
+shared ownership of the company is one of the most essential attributes of working at 
+Tesla. 
+For example, assume that an employee received a grant of 320 Tesla shares in 2018 that 
+vested 20 shares quarterly over four years. Based on the stock price at the time of the 
+grant, the vest of 20 Tesla shares per quarter would equate to $1,331- worth of sellable 
+shares at the end of 2018. However, the same vest two years later would equate to $14,113 -
+worth of sellable shares per quarter based on the increase in the price per share of Tesla stock over that period.
+Employees are also eligible to buy additional stock at a discount through the Employee 
+Stock Purchase Program.
+65Rewarding the Individual
+Growth, Pay and Advancement
+020,00040,00060,00080,000
+2010 2011 2012 2013 2014 2015 2016 2017 2018 2019 2020Tesla Global Employee CountContinuous recruitment
+Our employee count has grown ~80 fold over the past decade. While many companies in the automotive industry have been 
+trimming the number of employees and launching various early retirement schemes, we are planning to grow our employee 
+base for years to come. 
+Compensation
+Tesla provides a highly competitive wage that meets or exceeds that of comparable manufacturing roles, even before equity 
+and benefits are factored in. In 2020, Tesla’s average national wage for manufacturing jobs in the U.S. was $21.14/hour plus 
+benefits (which, among others listed on the next page, includes an option for $0 cost paycheck deductions) and equity, which is a 10.7% increase compared to 2019. According to the Bureau of Labor Statistics, the mean hourly wage for Production 
+Associates / Assemblers is $16.73 and the median is $15.55. Tesla continuously reviews salary and wages against benchmarks 
+and adjusts to ensure wages are competitive. Evaluations for promotions also take place annually.
+Pay equity
+At Tesla, we believe that equal work deserves equal pay. That is why we have a robust process for ensuring pay equity across 
+our organization. We constantly evaluate our pay levels to help ensure that no pay gaps are created.  
+Career advancement
+Tesla makes an effort to promote from within and a weekly email is sent to all employees listing available job openings with 
+instructions on how to apply. Candidates are interviewed and selected based upon their skills and how they line up with the 
+vacancy.66Our comprehensive benefits have evolved alongside the needs of our diverse and growing workforce
+Tesla proudly offers a comprehensive range of benefits options to support our employees’ health and well -being in every region 
+of the world in which we operate. Our benefits allow our employees to choose the level of support that is right for them and their 
+stage of life. We offer no- cost paycheck contributions for medical, dental and vision plan options for employees and family 
+members. We also offer employer -paid life, short -and long- term disability, confidential counseling for employees and their 
+families, employee assistance programs and voluntary benefit programs.
+We support our employees every day so that they can be at their best, both at home and at work. We also offer student loan an d 
+debt consolidation services, transportation subsidies and $0 cost shuttles, back -up childcare, discount programs and tools and 
+resources to support growing families.
+Below is a summary of the range of benefits that we offer our employees; our offerings have evolved alongside the needs of our 
+diverse workforce:
+Since 2007, we have provided:
+•A $0 paycheck contribution medical plan
+•A Confidential Counseling/Employee Assistance Program
+•A $0 paycheck contribution dental plan
+•A $0 paycheck contribution vision plan
+•A $0 cost shuttle service to and from underserved transportation hubs in California and Nevada
+•Employer -paid life insurance
+•Employer -paid short -term disability
+•Employer -paid long- term disability
+Since 2016, we have provided:
+•SafetyNet, a benefit that provides limited financial assistance for employees experiencing temporary hardship such as the 
+sudden loss of housing, emergencies/natural disasters or expenses related to the loss of an immediate family member
+Since 2018, we have provided:
+•5 days of back -up child/elder care for employees
+•Infertility benefits, including assisted reproductive technologies
+•Transgender benefits aligned with the clinical protocol set forth by the World Professional Association for Transgender Healt h
+Since 2019, we have provided:
+•Rethink, a benefit that provides resources for families with children who have learning, social or behavioral challengesRewarding the Individual
+Benefits
+67Tesla is committed to positively impacting and strengthening the communities in which we live and work
+We strive to accomplish this work through:
+•Workforce development and education programs that provide access to the community we aim to support and create equity 
+for our workforce;
+•Building community connections to increase representation and ensure that job opportunities are promoted locally; and
+•Supporting environmental equity and connecting underrepresented communities to our mission.
+Workforce Development
+We are continuing to provide the local community access to thousands of job openings across the U.S. in manufacturing, 
+vehicle service and solar roof installation, offering full benefits and training from day one. We have long stated publicly t hat
+candidates do not need to have a college degree to work at Tesla. This represents an enormous opportunity for high school graduates from underserved communities to join us in our mission and grow their careers.
+Tesla START is an intensive training program that provides students across North America with the skills necessary for a 
+successful career at Tesla and beyond. During the program, students develop technical expertise and earn certifications through 
+in-class theory, hands -on labs and self- paced learning.  We partner with community colleges across the country to integrate 
+Tesla START into automotive and manufacturing curriculums as a multi -week capstone. Since the launch over START over 550 
+students have been placed in full -time employment at Tesla. 
+Tesla’s Manufacturing Development Program is a two -year program where recent high school graduates in the U.S. start a career 
+at Tesla as a Production Associate while continuing their education in automation and robotics at a local community college. To 
+date, we've hired 168 graduates into this program since launching in 2017, with active programs at Gigafactory Nevada, 
+Gigafactory New York and our Fremont Factory. We also launched our first Manufacturing Development Program class with Del 
+Valle High School to support Gigafactory Texas in fall 2021. 
+Tesla’s Tool & Die Apprenticeship Tesla offers a federal and state certified Tool & Die Apprenticeship program in the U.S., in 
+partnership with local community colleges, at the Fremont Factory, Gigafactory Nevada and Tesla Grand Rapids. These 
+apprenticeships blend on- the-job training by qualified mentors with classroom learning, providing a holistic approach to 
+learning a trade in high demand. Apprentices learn welding, machining, blueprint reading and other critical skills.Community Engagement
+Workforce Development
+68When Gigafactory Nevada was announced in 2014, Tesla committed to invest  $37.5 million in K -12 Education across the state. 
+This investment is directed at initiatives that support the acceleration of robotics and sustainability programming within 
+Nevada’s K -12 education system and is focused on directly supporting the development of future engineers in Nevada.  Below is 
+a snapshot of two organizations we have collaborated with.
+Nevada Robotics 
+Tesla is a founding partner of Nevada Robotics, a non- profit focused on supporting the acceleration of K -12 robotics programs 
+at every school in Nevada. Through the support of robotics organizations locally, like FIRST Nevada and VEX Robotics, after 
+school robotics teams participating in the program in Nevada have grown from 270 to over 700, and student participation has 
+increased by over 4,000 students annually to 6,400.  Nevada Robotics has also supported robotics trainings for over 400 
+teachers by providing equipment, coaching stipends and externship opportunities to help empower teachers to bring this new field to life in their classrooms.
+Envirolution
+Envirolution is a Nevada based non -profit that focuses on providing teachers with valuable sustainability curriculum, classroom 
+resources and professional development.  Tesla has supported over 170 teachers from 75 schools in Nevada in launching student -driven sustainability initiatives that have led to over 8,600 MWh in energy savings.  In 2019, Envirolution launched 
+Career Quest, a field trip initiative that connects students to careers across their region. To date, over 1,500 students have 
+participated in Career Quest at Gigafactory Nevada.Community Engagement
+Education Programs
+69Our community connection programs and experiences are designed to increase representation and provide equitable outcomes 
+for underrepresented groups. We offer first -in-line employment opportunities to program participants. We inspire students to 
+see the possibilities of an amazing career with Tesla. We are continuing to provide employees with the programs, tools, 
+resources and support that have been proven to foster inclusion. We inspire our employees to progress in their careers as far as
+their talent will take them.
+Introduce a Girl to Engineering Day
+To help encourage young women to see engineering and manufacturing as a desirable career path, Tesla hosted over 400 girls at 11 sites in 5 states in the U.S. for Introduce a Girl to Engineering Day. Tesla volunteers led the students through facili ty tours 
+and hands on STEM activities. They also heard from the women of Tesla who lent their expertise and experience to encourage the young female students to see technology as a tool to pursue their future career interests.
+Manufacturing DayIn celebration of National Manufacturing Day in the U.S., which takes place annually on the first Friday in October, Tesla hoste d 
+events in Fremont, California and Austin, Texas (held virtually in 2020 due to COVID -19 safety precautions) engaging several 
+hundred students, parents, teachers and community leaders through virtual factory tours, panel discussions and sharing manufacturing career opportunities to inspire young people to explore manufacturing careers at Tesla.
+Tesla Connect
+Over the years, we have hosted thousands of visitors at Gigafactory Nevada, Gigafactory New York and the Fremont Factory in 
+California to give guests an opportunity to see the manufacturing process firsthand. In 2020, we created Tesla Connect to 
+expand our reach with students and community members across the globe. Tesla Connect provides virtual tours, info sessions 
+and Q&A discussions to share an in- depth look at the Tesla ecosystem.
+Tesla ImpactTesla Impact was relaunched in October 2020 to provide opportunities for Tesla employees to give back to the community by supporting mission- driven causes and organizations through volunteer programs and events. Employees across the U.S. had the 
+opportunity to participate in blood drives, in- person and virtual volunteering, mentoring opportunities and charitable 
+collections to benefit community organizations where they live and work.Community Engagement
+Community Connection 
+Programs and Experiences
+70At Tesla, we are committed to using our products to provide economic and environmental benefits to the communities that are 
+most impacted by the effects of climate change and natural disasters.
+•Nearly 37 million American homes suffer from energy poverty, which is the inability for a household to meet its energy needs. This makes them vulnerable to detrimental health effects during periods of intense heat or cold.
+•Energy poverty results from income inequality and inequalities in energy prices, housing and energy efficiency.
+•Despite consuming less energy on average, low -income households spend three times as much of their income on energy 
+than non- low-income households.
+To foster environmental equity, we are committed to the following:
+In-Kind Product Donations
+Since 2017, Tesla has donated 1,700 kW of solar panels to over 108 systems at 14 installations through GRID Alternatives. Thi s 
+has equated to $2.5 million in lifetime savings for low -income families, with over 6,000 tons of carbon emissions prevented, the
+equivalent of planting 138,000 trees.
+Our 70kW solar system installed on Erie Community College's Center for STEM studies not only generates energy contributing 
+directly to the building’s electrical supply, but it also provides energy to ten electric vehicle charging stations across th ree
+campuses. Live energy output data is used by faculty and students for academic purposes. 
+Since 2019, Tesla has donated approximately 400 Destination Charging connectors to Parks Canada for use in 28 of their most 
+popular destinations and to University Health Network in Toronto. These donations help each organization to meet their 
+sustainability goals while also increasing access to recreational and health infrastructure to EV owners in Canada.
+Disaster Relief Efforts In 2020, Tesla supported relief efforts associated with Hurricane Laura in Louisiana and the Oregon Wildfires. In total, four sites 
+were supported through the deployment of seven Mobile Power Units supporting the needs of local residents and providing 
+power to over 100 families.Community Engagement
+Environmental Equity
+Initiatives71As we work to achieve our mission for a more sustainable future, we reaffirm our commitment to Diversity, Equity and Inclusion 
+(DEI). We are proud to employ people from all backgrounds who possess the talent, energy and focus to accelerate our vision 
+forward. Each employee is encouraged to bring their whole self to work, knowing that Tesla values individuality as much as we
+value collaboration. To demonstrate our commitment to DEI, we published our first DEI Impact Report in December of 2020, 
+for data collected between January -September 2020 for full -time employees in the U.S. The following is a further update of our 
+first DEI Impact Report in order to provide the full -year 2020 calendar year data. Moving forward, our annual DEI Impact 
+Report data will be published within this annual Impact Report.
+Our Diversity, Equity and Inclusion Principles
+Our DEI team uses a people -first and data -driven approach to champion diversity, equity and inclusion in our business and in 
+the communities in which we operate. We rely on the following guiding principles in our work to inform company policies and 
+practices:  
+•Provide transparency in our DEI programs and results to measure our progress, identify areas of improvement, celebrate 
+successes, and continually iterate and improve our DEI approach;
+•Integrate accountability measures for organizational, team and individual progress and results into our business operations; 
+•Focus on sustainable solutions that solve problems at the root cause and reimagine new programs with Diversity, Equity and Inclusion principles embedded in the design; and
+•Share knowledge throughout all levels of the organization to aid in personal and professional learning and development.
+Our Diversity, Equity and Inclusion Principles in Action
+Tesla is not a company that rests on past successes or settles for the status quo. We set high standards for everything we do ,
+and we are committed to bringing that same bias for excellence to DEI at Tesla. The road to success is paved with action—
+especially in difficult times. We are backing up our commitment to DEI by expanding our team, adding company -wide talent 
+development and learning programs to our function and embedding DEI principles in everything that we do. From our 
+engagement with candidates to our outreach to community members, we are intentional as we work to encourage people from 
+all backgrounds to join us on our mission to accelerate the world’s transition to sustainable energy.
+We are investing in communities like Fremont, California; Reno, Nevada; Buffalo, New York; and Austin, Texas, to support workforce development and education programming, community engagement and environmental equity initiatives. Our 
+supplier diversity program, formally revamped in 2020 and in place under the Diversity, Talent & Learning team, will support 
+businesses as they grow in the global market and become a key component to our collective success. We are reaching out to 
+further engage the communities where our employees reside and work to inspire community members to join us on our 
+mission.Diversity, Equity & Inclusion 
+72Underrepresented communities in the U.S.: Tesla is a majority -minority company
+Black, African American, Hispanic, Latinx, Asian, Pacific Islander, Native American, Native Hawaiian and Alaska Native 
+communities are typically underrepresented in the U.S.; however, we are pleased to report that this group collectively 
+represents 61% of our workforce. The same group is typically even more underrepresented in corporate leadership. As of 
+December 31, 2020, 33% of our directors and vice presidents were from underrepresented communities. This is a large 
+percentage of a very small cohort —less than 0.3% of employees are director level and above at Tesla. We are proud to be a 
+majority -minority company with a business that reflects the underrepresented communities that have long struggled to break 
+through the roadblocks to equal opportunity in the U.S.
+Black and African American employees are 10% of our U.S. workforce. In 2020 ,this group experienced an increase in 
+representation in management, ultimately representing 4% of our director -level and above employees. Black and African 
+American employees comprised 13% of new hires and 10% of promotions respectively —both increases from 2019; however, we 
+know that our numbers do not yet represent the deep pools of Black and African American talent that exist in the U.S at every
+level —from high school graduates to professionals. Many of our programs in 2021 will focus on increasing Black and African 
+American representation at Tesla, especially in leadership, while continuing the upward trend in new hires and promotions.
+Asian employees are 20% of our U.S. workforce and have also seen an upward trend in representation in management, 
+ultimately representing 24% of our director -level and above employees. Asian employees comprise 17% of all new hires and 22% 
+of all promotions. We want to see these trends continue to improve in 2021 and beyond.
+Hispanic and Latinx employees are 24% of our U.S. workforce, and while they currently represent only 4% of our director -level 
+and above employees, they represented 24% of all promotions in 2020 —reflecting a 14% growth from 2019 and Tesla’s active 
+efforts at cultivating and developing diverse talent. Additionally, 30% of all new hires in 2020 were Hispanic and Latinx. We also 
+want to continue in 2021 and beyond the positive upward trends we are experiencing across hiring, promotions and overall 
+representation for our Hispanic and Latinx employees.Diversity, Equity & Inclusion
+Underrepresented Communities 
+in the U.S. 
+Underrepresented Communities
+Representation in our U.S. Workforce
+20% 10% 24% 7% 32%
+Asian Black HispanicAdditional 
+GroupsWhite
+Underrepresented Communities in LeadershipRepresentation in our U.S. Workforce
+24% 4% 4% 1% 59%
+Asian Black HispanicAdditional 
+GroupsWhite
+Data are representative of calendar year 2020, as measured on December 31, 
+2020. Totals may not add to 100% due to rounding or individuals who selected 
+“decline to state” or left the category blank.73Gender Representation in the U.S. 
+Women represent 22% of our overall U.S. workforce and 23% of all promotions —a 5% growth from 2019. They represent 19% of 
+our directors and vice presidents. In 2020, nearly 25% of all U.S. hires were women.
+Women are historically underrepresented in the tech and automotive industries, and we recognize we have work to do in this 
+area. We are committed to working alongside other companies to help broaden the range of opportunities for women 
+throughout these industries. We are taking active steps to increase our outreach to women and build an inclusive culture that
+supports their development and retention. Increasing women’s representation at all levels, especially in leadership, is a toppriority in 2021.Diversity, Equity & Inclusion
+Gender & Veteran 
+Representation in the U.S. 
+Gender Representation 
+in our U.S. Workforce
+Female Male
+22% 78%Gender Representation 
+in Leadership in our U.S. Workforce
+Female Male
+19% 81%
+Veteran Representation in the U.S. 
+Veterans represent 4% of our overall U.S. workforce. They represent 4% of our directors and vice presidents. In 2020, 3% of a ll 
+U.S. hires were veterans.
+Our veteran population includes members from the Air Force, Army, Coast Guard, Navy and Marine Corps and from all 
+modern eras of service. In 2021, we will focus heavily on connecting transitioning veterans to opportunities through on our 
+partnership with Hiring Our Heroes and apprenticeship programs.
+Veteran Representation 
+in our U.S. Workforce
+Veteran Non-Veteran
+4% 96%Veteran Representation 
+in Leadership in our U.S. Workforce
+Veteran Non-Veteran
+4% 96%
+Data are representative of calendar year 2020, as measured on December 31, 2020. Totals may not add to 100% due to rounding or i ndividuals who selected “decline to 
+state” or left the category blank.74Focus on attracting, developing and retaining excellent talent
+In 2020, we took concrete steps to attract, develop and retain top talent. We focused internally on upskilling and retooling our
+recruiting organization. During our first DEI Recruiting Summit, we shared tools and best practices with the entire global 
+organization for scouting and landing the best talent from underrepresented communities. All participants completed our 
+customized unconscious bias training for recruiters. This Summit will become an annual tradition that we hope to expand upon 
+in 2021. 
+We expanded our Internship Program to become our driving force in attracting diverse talent at our professional entry level. 
+The program is intended to convert college students into employees for early career opportunities across our entire business. In
+2020, we hosted more than 1,400 interns during the spring, summer and fall. We built exciting internships and co- op 
+experiences that integrated into the core fundamentals of our businesses: Manufacturing, Energy and Technology. Interns joined 
+us from all around the world and completed internships in the U.S., EMEA and APAC.
+We also expanded our military fellowship program in 2020 by partnering with the Air Force Education with Industry Program 
+and the Secretary of the Navy’s Tour with Industry Fellowship Program. The 2020 fellows spent the year immersed in our 
+energy, construction and logistics organizations gaining invaluable insight and perspective to help accelerate innovation upon 
+their return to active duty. 
+Integrate Diversity, Equity and Inclusion principles and practices into the DNA of our company
+In 2020, we instituted quarterly diversity data reviews across our different divisions –this ensures that we identify trends an d 
+needs across functions instead of simply looking at our workforce at the company -wide level. Each executive reviews their 
+organization’s demographic data from a variety of angles and works with their DEI, HR and Recruiting partners to create an 
+action plan to attract, develop and retain talent. 
+As a result of integrating the talent management function into the DEI function, we were able to deliver a consistent and fai r 
+performance review process in which 99% of all U.S. employees were rated on their performance. The program has led to 
+improvements in our internal mobility program and employee’s access to career opportunities within Tesla.
+We expanded our leadership development team with a focus on providing DEI offerings to all our U.S. employees. Now all 
+employees are introduced to our DEI principles on Day 1 of their employment in New Hire Orientation and have the opportunity to continue their DEI learning journey throughout their career at Tesla. From our allyship resources and DEI Life Hacks on our 
+DEI Knowledge Center to virtual instructor led courses on unconscious bias, inclusive interviewing and inclusive leadership, our
+employees now have access to information no matter where they located in the world or are in their own knowledge journey.Diversity, Equity & Inclusion
+Our Roadmap
+Our DEI Roadmap —outlined below —highlights the steps we 
+will continue to take in order to improve on our diversity and 
+inclusion metrics and integrate DEI best practices into our business operations. Our approach is simple:
+Focus
+on attracting, developing and retaining excellent talent
+Integrate
+diversity, equity and inclusion principles and practices into the DNA of our company 
+Connect
+communities internally and externally to opportunities with Tesla75Connect communities internally and externally to opportunities with Tesla
+We focused a great deal of our efforts on expanding our Community Engagement and ensuring our employees stayed 
+connected during the global pandemic.
+We expanded our Employee Resource Groups (ERGs) and were hyper focused on ensuring our programming was accessible in 
+the new remote work environment. We welcomed Asian Pacific Islanders at Tesla to our ERG family. While this was a time of 
+uncertainty and change, through our ERGs, we ensured our employees felt more heard and connected than ever before as they pivoted to virtual events to promote inclusion across different locations, physical boundaries and time zones.
+In response to the global outcry for social justice sparked by the murder of George Floyd, we developed our internal Listen t o 
+Understand Series. The series is a monthly listening opportunity for all employees to witness powerful storytelling from our 
+leaders and colleagues as a way to better understand the challenges some members of underrepresented communities face in 
+their quest to bring their whole selves to work and build understanding and empathy for one another to help us all navigate our relationships at work and home. Topics we had the opportunity to discuss include overcoming imposter syndrome, navigating 
+unconscious bias and perceptions, addressing the impact of microaggressions as well as other practical ways to foster allyshi p 
+and inclusivity to allow our employees to always bring whole selves to work.
+We formalized collaboration between the DEI, Supply Chain and Government Affairs teams to ensure local minority, women, 
+LGBTQ, disabled and veteran owned businesses are connected to opportunities with Tesla. Tesla recognizes that supplier 
+diversity creates a competitive advantage for the company and has a positive impact on the global community. As the supplier 
+diversity program develops, we will implement plans that encourage increased usage of diverse suppliers throughout our 
+organization, partner with internal and external stakeholders to identify opportunities for diverse suppliers and work with 
+external partners to encourage capacity building for diverse suppliers. At Tesla, we strive to have a diverse supply chain an d 
+provide the maximum practical opportunities to provide goods and services as a part of the corporate procurement process. Diversity, Equity & Inclusion
+Our Roadmap
+Our DEI Roadmap —outlined below —highlights the steps we 
+will continue to take in order to improve on our diversity and 
+inclusion metrics and integrate DEI best practices into our business operations. Our approach is simple:
+Focus
+on attracting, developing and retaining excellent talent
+Integrate
+diversity, equity and inclusion principles and practices into the DNA of our company 
+Connect
+communities internally and externally to opportunities with Tesla
+Intersectionality
+76Our Diversity, Equity & Inclusion governance
+Our DEI governance structure supports our business operations. Our VP of People engages with our Board of Directors to 
+ensure our DEI plans are in alignment with Tesla’s strategic objectives. We also integrate our Talent Management and Learning
+and Development into the DEI functional scope to ensure fair and equitable talent, career and learning resources and programs
+are in place and accessible to all employees. The DEI director reports directly to the VP of People and has regular engagement 
+with company executives across the company to ensure that DEI principles are embedded into our business. The DEI director 
+also has responsibility for all of Tesla’s Talent Management and Learning programs.
+Where we are today
+We set our own high standards for excellence, including how we evaluate our DEI practices and programs. Where we are today 
+represents the progress that we have made and the steps we have taken throughout 2020. We know we have more work to do 
+to be representative of the evolving U.S. population ,and we are committed to implementing the plans we’ve designed to get us 
+there.
+Our Board of Directors
+The increasingly diverse representation on our Board of Directors sets the tone for the rest of the company.Diversity, Equity & Inclusion
+Governance
+Underrepresented Communities
+Board of Directors
+11% 11% 11% 66%
+Asian Black Hispanic WhiteGender Representation
+Board of Directors
+Female Male
+22% 78%
+77
+Corporate Governance 
+IntroductionOur Board of Directors serves as a fiduciary for shareholders and oversees the management of the Company's business —which 
+includes oversight of the Company’s ESG impacts, initiatives and priorities. With those responsibilities in mind, the Board s ets
+high standards for our employees, officers and directors; and we periodically add new, highly qualified independent directors to
+the Board, such as Larry Ellison and Kathleen Wilson- Thompson in 2018 and Hiromichi Mizuno in 2020. Implicit in this approach 
+is the importance of sound corporate governance. 
+We believe that sound corporate governance is critical to helping us achieve our goals, including with respect to ESG. We are
+committed to establishing an operating framework that exercises appropriate oversight of responsibilities at all levels throughout the company and manages its affairs consistent with high principles of business ethics.
+Tesla aspires to be a “do the right thing” company. Our Code of Business Conduct and Ethics sets out basic principles that 
+should help anyone working at or for Tesla avoid even the appearance of improper behavior. Tesla’s Code of Business Conduct 
+and Ethics and our Corporate Governance Guidelines are each available on Tesla’s website at: 
+http:/ /ir.tesla.com/corporate -
+governance/highlights .
+In addition, we believe in regular and transparent communication with employees. We encourage Tesla employees to share their 
+feedback openly (and anonymously, if they prefer), and the company provides easy methods to do so. We regularly conduct 
+employee surveys to identify strengths and opportunities for improvement. We have a robust action planning process to ensure 
+we proactively address the concerns or feedback.
+We also have a whistleblower hotline through which employees can report concerns at any time. The company keeps 
+information reported by employees in confidence, whether through the hotline or another channel. Our policies prohibit 
+retaliatory actions against employees for raising concerns or making complaints. We are committed to maintaining an open and transparent culture where it is safe and acceptable for all employees to raise concerns about policy violations by their mana ger
+or colleagues or about the workplace overall.78Our Board of Directors’ commitment to guiding Tesla’s long- term vision is a key component of our ability to execute upon our 
+mission to accelerate the world’s transition to sustainable energy. The Tesla Board has actively driven key decisions focused on
+achieving long- term growth and profitability, including decisions to:
+•Develop, manufacture and sell a range of electric vehicles from the ground up, including luxury, affordable and commercial -
+use models, rather than simply build powertrains for OEMs;
+•Deploy FSD city streets beta software to our fleet in order to develop complete full -self driving capability in the future;
+•Establish Tesla -owned stores and service centers rather than use a franchised dealer system;
+•Create a global network of Superchargers to enable long- distance EV travel;
+•Build the world’s largest battery factory to meet our needs and reduce battery costs;
+•Expand into energy generation (solar) and storage through the acquisition of SolarCity Corporation in 2016 to create a 
+vertically integrated sustainable energy company and empower individual consumers to be their own utility; and
+•Compensate our CEO only if other shareholders realize tremendous value. 
+The Board is directly and regularly engaged with senior management and the Sustainability Council and participates in robust 
+shareholder outreach and feedback. In addition, our directors have significant experience as either top- level executives at 
+public companies, as successful investors or as entrepreneurs who founded successful organizations.
+Committees of the Board
+The Board has four standing committees —the Audit Committee, the Compensation Committee, the Nominating and Corporate 
+Governance Committee and the Disclosure Controls Committee —which are each further described in the following pages. Each 
+member of these committees qualifies as an independent director under the listing standards of NASDAQ. In addition, as part 
+of our governance review and succession planning, the Board (led by the Nominating and Corporate Governance Committee) 
+evaluates our leadership structure to ensure that it remains the optimal structure for Tesla, reviews the composition, size a nd 
+performance of the Board and its committees, evaluates individual directors and identifies and evaluates candidates for elect ion
+or re -election to the Board.
+Board role in risk oversight
+The Board is responsible for overseeing the major risks facing Tesla, while management is responsible for assessing and 
+mitigating Tesla’s risks on a day -to-day basis. In addition, the Board has delegated oversight of certain categories of risk to its 
+independent committees, which then report to the Board, as appropriate, on matters that involve the specific areas of risk that 
+each committee oversees.Corporate Governance 
+Board Structure and Responsibilities
+79Audit Committee 
+The Audit Committee is responsible for, among other things, assisting the Board in providing oversight of Tesla’s accounting and financial reporting processes and the audit of its financial statements, including oversight over the integrity of these 
+statements, the Company’s compliance with legal and regulatory requirements, the independent auditor’s qualifications, 
+independence and performance, the organization and performance of the Company’s internal audit function, as well as the 
+Company’s internal accounting and financial controls, treasury and finance matters, and risk management including data 
+privacy and cybersecurity. 
+Compensation Committee
+The Compensation Committee is responsible for, among other things, discharging the Board’s responsibilities in administering 
+and overseeing Tesla’s compensation policies, plans and benefit programs, the compensation of Tesla’s executive officers and members of the Board and the administration of the Company’s employee benefit plans.
+Nominating and Corporate Governance Committee
+The Nominating and Corporate Governance Committee is responsible for, among other things, reviewing and making 
+recommendations to the Board on matters concerning corporate governance, Board composition, the identification, evaluation 
+and nomination of director candidates and composition of Board committees and conflicts of interest. In addition, this 
+Committee oversees Tesla’s corporate governance practices and reviews annually the principles of corporate governance 
+approved by the Board, including the Company’s Code of Business Conduct and Ethics and Corporate Governance Guidelines, 
+to ensure that they remain relevant and are being complied with and monitored by management, recommending changes to 
+the Board as necessary.
+Disclosure Controls Committee
+The Disclosure Controls Committee, among other things, implements, reviews and monitors Tesla’s compliance with applicable 
+legal requirements governing the Company’s and its executive officers’ public disclosures and public statements relating to t he 
+Company.Corporate Governance 
+Board Committees (as of June 1, 2021)
+Name FunctionYear 
+joined
+Audit Committee
+Compensation 
+Committee
+Disclosure Controls 
+Committee
+Nominating & 
+Governance 
+Committee
+Robyn DenholmIndependent 
+Board chair2014 X X X X
+Elon MuskDirector and CEO2004
+IraEhrenpreisIndependent 
+director2007 X X
+Larry EllisonIndependent director2018
+Antonio J. GraciasIndependent director2007 X
+Hiromichi MizunoIndependent 
+director2020 X
+James MurdochIndependent director2017 X X X
+Kimbal Musk Director 2004
+Kathleen Wilson -
+ThompsonIndependent 
+director2018 X X XSupporting Materials81Summary
+Impact Area Topic Description Page(s)
+Environmental 
+ImpactLifecycle Analysis of Tesla Vehicles 
+versus Average ICERegardless of where it is driven (U.S., Europe or China), a Model 3 made in Fremont emits far fewer greenhouse gas emissions per mile than a comparable ICE.11 -22
+NOx, Particulates and Other PollutantsNew research shows that fossil fuels are alone responsible for more than 8 million premature deaths annually, or almost one out of every five deaths globally, double previous estimates. Zero tailpipe emissions is a commonly 
+overlooked benefit of EVs.23
+Tesla Semi's Impact on EmissionsTesla Semi is poised to make a large impact: in the U.S., combination trucks make up just 1.1% of the vehicle fleet but account for 17% of annual emissions. 24
+Battery RecyclingIn Q4 2020, Tesla successfully installed the first phase of the cell recycling facility at Gigafactory Nevada for in- house 
+processing of both battery manufacturing scrap and end- of-life batteries. 25 -26
+Waste Generated per Vehicle ManufacturedAs we continue to build new, more efficient factories our ability to limit packaging and reduce waste increases. Waste 
+generated per vehicle in Shanghai production is 50% less than our manufacturing in the U.S. We continue to push for 
+innovative approaches to reducing waste as we expand our global operations.27
+Water Used in Vehicle ManufacturingWhile water usage per vehicle was already below the industry average in 2020, new factories such as Gigafactory Berlin -Brandenburg will set a new standard when it comes to low water use per vehicle.28 -29
+Emissions CreditsIn 2020, Tesla delivered 2x as many EVs as our next closest competitor, helping drive $1.6bn in revenue from selling regulatory credits. This money is being used to accelerate our production capacity deployment in direct support of our mission.30
+Net Energy Impact of our ProductsSince we started producing Model S in 2012, Tesla solar panels have generated 8x more energy than our factories have 
+consumed over the same period.31
+Product ImpactProduct Affordability (Price Equivalency 
+& Total Cost of Ownership) Model 3 has achieved price parity with its ICE equivalents. But, when compared on a total cost of ownership basis, the Model 3 is much closer to a Toyota Camry on all -in cost per mile than to an ICE equivalent such as a BMW 3 Series.33 -34
+Product Usage & Usability Our data show that Tesla vehicles are used as much as an average vehicle in the U.S., utilized for daily commutes, errands and long- distance travel alike. The superior range of our vehicles and a robust global Supercharger Network 
+makes this possible.35 -36
+Active Safety In 2020, a Tesla vehicle with Autopilot engaged in the U.S. experienced just 0.2 accidents per million miles driven while the U.S. average was ~9x higher at 2.0 accidents per million miles driven.3782Summary
+Impact Area Topic Description Page(s)
+Product ImpactPassive Safety & Tesla Safety AwardsTesla vehicles consistently achieve 5 -star safety ratings in the U.S., Euro and Australasian NCAP programs. In 2020, 
+Model X and Model 3 both earned 5-stars across all three programs while Model Y earned 5 -stars in the U.S. (it was not 
+yet available in Europe or Australia in 2020).38 -39
+Fire Safety From 2012 to 2020, there has been approximately one Tesla vehicle fire for every 205 million miles traveled. Data from 
+the National Fire Protection Association (NFPA) and U.S. Department of Transportation show that in the U.S., there is an average of one vehicle fire for every 19 million miles traveled.40
+CybersecurityIn order to ensure we have the best products in the world, we continually update them with our industry -leading over -
+the-air software updates, ensuring our customers always have the latest and greatest security and product features. 
+We also actively engage with academic experts and security experts to ensure the best of the best are pressure testing our systems.41
+Resilience of the GridElectric grid disturbances in the U.S. have increased dramatically over the last 15 years. Our solar and storage products not only deliver cost savings and energy independence, but they also harden the grid from adverse events in a cost -
+effective and environmentally friendly manner.42 -43
+Supply ChainResponsible Material SourcingWhile our complex supply chain is a unique hybrid of the traditional automotive and high- tech industries and 
+encompasses suppliers from around the world, Tesla is committed to only sourcing responsibly produced materials.45
+Cobalt in our Supply ChainTesla has reduced cobalt content in our cathode substantially over the years; however, as long as cobalt is in our supply chain, we are committed to fair and responsible sourcing that follows internationally accepted guidelines while 
+supporting the communities from which we source.46-49
+Battery Materials SourcingTesla continues to map our supply chain and prioritize the largest risks and opportunities. In 2020, lithium and nickel became major themes given their contribution to greenhouse gas emissions, as well as environmental and human 
+rights challenges within the supply chain.50-53
+People and 
+CultureOur People StrategyTesla's employees are its greatest asset and critical to achieving our mission. At the center of our People strategy is regular and meaningful engagement with our employees, a robust culture of safety, clear development pathways for 
+all our employees, highly competitive compensation programs, and principles of diversity, equity and inclusion built into all aspects of hiring, promotion and retention.55
+Our Response to COVID -19Tesla began preparing for COVID -19 in December 2019, well before it became a major theme in the U.S. We quickly 
+updated policies, procedures and many of our business processes to ensure the health and safety of our employees and customers. In 2020, Tesla had fewer than 40 workplace transmission cases of COVID -19 and our employee 
+positivity rate was less than half the community rate.56
+Human RightsTesla believes the ethical treatment of all people and regard for human rights is core to our mission of a sustainable future and believe all businesses within our supply chain have a responsibility to support our mission and share our respect for human rights. 57 -5883Summary
+Impact Area Topic Description Page(s)
+People and 
+CultureEmployee EngagementSince our earliest days, Tesla has been built upon a culture of open communication. We have many channels, both 
+formal and informal, including our Integrity Line, for employees to express concerns or receive feedback. Employees are free to discuss their wages, benefits and terms of employment and to raise complaints internally or externally. 59
+Our Environmental, Health, Safety and Security StrategyAt Tesla we are driving safety by focusing on what is happening today and listening to those who do the work. In 2020 alone, we had over 1.3 million EHSS engagements with our employees. Our EHSS strategy remains: 1. Do the basics right; 2. Engage and empower our stakeholders; and 3. Reduce risk.60
+Safety ImprovementsIn 2020, we further reduced of injuries per car produced while our total production continued to accelerate. More important to us, however, is our focus on incorporating a human and organizational philosophy and organizational learning when incidents happen.61 -63
+Rewarding the IndividualTesla proudly offers a comprehensive range of benefits options to support our employees’ health and well -being in 
+every region of the world in which we operate. 64 -66
+Community EngagementTesla is committed to positively impacting and strengthening the communities in which we live and work. We strive to accomplish this work through workforce development and education programs, building community connections and supporting environmental equity.67-70
+Diversity, Equity and InclusionTo demonstrate our commitment to Diversity, Equity and Inclusion, we published our first DEI Impact Report in December of 2020. Tesla is a majority -minority company: underrepresented groups make up 62% of our U.S. 
+workforce.71 -76
+Corporate GovernanceWe believe that sound corporate governance is critical to helping us achieve our goals, including with respect to ESG. We are committed to establishing an operating framework that exercises appropriate oversight of responsibilities at all levels throughout the company and manages its affairs consistent with high principles of business ethics.77 -7984In 2021, we conducted a comprehensive materiality analysis to better understand the key ESG topics that were most salient to 
+our diverse group of stakeholders. To start, we identified over 40 issues in key areas that could directly or indirectly impa ct our 
+business. The topics ranged from economic, environmental, social and governance issues. These issues were identified from four 
+components: (1) a competitive landscape review, (2) interviews with investors and other key external stakeholders, (3) industry
+reports and documented research, such as the World Economic Forum’s 2021 Global Risks Report and (4) external ESG 
+frameworks relevant to our industry and regulatory requirements across global capital markets.
+Tesla’s Sustainability Council refined the list of 40 key issues into a survey containing 25 questions in an effort to help us 
+prioritize these topics for operational management and disclosure in this year’s Impact Report. As part of the assessment, we
+surveyed our key stakeholders, asking them to rate the identified economic and ESG topics on a scale of 1- 5, based on their 
+perceived importance and impact to Tesla’s business. A total of 2,168 individuals from Tesla and approximately 40 external 
+partners, including trade associations, universities, suppliers, environmental consultants, nonprofits and local administrators,
+responded to the survey. 35% of responses came from North America, 57% from China and 8% from Europe. Below are the top 
+issues identified by our materiality analysis, in order of importance to survey responders.Appendix
+Our Materiality Analysis
+1.Environmental Management, Reducing Carbon
+2.Quality Management– Product Safety
+3.Employee Workplace Safety
+4.Employee Attraction, Retention, Development 
+5.Ethical Business Conduct, Integrity, Transparency
+6.Data Protection, Cybersecurity
+7.Supply Chain Management, Sustainable Materials/Products
+8.Customer Satisfaction, Trust and Loyalty
+9.Company Brand and Mission
+10.Employee Health and Wellness
+11.Company’s Intellectual Property, Innovation, R&D
+12.Renewable Energy
+13.Waste Management/Recycling
+14.Company Financial Health ( Product Sold, Profitability)
+15.Employee Compensation and Benefits
+16.Air Quality, Reducing Toxic Emissions
+17.New Markets, EV, Autonomous Cars
+18.Labor Relations
+19.Water Management
+20.Diversity, Equity and Inclusion
+21.Climate Change and Risk Management
+22.Biodiversity Preservation, Natural Resource Conservation
+23.Human Trafficking, Forced Labor
+24.Critical Events, Disaster Relief, Pandemic
+25.Community Engagement, Economic DevelopmentEconomic
+Environment
+Social
+GovernanceKey:Tesla Materiality Matrix
+1
+234
+567
+8
+910
+11
+1213
+1415
+161718
+1920
+212223
+2425
+Impact to Tesla BusinessInfluence on StakeholdersHigher
+LowerHigher
+85Managing a successful and effective ESG program requires robust engagement with an entire ecosystem of stakeholders –both 
+internal and external to Tesla – including our employees, customers, investors, suppliers, non- profit organizations, educational
+institutions, governments, the communities in which we operate and trade associations. These groups, among others, all have a 
+stake in the success of our businesses -they are people or organizations who are affected by or can impact our operations. For 
+ourbusiness to continue to grow, we need to keep innovating, developing new products and markets all in a sustainable 
+manner. We do this by attracting and retaining the best employees, serving our customers and investors and working with non-
+profits, our local communities, schools, governments and trade associations to make a positive impact.Appendix
+Stakeholder Engagement86United Nations Sustainable 
+Development Goals:Material Issues and Topics and Other Key Areas of Focus
+-Technological innovation in manufacturing
+-Development of zero- emission technologies
+-Reduction of carbon emissions from transport and energy generation
+-Increase renewable energy generation
+-Further improve product affordability and accessibility
+-Environmental/climate change management and reporting
+-Reduce carbon footprint across Scope 1, 2 and 3 emissions
+-Responsible supply chain management and sourcing
+-Reduce injuries and deaths from traffic accidents
+-Reduce deaths and illnesses from air, water and soil pollution
+-Waste reduction and responsible management supply chains
+-Reduce stress on water systems through efficient use of water in manufacturing
+-Workforce development, education and training
+-Diversity, Equity and Inclusion
+-Human capital management and employee development
+-Community engagement
+-Ethics, corruption and bribery, human rights and labor relations
+-Human trafficking and responsible supply chain managementIn 2015, the United Nations defined a blueprint of 17 sustainable development goals to meet the urgent environmental, politic al 
+and economic challenges facing our world. We understand that companies can play a critical role in providing solutions to 
+these challenges. Our mission to accelerate the world’s transition to sustainable energy directly addresses some of these 
+challenges -our products and services have helped to create industry demand for sustainable energy products.
+In 2021, as part of our Environmental, Social and Governance program, we reviewed the issues and topics most material to Tesl a 
+(identified on page 84) and key areas of focus for the Company and mapped them to the most relevant Sustainable Development Goals:Appendix
+Tesla’s Alignment with the 
+United Nations’ Sustainable 
+Development Goals
+87Appendix
+Key Metrics
+Average Lifecycle Emissions (gCO2e/mi)
+Delivery -weighted U.S. Average Manufacturing Phase Use Phase Total New York State Manufacturing Phase Use Phase Total
+Model 3 Ridesharing Use
+(solar charged) 29 0 29Model 3 Ridesharing Use(solar charged) 29 0 29
+Model 3 Personal Use(solar charged) 67 24 91Model 3 Personal Use(solar charged) 67 16 82
+Model 3 Ridesharing Use(grid charged) 10 125 135Model 3 Ridesharing Use(grid charged) 10 80 90
+Model 3 Personal Use
+(grid charged) 52 125 177Model 3 Personal Use(grid charged) 52 80 131
+Avg. Mid -Size Premium ICE 45 401 446 Avg. Mid -Size Premium ICE 45 401 446
+Delivery -weighted Europe Average Austria
+Model 3 Ridesharing Use
+(solar charged) 29 0 29Model 3 Ridesharing Use(solar charged) 29 0 29
+Model 3 Personal Use(solar charged) 84 13 96Model 3 Personal Use(solar charged) 84 6 90
+Model 3 Ridesharing Use(grid charged) 10 60 70Model 3 Ridesharing Use(grid charged) 10 30 41
+Model 3 Personal Use
+(grid charged) 69 60 128Model 3 Personal Use(grid charged) 69 30 99
+Avg. Mid -Size Premium ICE 59 401 460 Avg. Mid -Size Premium ICE 59 401 460
+Delivery -weighted China Average Sichuan Province
+Model 3 Ridesharing Use
+(solar charged) 29 0 29Model 3 Ridesharing Use(solar charged) 29 0 29
+Model 3 Personal Use(solar charged) 80 99 179Model 3 Personal Use
+(solar charged) 80 16 96
+Model 3 Ridesharing Use(grid charged) 10 242 252Model 3 Ridesharing Use
+(grid charged) 10 40 50
+Model 3 Personal Use
+(grid charged) 69 242 311Model 3 Personal Use(grid charged) 69 40 109
+Avg. Mid -Size Premium ICE 59 401 460 Avg. Mid -Size Premium ICE 59 401 46088Appendix
+Key Metrics
+1Includes all major manufacturing sites: Fremont Factory and supporting facilities, Gigafactory Nevada, Gigafactory New York, Tesla Grand Rapids and Gigafactory Shanghai. 
+2 Includes major manufacturing sites dedicated to vehicle production: Fremont Factory and supporting facilities, Gigafactory Ne vada Vehicle Operations, Tesla Grand Rapids and Gigafactory Shanghai.
+3 Please see page 92 of the appendix for detailed explanation of energy consumption figures.Waste Generated in Manufacturing
+Waste Generated in Global Manufacturing1
+(2020; metric tons)Diverted from 
+Disposal Directed to DisposalWaste Generated in Vehicle Manufacturing2
+(2020; kg per vehicle)Diverted from 
+Disposal Directed to Disposal
+Hazardous Waste 7,678 5,671 Hazardous Waste 14 11
+Non-Hazardous Waste 202,387 31,776 Non-Hazardous Waste 394 60
+Total Waste Generated 210,065 37,447 Total Waste Generated per Vehicle 409 72
+Water Withdrawal for Manufacturing (cubic meters)
+Total Fresh Water Withdrawal1 2018 2019 2020 Total Fresh Water Withdrawal per vehicle2 2018 2019 2020
+Major Manufacturing Sites 1,548,874 1,765,374 2,082,163 Vehicle Manufacturing Sites 3.27 2.43 3.10
+Cumulative Energy Used in Manufacturing versus Produced by Tesla Solar Panels (GWh)
+Cumulative Energy Used3 2018 2019 2020 Cumulative Energy Generated 2018 2019 2020
+Major Manufacturing Sites -Zero -Emission 331 534 789 Tesla Solar Panels 12,933 16,649 20,863
+Major Manufacturing Sites -Fossil Fuel 809 1,231 1,824
+Vehicle Safety 
+Numbers of Vehicular Accidents per Million 
+Miles Driven (2020) Autopilot EngagedActive Safety 
+Features Only No Active SafetyNumber of Vehicle Fires per Billion Miles 
+Driven 2018 2019 2020
+Tesla Vehicles 0.24 0.46 0.67 Tesla Vehicles (since 2012, cumulative) 5.88 5.71 4.8889Appendix
+Key Metrics
+Workplace Safety
+ASTM Level One Rate 2018 2019 2020Global Total Recordable Injuries per 1,000 
+Vehicles Produced 2018 2019 2020
+Tesla 2.56 Tesla 7.50 4.88 3.26
+Total Recordable Incident Rate (TRIR) 2018 2019 2020Days Away from Work, Restricted Time 
+(DART) 2018 2019 2020
+Global (across all operations) 3.33 3.84 3.11 Global (across all operations) 2.35 2.79 2.22
+Fremont Factory 4.91 Fremont Factory 3.46
+Diversity, Equity and Inclusion
+Underrepresented Communities
+Representation in our U.S. Workforce 2018 2019 2020Underrepresented Communities in 
+Leadership
+Representation in our U.S. Workforce 2018 2019 2020
+Asian 20% Asian 24%
+Black 10% Black 4%
+Hispanic 24% Hispanic 4%
+Additional Groups 7% Additional Groups 1%
+White 32% White 59%
+Gender Representation in our U.S. WorkforceGender Representation in Leadership in our 
+U.S. Workforce
+Female 22% Female 19%
+Male 78% Male 81%
+Veteran Representation in our U.S. 
+WorkforceVeteran Representation in Leadership in our 
+U.S. Workforce
+Veteran 4% Veteran 4%
+Non-Veteran 96% Non-Veteran 96%
+Gender Representation on our Board of 
+DirectorsUnderrepresented Communities on our 
+Board of Directors
+Female 22% Asian 11%
+Male 78% Black 11%
+Hispanic 11%
+White 66%90Appendix
+Metric / Disclosure / Topic Source(s) Methodology / Definition
+As a result, it is not uncommon for the carbon footprint of the use phase to be 
+underreported by up to 50%. OEM sustainability reportsAnalysis of sustainability reports by auto OEMs shows unrealistic assumptions for both vehicle life and annual 
+mileage. For those that disclose their methodology we have found that vehicle life is often estimated to be as low 
+as 10 years and annual distance traveled by vehicles as low as 6,200 miles. This compares to an average life of 17 years in the U.S. (20 years in Europe) and 12,000 annual miles in the U.S. (and 7,450 in Europe). When taken 
+together, even before considering the impacts of using real -world MPG instead of NEDC, WLTP or EPA ratings, this 
+leads to a drastic under -reporting of Scope 3 emissions.
+5.0 million metric tons of CO2e savings Tesla estimateTo estimate CO
+2e savings, we first measured the amount of miles driven and kWh of electricity generated at the 
+state, province, and country level for 2020. We then applied an emissions savings factor (in gCO2e/mi for miles 
+driven and  gCO2e/kWh for electricity generated), for each state, province, and country. For miles driven, the 
+emissions savings factor is the net of estimated emissions from our vehicles and an ICE with a real -world fuel 
+efficiency rating of 25 mpg. The emissions savings factor is based on grid emissions intensity in each respective 
+location and includes upstream emissions from the production and transport of fuels. We modeled vehicle emissions savings for the U.S., E.U. + EFTA and China, which account for ~90% of miles driven globally. We then scaled the savings to account for 100% of miles driven by dividing by ~90% and arriving at a global estimate for 2020.
+Global Greenhouse Gas (GHG) Emissions by Economic SectorCAIT data: Climate Watch. 2020. GHG 
+Emissions. Washington, DC: World Resources 
+Institute. Available at: https://www.climatewatchdata.org/ghg -
+emissions. 
+Land Use Data Source: Food and Agriculture 
+Organization of the United Nations. FAO 2020, FAOSTAT Emissions Database. Latest update: 2020. Accessed: June 2021. 
+https://www.climatewatchdata.org/ghg -
+emissions For simplicity, select categories were combined based on similarity of emissions source. Emissions from Agriculture 
+were combined with emissions from Land -Use Change and Forestry under the label “Agriculture, Land -Use Change 
+and Forestry.” Emissions from  Industrial Processes were combined with emissions from 
+Manufacturing/Construction under the label “Industry.” Emissions from Waste, Fugitive Emissions, Other Fuel 
+Combustion and Bunker Fuels (U.S.- only) were combined under the label “Other Energy.”
+Scope 1, 2 and 3 Emissions Definition Greenhouse Gas ProtocolScope 1 emissions are direct emissions from owned or controlled sources. Scope 2 emissions are indirect emissions from the generation of purchased energy. Scope 3 emissions are all indirect emissions (not included in scope 2) that occur in the value chain of the reporting company, including both upstream and downstream emissions. Emissions from the use of a company’s products are included in Scope 3.
+5,340 miles
+At the moment, the manufacturing process of a Model 3 results in slightly higher 
+GHG emissions than an equivalent combustion engine vehicle. However, based on 
+the global weighted average grid mix, a Model 3 has lower lifetime emissions than an equivalent ICE after driving 5,340 miles. Tesla estimateEstimate is based on the difference in CO2e emissions from the manufacturing phase on a Fremont -made Model 3 
+and an equivalent ICE which is then divided by the net CO2e savings per mile from a Model 3 versus an equivalent ICE. Net CO2e savings are based on delivery- weighted global grid mix.
+69 tons: Lifetime CO
+2emitted by an average combustion engine vehicle (model year 
+2020) sold in the U.S. through its use phase, excluding CO2emitted during the oil 
+refining phase.Tesla estimate based on the EPA 2020 Automotive Trends ReportFigure based on EPA's real -world (5 -cycle) testing result of 25.7 MPG across all manufacturers for model year 2020, 
+which equates to 344gCO
+2/mi, and 200,000 lifetime miles. Excludes CO2emitted during fuel production and 
+transportation. Note: the EPA's real -world testing cycle is not the same as owner -reported MPG sourced from Consumer Reports.91Appendix
+Metric / Disclosure / Topic Source(s) Methodology / Definition
+Manufacturing Phase Emissions for Average Mid -Size Premium ICE Tesla, Sphera SolutionsIn order to estimate the cradle -to-gate carbon footprints (GWP100) of select benchmark vehicles, a simplified 
+approach of multiplying their curb weights by a carbon intensity of ~5.5 kg CO2e/kg was chosen. This reference 
+value is based on a currently produced mid- size premium sedan that is comparable to the Model 3. The accuracy of 
+this estimate for the other ICE vehicles directly depends on how their material compositions compared to that of the reference vehicle as well as on the existing variability of environmental impact profiles across different 
+geographies and suppliers.
+As such, the specific carbon footprint (GWP100/kg) of the reference vehicle is only a proxy for the average 
+premium mid -size ICE vehicle. Based on past work on automotive LCAs (Rohde -Brandenburger & Koffler, 2019) 
+(Koffler C. 873 , 2013) (Koffler C. , 2010) (Koffler C. , Krinke, Schebek, & Buchgeister, 2008) (Koffler C. , 2007), the uncertainty of these estimates is estimated to be less than ±20% for a cradle -to-gate system boundary, and 
+therefore less than ±5% once the use phase is added.
+The reference manufacturer’s Environmental Certificates are calculated using the same BOM import functionality of 
+the GaBi DfX software used for the Model 3 in the LCA authored by Sphera as well as GaBi 878 databases for all 
+background data.
+Benchmark ICE vehicles include BMW 330i 2.0, Audi A4 2.0, Mercedes -Benz C300 2.0, Alfa Romeo Giulia 2.0, Volvo 
+S60 2.0, Cadillac ATS 2.0, Lexus IS 300 2.0, and Infiniti Q50 2.0.
+Use Phase Emissions for Average Mid- Size Premium ICE Consumer Reports, Sphera SolutionsFigured based on owner -reported fuel economy from Consumer Reports for the latest available model year (2018 -
+2020, depending on the make/model). 24.8 MPG is representative of the average of Alfa Romeo Giulia , Audi A4, 
+BMW 330i, Cadillac ATS, Infiniti Q50, Lexus IS 300, Mercedes -Benz C300, and Volvo S60. Use phase GWP100 of 
+~400 gCO2e/mi includes gasoline production and distribution emissions from GaBi 2019 databases as well as 
+consideration of bio -fuel mix of gasoline in the U.S. (~12%).
+Manufacturing Phase Emissions for Model 3 Tesla, Sphera SolutionsFigure inclusive of: raw and semi -finished material production including transportation, mechanical processing and 
+shaping, battery manufacturing, vehicle assembly and paint shop, all fuels and energy (natural gas, electricity, etc.), other auxiliaries (lubricants, water, etc.) and end -of-life disposal.
+Figure exclusive of: capital goods (e.g., machinery, buildings), infrastructure (e.g., roads, power transmission 
+systems), employee commute, external charging equipment and infrastructure, maintenance and service during use, 
+packaging, transport to recycler, disposal of manufacturing waste, inbound transportation from Tier 1 suppliers, 
+distribution to customers. Excluded activities are estimated to represent minor contributions to the cradle -to-gate 
+as well as the overall LCA results.
+Where solar and storage are assumed to be a fuel source for the use phase of the Model 3, emissions were included 
+in the manufacturing phase figure. The Model 3 Rideshare Use (solar charged) scenario is allocated 100% of these 
+emissions on a per mile basis, while the Model 3 Personal Use (solar charged) scenario is allocated 82% of these emissions and 18% grid- charged emissions on a per mile basis (based on observed supercharging vs. other split).
+Use Phase Emissions for Model 3Tesla; U.S. Department of Energy; emeber -
+climate.org; Moro, A., Transportation Research Part D (2017), 
+http://dx.doi.org/10.1016/j.trd.2017.07.012; 
+China Electricity CouncilUse phase emissions for grid charging are based on Model 3 delivery -weighted state, province and country level 
+grid mix based on grid carbon intensity data. 
+U.S. Source: U.S. Department of EnergyE.U. Source: emeber -climate.org
+EFTA Source: Moro, A., Transportation Research Part D (2017), http://dx.doi.org/10.1016/j.trd.2017.07.012
+China Source: China Electricity Council's China Power Industry Annual Report 2020
+Use phase emissions calculated using the geographic distribution of the Model 3 in the each respective region based on Tesla's delivery data, which weights state, province and country level carbon intensity figures and assumes no change in grid mix into the future. This is a conservative assumption based on recent new electricity 
+generation capacity trends and commitments made by states and countries to increase renewable mix on their 
+respective grids. Grid emission intensities include upstream emissions from the production and transport of fuels.Real-world observed efficiency of Model 3 over 10+ billion miles, inclusive of energy losses from grid to battery, 
+utilized for use phase emissions calculations (converting gCO
+2e/kWh to gCO2e/mi). 92Appendix
+Metric / Disclosure / Topic Source(s) Methodology / Definition
+Vehicle useful lifeU.S. Department of Transportation, European  
+Automobile Manufacturers Association, 
+International Organization of Motor Vehicle Manufacturers, Association Auxiliaire De 
+L'Automobile To calculate scrappage age of vehicles in a region, you sum up annual vehicle sales from the most current year  going back until the sum equals the current vehicle parc size. In order to be conservative, and normalize our figure based on recent vehicle sales trends in each region, we divided total vehicle parc by average vehicles sales in the 
+respective regions for 2019 and 2020 (latest available data). This resulted in a scrappage age of 17 years and 
+200,000 miles in the U.S. and 20 years and 150,000 miles for Europe. For simplicity, China assumed to have similar useful life to Europe of approximately 20 years and 150,000 miles. 
+Energy Efficiency EPA range in miles/kWh U.S. EPA, OEM dataFigures based on estimated EPA range and usable battery capacity disclosures by OEMs for each model. Where EPA range did not exist WLTP was used to determine a theoretical EPA range based on average EPA to WLTP ranges for other EVs.
+Combination Trucks % of U.S. Fleet and U.S. Vehicle Emissions U.S. EPA, U.S. Department of Transportation% of U.S. Vehicle Fleet chart figures calculated using vehicle parc figures from U.S. Department of Transportation. % of U.S. Vehicle Emissions chart figures estimated using vehicle parc, fuel economy and VMT data from U.S. Department of Transportation. Calculation assumes fuel emissions factor for combination trucks are the same as the 
+rest of the vehicle parc and are therefore conservative. Combination trucks use diesel fuel which, according to the 
+U.S. EPA, has a higher GHG content versus gasoline used for light duty cars and trucks.
+Water Consumption per Vehicle Tesla, OEM Sustainability ReportsOEM data sourced from respective websites and latest available ESG reports. 
+We have recently reviewed our water intensity data and redrew boundaries based on industry convention. Tesla’s 
+2020 figure includes all our major manufacturing facilities dedicated to vehicle production, including an estimate 
+for Gigafactory Nevada (actuals for 2020 for Gigafactory Nevada in later reports may vary upon confirmation of actual figures). It excludes Gigafactory New York, which produces solar and energy products.
+Cumulative Energy Produced by Tesla Solar Panels vs. Consumed by Tesla Factories TeslaFigures based on actual electricity consumption from utility bills for 2018, 2019 and 2020. 2020 figure also includes measured consumption for on -site fuel use including propane, diesel and gasoline. Figures for 2012- 2017 for 
+electricity, and 2012- 2019 for on -site fuel use, are estimated based on actuals scaled for vehicle and battery 
+production for each respective year and facility. 
+Fossil fuel versus clean energy consumed at each facility for each year estimated based on state -level grid mix data 
+from DOE for facilities in the U.S. and from country -level energy supply data from IEA for Gigafactory Shanghai.
+We re -drew boundaries for this year’s analysis based on industry convention. Previous disclosure included energy 
+consumed to produce cells at Gigafactory Nevada and solar panels at Gigafactory New York. These are included in 
+our suppliers’ energy consumption footprints and were therefore removed from calculation for this report.
+Total Cost of Ownership Tesla, Edmonds, OEM websites, CarEdgeFigures reflective of model year 2020 estimates from various sources. Depreciation based on model year 2021 
+MSRP. Model 3 SR+ figures based on data from the Tesla fleet.
+EV Range and Utilization Over First Three Years of OwnershipRAC Foundation, ev -database.org, 
+fueleconomy.govFigures based on annual mileage for select non -Tesla EV models in the U.K. for 2017 -2019. Non -Tesla EV models 
+include BMW i3, Kia Soul EV, Mercedes -Benz B250e, Nissan Leaf 30kWh, and Renault Zoe Q210. 
+Real world data from the Tesla fleet was used to calculate the average annual mileage for all Tesla models.
+EPA range sourced from fueleconomy.gov. Where EPA range did not exist WLTP was used to determine a 
+theoretical EPA range based on average EPA to WLTP ranges for other EVs.
+Tesla 2020 Supply Chain List of Miners & Refiners for Purchased Cobalt Materials Responsible Minerals Initiative RMI Classification: A smelter or refiner is considered “Conformant” when they have passed a third -party audit to 
+industry accepted standards covering their internal processes and policies on due diligence to identify and mitigate the risk of human rights abuses in their supply chain; “Active” means a smelter or refiner is pursuing 
+certification through one of the approved auditing processes; “Not Listed” means a smelter or refiner is not yet 
+listed on the RMI's Cobalt Reporting Template and may not yet have been engaged by the RMI to participate in the RMAP or equivalent program.
+Table reflects latest data available to Tesla as of the publishing of this report. 93Except as otherwise noted, this report covers Tesla, Inc.’s fiscal year 2020, and references to “to date,” “currently,” or si milar expressions reflect information as of December 31, 2020. Our data and 
+methodologies have been collected and reviewed internally using relevant scientific and technical methodologies. Our statemen ts about past occurrences and potential future development are 
+based on data, estimates and assumptions made as of the date of publication. Certain information and data in this report may come from third- party sources and operations outside of our control. 
+Tesla’s ESG Sustainability Council actively reviews and updates our methodologies for calculating the metrics set forth in th is report.  From time to time, data reported for prior periods may change 
+due to improvement in data collection and measurement, new data availability, methodological adjustments or activities relate d to mergers and acquisitions, and we reserve the right to revisit our 
+prior historical data and estimates to ensure accuracy and make any necessary corrections to our public reporting.  Tesla hol ds no obligation to update any information or statements in this report.
+Forward -Looking Statements
+Certain statements in this report, including statements relating to future product development, performance and capability, t imelines for the building of new factories and opening of new locations, 
+expected cost savings from local manufacturing and materials recycling operations, the expansion of our Supercharger Network, future environmental sustainability efforts and expected efficiencies, 
+data collection and reporting of results in subsequent Impact Reports are forward- looking statements that are subject to risks a nd uncertainties. These forward- looking statements are based on 
+management’s current expectations. Various important factors could cause actual results to differ materially, including the r isks identified in our U.S. Securities and Exchange Commission (“SEC”) 
+filings and reports, including the risks identified under the section captioned “Risk Factors” in our quarterly report on For m 10-Q filed with the SEC on July 27, 2021 . Tesla disclaims any obligation to 
+update any forward- looking statement contained in this report.Appendix94

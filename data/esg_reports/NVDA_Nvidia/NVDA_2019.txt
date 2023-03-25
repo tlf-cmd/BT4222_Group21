@@ -1,0 +1,4677 @@
+2019
+NVIDIA  
+CORPORATE
+SOCIAL  
+RESPONSIBILITY
+REPORT2EXECUTIVE  
+LETTERS
+03 Message from our CEO
+04 Message from our EVP of Operations
+PRIORITIES
+05 Setting Priorities
+07 UN Sustainable Development Goals
+STAKEHOLDER  
+ENGAGEMENT
+GOVERNANCE
+13 Board Governance  
+14 Compliance  
+14 Ethical Conduct  
+15 Anti-Corruption
+16 Transparency
+ECONOMIC
+17 PRIORITY: Innovation
+18 PRIORITY: Business Model  
+ and Competitiveness
+19 PRIORITY: Cybersecurity
+20 PRIORITY:  Trade Issues
+21 Business Continuity Management
+22 Customer Relations
+23 Brand and Reputation
+24 Public Policy Engagement01
+02
+03
+04
+05SOCIAL
+25 PRIORITY:  Supply Chain  
+ Management and Product Quality
+28 PRIORITY:  Talent Strategy
+31 Employee Engagement
+33 Diversity and Inclusion
+37 Employee Health and Safety
+38 Product Safety
+39 Societal Impacts of AI
+40 Philanthropy and Volunteerism
+ENVIRONMENTAL
+41 Greenhouse Gases and  
+ Climate Change
+43 Energy, Water, Waste
+46 Facilities Management
+47 Environmental Impacts of Products
+50 Materials Availability
+50 Packaging, Transport, and Logistics
+GOALS AND  
+PERFORMANCE
+52 FY19 Goals and Performance
+55 FY20 Goals
+56 Economic Performance
+57 Diversity and Workforce  
+ Performance
+61 Supply Chain Performance
+63 Environmental Performance
+68 Philanthropy and Volunteer  
+ Performance
+68 GRI Index
+ABOUT THIS REPORT06
+07
+08TABLE OF  
+CONTENTS3ExECUTIVE  LETTERS
+NVIDIA 2019 CSR REPORT
+LETTER FROM 
+OUR CEO
+Our invention of the GPU reinvented 
+computer graphics and set computing 
+on a new trajectory. GPU computing 
+has since evolved to advance the 
+fields of high performance computing 
+and artificial intelligence. And those 
+technologies, in turn, are empowering 
+scientists, doctors, creators, and 
+engineers - the da Vincis and 
+Einsteins of our age - to create 
+positive change in the world.
+High-performance computers are 
+essential instruments of scientific 
+discovery. Supercomputers use 
+intense computing power to simulate 
+the world. They help us understand 
+global weather patterns and seismic 
+activity to prepare us for natural 
+disasters. They predict the interaction 
+of molecules so that we can develop 
+new drugs, create hyper-efficient 
+batteries, and design new materials 
+that improve the safety of our cars 
+and airplanes.
+NVIDIA GPUs make these discoveries 
+possible by accelerating the 
+performance of computers while 
+reducing the energy they consume. 
+NVIDIA powers 22 of the 25 most 
+energy-efficient supercomputers. Better energy efficiency goes beyond 
+making supercomputers more 
+sustainable - it reduces their costs 
+and democratizes access to them, 
+empowering a new generation of 
+scientific explorers.
+In healthcare, researchers use our 
+systems to develop AI techniques 
+that improve disease diagnosis and 
+increase the success of targeted 
+treatments. We created the NVIDIA 
+Clara computing platform, named  
+for Red Cross founder Clara Barton, 
+to bring AI to medical imaging 
+systems and make it easier for 
+all hospitals to adopt them. The 
+American College of Radiologists 
+is making Clara available to nearly 
+40,000 radiologists to develop and 
+deploy AI at their own institutions.
+Autonomous machines, perhaps the 
+greatest expression of AI’s potential, 
+can protect and improve our lives as 
+well. The life-saving potential of self-
+driving cars is especially powerful. 
+NVIDIA DRIVE is a platform to deploy 
+autonomous vehicles, combining 
+a powerful in-car computer, AI 
+software, and a VR-based simulator 
+to train cars in the safety of the data 
+center. Automakers like Toyota, Volvo, 
+and Mercedes-Benz are using DRIVE 
+to make vehicles that sense their 
+environments both inside and outside 
+the car to keep drivers safe.Self-driving cars are only part of the 
+autonomous machines story. Our 
+work in robotics will revolutionize 
+manufacturing, agriculture, and 
+space exploration. Robots can play 
+an important role in assisting people 
+in their homes and at work, and in 
+making our cities safer, more secure, 
+and more efficient.
+These inventions and ideas help 
+NVIDIA contribute to society and 
+industry at the global level. But 
+the people of NVIDIA also share a 
+commitment to improving our local 
+communities. We balance our near-
+term business goals with long-term 
+commitments to improving lives, 
+protecting our environment, and 
+creating a workplace where bright 
+minds of all cultures can build their 
+families and do their life’s work.
+Making a positive impact on the  
+world is the highest purpose a 
+company can have. We’re honored 
+that we can help create a better future 
+for generations to come.
+Jensen Huang  
+CEO and Co-Founder  
+NVIDIA01
+4
+NVIDIA 2019 CSR REPORT  EXECUTIVE  LETTERS
+LETTER 
+FROM EVP OF 
+OPERATIONS
+Our mission is to develop 
+revolutionary technology that 
+improves lives, and this is reflected 
+in our two most fundamental 
+commitments: to integrate social and 
+environmental responsibility into all 
+aspects of our company, and to create 
+value for all our stakeholders. 
+Corporate social responsibility 
+(CSR) is integral to our mission, our 
+unique culture, and our business 
+success. We strive to provide a great 
+place to work and partner with our 
+employees to develop innovative 
+products. Through our business 
+practices, we work hard to safeguard 
+and protect the human rights of all 
+workers in our supply chain. We aim 
+to build the most energy-efficient 
+technologies possible, and we 
+conduct our business using sound 
+environmental practices with an eye 
+toward mitigating climate change. We 
+invest in and give back to our local 
+communities and global society  
+at large. 
+Each year, we reassess our CSR 
+priorities to inform our strategy. At 
+the helm of this work is a committee 
+of employees that meets regularly 
+and works closely with executive 
+staff. Together, they identify our 
+annual priority issues by integrating feedback from key stakeholders and 
+prioritizing risks and opportunities. 
+Our board of directors oversees our 
+CSR efforts and is briefed annually on 
+risks and progress.
+Our annual disclosures adhere to 
+the Global Reporting Initiative’s 
+Sustainability Reporting Standards, 
+and we continue to align our  
+social impact activities with the 
+United Nations’ Sustainable 
+Development Goals. 
+Our CSR priorities revolve around 
+the following key business areas: 
+competitiveness and business  
+model, cybersecurity, innovation, 
+supply chain and product quality, 
+talent management strategy, and 
+trade issues. To execute these 
+priorities, our efforts follow three 
+primary objectives: 
+ >Operational efficiency  
+and excellence
+ >Employee recruitment  
+and retention
+ >Risk and reputation management
+With these objectives in mind, we:
+ >Design power-efficient products 
+with a strong social impact
+ >Increase employee diversity and 
+foster inclusion
+ >Minimize risk in our supply  
+chain and uphold the highest 
+quality standards
+ >Engage in opportunities to reduce 
+our energy footprint and address 
+climate change
+ >Evaluate emerging risks and 
+opportunities related to growing 
+our brand
+ >Set goals and monitor our 
+progress toward them
+We’ve made strong progress against 
+these objectives over the past few 
+years. Highlights include:  
+ >Growth in our self-driving car and 
+AI healthcare businesses
+ >Continued development of 
+generous parental benefits, 
+including expansive leave of 
+absence policies and coverage for 
+adoption, in vitro fertilization, and 
+egg freezing >A performance-based award 
+system for suppliers that  
+includes their active efforts  
+to improve social and 
+environmental performance
+ >Adding CSR to the oversight 
+responsibilities of the  
+Nominating and Corporate 
+Governance Committee of our 
+Board of Directors
+ >Holding annual meetings with  
+top shareholders to provide 
+updates on our CSR efforts  
+and performance
+ >Continued recognition in 
+innovation, CSR, and “best  
+place to work” rankings, including 
+Fast Company’s Most Innovative 
+Companies, Fortune’s Best 
+Places to Work, the Bloomberg 
+Gender Equality Index,  
+JUST100, and the Dow Jones 
+Sustainability Index 
+Our ability to tackle these challenges 
+enables NVIDIA to increase our 
+operational effectiveness, attract and 
+retain top talent, manage our risk, 
+and bring greater long-term value to 
+our stakeholders.
+Thank you for joining us on this 
+journey to create a better, more 
+sustainable future. We promise  
+to continue pushing the limits  
+of possibility.  
+Sincerely,
+Debora Shoquist  
+EVP, Operations  
+NVIDIA
+5
+NVIDIA 2019 CSR REPORT02PRIORITIES
+SETTING 
+PRIORITIES
+We update our issue analysis each 
+year to ensure that our priorities 
+continue to align with stakeholder 
+expectations, market trends, and 
+business risks and opportunities.
+In FY19, we identified  
+six priority issues as  
+essential to our continued 
+business success. 
+These issues reflect the 
+topics of highest concern to 
+NVIDIA and our stakeholders:
+ >Competitiveness /  
+Business model
+ >Cybersecurity
+ >Innovation
+ >Supply chain management / 
+Product quality
+ >Talent Strategy
+ >Trade IssuesA strategic focus on these areas 
+enables us to build a more agile, 
+future-oriented company. We 
+annually implement several 
+initiatives related to our priorities, 
+each of which provides varying 
+levels of return according to the 
+business goals assigned to it.
+Guided by the leadership of NVIDIA’s 
+Board of Directors, we continue 
+to find new ways to integrate CSR 
+efforts into our business strategy. 
+The Nominating and Corporate 
+Governance Committee of our 
+Board oversees our CSR efforts 
+and keeps current on our execution 
+strategy. The full Board is informed 
+annually about our CSR priorities.To arrive at our internal priorities 
+and ensure that our executive 
+leadership’s views are reflected in 
+the analysis, we conduct individual 
+interviews with members of our 
+executive staff. During these 
+interviews, we evaluate the risk 
+factors identified in enterprise 
+risk discussions with NVIDIA 
+executives and in reports filed with 
+the U.S. Securities and Exchange 
+Commission. This year, we added 
+a new level of engagement: an 
+internal survey to a select group of 
+subject matter experts. The insights 
+gleaned from this engagement 
+added new depth to our company 
+analysis and confirmed that our 
+internal priorities are aligned. 
+6
+NVIDIA 2019 CSR REPORT  PRIORITIES
+We mapped the results of our 
+internal and external analyses 
+on a matrix to highlight the 
+most important issues from the 
+perspective of our internal and 
+external stakeholders.
+The matrix includes the entire list 
+of issues considered for inclusion 
+in the analysis. The issues with the 
+highest priority are shown in the 
+top right highlighted quadrant of the 
+matrix above.The findings from our FY19 priorities assessment resulted in the 
+following changes from the prior year: 
+ >To reflect the current dynamic operating environment, we  
+added two priority issues: competitiveness/business model and  
+trade issues . 
+ >On the stakeholder analysis, employee engagement  and waste  
+increased in priority, and transport and logistics  decreased slightly 
+in relationship to other issues. 
+ >On the company analysis, public policy engagement  increased in 
+importance to our stakeholders.
+Our priorities are addressed in subsequent sections of this report. We 
+define each issue, discuss why it’s important to NVIDIA and how we 
+manage it, and disclose any relevant performance data.
+HIGH LOWSTAKEHOLDER CONCERNGHG Emissions and Climate Change
+Transport and Logistics
+Recycling and E-wasteEmployee Engagement
+Facilities Management
+Product SafetyTransparencyBusiness ContinuityTrade IssuesSupply Chain Management/
+Product Quality
+CybersecurityCompetitive/
+Business ModelTalent StrategyInnovation
+Customer Relations
+Ethical Conduct
+Anti-corruptionSupplier Working Conditions
+Diversity and Inclusion
+Employee Health and Safety
+Societal Impacts of
+Artiﬁcial IntelligenceWater
+Envioronmental
+Impact of Products Materials AvailabilityCommunity Engagement
+ComplianceCorporate GovernancePublic Policy Engagement
+Supplier Environmental
+Management
+Brand and ReputationWasteEnergy
+IMPACT ON COMPANYLOW HIGHNVIDIA FY20 CSR PRIORITIES7
+NVIDIA 2019 CSR REPORT  PRIORITIES
+GOAL #3:  Ensure healthy lives and promote well-being for all at all ages
+ISSUE INITIATIVES
+AI-Driven 3D Cell Modeling : AI is completely reshaping life sciences, medicine, and healthcare as  
+an industry. Researchers are harnessing the power of NVIDIA GPU and AI computing technology to  
+create the first predictive 3D model of a live human cell. Using the model, scientists can digitally 
+visualize and even manipulate cell behavior on a computer screen. These GPU-accelerated capabilities 
+give the model the potential to impact drug discovery, disease research, and basic studies involving 
+human cells.
+The Future of Radiology: NVIDIA Clara Platform:  NVIDIA ClaraTM is a computational platform that 
+makes it easy for developers to build, manage, and deploy intelligent medical imaging workflows and 
+instruments. From improving processing speed and image quality to AI-enabled clinical workflows, 
+medical imaging developers are adopting the Clara platform to improve patient outcomes and reduce 
+the cost of care. NVIDIA is working with dozens of healthcare companies, startups and research 
+hospitals to implement Clara, transforming the field of radiology by saving time and money for 
+healthcare organizations while improving patient care.
+NVIDIA Xavier, World’s First Single-Chip Self-Driving Car Processor : Safety is the whole point of 
+autonomous vehicles. And it starts with a new class of computer, a new type of software, and a new 
+breed of chips. x avier’s safety architecture was created over several years by more than 300 architects, 
+designers, and safety experts who analyzed over 150 safety-related modules. Inventing technology  
+that will one day eliminate accidents on our roads is one of NVIDIA’s most important endeavors.  
+We are inspired to tackle this grand computing challenge that will have great social impact.MAPPING TO THE UNITED NATIONS  
+SUSTAINABLE DEVELOPMENT GOALS
+GOAL #5:  Achieve gender equality and empower all women and girls
+ISSUE INITIATIVES
+Recruiting 9 to 5, What AI Way to Make a Living : Silicon Valley-based Eightfold is changing recruitment 
+and retention with its artificial intelligence (AI)-powered talent management platform. Through the 
+use of algorithms, Eightfold also offers diversity help for recruiters. The diversity function allows 
+recruiters to blind screen—remove gender and ethnicity barriers—in order to reduce bias in their 
+recruiting process and increase applicant diversity.
+Grace Hopper Conference Inspires Women in Computing, Technology:  AI and how it can help 
+machines and humans unite in tackling some of society’s biggest challenges was our theme in Houston, 
+where 40 NVIDIANs recently joined the Grace Hopper Celebration of Women in Computing conference. 
+Women at every stage of their careers attended highly technical sessions that covered AI, computer 
+systems engineering, and data science.8
+NVIDIA 2019 CSR REPORT  PRIORITIES
+GOAL #8:  Promote sustained, inclusive and sustainable economic growth, full and productive 
+employment, and decent work for all
+ISSUE INITIATIVES
+Keep on Rocking: Startup Develops AI for Mapping Tunnels and Mineshafts : The Toronto-based 
+startup RockMass is developing an NVIDIA AI-powered mapping platform that can help engineers 
+assess tunnel stability in mines and construction. The startup’s Mapper AI device now offers a safer 
+way to keep engineers farther away from a possible tunnel collapse and offers a faster system for 
+gathering and processing data.
+GOAL #9: Build resilient infrastructure, promote inclusive and sustainable industrialization and 
+foster innovation
+ISSUE INITIATIVES
+How AI and Machine Learning are Advancing Academic Research : 
+Universities and research institutes around the world are key drivers of discovery and innovation, and 
+professors and researchers are looking for answers to the biggest questions facing each academic 
+discipline. With powerful GPU computing resources, academics can use AI, machine learning, and data 
+science to more swiftly advance knowledge in fields such as astrophysics and astronomy, biology, earth 
+and climate science, humanities, medicine, and physics.
+GOAL #11:  Make cities and human settlements inclusive, safe, resilient and sustainable
+ISSUE INITIATIVES
+Safety is What Drives Us: Introducing the NVIDIA Self-Driving Safety Report : Self-driving cars will 
+dramatically change the future of transportation, making driving safer, reducing carbon emissions,  
+and transforming how cities are designed. At the heart of autonomous driving technology is safety, 
+and we have integrated it into every step of the development process. Our Self-Driving Safety Report  
+details how computing performance translates to safety at all stages, from initial data collection to 
+public road testing. 
+Clean Machines: Startup’s Bots Sweep Up Corporate Campuses : Thanks to robotics, outdoor 
+maintenance is becoming more sophisticated, safer, and less costly. Silicon Valley-based ViaBot has 
+created an entirely autonomous robot that uses sensors, cameras, object detection algorithms, and 
+NVIDIA Jetson-powered navigation capabilities to clean and recycle waste in outdoor spaces. ViaBot 
+aims to serve multiple needs for maintenance outdoors with their efficient, productive, and cost-
+effective robotic solution. 9
+NVIDIA 2019 CSR REPORT  PRIORITIES
+GOAL #11:  Conserve and sustainably use the oceans, seas, and marine resources for  
+sustainable development
+ISSUE INITIATIVES
+No Barrier to this Reef: Dazzling Film Brings Coral to Life in GPU-Powered Museum Show : Expedition 
+Reef, the San Francisco museum’s GPU-powered coral reef experience, immerses viewers in a 
+dramatic 3D video re-creation of reefs as they live, reproduce, and struggle to survive. Because these 
+complex ecosystems demand a highly realistic approach to help people engage with them, the film 
+posed unprecedented challenges for the museum’s visualization studio, which relied heavily on NVIDIA 
+Quadro GPUs (the same technology used by movie studios). With dazzling visual effects, Expedition 
+Reef seeks to highlight the vital role coral reefs play in the world’s ecosystems.
+GOAL #11:  Protect, restore, and promote sustainable use of terrestrial ecosystems,  
+sustainably manage forests, combat desertification, and halt and reverse land degradation and  
+halt biodiversity loss
+ISSUE INITIATIVES
+AI Offering Fertile Ground for Biodiversity Informatics : Researchers at Smithsonian Institution and 
+Costa Rica Institute of Technology are using a combination of big data analytics, computer vision,  
+and GPUs to deepen science’s access and understanding of botanical information. Their use of  
+GPU-accelerated deep learning promises to hasten the work of researchers, who discover and 
+describe about 2,000 species of plants each year and need to compare them against the nearly  
+400,000 known species. Both sets of researchers expect their work to fuel a revolution in the field  
+of biodiversity informatics.10STAkEHOLDER  ENGAGEMENT
+NVIDIA 2019 CSR REPORT 03
+Engaging our diverse stakeholders on 
+important issues is integral to how we 
+do business. We define stakeholders 
+as entities or individuals who can be 
+affected by NVIDIA and whose actions 
+can affect the company, and we 
+engage with them in numerous ways 
+on a variety of topics through the year. 
+We rely on our annual priority issue 
+assessment to help us understand the 
+issues that matter most to them. This 
+allows us to focus our engagement with stakeholders and transparently 
+respond to their concerns. Although 
+we do not have a formal stakeholder 
+advisory panel for CSR issues, at least 
+one member of the CSR Committee 
+evaluates each stakeholder request to 
+determine what type of response  
+is appropriate.
+The chart below lists our 
+stakeholders, how we engage with 
+them, and examples of how we 
+interacted with them in FY19:   
+BOARD OF DIRECTORS
+ENGAGEMENT APPROACH FY19 INTERACTIONS
+The Nominating and Corporate Governance Committee of 
+the Board oversees CSR.
+The full Board receives our annual priority  
+issues assessment.We presented our CSR strategy, programs, and risks to the 
+Nominating and Corporate Governance Committee.
+In early FY20, we provided a diversity and inclusion overview 
+to the Committee.
+COMMUNITIES
+ENGAGEMENT APPROACH FY19 INTERACTIONS
+We interact with local governments to receive approval and 
+update community members on any facility construction.
+We invest in communities where we have offices through the 
+NVIDIA Foundation.We engaged with the Santa Clara, Calif., and Bangalore, 
+India, county departments on the development of a new 
+corporate campus.
+See the NVIDIA Foundation annual report  for 
+FY19 activities.
+CUSTOMERS / DEVELOPERS
+ENGAGEMENT APPROACH FY19 INTERACTIONS
+Through the Responsible Business Alliance (RBA), we 
+provide customers with self-assessment questionnaires and 
+collaborate with them through various working groups. 
+We engage with customers directly through quarterly 
+business reviews and CSR surveys.  
+For developers, we facilitate interaction through targeted 
+discussion forums and global developer conferences. We 
+also provide courses in parallel programming; enhancement 
+tools for debugging, performance, and testing; access to 
+highly skilled engineers and specialists who provide custom 
+services and co-design industry-specific applications; 
+and financial support to university researchers in various 
+scientific disciplines.We received several compliance requests per week from 
+customers regarding product and social compliance, legal, 
+and regulatory issues. 
+We conducted an analysis of customer contracts to confirm 
+that our priorities align with their requirements. 
+We worked directly with customers to report our supplier 
+status related to conflict minerals. 
+We responded to several customer surveys and maintained 
+our Sony Green Partner certification for the 13th year.
+We hosted developer conferences in seven countries. We 
+celebrated reaching 1 million developers  in FY19.   
+11
+NVIDIA 2019 CSR REPORT  STAKEHOLDER  ENGAGEMENT
+EMPLOYEES AND PROSPECTIVE EMPLOYEES
+ENGAGEMENT APPROACH FY19 INTERACTIONS
+We engage employees via a global employee survey every 
+18-24 months. 
+We administer an online suggestion box and facilitate a 
+direct channel between employees and our CEO or any 
+executive staff member through the submission of questions 
+(anonymously, if preferred) prior to our quarterly company 
+meeting, which our CEO can respond to onstage.
+We engage with prospective employees through the careers 
+section of NVIDIA’s website and through university, diversity, 
+and professional recruiting events. 
+We also offer an employee referral program.Our latest global employee survey from November 2017 
+yielded a 95 percent response rate.
+We held discussions between our CEO and resource 
+communities (African-Americans, Hispanics, women, 
+veterans, and early career employees), which resulted 
+in significant expansion of our parenting benefits to fund 
+adoptions, in vitro fertilization, and egg freezing. 
+We reached 47,000 underrepresented candidates at 
+university and professional recruiting events.
+We created a video series about the societal impact of 
+NVIDIA’s technology for employees and external audiences. 
+We increased outreach to underrepresented candidates 
+through an expanded presence at university and 
+professional recruiting events. See Diversity and Inclusion  
+in the Social section for FY19 interactions with prospective 
+employees.
+GOVERNMENT / PUBLIC POLICY ENGAGEMENT
+ENGAGEMENT APPROACH FY19 INTERACTIONS
+We educate policymakers on AI technology and the 
+AI enterprise space, translating complex topics into a 
+conceptual framework for policy.
+We amplify our work in areas that resonate with non-
+technology-focused policymakers, and work with other 
+educational and industry groups to follow the same blueprint.
+We demonstrate our technology at events in Washington, DC 
+to emphasize the societal benefits of AI.
+We collaborate with like-minded companies and 
+organizations to create working groups of technologically 
+savvy policymakers, introducing them to our experts  
+and executives.
+We facilitate meetings between our autonomous driving team 
+and regulators such as NHTSA to discuss our technology and 
+the policy implications.
+We reinforce the tech policy ecosystem, positioning  
+NVIDIA as a source of expertise and a good faith, 
+collaborative partner.We deepened our relationship with the Congressional AI 
+Caucus, the Congressional Tech Staff Association, the 
+Information Technology Industry Foundation, and key 
+officials in Congress and the Administration. 
+We participated in the White House AI Summit  and the re-
+evaluation of the National AI R&D Strategic Plan.
+We generated attendance by several federal agencies to our 
+third annual GPU Technology Conference  in Washington, DC.
+We convened policymakers  from Congress and six 
+government departments for policy panels at GTC DC. This 
+included bringing together a group of high-profile regulators 
+for a discussion around how the industry can safely and 
+effectively deploy self-driving technology . 
+At GTC San Jose, we hosted an interview session 
+with Representative Jerry McNerney, co-chair of the 
+Congressional AI Caucus.
+We worked with China and the EU to navigate geopolitics and 
+local regulations, and provided feedback to inquiries on the 
+technical and economic implications of their proposed rules.12
+NVIDIA 2019 CSR REPORT  STAKEHOLDER  ENGAGEMENT
+NONGOVERNMENTAL ORGANIZATIONS
+ENGAGEMENT APPROACH FY19 INTERACTIONS
+We partner with NGOs through initiatives like the RBA and 
+Public-Private Alliance for Responsible Minerals Trade.We provided information to the Business & Human Rights 
+Resource Center for inclusion in its Know the Chain ICT 
+benchmark , which addresses human rights practices.
+RESEARCH/RATINGS ORGANIZATIONS
+ENGAGEMENT APPROACH FY19 INTERACTIONS
+We respond to regular survey requests on environmental, 
+social, and governance practices.We were featured for a fifth year as a member of the Dow 
+Jones Sustainability Index and remained on the FTSE4Good 
+index, Bloomberg Global Equality Index, Global 100, the 100 
+Best Corporate Citizens list, and Forbes’ JUST 100 ranking. 
+We debuted on Equileap’s Gender Equality Index, and were 
+featured again in RobecoSAM’s Sustainability Yearbook. 
+We were also featured for the third year on Fortune’s 100 
+Best Companies to Work For list at #38.
+Overall, we interacted with 10 research/ratings orgs: 
+Corporate k nights, FTSE4Good, ISS, MSCI, Oekom, RepTrak, 
+RobecoSAM, Sustainalytics, Trucost, and Vigeo Eiris.
+SHAREHOLDERS
+ENGAGEMENT APPROACH FY19 INTERACTIONS
+Since 2007, we participate in the CDP. 
+We respond to individual shareholder requests as they  
+arise, and we hold annual governance and ESG calls with  
+top shareholders.We participated in the CDP for the eleventh year, and 
+achieved an A- for our investor score and a B- for water use. 
+We presented CSR issues to shareholders holding 26% 
+in aggregate of our common stock during the company’s 
+annual outreach meetings. Topics covered included: 
+societal impacts of AI, diversity and inclusion, and Board 
+involvement in CSR.
+SUPPLIERS
+ENGAGEMENT APPROACH FY19 INTERACTIONS
+We engage with suppliers through quarterly business 
+reviews and allocate points to their performance scores 
+commensurate with their efforts to participate in social 
+and environmental initiatives. Through the RBA, we analyze 
+suppliers’ self-assessment documentation and request 
+periodic audits. 
+We reach out to suppliers directly on issues related to 
+product compliance and conflict minerals.We continued to conduct an ongoing evaluation of our 
+suppliers using RBA analysis tools.
+We sent an average of 21 requests to suppliers each week. 13
+NVIDIA 2019 CSR REPORT04GOVERNANCE
+BOARD 
+GOVERNANCE
+HOW WE DEFINE IT:  
+Board composition, independence 
+of committees and leadership, 
+anti-takeover measures,  
+Board and named executive  
+officer compensation
+NVIDIA, including its Board of 
+Directors, is committed to operating 
+under sound principles of corporate 
+governance. Our corporate 
+governance structure ensures 
+robust Board and management 
+accountability and transparency to 
+our shareholders, and promotes 
+good decision-making now and for 
+the future. To ensure that long-
+term interests are being served, 
+our Board oversees management 
+performance. Our overarching code 
+of conduct, financial team code of 
+conduct, corporate governance 
+policies, Board committee charters, 
+certificate of incorporation,and bylaws form the framework for 
+governance at NVIDIA.
+We have 12 directors on our 
+Board, and as of April 2019, 11 of 
+our 12 directors (91 percent) are 
+independent. The sole exception is 
+Jensen Huang, who is our founder, 
+president, and chief executive 
+officer. Our bylaws and corporate 
+governance policies permit the 
+roles of chairperson of the Board 
+and CEO to be filled by the same or 
+different individuals, which gives 
+the Board flexibility in determining 
+what is best for the company. 
+At this time, NVIDIA has a lead 
+director, Mark Perry, rather than a 
+chairperson of the Board. In FY19, 
+all directors attended at least 75 
+percent of meetings of the Board 
+and committee on which  
+they served.
+Director compensation is reviewed 
+by the Board’s Compensation 
+Committee, in consultation with 
+a third-party firm and evaluation 
+of compensation from peer 
+groups, and ultimately approved 
+by our Board. We design our GOVERNANCE  
+SNAPSHOT
+11
+of our 12 Board members  
+are independent
+DECLASSIFIED  
+BOARD STRUCTURE
+and all Board members  
+serve one-year terms
+INDEPENDENT  
+DIRECTORS
+compose our Board’s  
+audit, compensation, and  
+nominating and corporate  
+governance committees
+MAJORITY VOTE
+practices have been  
+adopted voluntarily
+SUCCESSION  
+PLANNING
+for the position of  
+Chief Executive Officer is in place
+ANNUAL  
+PERFORMANCE  
+EVALUATION
+of Board and Board committees
+PUBLIC  
+DISCLOSURE OF
+director nomination process 
+proxy access approach to  
+Board diversity
+18%
+of our independent  
+Board members are female 
+25%
+of our Board members are  
+underrepresented minorities 
+14
+NVIDIA 2019 CSR REPORT  GOVERNANCE
+named executive officer (NEO) 
+compensation program to pay 
+for performance and to attract, 
+motivate, and retain a high-caliber 
+executive team. NEO pay is heavily 
+weighted toward performance-
+based variable cash and long-term 
+equity awards that are earned 
+only if we achieve pre-established 
+corporate financial metrics. Our 
+executive compensation program 
+requires executives to maintain 
+meaningful stock ownership, and 
+a claw back policy is in place for 
+performance-based compensation
+COMPLIANCE
+HOW WE DEFINE IT:  
+Compliance with all applicable 
+policies, laws, and regulations, 
+including fines/penalties 
+We view compliance as the activities 
+we undertake and the systems we 
+establish and maintain to ensure 
+continual adherence to laws and 
+requirements of governments 
+and our customers that address 
+environmental and social issues. 
+Compliance is the baseline that establishes the minimum  
+standards to which we hold 
+ourselves accountable.
+We are committed to comporting 
+ourselves in accordance with 
+the highest ethical standards 
+regardless of whether there is a 
+legal requirement to do so.
+Governmental compliance is a 
+critical component of our business 
+strategy, because it involves our 
+license to operate in markets where 
+we want to manufacture and sell 
+our products, manage offices, 
+and hire employees. We comply 
+with all mandatory governmental 
+regulations that apply to us in 
+the communities in which we do 
+business. We also comply with our 
+customers’ requirements in order 
+to meet contractual obligations.
+We employ social and 
+environmental compliance 
+engineers in our worldwide 
+operations organization. These 
+employees manage issues such 
+as human rights, end-of-life 
+recycling, hazardous substances, 
+and conflict minerals. Our global 
+legal and human resources teams receive regular guidance from legal 
+counsel and industry associations 
+on issues related to bribery, ethics, 
+and hiring and labor practices. The 
+sales operations team oversees 
+our customers’ environmental, 
+social, and ethics requirements, 
+and works cross-functionally to 
+ensure the compliance of all related 
+teams. In all these functions, we 
+have established mechanisms to 
+maintain active compliance,  
+assess our performance, and 
+anticipate impending requirements 
+and regulations.
+ETHICAL 
+CONDUCT
+HOW WE DEFINE IT:  
+Policies, systems, processes, and 
+performance relating to ethical 
+operation, including ethics hotline 
+and whistle-blower protection
+We strive to achieve the highest 
+standards of ethical conduct in 
+all our business dealings. Our 
+charters, codes of conduct, and 
+policies guide how we conduct 
+ourselves in our professional 
+15
+NVIDIA 2019 CSR REPORT  GOVERNANCE
+relationships toward our 
+customers, partners, competitors, 
+vendors, government regulators, 
+shareholder, fellow employees, 
+and the community at large. Our 
+longstanding code of conduct  
+outlines our core values and 
+establishes the expectations 
+we have about how we conduct 
+business. This code applies to all 
+our executive officers, directors, 
+and employees, and we expect all 
+third parties we do business with, 
+including consultants, contractors, 
+and other service providers, to 
+act in a manner consistent with it. 
+In addition, we have established 
+a financial team code of conduct  
+that applies to our executive 
+staff, directors, and members of 
+our finance, accounting, tax, and 
+treasury departments. 
+Our commitment to promote a 
+culture of integrity means that we 
+aim to foster an environment where 
+everyone is expected to act ethically 
+and where people can voice 
+concerns without fear of retaliation. 
+Any employee can confidentially 
+and anonymously lodge a complaint 
+about any accounting, internal control, auditing, code of conduct, 
+or other matter of concern, using a 
+corporate hotline, which is hosted 
+by an independent third party. By 
+using an external organization to 
+host the hotline, we ensure our 
+employees feel comfortable with 
+anonymous reporting. Employees 
+are encouraged to report suspected 
+conflicts of interest to their 
+manager or human resources 
+representative or through the 
+hotline. We have a strict “no 
+retaliation” policy regarding reports 
+of activities that run counter to our 
+ethical expectations.
+All NVIDIA employees receive 
+ethics and sexual harassment 
+training. They complete training 
+on our code of conduct, which 
+covers environmental and social 
+responsibility issues, upon hire 
+and then every two years.  As of 
+April 2019, nearly 99 percent of 
+employees had completed  
+this training. ANTI-
+CORRUPTION
+HOW WE DEFINE IT:  
+Policies, processes, and practices 
+related to anti-corruption and 
+anti-bribery 
+Our longstanding commitment to 
+doing business with integrity means 
+avoiding all forms of corruption. Our 
+anti-corruption practices involve 
+the steps the company and its 
+employees take to ethically conduct 
+business and avoid negatively 
+impacting our ability to work with 
+customers and governments.
+We specifically emphasize making 
+ethical decisions, never engaging in 
+bribery or insider trading, avoiding 
+conflicts of interest, approaching 
+competition ethically, complying 
+with international trade regulations, 
+practicing transparency, and 
+maintaining accurate business 
+records. To protect our company’s 
+reputation, we have several policies 
+related to these issues, and we 
+expect employees to comply 
+with them. Nearly 100 percent 
+of employees who have frequent 
+contact with customers, partners, 
+and suppliers (such as those in 
+sales, finance, and procurement) 
+have completed additional  
+global anti-bribery and anti-
+corruption training.
+Nearly 100 % of 
+employees who have 
+frequent contact 
+with customers, 
+partners, and 
+suppliers have 
+completed additional  
+global anti-bribery 
+and anti-corruption 
+training.16NVIDIA 2019 CSR REPORT  GOVERNANCE
+TRANSPARENCY
+HOW WE DEFINE IT:  
+Corporate responsibility 
+transparency and disclosure 
+(policies, level of disclosure, 
+performance), external  
+assurance, and direct  
+stakeholder engagement
+We promote a culture at NVIDIA 
+that values integrity and prioritizes 
+transparency across our entire 
+business. We maintain high 
+levels of transparency to build 
+trust in a way that supports our 
+business success. In this report, 
+we discuss transparency as it 
+relates to environmental, social, 
+and governance issues. We report 
+in accordance with the Global 
+Reporting Initiative Standards at 
+the Core level. Since 2012, we’ve 
+engaged Trucost to assure that our 
+GHG emissions data and contextual 
+information in our CDP response 
+meets the AA1000 standard. 
+We actively work in our priority 
+issue areas to address business 
+risks and improve performance. 
+We publish dashboards of key 
+workforce, diversity, environmental, and supply chain metrics to give 
+stakeholders insight intoour 
+performance. Throughout the 
+year, we respond to several 
+requests for information from 
+customers and share data directly 
+with shareholders. We have also 
+increased our external positioning 
+by providing data about our 
+performance to environmental, 
+social, and governance reporting 
+firms, such as Bloomberg,  
+Carbon Disclosure Project, 
+Corporate k nights, JUST 
+Companies, MSCI, Oekom, 
+RobecoSAM, and Sustainalytics. 
+In FY18, NVIDIA’s internal audit 
+group reviewed elements of our 
+CSR program to ensure it had 
+adequate governance structures. 
+They benchmarked the CSR report 
+against comparable companies, 
+and assessed program ownership, 
+monitoring, and communications. 
+They also evaluated key metrics 
+in the CSR report for accuracy, 
+included those related to 
+community giving, supply chain, 
+environmental, packaging, and 
+workforce. In FY19, their metrics 
+evaluation focused on economic, 
+environmental, and diversity  
+data points.
+Since 2012, 
+we’ve engaged 
+Trucost to assure 
+that our GHG 
+emissions data 
+and contextual 
+information in our 
+CDP response 
+meets the 
+AA1000 standard. 17ECONOMIC
+NVIDIA 2019 CSR REPORT 05
+PRIORITY:
+INNOVATION
+HOW WE DEFINE IT:  
+Innovation of new products, 
+technology, and operational 
+practices; enabling innovation 
+through support of developers 
+who use NVIDIA products; 
+intellectual property protection; 
+research and development
+The drive to innovate is embedded 
+in NVIDIA’s DNA. Our invention of 
+the GPU defined modern computer 
+graphics and established us as 
+the leader in visual computing. 
+With our subsequent introduction 
+of the CUDA programming model, 
+we opened the parallel processing 
+capabilities of the GPU for general 
+purpose computing. We have 
+since extended our research and 
+development emphasis to the 
+revolutionary field of AI. About 20 percent of our revenue 
+in FY19 ($2.38 billion) funded R&D 
+activities. In total, we have invested 
+more than $17 billion in these 
+efforts since our inception, yielding 
+inventions that are essential to 
+modern computing.
+NVIDIA has a platform strategy 
+that brings together hardware, 
+system software, programmable 
+algorithms, libraries, systems, and 
+services to create unique value for 
+the markets we serve. While the 
+requirements of these end markets 
+are diverse, we address them with 
+a unified underlying architecture, 
+leveraging our GPUs and CUDA as 
+the fundamental building blocks. 
+The programmable nature of our 
+architecture allows us to support 
+several multibillion-dollar end 
+markets with the same underlying 
+technology by using a variety 
+of software stacks developed 
+either internally or by third-party 
+developers and partners. We 
+specialize in markets in which GPU-based visual computing and 
+accelerated computing platforms 
+can provide tremendous throughput 
+for applications.
+Our two reportable segments — 
+GPU and Tegra Processor — are 
+based on a single underlying 
+graphics architecture. From our 
+proprietary processors, we have 
+created specialized platforms that 
+address four large markets where 
+our expertise is critical: gaming, 
+professional visualization, data 
+center, and automotive.
+Our GPU product brands are aimed 
+at specialized markets, including 
+GeForce for gamers, Quadro for 
+designers, Tesla and DG x for AI  
+data scientists and big data 
+researchers, and GRID for cloud-
+based visual computing users. Our 
+Tegra brand integrates an entire 
+computer onto a single chip and 
+incorporates GPUs and multicore 
+CPUs to drive supercomputing for 
+mobile gaming and entertainment 
+devices, autonomous robots, 
+drones, and cars.
+We continuously assess whether 
+and where to seek formal protection 
+for particular innovations  
+and technologies, based on such 
+factors as:
+ >The commercial significance 
+of our operations and our 
+competitors’ operations in 
+particular countries and regions;
+ >The location in which our 
+products are manufactured;
+ >Our strategic technology or 
+product directions in different 
+countries; and the degree to 
+which intellectual property 
+laws exist and are meaningfully 
+enforced in various jurisdictions.
+MOST INNOVATIVE IN AI  NVIDIA snagged the top spot on Fast Company’s Top 10 Most Innovative 
+Companies  in Artificial Intelligence18NVIDIA 2019 CSR REPORT  ECONOMIC
+PRIORITY:
+BUSINESS  
+MODEL AND 
+COMPETITIVE -
+NESS 
+HOW WE DEFINE IT:  
+Market and global competitive -
+ness, including NVIDIA’s business 
+model, market leadership, and 
+financial success; issues that 
+impact NVIDIA’s fair access to the 
+market, including: anti-competi -
+tive practices and global unrest
+Our success depends on our ability 
+to identify emerging industry 
+changes and to develop new (or 
+enhance our existing) products, 
+services and technologies that meet 
+the evolving needs of markets. Such 
+activities may require considerable 
+technical, financial, compliance, 
+sales, and marketing investments. 
+If we fail to anticipate the changing 
+needs of our target markets and 
+emerging technology trends, or 
+if we do not appropriately adapt 
+our strategy in a timely manner as market conditions evolve to exploit 
+potential market opportunities, our 
+business will be harmed.
+We devote significant resources to 
+the development of technologies 
+and business offerings in markets 
+where we have a limited operating 
+history, such as the automotive 
+and data center markets, which 
+presents additional risks to  
+our business. 
+We must continue to develop 
+the infrastructure needed to 
+appropriately scale our business 
+in these areas, including customer 
+service and customer support. We 
+must meet customer safety and 
+compliance standards, which are 
+subject to change. Additionally, 
+we continue to make considerable 
+investments in research and 
+development, which may not 
+produce significant revenue for 
+several years, if at all. 
+If our investments are unsuccessful 
+and we fail to develop new products, 
+services, and technologies, or 
+if we focus on technologies that 
+do not become widely adopted, our business, revenue, financial 
+condition, and results of operations 
+could be adversely affected. We 
+cannot assure that our strategic 
+direction will result in innovative 
+products and technologies that 
+provide value to our customers, 
+our partners, and, ultimately, our 
+shareholders. 
+Our full response to this issue is 
+outlined in our FY19 10-K, p. 12 .
+MOST ADMIRED 
+COMPANIES
+NVIDIA ranked first in the 
+semiconductor category on 
+Fortune magazine’s list of the 
+Most Admired Companies.
+19NVIDIA 2019 CSR REPORT  ECONOMIC
+PRIORITY:
+CYBERSECURITY
+HOW WE DEFINE IT:  
+Technologies, processes, and 
+practices designed to protect 
+networks, computers, programs, 
+and data from attack, damage,  
+or unauthorized access;  
+product safeguards
+We define cybersecurity as 
+measures designed to protect our 
+IT assets from unauthorized access 
+or attack. Included are NVIDIA’s 
+products and the privacy of our 
+customers’ and employees’ data. As 
+we become aware of more frequent 
+high-profile security breaches in 
+business and government, and 
+as new dangers arise, we remain 
+committed to respecting privacy 
+and implementing appropriate 
+protections for any personal 
+information we collect or that our 
+users share with us. 
+Our efforts are managed by a 
+global team of cybersecurity, IT, 
+engineering, and legal experts. A 
+cybersecurity committee, which 
+meets monthly and is driven by executive-level leaders, reviews 
+metrics and evaluates emerging 
+threats. We also address 
+cybersecurity scenarios in our 
+resilience planning, document them 
+through business continuity plans, 
+and follow the processes outlined in 
+frameworks such as the ISO 27000 
+for Information Security Standards. 
+Against the backdrop of frequent 
+changes and new knowledge, we 
+continually evaluate and adapt our 
+security measures. 
+We have defined a set of actions 
+for teams to initiate to determine 
+the type and rigorousness of 
+our response in the event of a 
+cybersecurity issue. The team also 
+leverages external parties, such 
+as computer security firms and 
+those with risk management and 
+governance expertise. NVIDIA’s 
+Board of Directors receives regular 
+presentations on cybersecurity.
+We continuously hone our 
+cybersecurity and data privacy 
+training to respond to new 
+requirements in global  
+privacy laws.
+NVIDIA’s 
+cybersecurity 
+efforts are 
+managed by a 
+global team of IT, 
+engineering, and 
+legal experts.20NVIDIA 2019 CSR REPORT  ECONOMIC
+PRIORITY:
+TRADE ISSUES
+HOW WE DEFINE IT:  
+Ability to move and sell goods 
+internationally, including export 
+controls, import duties, quotas, 
+and other trade barriers and 
+restrictions; regulatory, pricing, 
+and supply chain impacts 
+associated with changing political 
+and trade environment; global 
+recruitment activities and hiring 
+for specific skillsets
+Our semiconductor wafers are 
+produced and packaged by third 
+parties located outside of the 
+United States. Revenue from 
+sales outside of the United States 
+accounted for 87% of total revenue 
+for each of fiscal years 2019, 2018, 
+and 2017. And as of January 27, 
+2019, approximately 46% of our 
+employees were located outside of 
+the United States. The global nature of our business 
+subjects us to a number of risks 
+and uncertainties, which could have 
+a material adverse effect on our 
+business, financial condition, and 
+results of operations, including: 
+ >International economic and 
+political conditions, unexpected 
+changes in, or impositions 
+of, legislative or regulatory 
+requirements;
+ >Differing legal standards 
+with respect to protection 
+of intellectual property and 
+employment practices; 
+ >Local business and cultural 
+factors that differ from our 
+normal standards and practices; 
+ >Exporting or importing issues 
+related to export or import 
+restrictions, including deemed 
+export restrictions, tariffs, 
+quotas, and other trade barriers 
+and restrictions;
+ >Disruptions of capital and 
+trading markets and currency 
+fluctuations; and 
+ >Increased costs due to imposition 
+of climate change regulations. If our sales outside of the United 
+States are delayed or cancelled 
+because of any of the above  
+factors, our revenue may be 
+negatively impacted.
+The global economy is constantly 
+changing, and we are prepared to 
+change with it. To that end, we use 
+foreign currency forward contracts 
+to mitigate the impact of foreign 
+currency exchange rate movements 
+on our operating expenses. And  
+we continuously evaluate the 
+location of our manufacturing and 
+sourcing suppliers.
+21NVIDIA 2019 CSR REPORT  ECONOMIC
+NVIDIA BCM PROGRAM BUSINESS CONTINUITY 
+MANAGEMENT
+HOW WE DEFINE IT:  
+NVIDIA’s ability to operate without interruption 
+and robustness of business continuity systems, 
+infrastructure, policies, and procedures
+Business continuity management (BCM) focuses on 
+protecting our core values . Our philosophy of BCM is 
+to identify realistic threats and their potential impact 
+to our core values and design a formal framework for 
+responding. We believe that resilience can be achieved by 
+embedding redundancy and diversity into our response 
+framework. A BCM steering committee of four executives 
+is supported by several business leaders across the 
+following functions: Corporate Communications, 
+Cybersecurity, Facilities, Finance, Global Security, Human 
+Resources, Information Technology, and Operations. Each 
+function has a plan to identify and address potential risks. 
+These efforts are supported by robust infrastructure, 
+systems, policies, and procedures, and are designed  
+to mitigate risk and protect the safety and trust of  
+our employees and customers when unexpected events 
+such as cyberattack, business disruption, or natural 
+disaster occur. 
+We believe that BCM is critical to minimizing financial 
+and reputational impacts. By anticipating the likelihood 
+of severe events, we can mitigate these risks and ensure 
+that the company does not endure unnecessary damages.CORE
+VALUESSTEERING
+COMMITTEE
+BCM TEAMIDENTIFY
+RESPOND
+RECOVER
+22NVIDIA 2019 CSR REPORT  ECONOMIC
+CUSTOMER 
+RELATIONS
+HOW WE DEFINE IT:  
+Customer satisfaction; customer 
+relationship management, 
+including privacy
+Our customers include businesses 
+and consumers. We view our 
+commitment to positive customer 
+relations in terms of the role we 
+play as a responsible supplier, 
+our commitment to our reseller 
+partners and their customers, and to 
+consumers who we sell to directly. 
+We support customers through a 
+comprehensive  customer support  
+site and several NVIDIA-hosted 
+product  forums  and  communities . 
+Our customer service team tracks 
+interactions with consumers as 
+they occur and shares bi-weekly 
+satisfaction reports internally. We 
+measure customer satisfaction in 
+several ways and use these metrics to 
+help promote experiences that delight 
+our customers. Measurements 
+include customer satisfaction rate, 
+percentage of support incidents filed, 
+closed incident survey response rate, 
+and referral rate. 
+Our customer support organization is 
+on the front line of communications 
+with our national and international 
+partners, working with their 
+engineering teams as they test 
+NVIDIA products in their systems and 
+devices. For partners that embed 
+our hardware in their products, 
+quality is monitored through ISO 
+9000 certification. We engage with 
+strategic suppliers through quarterly 
+business reviews, and business 
+allocation decisions are influenced by 
+quarterly performance.
+Our support organization has taken 
+steps to dramatically reduce the 
+time it takes for our software team 
+to incorporate customer feedback, 
+enabling technicians to respond quickly and increase customer 
+satisfaction. We also use data 
+gathered from our customer  
+forums to give our research and 
+development organizations a steady 
+stream of feedback about what is 
+working and what improvements our 
+customers want.
+We robustly support developers 
+who want to create innovative 
+applications with our products. We 
+give developers diverse resources, 
+including courses in parallel 
+programming; enhancement tools for 
+debugging, performance, and testing; 
+access to highly skilled engineers 
+and specialists who provide custom 
+services and co-design industry-
+specific applications; and financial 
+support to university researchers in 
+various scientific disciplines. Our GPU 
+Technology Conference  advances 
+global awareness of accelerated 
+computing, computer graphics, high 
+performance computing, AI, and  
+deep learning. 
+Our customers include some of the 
+world’s largest electronics, consumer 
+brand, and automotive companies. 
+Consequently, we have integrated 
+throughout our global operations the 
+standards outlined in the Responsible Business Alliance (RBA) Code of 
+Conduct covering labor, environment, 
+health and safety, ethics, and 
+management systems. We use these 
+standards as our management 
+approach for our supply chain. 
+Inquiries from our original  
+equipment manufacturer customers 
+have increased in line with our 
+focus on supplier responsibility 
+and environmental sustainability. 
+Requests for information have 
+predominantly related to conflict 
+minerals, environmental compliance, 
+quality, consumer satisfaction,  
+and ethics.
+To manage these inquiries and 
+requests, we employ quarterly 
+business reviews with key customers, 
+and partner with them on various 
+initiatives through the RBA. Certain 
+customers assign points on their 
+scorecards to environmental, social, 
+and governance performance. 
+Customers who are RBA members 
+monitor our performance through 
+tools provided by that organization, 
+such as self-assessment 
+questionnaires, validated audit 
+processes, and tracking tools for 
+carbon, water, and waste.
+GTC is a global conference providing training, insights, and direct access to experts on the hottest 
+topics in computing today. Thousands of researchers and professionals attend to learn the latest 
+on the most dynamic topics related to high performance computing, AI, and deep learning. 23NVIDIA 2019 CSR REPORT  ECONOMIC
+BRAND AND 
+REPUTATION
+HOW WE DEFINE IT:  
+Semiconductor and technology 
+industry perception and 
+reputation, and how that 
+influences NVIDIA’s business 
+activities; brand reputation and 
+market positioning; integrity of 
+brand and customer perception; 
+CSR performance as an indicator 
+of reputation
+As outlined in our 10-K , several 
+factors can impact our brand and 
+reputation. Every day, we build 
+a better business by acting with 
+integrity in all we do. Through our 
+CSR efforts and reporting, we’ve 
+built trust and credibility with 
+our stakeholders as we disclose 
+the metrics they expect. We’re 
+recognized as a great place to 
+work by current and prospective 
+employees, as a respected 
+supplier to customers, and as a 
+successful long-term investment by 
+shareholders. 
+In 2018, we topped a ranking of 
+50 tech companies in the  U.S. 
+Technology RepTrak report  issued 
+by the Reputation Institute and were 
+the only company to receive its 
+highest ranking of “excellent.”  The report noted how we connect 
+our technology and innovations to 
+the projects we support through  
+our CSR.
+Our annual CSR report forms 
+the foundation of our CSR 
+communications and is used by all 
+stakeholders to find the information 
+they need. It is a resource for 
+several ratings, rankings, and 
+indexes we participate in each year. 
+These third-party endorsements 
+help boost our reputation and 
+brand as a strong corporate citizen. 
+Notable recognitions we have 
+received include: the Dow Jones 
+Sustainability Index, CDP, 100 Best 
+Corporate Citizens, Human Rights 
+Watch’s Corporate Equality Index, 
+the Bloomberg Gender Equality 
+Index, and the JUST100. 
+The stakeholder section lists all of 
+the ratings/rankings requests we 
+received in FY19. We have seen a 
+dramatic increase in the number 
+of requests to participate in these 
+lists in the last few years as CSR 
+becomes a central element of 
+companies’ strategies.AWARDS AND 
+ACCOLADES
+We have been recognized 
+over the past few years in 
+several prominent business 
+publications for innovation 
+and leadership, notably: 
+ > Fortune  
+100 Best Places to Work 
+ > Fast Company  
+Most Innovative Companies
+ > Barron’s  
+World’s Best CEOs 
+ > Fortune  
+Businessperson of the Year
+ > Harvard Business Review  
+Best Performing CEOs in 
+the World
+24NVIDIA 2019 CSR REPORT  ECONOMIC
+PUBLIC POLICY 
+ENGAGEMENT
+HOW WE DEFINE IT:  
+Transparency of political 
+contributions and lobbying 
+efforts, including participation 
+through industry organizations; 
+engagement with policy makers
+Public policy engagement enables 
+us to affect government action 
+and provide thought leadership 
+to global governments on 
+issues that directly affect our 
+business. It is also a platform for 
+educating policymakers through 
+demonstrations of our technology, 
+amplifying our work in targeted 
+areas, and collaborating with 
+various organizations on issues of 
+shared interest. We focus our public 
+policy activities in AI, specifically 
+to promote the investment in core 
+AI research and to support the 
+development of autonomous driving 
+technologies and infrastructure. Core AI Research
+In FY19, as part of a panel focused 
+on the current state of AI and 
+barriers to government adoption, 
+we provided testimony  to the 
+U.S. House of Representatives 
+Subcommittee on Information 
+Technology. We encouraged the 
+federal government to increase 
+research funding in organizations 
+such as the National Science 
+Foundation, National Institutes 
+of Health, and Defense Advanced 
+Research Projects Agency, and 
+to adopt AI to boost the nation’s 
+economy and improve government 
+services through the development 
+of faster supercomputers. We 
+also submitted comments  for the 
+National AI R&D Strategic Plan.Autonomous Driving 
+Regulations
+We have participated in sessions 
+with the U.S. Senate Committee 
+on Commerce, Science, and 
+Transportation related to AI’s role 
+in autonomous driving. During 
+our FY19 developer conference in 
+Washington, we convened  policy, 
+tech, and automotive leaders to 
+discuss how the transportation 
+industry can safely and effectively 
+deploy self-driving technology 
+through collaboration, consumer 
+education, and an emphasis on 
+safety. At the conference we issued 
+a Self-Driving Safety Report  
+that highlighted how GPUs create 
+functionally safe self-driving 
+systems and how we ensure  
+several lines of defense and 
+redundancy in our self-driving 
+software systems. Self-driving car 
+safety is discussed in more detail in 
+the Societal Impact  of GPUs  
+section of this report. 
+We also brief congressional 
+staff and leadership, including 
+primary decision-makers with 
+jurisdiction at the Energy and 
+Commerce Committee and the 
+Senate Commerce Committee, 
+on our technology and the safety 
+work behind it. We enhance our 
+reach in public policy through 
+participation in organizations 
+such as the Consumer Technology 
+Association, Entertainment 
+Software Association, Information 
+Technology Industry Foundation, 
+and the Semiconductor Industry 
+Association, among others. 
+We do not have a political action 
+committee. In FY19, we did not 
+perform lobbying activity or expend 
+resources that required registration 
+under the Lobbying Disclosure Act.
+At our 2018 developer conference in Washington, DC, U.S. Chief Information Officer Suzette Kent 
+said the federal government is investing in AI throughout the system, including agriculture, trans -
+portation, healthcare, and cybersecurity.
+ACCELERATING AI ADOPTION  NVIDIA 
+leaders use our popular blog to promote 
+causes of company interest, such as the 
+government’s adoption of AI. 25SOCIAL
+NVIDIA 2019 CSR REPORT 06
+PRIORITY:
+SUPPLY CHAIN 
+MANAGEMENT 
+AND PRODUCT 
+QUALITY
+HOW WE DEFINE IT:  
+Policies and practices with 
+regard to overall supply chain 
+management and product quality, 
+including auditing and ensuring 
+that suppliers meet minimum 
+standards or requirements; 
+supply chain transparency and 
+disclosure; supplier diversity
+We hold ourselves and our 
+suppliers to the highest standards 
+of behavior. We engage suppliers 
+that share our values and then 
+collaborate with them to build a 
+stronger, more responsible supply 
+chain that satisfies our customers’ 
+product quality expectations.Product Quality
+To ensure that we meet or 
+exceed our customers’ quality 
+expectations, we assess the 
+performance of our product 
+families through indicators that 
+measure customer DPPM levels 
+(defective parts per million). We  
+are ISO 9001 certified and 
+have been issued a “letter of 
+conformance” to the ISO/TS 16949 
+automotive quality standard. 
+Internally, a cross-functional team 
+manages product quality issues. To 
+verify a product failure, customer 
+quality engineering and customer 
+program management engage the 
+customer. Once a failure is verified, 
+we address the issue using the 
+Eight Discipline (8D) problem-
+solving methodology.Supply Chain 
+Management
+We do not directly manufacture 
+the semiconductor wafers or 
+printed circuit boards used in our 
+products, nor do we manufacture 
+the company’s branded devices. 
+Instead, we partner with world-
+class suppliers for all phases of the 
+manufacturing process, including 
+wafer fabrication, assembly, 
+testing, and packaging. We closely 
+manage our supply chain to deliver 
+innovative products in a socially and 
+environmentally conscious manner. 
+Taiwan Semiconductor 
+Manufacturing Company (TSMC) 
+and Samsung manufacture our 
+semiconductor wafers. Our two 
+main contract manufacturers for 
+company- or partner-branded 
+devices are Foxconn and BYD. 
+Foxconn, Samsung, and TSMC are 
+RBA members. We also contract 
+with manufacturers to build, test, 
+and distribute our branded devices. 
+SUPPLIER 
+COMPLIANCE
+NVIDIA manufacturing 
+suppliers must comply with 
+the following: 
+ >NVIDIA’s Conflict  
+Minerals Policy
+ >EU RoHS
+ >EU REACH 
+ >EU End of Life Vehicles 
+ >Halogen Free/Low Halogen
+ >ISO 14001:2015 
+ >OHSAS 18001  
+(GB/T 28001-2011 in China)26
+NVIDIA 2019 CSR REPORT  SOCIAL
+We require all suppliers to comply 
+with the RBA Code of Conduct and 
+use the Code as a platform to go 
+above and beyond compliance. 
+We’ve been RBA members since 
+2007 and have adopted the RBA 
+Code and integrated its elements 
+into our program, including 
+auditing critical suppliers and 
+conducting internal assessments 
+to confirm that we are addressing 
+all aspects of responsible supply 
+chain management. Our employees 
+are engaged in RBA workgroups 
+relevant to our supply chain 
+operations. We also comply with 
+the RBA’s guidance regarding 
+stakeholder grievances  
+related to our social or  
+environmental performance.
+Our supplier specification  
+outlines our compliance 
+requirements and covers all 
+manufacturers in our supply chain. 
+The assessment process involves 
+using the RBA online system to 
+vet suppliers against product 
+compliance industry standards, 
+conflict minerals data, and RBA 
+Code compliance. For strategic suppliers, business 
+allocation decisions are influenced 
+by quarterly business review (QBR) 
+performance. Strategic suppliers 
+include those who produce 
+or handle NVIDIA production 
+material, non-critical suppliers for 
+whom we closely manage quality 
+requirements, suppliers who design 
+our branded products, and those we 
+are required to work with based on 
+customer agreements.
+The specification agreements are 
+deployed and tracked through 
+the QBR process to make certain 
+that these suppliers uphold our 
+requirements. Five of 100 QBR 
+points are allocated to CSR issues, 
+and requirements vary by quarter. 
+Each quarter, overall supplier 
+assessment is reviewed by product 
+category and performance is ranked. Aside from RBA, we also participate 
+in organizations focused on issues 
+relevant to supplier responsibility, 
+such as the Public-Private Alliance 
+for Responsible Minerals Trade 
+and the Association Connecting 
+Electronics Industries.
+We require all suppliers to comply with 
+the Responsible Business Alliance Code of 
+Conduct and use the code as a platform to 
+go above and beyond compliance.27
+NVIDIA 2019 CSR REPORT  SOCIAL
+Working Conditions
+We are committed to upholding 
+the rights of workers throughout 
+our supply chain and to treating 
+everyone with dignity and respect. 
+Freely chosen employment is a 
+significant issue that many supply 
+chains are facing. In addition 
+to supporting and aligning with 
+the RBA Code regarding freely 
+chosen labor, we follow the legal 
+requirements of the Federal 
+Acquisition Regulation (FAR) and U k 
+Modern Slavery Act 2015. We track 
+issues through the RBA Validated 
+Audit Process and work directly 
+with suppliers to implement any 
+corrective actions. When  
+violations are discovered, we 
+require suppliers to return hiring 
+fees to workers. Policies related 
+to working conditions (including 
+slavery and trafficking) can be 
+found on our website . Environmental 
+Management
+We require all suppliers to be 
+ISO14001 certified. We monitor 
+the environmental footprint of 
+our suppliers and work with them 
+through the supplier management 
+process on goal setting and 
+activities they can undertake 
+to reduce their environmental 
+impact. We calculate carbon, 
+water, and waste data of all silicon 
+manufacturers and systems 
+contract manufacturers to 
+determine carbon emissions and 
+water consumption per product and 
+per financial outlay.
+We participate in the CDP 
+Supply Chain program (our 
+current score is B-) and the RBA 
+online environmental survey 
+on carbon, water, and waste. 
+We also participate in the RBA 
+environmental sustainability 
+workgroup. 
+See Materials Availability  
+in the Environment section  
+for information about 
+responsible minerals.  
+See the Supply Chain 
+Performance  section for 
+an overview of our RBA 
+compliance and metrics 
+related to supplier working 
+conditions (working 
+conditions, hours, wages, 
+child labor, and freedom of 
+association) and supplier 
+environmental management 
+(environmental management 
+systems, data collection, and 
+improvement programs). 28
+NVIDIA 2019 CSR REPORT  SOCIAL
+PRIORITY:
+TALENT 
+STRATEGY
+HOW WE DEFINE IT:  
+Global talent identification 
+and selection, including global 
+recruitment activities and 
+hiring for specific skillsets; 
+leadership development, including 
+professional development and 
+training to build and maintain an 
+internal pipeline of leadership
+We believe that talented employees 
+are our greatest assets, and they 
+play a key role in creating long-
+term value for our stakeholders. 
+Our ultimate success and our 
+ability to compete are substantially 
+dependent on how well we 
+identify, hire, train, and retain 
+highly qualified key personnel. In 
+the technology industry’s highly 
+competitive talent market, we  
+aim to differentiate ourselves 
+through a workplace culture that 
+celebrates drive, commitment,  
+and achievement. We position our company to attract 
+the industry’s most creative and 
+gifted individuals, and they take 
+pride in our dynamic workplace. 
+Our teams of world-class engineers 
+and developers thrive in high-
+performance environments where 
+passion is expected, talent is 
+recognized, and collaboration  
+is valued. 
+Fortune has recognized NVIDIA in 
+its list of 100 Best Companies to 
+Work For. We’re also on MIT Tech 
+Review’s 50 Smartest Companies 
+list and Human Rights Watch’s 
+Corporate Equality Index. Glassdoor 
+includes us on its Employee’s 
+Choice: Best Places to Work list.
+A TOP PLACE FOR TALENT  For the third year, NVIDIA is on Fortune magazine’s 100 Best Places 
+to Work. We also were recognized for providing great benefits, such as a generous student loan 
+repayment program, to retain top talent.
+Fortune has recognized 
+NVIDIA in its list of 100 
+Best Companies to  
+Work For.
+We’re also on MIT Tech 
+Review’s 50 Smartest 
+Companies list and 
+Human Rights Watch’s 
+Corporate Equality Index. 
+Glassdoor includes us on 
+its Employee’s Choice: 
+Best Places to Work list.29
+NVIDIA 2019 CSR REPORT  SOCIAL
+Compensation  
+and Benefits 
+We have four key objectives in our 
+compensation strategy: attract 
+and retain the world’s best talent, 
+reward performance, focus on 
+growth, and think in terms of 
+total pay. Our total compensation 
+packages are competitive, fair, 
+and structured to encourage 
+employees to invest in the 
+company’s future. Our employees 
+enjoy a comprehensive, market-
+competitive benefits package. All 
+employees have the opportunity to 
+be shareholders in the company 
+through our employee stock 
+purchase plan (ESPP).We invest in and commit to our 
+employees’ long-term success. 
+NVIDIA’s benefits  include  
+flexible work hours and flexible 
+time off, programs to help 
+employees address stress and 
+time-management challenges, and  
+an array of convenient onsite 
+services. We support employees  
+in their important life events 
+through our global Guidance 
+Resources Program and a  
+generous leave program.Recruiting
+As we enter new markets in AI 
+and deep learning, the demand for 
+talent is increasingly competitive. 
+We continually evaluate the right 
+mix of compensation and benefits, 
+so we can continue to attract 
+the best and the brightest. To 
+attract and retain highly qualified 
+individuals, we: 
+ >Attend professional and  
+university recruiting events 
+ >Perform semi-annual 
+compensation analysis  
+and adjustments
+ >Evaluate benefits annually 
+ >Analyze global employee 
+engagement survey data 
+ >Engage in “best place to work” 
+surveys that provide feedback on 
+our strengths and weaknesses 
+30
+NVIDIA 2019 CSR REPORT  SOCIAL
+Learning and 
+Development
+Through our learning and 
+development program, employees 
+receive training on the job and in 
+more formal settings. We use both 
+internally and externally created 
+training content, and our employees 
+can access hundreds of technical 
+and professional development 
+courses via our NVLearn portal. 
+LinkedIn Learning, GlobeSmart, 
+Udemy for Business, and courses 
+from LearniT! are available online 
+for employees, as are the digital 
+libraries of the Institute of  
+Electrical and Electronics 
+Engineers and the Association for 
+Computing Machinery through our  
+corporate memberships. We offer tuition reimbursement 
+at most accredited educational 
+institutions — including Coursera 
+— and pay tuition to technical 
+education programs at the 
+Stanford Center for Professional 
+Development. We also encourage 
+employees to take classes through 
+NVIDIA’s Deep Learning Institute , 
+which offers courses online and in 
+person for developers who want to 
+learn the technical aspects of AI.
+Additional information about  
+how we recruit, acquire,  
+develop, and retain employees 
+is covered under the issues of 
+Diversity and Inclusion  and 
+Employee Engagement .NVIDIA 
+offers tuition 
+reimbursement at 
+most accredited 
+educational 
+institutions.
+31
+NVIDIA 2019 CSR REPORT  SOCIAL
+EMPLOYEE ENGAGEMENT
+HOW WE DEFINE IT:  
+Policies and practices to engage employees and 
+create a great workplace as measured through 
+employee surveys; implementation of relevant  
+survey feedback
+For a quarter of a century, we have pushed the 
+boundaries of what’s possible in the world of parallel 
+computing, and we have succeeded because we are 
+focused and passionate about what we do. To ensure our 
+continued success, we maintain a working environment 
+where our employees are engaged and inspired. 
+Our corporate culture arises from five core values, 
+which provide the foundation for success. These values 
+create a workplace where innovation thrives and 
+mistakes are transformed into opportunities.
+INNOVATION
+Dream big, start 
+small. Take risks, learn fast. 
+We make things that delight customersand raise industry standards. We encourage employees to innovate, guidedby ﬁrst principles,not consensus.
+We know our path to 
+discovery will be paved with mistakes. We anticipate and avoid the ones we can. We accept, learn from, and share the ones that occur. This allows us to invent things the world doesn’t even know it needs, and by doing so, invent the future. INTELLECTUAL
+HONESTY 
+Seek truth, learn 
+from mistakes,share learnings.
+ 
+We operate at the 
+highest ethical standards. We seekto accurately know ourselves and our capabilities— acknowledging our weaknesses and learning fromour mistakes.
+The sharpest 
+understanding of reality improves our work. Identifying the origins of mistakes is not about blame. It is essential to learning and constant improvement. We say what we believe, and have the courage to act on it.SPEED AND 
+AGILITY
+Learn, adapt, shape the world.
+We are alert and constantly learning, and adjust course to align to new realities. This lets us create groundbreaking products at astonishing speed. No politics, no hierarchy stands in the way of inventing the future.EXCELLENCE AND
+DETERMINATION
+Maintain the highest standards.
+We hire extraordinarily talented individuals across the globe, people determined to make a difference. We challenge ourselves to do our best work.
+We measure 
+ourselves not against the competition, but against perfection— we call it the speed-of-light test. We are not deterred by lengthy endeavors if they are worthy.We are playing along game.ONE TEAM
+Do what’s best for the company. 
+We foster an environment of transparency, openness, and sharing information. One that motivates our employees, and empowers them to work as a single integrated team.
+We disagree openly 
+and directly because conﬂict is essential to resolving differences, improving ideas, and achieving alignment. Our focus is on substance, not on style. By putting the interests of the company before our own, we can more easily accomplish 
+NVIDIA’s vision.NVIDIA’S CORE VALUES
+32NVIDIA 2019 CSR REPORT  SOCIAL
+Employee Feedback
+To track engagement and retention 
+trends, we conduct a global employee 
+survey every 18-24 months, and the 
+participation level is at 95 percent. 
+We ask for feedback across 13 
+dimensions, including strength of 
+culture, engagement, satisfaction, 
+vision and direction, and work-life 
+flexibility. The survey repeatedly 
+tells us that our employees feel great 
+pride in the company — 90 percent 
+recommend NVIDIA as a great place 
+to work and 96 percent believe that our products are making a positive 
+impact in the world. Our last survey 
+occurred in November 2017.
+We are committed to a strong 
+workplace culture that provides 
+effective grievance mechanisms for 
+our employees. To report practices or 
+actions believed to be inappropriate 
+or illegal, employees have several 
+channels through which to report, 
+including our human resources 
+departments, a suggestion box, and  
+a third-party anonymous service.MEASURING  
+EMPLOYEE  
+FEEDBACK
+89%
+say that we’ve created an  
+environment where people of 
+diverse backgrounds  
+can succeed
+87%
+say that our teams value  
+diverse perspectives
+90%
+say that NVIDIA is  
+a great place to work 
+96% 
+believe that our products  
+are making a positive impact 
+in the world
+ 
+FAST COMPANY
+Most Innovative  
+CompanyEMPLOYER OF CHOICE
+ 
+FORTUNE
+100 Best Companies  
+to Work ForCORPORATE  
+EQUALITY INDEX
+Best Place for  
+LGBTQ Employees
+33NVIDIA 2019 CSR REPORT  SOCIAL
+DIVERSITY AND INCLUSION
+HOW WE DEFINE IT:  
+Policies, practices, and initiatives related to employee, 
+supplier, and board diversity and inclusion; gender 
+equity in the technology industry
+We believe that diverse teams fuel innovation, and  
+we are committed to creating an inclusive culture that 
+supports all employees, regardless of gender, gender 
+identity or expression, veteran status, race, ethnicity,  
+or ability. 
+We integrate diversity and inclusion into the entire 
+employee experience and drive programs in three 
+core areas: recruiting and hiring, development and 
+recognition, and employee support. Additionally, 
+we are committed to pay transparency and making 
+all employment decisions on the principles of equal 
+employment opportunity. 
+Diversity and inclusion are integrated throughout our 
+company and supported at the highest levels of our 
+organization. Twenty-five percent of our executive team 
+is female and nearly 42 percent is female or identifies 
+with racial/ethnic minority populations.
+WE BELIEVE IN EQUAL OPPORTUNITY
+We treat each individual fairly, and we don’t 
+tolerate discrimination or harassment against 
+anyone on the basis of race, color, religion, sex 
+(including pregnancy), marital or protected 
+veteran status, age, national origin, ancestry, 
+physical or mental disability, genetic information, 
+medical condition, sexual orientation, gender, 
+gender identity, gender expression, or any other 
+characteristic protected by law. 
+NVIDIA Code of Conduct34NVIDIA 2019 CSR REPORT  SOCIAL
+Recruiting and Hiring
+We prioritize the recruitment of 
+women and underrepresented 
+minorities, and we reached 47,000 
+diverse candidates in FY19. Our 
+strategies include:
+ >Crafting job descriptions to 
+eliminate unintended bias using 
+an AI-based third-party tool.
+ >Ensuring that technical women 
+interviewees meet with at least 
+one technical woman during the 
+interview process.
+ >Providing guidance to hiring 
+managers on unconscious bias 
+mitigation practices.
+ >Developing women and minority 
+recruiting teams for academic 
+and professional job fairs.
+ >Partnering with historically  
+black colleges and Hispanic-
+serving institutions. 
+ >Recruiting at campus fairs 
+through partnerships with: 
+Society of Women Engineers, 
+National Society of Black 
+Engineers, and Society of 
+Hispanic Professional Engineers. 
+ >Recruiting at professional events 
+such as: Grace Hopper, Society of 
+Women Engineers, Vets in Tech, 
+Tech Inclusion, Lesbians Who 
+Tech, and the National Society of 
+Black Engineers.
+ >Posting job openings and doing 
+skills translation on military.com.
+ >Mentoring undergraduate women 
+pursuing tech degrees through 
+Rewriting the Code.
+ >Providing scholarships for women 
+through Advancing Science in 
+America Foundation.
+ >Offering free passes to  
+technical women’s organizations 
+and universities for our 
+developers conference.Development and 
+Recognition
+To maximize our employees’ 
+success and ensure continued 
+diversity and inclusion, we 
+recognize and celebrate our 
+employees’ contributions and 
+encourage lifelong learning.  
+Our strategies include:
+ >Encouraging internal  
+mobility through career expos  
+and counseling.
+ >Strengthening development 
+programs for women through 
+mentoring, technical offerings, 
+collaborative learning, and on-
+the-job training. 
+ >Partnering mentors and mentees 
+for coaching and support.
+ >Sponsoring women to present and 
+attend technical conferences.
+ >Submitting top-performing 
+employees for recognition and 
+awards. The YWCA Silicon Valley 
+has recognized 25 NVIDIA leaders 
+in the past seven years through its 
+Tribute to Women awards. 
+ >Featuring diverse employees  
+on NVIDIA.com and our  
+corporate intranet. HOW WE TRACK  
+OUR PROGRESS
+The metrics we use to track 
+our diversity and inclusion 
+progress include:
+HIRING
+ >We set internal goals to 
+increase our hiring of 
+women and minorities.
+ >We evaluate our interview 
+pipeline to ensure it 
+reflects the industry’s 
+minority representation.
+RETENTION
+ >We review and analyze 
+compensation and 
+performance twice yearly.
+ >We track employee-survey 
+metrics, focusing on how 
+women and minorities view 
+our work environment.
+PROMOTIONS AND 
+TURNOVER
+ >We monitor the number of 
+promotions and turnover 
+within minority groups 
+against the total.
+35NVIDIA 2019 CSR REPORT  SOCIAL
+Employee Support
+Our ongoing efforts to support our employees 
+personally and professionally help to create an 
+environment where employees can do their best work. 
+These efforts include:
+ >Offering a generous parental leave program with 
+flexible work hours upon return from leave. 
+ >Providing full coverage for benefits such as in vitro 
+fertilization, egg freezing, and adoption. 
+ >Conducting training with 300+ leaders to build their 
+awareness about unconscious bias in recruiting  
+and hiring. 
+ >Supporting the establishment of and providing funding 
+to employee resource groups that have executive-
+level sponsorship and dedicated budgets: Women in 
+Technology, NV Pride (LGBTQ employees and allies), 
+Black NVIDIAN Network, Early Career Network, and 
+Hispanic Latino Network. Our CEO meets with the 
+co-chairs of these groups periodically to understand 
+their experience and drive programs and benefits that 
+support these communities.
+ >Expanding Women in Technology programs beyond  
+our headquarters to Austin and St. Louis and, in FY19, 
+to India. Equitable Pay
+We are committed to providing a fair and living wage 
+to all employees. To ensure pay parity, each year since 
+2015 we have used a third-party firm, Economist, Inc., 
+to analyze our pay practices for gender and ethnicity 
+across 75+ dimensions, including rating, education, 
+years of experience, job function, family, and level. The 
+firm has not found any statistically significant disparities 
+related to female or underrepresented minority 
+compensation. If we were to identify an issue of pay 
+disparity, our human resources organization would take 
+corrective action. We’ve achieved pay parity for the past 
+several years and plan to continue doing so in FY20. 
+In FY19, we increased payments to our vendors so  
+that they, in turn, could increase hourly wages for  
+their employees. 
+See the Diversity Performance  section for several 
+metrics we use to track our progress, and FY19  
+and FY20 Goals in the Performance  section for  
+progress updates. 
+NVIDIA’S PARENTAL LEAVE PLAN
+BIRTH MOTHER BENIFITS POLICY
+FATHERS, ADOPTIVE PARENTS, FOSTER PARENTS BENEFITS POLICYWEEKS
+NEW POLICY
+OLD POLICYBABY BONDING LEAVE
+6 WEEKS
+REDUCED PAYUNPAID6 WEEKS 100% PAY,4 WEEKS REDUCED PAYCHILD’S BIRTH
+FLEX TIME
+1 2 3 4 5 6 7 8 910 11 12 13 14 15 16 17 18 19 20 21 22 23 24 25 26 27 28 29 30
+100% OF PAYPREGNANCY LEAVE
+WEEKS
+NEW POLICY
+OLD POLICY6 WEEKS 100% PAY,1 WEEK REDUCED PAY1 2 3 4 5 6 7 8 910 11 12 13 14 15 16 17 18 19 20BABY BONDING LEAVE FLEX TIME
+100% OF PAY
+UNPAID36NVIDIA 2019 CSR REPORT  SOCIAL
+Building the Future 
+STEM Pipeline
+Improving the representation of 
+women and minorities in tech 
+requires a long-term perspective, 
+so we implemented a number 
+of programs to engage in STEM 
+activities with girls and other 
+unrepresented groups. We reach 
+youth through technology donations, 
+sponsorships, campus visits, guest 
+speakers, and career roundtables.
+From FY18-FY19, we engaged 
+several hundred girls and 
+underrepresented youth through 
+organizations such as: Girls 
+Engaged in Math and Science 
+(GEMS), Santa Clara University’s 
+Summer Engineering Seminar 
+Program, Iridescent’s Technovation 
+Program, 49er STEM Leadership 
+Institute, Third Street Community 
+Center’s Young Engineers Program, 
+and Girls Who Code. We also 
+engaged several hundred students 
+from the Santa Clara Unified School 
+District through our Techsplorer 
+program. In FY17–FY19, through 
+the India Companies Act, we funded 
+organizations in India that helped 
+more than 3,000 young women from 
+impoverished communities in India gain greater access to computer 
+training and develop skills to 
+improve their career opportunities.
+Developer Inclusivity 
+and Diversity 
+Each year, we hold our developers 
+forum, the GPU Technology 
+Conference , in San Jose, California. 
+GTC is an opportunity to extend our 
+inclusion efforts to our ecosystem.
+At our 2019 conference, we 
+increased female attendance by 
+more than 50 percent and almost 
+doubled the number of talks that 
+included a woman speaker. And for 
+the sixth year in a row, GTC included 
+events  specifically for women. We 
+hosted a Women in Deep Learning 
+& AI breakfast and panel focused on 
+the AI healthcare ecosystem, as well 
+as a session on how organizations 
+are lowering the barriers to entry 
+into AI engineering.
+New this year, we hosted a Women’s 
+Early Career Accelerator  to give 
+50 women starting out in AI access 
+to our deep learning courses that 
+provide hands-on training and 
+opportunities to network. In 2019, Forbes  called out GTC as a top 
+conference for women wanting to 
+learn more about AI.
+Other activities to increase the 
+number of women and minority 
+technologists attending GTC 
+included: 
+ >Scholarships for members of 
+Black in AI and Latinx in AI
+ >Free conference passes to local 
+universities and women-in-
+technology organizations
+ >Reaching out to women in our 
+university and developer network 
+to encourage them to speak, 
+which helped to increase female 
+speakers in 2019 by 40 percent 
+ >Highlighting women speakers 
+on the main GTC website and 
+prominently featuring them in 
+promotional materials
+Beyond this, we’ve also recruited 
+at the Grace Hopper Conference, 
+sponsored Black in AI  events 
+at NeurIPS and hosted a mixer 
+with Latinx in AI  and Black in AI  
+members at GTC.
+MAKING OUR MARK  In 2018, 40 NVIDIANs joined the Grace Hopper  Celebration of Women in 
+Computing conference — the world’s largest gathering of women technologists. Seven employees 
+gave talks or led workshops.EXPANDING THE  
+AI ECOSYSTEM
+NVIDIA promotes important 
+women working in the AI 
+ecosystem.
+ >How One Woman Followed 
+Her Passion and Brought 
+Diversity to AI
+ >Meet 2 Women 
+Transforming The AI 
+Ecosystem In Africa37NVIDIA 2019 CSR REPORT  SOCIAL
+EMPLOYEE 
+HEALTH AND 
+SAFETY
+HOW WE DEFINE IT:  
+Occupational health and safety 
+performance and policies; safety 
+standards (ISO 18001, OSHA); 
+health and wellness programs; 
+security practices
+Our employees’ ability to perform 
+their jobs well depends on their 
+physical and mental health and their 
+safety and security. Our integrated 
+programs actively support these 
+fundamental needs. Health and Wellness 
+We offer programs throughout 
+the year to assist with employees’ 
+personal wellness, including health 
+analysis, skin cancer screening, and 
+hereditary cancer screening. Our 
+record reflects the results of our 
+dedication to employee health and 
+wellness. Less than one percent of 
+leave-of-absence requests within 
+NVIDIA relate to work. Our lost-
+time incident rate and our total 
+recordable incident rate are both 
+zero. Few workers compensation 
+claims are submitted, and the 
+majority of those processed 
+are repetitive motion injuries. 
+In recognition of this fact, we’ve 
+taken steps to work with affected 
+employees through our ergonomics 
+program and online courses.Safety
+Our Environmental Health and 
+Safety (EHS) team oversees 
+workplace conditions for NVIDIANs 
+globally. Team members provide 
+guidance to ensure that facilities 
+meet or exceed local safety 
+requirements, promote safe work 
+practices, and support compliance 
+with applicable health and safety 
+legislation and policies through 
+trainings, communications, and 
+audits. Our global EHS management 
+framework includes: 
+ >A network of site safety 
+officers who provide local EHS 
+accountability; 
+ >Documented, globally applicable 
+programs on key topics, including 
+contractor management, ladder 
+safety, ergonomics, and vehicle 
+safety; and 
+ >External EHS audits and internal 
+EHS inspections of our owned and 
+leased offices. 
+keeping our employees safe 
+requires planning for emergencies. 
+Our volunteer emergency response 
+teams involve more than 500 
+employees around the world. These 
+volunteers assist with evacuation 
+drills and may receive training in 
+basic first aid, CPR, AED, or fire 
+extinguisher training in addition to 
+emergency preparedness that will 
+enable them to rapidly respond in 
+an emergency or disaster.
+Our volunteer 
+emergency 
+response teams 
+involve more than 
+500 employees 
+around the world.38NVIDIA 2019 CSR REPORT  SOCIAL
+PRODUCT 
+SAFETY
+HOW WE DEFINE IT:  
+Safety of products, from 
+production to use to end-of-life, 
+including the safety of materials 
+and components
+Safety is a principle that permeates 
+our engineering culture and is 
+incorporated into every step of our 
+product development process, from 
+design and production to the end-
+user experience. We must meet 
+customer safety and compliance 
+standards. If our products are not 
+in compliance, then customers 
+may not incorporate them into 
+their design strategies. Our ability 
+to secure appropriate safety 
+certifications and meet industry 
+safety standards could affect our 
+results of operations in the future. 
+We have established product  
+safety technical committees to 
+oversee safety throughout the 
+product lifecycle. Self-Driving Car Safety
+As a solutions provider to the 
+vast majority of startups, vehicle 
+makers, suppliers, sensor makers, 
+and mapping companies in the 
+autonomous vehicle industry, 
+we make safety our first priority. 
+Experts architect safety into 
+every aspect of our NVIDIA 
+DRIVE  computer system, which 
+includes the foundational hardware 
+and software for autonomous 
+driving technologies. We develop 
+tools and methods so technologies 
+perform reliably. Stringent 
+engineering processes ensure 
+that no corners are cut. Our safety 
+priorities and processes are 
+outlined in a Self-Driving Safety 
+Report  we released in FY19. To show our commitment to 
+automotive safety, we are pursuing 
+product compliance through ISO 
+26262, an automotive-specific 
+international standard that focuses 
+on safety-critical components. 
+In FY19, a top automotive safety 
+and reliability company, TÜV 
+SÜD, performed a safety concept 
+assessment of our new NVIDIA 
+xavier system-on-chip (SoC). TÜV 
+SÜD deemed the processor’s safety 
+architecture  suitable for use in 
+autonomous driving applications  
+and completed an assessment of 
+the development process applied 
+to xavier. We are expecting to finish 
+our first product assessment for the 
+xavier SoC around mid FY20.  
+39NVIDIA 2019 CSR REPORT  SOCIAL
+SOCIETAL 
+IMPACTS OF AI
+HOW WE DEFINE IT:  
+Development of technologies that 
+contribute positively to society; 
+supporting developers and 
+startups during the development 
+phases to consider broader 
+societal implications, such as bias, 
+workforce, and ethical concerns
+AI represents the biggest 
+technological and economic shift in 
+our era. It is profoundly impacting 
+transportation, healthcare, 
+cybersecurity, and many other 
+industries. We create advanced 
+computing tools that serve as 
+open platforms for developers, 
+researchers, and data scientists to 
+innovate in these areas. We educate 
+tens of thousands of developers 
+each year; partner with thousands 
+of startups globally that use AI to 
+benefit society; and collaborate with 
+dozens of universities and research 
+organizations in performing 
+groundbreaking AI research. 
+We play a leading role in developing 
+technology and software that make 
+safe autonomous vehicles possible. 
+The goal: avoid human error, which 
+is responsible for an estimated 94 
+percent of all accidents. Automotive 
+safety in our product and software 
+design is a crucial element in 
+helping self-driving vehicles reach 
+their full potential as a major 
+benefit to society.  
+All parties involved in the 
+autonomous vehicle industry, 
+including auto manufacturers, 
+technology providers, and coalition 
+groups, are interested in developing 
+shared ethical standards around 
+how autonomous vehicles make 
+decisions. As a founding member of 
+the Partners for Automated Vehicle 
+Education coalition, we work with the industry, research  
+institutions, and regulators to 
+educate consumers on safe  
+self-driving technology.
+In healthcare, we are driving the 
+introduction of AI in such areas as 
+disease detection, drug discovery, 
+and patient workflows. k ey to these 
+efforts is our development of the 
+NVIDIA Clara  platform, which 
+increases diagnostic accuracy, 
+enabling the medical imaging 
+community to improve patient 
+outcomes and reduce the cost 
+of care. Clara also addresses a 
+fundamental problem: legacy 
+medical imaging instruments, 
+which typically have a lifespan of 
+more than a decade but may not be 
+able to run modern applications that 
+benefit from the 1,000x acceleration 
+of GPU computing. By connecting 
+to NVIDIA’s GPU-powered servers, 
+these legacy instruments can 
+leverage the latest and most 
+advanced imaging applications. We share the widespread concerns 
+about bias and maintaining ethical 
+practices in AI, and they help guide 
+the work of our data scientists.  
+We host seminars at our GTCs 
+around the world to train other 
+engineers in upholding best 
+practices. In our engagements with 
+governments, we emphasize the 
+importance of supporting positive 
+uses of AI while considering issues 
+around its development.   
+Deployed properly, AI can remove 
+bias in areas that people have 
+struggled to address for decades. 
+We hold ourselves to the highest 
+standards in our research and 
+support and encourage developers 
+to work with the most accurate data 
+sets to improve the algorithms in 
+their work. 
+AI BENEFITS TO SOCIETY  AI researchers globally are using NVIDIA technology for efforts that 
+improve society.  40NVIDIA 2019 CSR REPORT  SOCIAL
+PHILANTHROPY 
+AND 
+VOLUNTEERISM
+HOW WE DEFINE IT:  
+Community engagement and 
+interaction; outreach; support 
+for local initiatives; corporate 
+philanthropy, including monetary 
+and in-kind donations and 
+foundation grants
+Through a variety of initiatives, 
+the NVIDIA Foundation  helps our 
+employees turn their passion for 
+giving into action. Led by four 
+staff members in partnership 
+with employee champions around 
+the world, we give NVIDIANs 
+opportunities to donate their time 
+and talent through activities like 
+mentoring and tutoring programs, 
+and through large-scale volunteer 
+efforts like our annual Project 
+Inspire  and department team-
+building events. We encourage 
+them to contribute financially to 
+fundraising efforts. Our matching 
+gifts program helps amplify 
+their personal contributions — 
+both financial and time — to the organizations most important  
+to them.
+In FY19, NVIDIA and its employees 
+donated nearly $3.3 million and 
+more than 13,000 volunteer hours 
+to support charitable organizations 
+around the world. Nearly three 
+quarters of our offices held at least 
+one charitable-giving event. We 
+matched more than $1 million in 
+employee contributions through 
+our matching gifts program and 
+supported some 1,500 nonprofits. 
+Through grants and employee 
+fundraising efforts, NVIDIA donated 
+more than $680,000 to support 
+the fight against cancer in FY19. 
+We awarded four $50,000 grants 
+to nonprofits providing cancer 
+patient care and support services, 
+and we raised more than $365,000 
+for various cancer organizations 
+through a global cancer fundraiser 
+involving nearly a dozen of our 
+global offices. As part of this effort, 
+Santa Clara NVIDIANs earned 
+recognition as the top fundraising 
+team in the U.S. for the second 
+straight year for the American 
+Cancer Society’s Making Strides 
+Against Breast Cancer walk. In FY19, the company and our 
+employees donated more than $1.3 
+million and 7,200 volunteer hours 
+to education efforts, reaching 
+nearly 80,000 youth. We revamped 
+education facilities through Project 
+Inspire events held by our offices 
+in Berlin, Bristol, Cambridge, 
+Durham, Hillsboro, Hsinchu, 
+Hyderabad, Munich, Pune, Reading, 
+Shenzhen, Taipei, Tel Aviv, Westford, 
+and Würselen.
+We partnered with education 
+nonprofit Iridescent to expand its AI 
+Family Challenge initiative to three 
+new locations. This global program 
+leverages our Techsplorer  kits to 
+introduce underserved students 
+and families to AI through hands-on 
+learning. Since its launch in FY18, 
+Techsplorer has reached more than 
+10,000 students. 
+See Social Performance to track our 
+progress. The NVIDIA Foundation 
+annual report  outlines key changes 
+we made to our program for 2019 
+and beyond.GIVING  
+SNAPSHOT
+73%
+office participation
+13,000+
+volunteer hours
+$1 MILLION
+in employee matching
+41ENVIRONMENTAL
+NVIDIA 2019 CSR REPORT07
+GREENHOUSE 
+GASES AND 
+CLIMATE 
+CHANGE
+HOW WE DEFINE IT:  
+Greenhouse gas (GHG) reduction 
+and mitigation, including those 
+related to product manufacturing 
+supply chain; climate risks  
+and opportunities
+We calculate scopes 1 and 2 GHG 
+emissions for our global data 
+centers and offices, gather primary 
+data for all data centers and offices 
+larger than 50,000 square feet (88 
+percent of our total scope 1 and 
+2 GHG emissions), and estimate 
+emissions for offices less than 
+50,000 square feet (the remaining 
+12 percent). 
+Our current GHG goal is to reduce 
+scope 1 and 2 emissions by 15 
+percent per employee by FY20 
+compared to FY14. Since this 
+goal was originally set, we have substantially grown our business, 
+as illustrated by a 184 percent 
+increase in revenue, a 67 percent 
+increase in headcount, and a 23 
+percent increase in square footage 
+between FY14 and FY19. This  
+rapid and significant business 
+growth means that we must focus 
+on siting expansions strategically, 
+managing our operations efficiently, 
+and sourcing low carbon and 
+renewable forms of energy to  
+avoid an equivalent growth in 
+our GHG emissions footprint (see 
+Energy  section). 
+Although we have seen a 63 percent 
+increase in our total energy demand 
+over the past five years, our scope 1 
+and 2 emissions have increased by 
+34 percent in absolute terms. When 
+normalized, this is equivalent to a 
+7 percent reduction in emissions 
+per employee between FY18 and 
+FY19 and a 20 percent reduction in 
+emissions per employee since FY14, 
+outperforming our FY20 goal of 15 
+percent reduction per employee. OUR GHG EMISSIONS 
+REPORTING INCLUDES: 
+ > Scope 1 : Stationary 
+combustion sources (e.g., 
+natural gas, diesel fuel) and 
+HFC refrigerant emissions 
+ > Scope 2 : Purchased 
+electricity use (offices, 
+labs, datacenters) 
+ > Scope 3 : Emissions 
+from operational waste, 
+business travel, data center 
+cooling load, product 
+transportation, fuel and 
+energy related activities
+42NVIDIA 2019 CSR REPORT  ENVIRONMENTAL
+We will continue to track against our 
+current goal through FY20, and we 
+are evaluating options for an updated 
+goal that is appropriate for our 
+growing and diversifying business 
+and specifically targets ways to 
+address our data center footprint.
+Our growing business causes 
+GHG emissions beyond our direct 
+footprint. This is because emissions 
+are created at every stage of our 
+product lifecycle, extending to our 
+customers’ use and disposal of 
+our products. Since FY15, we have 
+required our key manufacturing 
+suppliers to report their energy 
+usage, GHG emissions data, and 
+their reduction goals and objectives. 
+In FY18, we added a requirement 
+that these suppliers have their GHG 
+emissions verified by a third party. 
+We have used this supplier data to 
+help us better understand the GHG 
+emissions footprint of our product 
+manufacturing and to calculate the 
+allocation of carbon emissions from 
+tier 1 suppliers that are attributable 
+to our customers.Reporting and 
+External Assurance 
+Each year, we participate in the 
+CDP climate change and water 
+surveys. Participants are scored 
+based on their understanding and 
+management of their business 
+risks, opportunities, and impacts 
+related to climate change and water 
+resources. Between FY10 and FY16, 
+we improved our climate change 
+disclosure score from 34 to 98 (out 
+of a possible 100 points). In FY18, we 
+scored a B in the CDP’s new scoring 
+paradigm for climate change, and in 
+FY19, we scored an A-. See our 2018 
+CDP response .
+We have engaged Trucost to  
+provide limited assurance under  
+the AA1000 assurance standards 
+on our FY19 global scope 1 and 2 
+GHG emissions and scope 3 waste 
+generated in operations. View the 
+assurance statement .
+See the Environmental Objectives  
+table to read about our greenhouse 
+gas emissions (office and data 
+centers) goal, and FY19 progress. 
+In FY19, we secured 
+renewable power for 
+several co-located data 
+centers both in the U.S. 
+and globally.
+SCOPE 1 AND 2 GHG EMISSIONS
+70,000
+010,00020,00030,00040,00050,00060,0005
+01234
+2014 2015 2016 2017 2018 201915% GHG/HC Goal
+Scope 1 Scope 2 GHG / HeadcountMTCO 2eMTCO 2e / Headcount43NVIDIA 2019 CSR REPORT  ENVIRONMENTAL
+ENERGY, WATER, 
+AND WASTE
+HOW WE DEFINE IT:  
+Energy and water sourcing, waste 
+management; efficient energy 
+use and conservation; renewable 
+energy strategy; water scarcity; 
+solid waste minimization (both 
+hazardous and non-hazardous); 
+proper care and disposal of 
+hazardous waste; recycling 
+efforts, and e-waste
+We are committed to protecting the 
+environment by driving operational 
+excellence in ways that reduce 
+our environmental impact. In 
+support of this commitment, we 
+identify and control environmental 
+impacts and continuously 
+improve our performance using 
+a comprehensive environmental 
+management system (EMS). Our 
+dedicated EHS (Environmental, 
+Health, and Safety) and CSR teams 
+work closely with employees in all 
+offices around the globe to execute 
+our policies and practices, which 
+are made tangible through solid 
+goals and metrics. See Facilities Management  to 
+read about our operational, 
+product, and supply chain ISO 14001 
+certifications. See Environmental 
+Performance   for a broad list  
+of metrics we track related to  
+the environment.
+Energy
+Energy use, and specifically 
+electricity use, is the primary driver 
+of our scope 1 and 2 GHG emissions 
+footprint. Our total energy use 
+increased by approximately 30 
+percent in FY19 compared to FY18, 
+with three-quarters of this increase 
+occurring in our data center 
+operations. These operations have 
+been growing rapidly along with 
+our expanding business and our 
+diversification into new  
+online services. 
+As we experience this increase in 
+our global data center footprint, 
+we’re working to incorporate 
+environmental considerations — 
+including energy efficiency — and 
+renewable power options into our 
+data center siting and sourcing 
+evaluations. In FY19, we newly 
+secured renewable power for several colocation data centers both 
+in the U.S. and globally. 
+With our data center growth NVIDA 
+has deployed state-of-the-art 
+cooling technology designed for 
+NVIDIA server products. Power 
+distribution in the data center has 
+increased voltage supply to more 
+efficiently deliver power. Cooling 
+solutions have been closely coupled 
+with server racks to localize and 
+optimize heat transfer for efficiency. 
+NVIDIA used computation fluid 
+dynamic models to optimize cooling 
+for data center designs and server 
+rack deployments. Data centers 
+have also been deployed with white 
+surfaces to optimize reflective 
+lighting. Controllable, high 
+efficiency LED lighting is installed 
+where artificial lighting is needed. 
+NVIDIA’s data center best practices 
+and optimizations are shared with 
+customers and partners to educate 
+and optimize deployments. 
+Our global offices were responsible 
+for 56 percent of our total energy 
+use in FY19. We implemented 
+several energy-efficiency projects, 
+including the redesign and 
+replacement of building services 
+systems, such as lighting and 
+44NVIDIA 2019 CSR REPORT  ENVIRONMENTAL
+HVAC, with newer, high-efficiency 
+systems. As our building systems 
+necessarily become more 
+sophisticated, we provide our 
+facilities management teams with 
+additional tools and training to 
+ensure continued performance. 
+Additionally, during FY19 we 
+secured new renewable energy 
+supply contracts which are 
+coming on line during FY20 for our 
+Bangalore, Würselen, and Berlin 
+locations. Following a successful 
+solar panel implementation at our 
+headquarters, we are evaluating 
+opportunities for onsite solar 
+photovoltaic generation elsewhere 
+in our global portfolio. 
+To support our employees who wish 
+to generate solar power at home, 
+we partnered with a major solar 
+power company to offer educational 
+workshops, a $1,000 rebate on the 
+installation of solar panels, and 
+$100 for in-home consultation. In 
+the short period during which we 
+ran this promotion last year, we 
+received more than 70 qualified 
+requests and 18 employees 
+completed new installations. Our 
+rate of home solar adoption is twice 
+the industry average. In addition, for 
+employees who wish to transition to 
+electric vehicles, we’ve partnered 
+with a major EV charger to offer 
+exclusive discounts. Water
+We use water in our direct 
+operations in cooling towers and 
+for food service, landscaping, 
+and sanitation. We take steps to 
+use water efficiently, particularly 
+in locations that are vulnerable 
+to drought conditions, such 
+as California, where we have 
+large facilities. As we develop 
+and grow at our headquarters, 
+we’re implementing measures 
+to conserve water resources and 
+reduce our potable water demand. 
+Our newest headquarters 
+building, which opened in late 
+FY18, incorporates a range of 
+water conservation measures. 
+Through the installation of low-
+flow bathroom fixtures and the 
+use of recycled water for toilet 
+flushing, the building is designed 
+to achieve a 42 percent reduction 
+in domestic water demand and a 
+91 percent reduction in potable 
+water use for sewage conveyance. 
+We are using reclaimed water in 
+the building’s cooling towers and 
+landscape irrigation systems, and 
+our landscaping consists of native, 
+drought-resistant plants. During 
+FY19 this building used 46 percent 
+less potable water than our other 
+campus buildings of a comparable 
+size. We are incorporating similar 
+water efficiency features and 
+the use of recycled water for cooling towers, toilet flushing, and 
+irrigation into the design of another 
+new building we have planned for 
+our headquarters campus. 
+Our indirect uses of water include 
+our product manufacturing 
+supply chain. We require our key 
+manufacturers to track and report 
+their water use and share their 
+reduction goals and initiatives  
+with us. 
+We support our employees in their 
+efforts to go green at home, providing 
+financial incentives to install residential 
+solar systems. For employees who wish 
+to transition to electric vehicles, we’ve 
+partnered with a major EV charger to offer 
+exclusive discounts.45NVIDIA 2019 CSR REPORT  ENVIRONMENTAL
+Waste
+We have tracked total waste 
+generated and diverted at our 
+headquarters since FY08, and our 
+annual goal for landfill diversion 
+is 80 percent. In FY18, we achieved 
+a 90 percent rate overall (80 
+percent of our operational waste 
+and 92 percent of our construction 
+project waste was diverted). In 
+the last year, we implemented a 
+range of measures to improve 
+our diversion rate, such as an 
+employee awareness campaign 
+to encourage better separation, 
+adding waste tracking and recycling 
+requirements into our facilities 
+project management process, 
+providing training to our global 
+facilities teams, including best 
+practices in our Global Workplace 
+Guidelines, and “dumpster  
+diving” to analyze our waste 
+streams and inform our waste 
+segregation approach. 
+Our employee restaurants and 
+catering activities are an important 
+focus for our waste program. 
+Specific initiatives include replacing 
+disposables with durable, washable 
+tableware in our employee 
+restaurants, introducing a new food waste tracking system, replacing 
+single-use items such as  
+sachets, and partnering with our 
+food services vendor to make 
+weekly donations of food to 
+homeless shelters.
+We generate various types of 
+e-waste, including servers, storage 
+equipment, and networking 
+equipment used in our data centers; 
+computers, monitors, and other 
+electronic equipment used by our 
+employees; and NVIDIA products we 
+use at our sites for testing and other 
+purposes. We partner with a global 
+specialist e-waste vendor to ensure 
+proper tracking, decommissioning, 
+and recycling of our e-waste. 
+See Performance  for data on our 
+various waste streams. 
+In FY19, 90% of 
+our headquarters 
+waste was either 
+recycled or 
+composted, with 
+only 10% going to 
+a landfill.46NVIDIA 2019 CSR REPORT  ENVIRONMENTAL
+FACILITIES 
+MANAGEMENT
+HOW WE DEFINE IT:  
+Policies and practices 
+regarding overall environmental 
+management at NVIDIA; 
+environmental management 
+systems (ISO14001) and 
+certifications; green building 
+practices/LEED certification
+Environmental Policies 
+and Management 
+Systems
+We drive operational excellence to 
+reduce our environmental impact. 
+In support of this commitment, we 
+identify and control environmental 
+impacts and continuously 
+improve our performance using a 
+comprehensive EMS.Our Environmental, Health, 
+Safety, and Energy Policy  provides 
+the framework for our EMS. Our 
+dedicated EHS and CSR teams work 
+closely with employees around the 
+globe to execute our environmental 
+policies and practices, which are 
+made tangible through goals and 
+metrics that are annually reviewed 
+with executives. 
+Our Silicon Valley headquarters and 
+our product design, procurement, 
+and supply chain functions have 
+been ISO14001 certified with zero 
+nonconformances identified since 
+FY06. We upgraded to the ISO 
+14001:2015 standard in FY19 (view 
+our certification ). Building on the 
+success of our ISO14001 EMS, 
+we are implementing an energy 
+management system in accordance 
+with the ISO50001 standard. 
+See Environmental Performance  
+for a broad list of metrics we track 
+related to the environment. Green Building 
+Practices
+We use green building standards to 
+target high levels of environmental 
+sustainability performance when 
+designing new buildings. 
+In September 2017, we opened our 
+new 500,000-square-foot building 
+at our Silicon Valley headquarters. 
+It was designed with high levels of 
+energy efficiency in mind, including 
+a high-performing building 
+envelope, efficient and smart 
+lighting systems that incorporate 
+the use of daylight, underfloor 
+air distribution, radiant heating 
+and cooling, air and waterside 
+economizers, and high-efficiency 
+boilers and chillers. An advanced 
+building control system underpins 
+the building’s operation. The 
+building was awarded LEED Gold 
+certification  for New Construction 
+during FY19. The building was 
+awarded a significant number of 
+points in the Sustainable Sites, 
+Water Efficiency, and Energy and 
+Atmosphere categories. 
+Other green building certified 
+buildings in our global portfolio 
+include our offices in Pune, India 
+(LEED Gold for interiors) and 
+Shanghai, China (LEED Silver); 
+our new Munich, Germany, office 
+(BREEAM Gold) and a data center 
+in Santa Clara, California (LEED 
+Platinum certification for interiors). 
+LEED GOLD CAMPUS In FY19, NVIDIA’s Silicon Valley  newest headquarters building was awarded 
+LEED Gold status. Its green design features include energy-efficient lighting, radiant heat, use of 
+reclaimed water, and an advanced building control system. 47NVIDIA 2019 CSR REPORT  ENVIRONMENTAL
+Commute Initiatives
+We established our Green2Work 
+program at our Silicon Valley 
+headquarters in FY15 to support 
+our employees in using alternative 
+commute options and reducing 
+their commute impacts. More 
+than 30 percent of our Silicon 
+Valley employees and contractors 
+currently take advantage of one or 
+more of our commute offerings. The 
+program includes electric vehicle 
+charging, pre-tax dollars for transit 
+and local transit shuttles, last-mile 
+shuttle service for train riders, 
+resources for cyclists, advantages 
+for carpooling and vanpooling, 
+shuttles from San Francisco and 
+Fremont, and an online resource 
+for commuters. We have 40 car 
+and three motorcycle electric-
+vehicle charging stations at our 
+headquarters and, to date, 700 
+employees have used this service 
+with the help of vehicle charging 
+valet parking attendants. 
+In FY18, we started offering the 
+Scoop carpooling service in 
+Silicon Valley. By December 2018, 
+NVIDIANs using Scoop avoided 
+driving more than 373,000 miles and 
+saved more than 338,000 pounds 
+of CO 2. For cyclists, we provide 
+lockers, showers, and secure bike 
+parking. To assist our alternative 
+commuters in the event of an 
+emergency, we offer an emergency 
+ride home through Lyft or Uber.ENVIRONMENTAL 
+IMPACT OF 
+PRODUCTS
+HOW WE DEFINE IT:  
+Impacts associated with the 
+application of NVIDIA products  
+for environmental benefit, such  
+as designing products that 
+maximize performance and 
+minimize energy use; restricting 
+hazardous substances
+Whether we are designing 
+technology to power next-
+generation tablets or creating 
+designs to support high-
+performance supercomputers, 
+improving energy efficiency is a 
+principal goal in each step of our 
+research, development, and design 
+processes. Parallel processing 
+consumes far less power than 
+equivalent computational forms. 
+GPUs are up to 10 times more 
+energy efficient than CPUs for 
+parallel compute workloads.As AI becomes ubiquitous, the 
+technologies that power it are 
+frequently evaluated to determine 
+which provide the best performance 
+for training data and inference 
+(how computers deduce new 
+formation). The  MLPerf  consortium, 
+which provides a machine-learning 
+benchmark that measures system 
+performance for training and 
+inference from mobile devices to 
+cloud services, published results 
+indicating that NVIDIA finished first 
+in single-node and at-scale results 
+for all six test categories in which 
+NVIDIA participated .
+HPC LEADERSHIP  The 2018 list of TOP500 fastest supercomputers showed a 48 percent jump 
+within one year in the number of systems using NVIDIA GPU accelerators. Fifty-four percent of 
+the new computing horsepower (flops) in the world’s top 500 supercomputers came from one 
+architecture: NVIDIA GPUs.48NVIDIA 2019 CSR REPORT  ENVIRONMENTAL
+NVIDIA TURING
+Our eighth generation GPU architecture and the most powerful 
+one the world has ever seen, Turing delivers 16 trillion floating 
+point operations in parallel with 16 trillion integer operations 
+per second. Enabling the world’s first real-time ray-tracing 
+GPUs for gaming and professional graphics, Turing can 
+simulate the physical world at 6x the speed of its predecessor. 
+Four Quadro RT x Servers, equipped with eight Turing  
+GPUs each, can do the rendering work of 240 dual-core CPU 
+servers at 1/4th the cost, using 1/10 the space, and consuming 
+1/11th the power. NVIDIA T4 GPUs are packed in an energy-
+efficient, 75-watt form factor that offers 65 teraflops of peak 
+performance for FP16, 130 TOPS for INT8 and 260 TOPS  
+for INT4.NVIDIA XAVIER
+Our x avier system-on-a-chip integrates the Volta GPU 
+architecture, a custom eight-core CPU architecture, and a new 
+computer vision accelerator. The processor performs at 30 
+trillion operations per second while consuming only 30 watts 
+of power. As the brain of self-driving cars, x avier is designed 
+to comply with critical automotive standards, such as the ISO 
+26262 functional safety specification. 
+NVIDIA DGX SYSTEMS
+Built on the NVIDIA Volta GPU architecture, the NVIDIA DG x 
+Station, DG x POD, DG x-1, and DG x-2 are AI supercomputers 
+that provide the compute power to train deep neural networks 
+significantly faster and create more intelligent AI.
+Designed variously for the desktop, the data center, or the 
+cloud, the DG x systems’ efficient-energy consumption and fast 
+computing mean a smaller IT infrastructure footprint and work 
+that gets done more quickly. NGC  CONTAINER REGISTRY
+NGC is a GPU-accelerated platform that enables data 
+scientists and researchers to rapidly build, train, and 
+deploy neural network models to address some of the most 
+complicated AI challenges. It manages a catalog of fully 
+integrated and optimized deep learning framework  
+containers and is optimized to run on any accelerated 
+computing environment. NVIDIA’S ENERGY EFFICIENT PRODUCTS AND TECHNOLOGIES INCLUDE:
+49
+NVIDIA 2019 CSR REPORT  ENVIRONMENTAL
+NVIDIA JETSON
+NVIDIA Jetson is the world’s leading AI computing platform 
+for GPU-accelerated parallel processing in mobile embedded 
+systems. The compute density, energy efficiency, and AI 
+inferencing capabilities of the NVIDIA Jetson AG x xavier SoC 
+offers high-performance, low-power computing for deep 
+learning and computer vision that makes it the ideal platform 
+for compute-intensive edge devices.NVIDIA TESLA
+NVIDIA Tesla data center GPUs are the leading platform for 
+accelerating HPC and hyperscale data center workloads, big 
+data analytics, and scientific computing. The latest TOP500 list 
+of the world’s fastest supercomputers shows that 127 of these 
+systems use NVIDIA GPU accelerators, up from 86 systems 
+a year ago. The latest Green500 list, which measures the 
+energy-efficiency of the world’s fastest systems, shows that 
+NVIDIA powers 22 of the top 25 “greenest” systems.
+NVIDIA CUDA-X AI
+CUDA is a parallel-computing platform and model that enables 
+compute-intensive calculations to be executed on lower cost, 
+power-efficient GPUs. More than 1,000 courses that use 
+GPUs are being taught in universities all over the world, and 
+NVIDIA supports more than 830,000 global developers who are 
+programming with GPUs. Learn more about GPU computing .NVIDIA NVLINK
+NVLink interconnect technology lets data move between 
+GPUs and CPUs five to 12 times faster than they can with PCI-
+Express. It doubles the number of GPUs that can work together 
+in deep learning computations and enables more flexible and 
+energy-efficient server design compared to PCI-E.
+ > California Prop 65
+ > China RoHS
+ > Conflict Minerals
+ > Directive on Packaging and 
+Packaging Waste 
+ > EU RoHS and Country  
+Specific RoHS > EU REACH 
+ > EU ELV 
+ > Global Automotive Declarable 
+Substance List (GADSL)
+ > Halogen Free/Low Halogen
+ > ISO 14001:2015 > korea RoHS 
+ > OHSAS 18001  
+(GB/T 28001-2011 in China)
+ > Taiwan RoHS
+ > EU WEEE and Country  
+Specific WEEEREDUCING HAZARDOUS SUBSTANCES
+Our regulatory and certification guidelines for hazardous substances include: 50NVIDIA 2019 CSR REPORT  ENVIRONMENTAL
+MATERIALS 
+AVAILABILITY
+HOW WE DEFINE IT:  
+Availability of materials; materials 
+content; security of natural 
+resources; conflict minerals; 
+management systems to track 
+supplier progress related to 
+conflict minerals; product 
+availability (finished goods from 
+major suppliers)
+We support, contribute to, and 
+rely on industry-wide efforts to 
+validate the source of minerals 
+used in our products, ensuring 
+that they come from socially 
+responsible sources and do not 
+contribute to human conflict. Our 
+goal is to use only conflict-free gold, 
+tantalum, tungsten, and tin from the 
+Democratic Republic of Congo in 
+our products. 
+We’re a member of the Responsible 
+Minerals Initiative (RMI) and Public-
+Private Alliance for Responsible 
+Minerals Trade. We support these 
+on-the-ground programs aimed 
+at improving transparency for 
+responsible sourcing and reducing human rights risks, including  
+forced labor. Our due diligence 
+program regarding conflict 
+materials is designed to conform 
+in all material respects with the 
+framework recommended by 
+the Organization for Economic 
+Cooperation and Development. 
+Review our policy  to understand  
+our goals and the steps we take  
+to monitor our supply chain for 
+conflict minerals. 
+Additionally, we participate in 
+various RMI work groups and align 
+our program with the organization’s 
+tracking of additional minerals and 
+materials, and with geographic 
+areas of high concern. We monitor 
+additional legal requirements, 
+including the EU Conflict Minerals 
+Regulations, to determine any 
+future requirements for conflict 
+materials and high-risk regions of 
+the world.PACKAGING, 
+TRANSPORT, 
+AND LOGISTICS
+HOW WE DEFINE IT:  
+Issues related to the packaging 
+and transport of products
+Packaging
+In packaging our products, we strive 
+to maintain a balance of protecting 
+the environment and ensuring 
+that our customers receive their 
+products in excellent condition.
+Every new product we ship  
+provides an opportunity to reduce 
+packing materials and increase  
+the proportion of recyclable 
+materials used. 
+Whether products are packaged 
+for end-users or prepared for bulk 
+shipping, we design our containers 
+to maximize package density and 
+reduce overall package size. 
+For our SHIELD consumer products, 
+we implemented changes in the first 
+36 months of its availability, which 
+resulted in reduced environmental 
+51NVIDIA 2019 CSR REPORT  ENVIRONMENTAL
+impacts. These changes included 
+development of smaller and lighter-
+weight packaging sizes and creating 
+a “core box” system so that primary 
+packaging and shipping carton 
+boxes can be shared among product 
+SkUs. With product protection 
+in mind, wherever plastics are 
+required, we use recyclable  
+HDPE-2 in place of polystyrene 
+PS-6 material.
+Additionally, wherever possible, 
+we have stopped using anti-static 
+foam material and transitioned to 
+recyclable foam material. In FY19, 
+we achieved a 21 percent reduction 
+in total packaging materials used 
+for GeForce and SHIELD products 
+through the consideration of three 
+metrics: total packaging weight, 
+number of packaging components, 
+and dimensional volume of 
+packaging. To further improve our 
+packaging sustainability, a cross-
+functional team of stakeholders 
+now meets weekly. Their top 
+priorities include: removing 
+film lamination, which in most 
+communities renders packaging 
+non-recyclable; switching the 
+brand appearance from black ink 
+to white, which facilitates removal 
+of laminate; and switching tray 
+components from plastics to paper-
+based materials. For automotive systems and our 
+biggest GPUs, such as the DG x-2, 
+which requires shipping in a  
+large cardboard box and protective 
+foam, we aim to have all packaging 
+material that is both recycled  
+and recyclable. 
+We’re also reducing paper use 
+by providing online instructions 
+wherever possible, although some 
+markets still require printed 
+instructions in the box.
+Other efforts to recycle and 
+reduce packaging include using 
+vegetable-oil-based printing inks, 
+using suppliers that leverage 
+distribution centers to minimize 
+the shipping footprint of packing/
+packaging materials, and applying 
+materials labels to 100 percent of 
+our packages to simplify consumer 
+recycling. Whenever possible, we 
+use moisture-barrier bags, trays, 
+and bulk cartons; ship products 
+directly to the retail distributor; and 
+use existing packaging for return 
+merchandise authorization support. 
+Our key packaging suppliers 
+are compliant with NVIDIA’s 
+Environmental Compliance 
+Certification for Forestry 
+Stewardship Council, ROHS, and 
+REACH certifications. Transport and 
+Logistics
+The methods we use to plan, pack, 
+and execute our raw material, 
+work-in-progress, and finished-
+goods shipments have an effect 
+on our carbon footprint. Fuel 
+represents a major component of 
+our overall freight costs, and our 
+continuous focus on optimizing our 
+supply chain and reducing freight 
+expenditures has resulted in cost 
+savings and a positive impact on 
+the environment. The efforts we’ve 
+made to optimize logistics include: 
+ >Efficiently configuring packing to 
+reduce the number of pickups  
+and deliveries; 
+ >Ensuring that subcontractor 
+cartons and pallets are fully 
+packed and efficiently unitized; 
+ >Using lightweight paper  
+or cardboard pallets,  
+whenever feasible, to reduce 
+shipment weights; 
+ >Using a multimodal (ocean/truck) 
+replenishment program within 
+the U.S. and for retail distribution 
+outside the U.S. 
+ >Requiring suppliers to  
+report their participation in 
+environmental initiatives on  
+a quarterly basis; and
+ >Using reverse logistics  
+solutions that use onsite or 
+regional failure verification 
+and repair to streamline 
+product returns and eliminate 
+international shipments. 
+We gather data from shipping 
+partners related to the carbon 
+emissions of our shipments from 
+air, land, and sea. Our goal is to 
+determine the appropriate metric  
+by which to target reductions.In FY19, NVIDIA 
+achieved a 21 
+percent reduction 
+in total packaging 
+materials used 
+for GeForce  
+and SHIELD52GOALS  AND  PERFORMANCE
+NVIDIA 2019 CSR REPORT 08
+OPERATIONAL EFFICIENCY AND EXCELLENCE PROGRESS COMMENTS
+Maintain “Full” member status in the RBA. 100% Achieved
+Expand quarterly business review process to include strategic 
+mechanical, component, and packaging suppliers.100% Achieved
+Work with suppliers deemed high risk to improve their RBA 
+risk performance status.20% Work is ongoing  to improve 
+supplier VAP scores deemed high 
+or moderate risk.
+Achieve 100 percent RMAP-compliant tantalum, tin, tungsten, 
+and gold processing facilities.94% This calculation is based on the 
+percentage of the processing 
+facilities in our supply chain that 
+are compliant, as determined 
+by the Responsible Minerals 
+Assurance Process (RMAP).
+Pass updated ISO 14001 specification, which includes a 
+focus on integration of electronics manufacturing services 
+into business processes and considerations of the life-cycle 
+perspective.100% Achieved
+Rank all active suppliers for their compliance with the RBA 
+Code of Conduct, leveraging our RBA membership and using 
+the RBA-Online platform.90% We continue to evaluate  
+high-spend suppliers and 
+“preferred” suppliers.
+Monitor disclosure demand for additional conflict minerals  
+and materials.100% We’re aligned with RMI process.
+Complete indirect supplier diversity analysis. 100% Achieved.
+Evaluate clean energy options in data centers and India offices. 50% We secured clean power at  
+several data centers and are 
+finalizing contracts at our new 
+Bangalore and Munich office 
+locations. We are including 
+clean energy considerations 
+when siting new data centers. 
+We are evaluating solar for our 
+Hyderabad, India, office.
+Implement ISO 50001 Energy Management System. 40% We are making progress 
+at integrating ISO 50001 
+requirements into our program.
+Conduct climate and water risk assessment. 100% We completed a qualitative 
+assessment of climate  
+and water risk.  Quantitative 
+analysis for certain risks is  
+under consideration.FY19 GOALS AND PERFORMANCE53NVIDIA 2019 CSR REPORT  GOALS  AND  PERFORMANCE
+Complete gap analysis against the ISO18001 Health and Safety 
+Management System standard.10% This gap analysis began in FY19 
+and is planned for completion  
+in FY20.
+RECRUITMENT AND RETENTION PROGRESS COMMENTS
+Roll out second phase of unconscious bias programming, 
+which includes implementing bias mitigation techniques into 
+team dynamics activities.50% Evaluated several vendors and 
+approaches but decided to instead 
+evaluate our internal resources of 
+team effectiveness, development, 
+and promotion tools to identify 
+how to incorporate bias-mitigating 
+tactics into these programs 
+instead. Will begin to roll out  
+in FY20. 
+Examine learning and development courses that cover meeting 
+execution and collaboration to determine how to integrate 
+bias-mitigating tactics.50% See directly above. 
+Hire a diversity recruiter to increase the number of women and 
+underrepresented minorities in the recruiting pipeline.80% We’ve assigned recruiters to 
+shepherd candidates met at key 
+diversity recruiting events (such as 
+Grace Hopper) and ensure those 
+resumes are guided through the 
+hiring process. 
+Track diverse hires through the recruiting funnel. 100% We developed a tracking 
+mechanism for women, African-
+American and Hispanic recruits. 
+We pinpointed the phases in the 
+funnel at which these candidates 
+fall off or excel compared to 
+candidates as a whole and are 
+evaluating methods for improving 
+the process where needed. 
+Conduct an annual learning and development needs analysis 
+with our NVIDIA Communities (formerly called employee 
+resource groups).100% We identified as top themes: 
+professional development 
+(influencing, presentation  
+skills, career development), 
+technical training (NVIDIA-specific 
+trainings, programming languages 
+and machine learning), and 
+manager training. 
+Hold an event on our main campus to create awareness for 
+NVIDIA Communities, and launch new websites for them.100% We hosted this event last fall 
+and several hundred employees 
+participated to learn more about 
+our five Communities.FY19 GOALS AND PERFORMANCE  (cont.)
+OPERATIONAL EFFICIENCY AND EXCELLENCE PROGRESS COMMENTS54NVIDIA 2019 CSR REPORT  GOALS  AND  PERFORMANCE
+FY19 GOALS AND PERFORMANCE  (cont.)
+RISKS AND REPUTATION PROGRESS COMMENTS
+Board of Directors to commence oversight of corporate social 
+responsibility.100% We began briefing the Nominating 
+and Corporate Governance 
+Committee in May 2018 and also 
+provided Diversity and Inclusion 
+overview in February 2019.
+Develop training materials for our new Code of Conduct.  95% Training materials have been 
+created and will be rolled out 
+during FY20.
+Update anti-bribery and create anti-trust policies. 60% Anti-bribery policy update is in 
+process and anti-trust policy is 
+being finalized for roll out  
+during FY20.
+Prepare for General Data Protection Regulation compliance. 100% We executed on our GDPR plan, 
+including adoption of a worldwide 
+privacy policy, implementation 
+of online privacy center to allow 
+users to exercise their data subject 
+rights, and participation in the 
+Privacy Shield.  As part of the 
+GDPR plan, we also created and 
+rolled out training materials  
+to all employees.
+Broaden the scope of our public relations coverage to promote 
+our AI leadership.100% We’ve been covered in several 
+articles  and recognized as an AI 
+leader in various publications. 
+Better understand our responsibility to address social issues 
+related to AI, such as bias and workforce impact.100% We participated in Partnership for 
+AI in FY19. 
+Raise our profile in Washington, D.C., with regard to 
+autonomous driving and AI research.100% See Public Policy Engagement  for 
+activities undertaken in FY19. 
+Launch a video series focusing on the people behind our CSR. 100% The series highlighted societal 
+issues in AI, self-driving cars, 
+healthcare, and robotics. 
+Maintain inclusion on key workplace and CSR lists. 100% See Transparency  section for a list 
+of ratings and rankings in which we 
+are included. 55NVIDIA 2019 CSR REPORT  GOALS  AND  PERFORMANCE
+OPERATIONAL EFFICIENCY AND EXCELLENCE
+Maintain Full member status in the RBA.
+Implement method to track, allocate and report NVIDIA scope 3 manufacturing GHG emissions from global 
+supply chain to customers.  
+Achieve 100 percent RMAP-compliant tantalum, tin, tungsten, and gold processing facilities.
+Rank all active suppliers for their compliance with the RBA Code of Conduct, leveraging our RBA membership 
+and using the RBA-Online platform.
+Work with suppliers deemed high risk to improve their RBA risk performance status.
+Develop a product packaging environmental specification.
+Third party auditor to complete an ISO 50001 Energy Management System gap analysis.
+Continue tracking for LEED Gold points for planned second new Silicon Valley campus building.
+RECRUITMENT AND RETENTION
+Leverage existing and evaluate potential new training and tools that focus on supporting managers to  
+identify and mitigate bias in areas including career growth, cultural sensitivity, communications style, and 
+management development.
+Provide sponsorship of underrepresented groups in technology through partnerships with Black in AI and Latinx 
+in AI.  Offer conference fees and travel for attendance to our GPU Technology Conference, host networking event 
+at the event for these groups. Sponsor Black in AI at NeurIPS conference.
+RISKS AND REPUTATION
+Provide overviews to NVIDIA Board of Directors on Diversity and Inclusion and Societal Impacts of AI.
+Review all strategic suppliers for cybersecurity and intellectual property alignment to NVIDIA standards.FY20 GOALS56NVIDIA 2019 CSR REPORT  GOALS  AND  PERFORMANCE
+ECONOMIC PERFORMANCE
+FY19 FY18 FY17
+Revenue $11,716 $9,714 $6,910 
+Total operating expenses $3,367 $2,612 $2,129 
+Net income $4,141 $3,047 $1,666 
+Gross margin 61.20% 59.90% 58.80%
+Income tax expense (benefit) ($245) $149 $239 
+Total assets $13,292 $11,241 $9,841 
+Total shareholders’ equity $9,342 $7,471 $5,762 
+Total liabilities and shareholders’ equity $13,292 $11,241 $9,841 
+Revenue by country/region See chart See chart See chart
+R&D expenses $2,376 $1,797 $1,463 
+Dollars represented in millions
+Revenue by Region
+Taiwan  
+29%China  
+24%
+Other Asia Pacific  
+20%United States  
+13%
+Europe  
+8%Other Americas  
+6%Taiwan  
+31%China  
+20%
+Other Asia Pacific  
+21%United States  
+13%
+Europe  
+8%Other Americas  
+7%Taiwan  
+37%China  
+19%
+Other Asia Pacific  
+15%United States  
+13%
+Europe  
+9%Other Americas  
+7%$11.72B
+FY 2019$9.71B
+FY 2018$6.91B
+FY 201757NVIDIA 2019 CSR REPORT  GOALS  AND  PERFORMANCE
+DIVERSITY AND 
+WORKFORCE 
+PERFORMANCE
+Roughly 79 percent of our 
+employees work in technical 
+fields that are historically 
+male-dominated. We seek to 
+address gender imbalances in 
+the technology and engineering 
+fields through programs aimed at 
+increasing the number of women 
+and minorities in these fields. 
+In FY19 we saw growth in our 
+female and underrepresented 
+groups, compared to traditional 
+technical populations. 
+Learn more about our approach to 
+Diversity and Inclusion .Racial / Ethnic Diversity Snapshot*
+FY19 FY18 FY17
+Asian/Indian 50.20% 50.10% 51.00%
+White 38.70% 41.10% 42.90%
+Hispanic/Latino 3.30% 3.30% 3.40%
+Black/African American 1.00% 1.00% 1.10%
+Native Hawaiian/Pacific Islander 0.30% 0.30% 0.30%
+American Indian/Alaska Native 0.10% 0.08% 0.13%
+Two or more races 0.70% 0.54% 0.32%
+Decline to state/not specified 5.70% 3.60% 0.89%
+TOTAL 100% 100% 100%
+* Minority data represents the United States only.
+Gender Data
+Men  
+80.9
+Women  
+18.9%
+Not Declared  
+0.21%Men  
+81.4%
+Women  
+18.6%%
+Not Declared  
+0%Men  
+81.5%
+Women  
+18.4%
+Not Declared  
+0.10%FY19
+POPULATIONFY18
+POPULATIONFY17
+POPULATION58
+NVIDIA 2019 CSR REPORT  GOALS  AND  PERFORMANCE
+Gender Turnover
+The turnover rate for women was slightly lower in FY19 compared to men, 5.6% to 5.7% respectively.  
+These ranges have remained similar for the past several years.POSITIONS HELD BY WOMEN FY19 FY18 FY17
+Outside directors 18.0% 20.0% 18.2%
+Executive officers 40.0% 40.0% 40.0%
+Leaders 11.0% 8.5% 11.8%
+Managers 16.5% 16.1% 15.9%
+In technical roles 13.7% 13.3% 12.9%
+In global workforce 18.9% 18.6% 18.4%
+New hires, % globally 20.4% 19.2% 23.7%
+New hires, number globally 501 353 410Positions Held By Women
+Age Data
+20-30 Years  
+23.4%
+31-50 Years  
+62.5%
+50+ Years  
+14.1%20-30 Years  
+23.5%
+31-50 Years  
+62.7%
+50+ Years  
+13.8%20-30 Years  
+24.6%
+31-50 Years  
+62.0%
+50+ Years  
+13.4%FY19
+POPULATIONFY18
+POPULATIONFY17
+POPULATIONFY19 FY18 FY17
+Female 5.6% 5.4% 6.7%
+Male 5.7% 5.3% 6.3%59
+NVIDIA 2019 CSR REPORT  GOALS  AND  PERFORMANCE
+Promotions
+In FY19, we promoted 11.6 percent 
+of our workforce. Of the 1,546 
+promotions, women comprised 286 
+(18.5 percent, which is roughly the 
+total percentage in the company). 
+In the U.S., 507 of U.S. promotions 
+were given to members of minority 
+groups. Women continue to be 
+promoted at an equal rate to men, 
+11.3 percent v 11.7 percent in FY19.FY19 FY18 FY17
+Overall Turnover 5.6% 5.6% 6.7%
+Voluntary Turnover 5.4% 5.1% 5.8%
+WORKFORCE PERFORMANCE
+Our workforce metrics, combined with employee survey data, help us determine how we can improve in specific areas 
+throughout our enterprise.
+We gather information for this report at the end of the fiscal year, and the data points in the accompanying charts 
+reflect a snapshot of our employee base at that time. 
+FY19 FY18 FY17
+Employees 13,277 11,528 10,299
+Offices 57 48 42
+Countries 22 21 20Employee ProfileTurnover
+Even though the high-tech industry is extremely competitive, NVIDIA’s 
+turnover remained at 5.6 percent in FY19, compared with the semiconductor 
+industry average of 16.9 percent. Our voluntary turnover rate is 5.4 percent, 
+well below the semiconductor industry average of 11 percent.
+COUNT OF ALL EMPLOYEE TYPES
+Region FULL TIME PART TIMECONTRAC -
+TORS INTERNS
+Americas 7,267 3 1,341 160
+APAC 2,484 - 380 89
+India 2,517 - 1,879 108
+EMEA 978 28 89 23
+Total Count 13,246 31 3,689 380Headcount by Type60
+NVIDIA 2019 CSR REPORT  GOALS  AND  PERFORMANCE
+New Hires by RegionNew Hires by Age Group New Hires by Gender
+2,456
+TOTAL HIRES1,844
+TOTAL HIRES20-30 Years  
+1,901 (44.4%)
+31-50 Years  
+1,190 (48.5%)
+50+ Years  
+175 (7.1%)
+Americas  
+1,356 (55.21%)
+APAC  
+408 (16.61%)
+India  
+445 (18.12%)
+EMEA  
+247 (10.06%)Male  
+1932 (78.7%)
+Female  
+501 (20.4%)
+Not Declared  
+23 (0.94%)
+2,456
+TOTAL HIRESEmployee Type by Level
+Executive
+24
+(0.2%)Management
+2,319
+(17.5%)Regular Employee
+10,934
+(82.4%)Total
+13,27761NVIDIA 2019 CSR REPORT  GOALS  AND  PERFORMANCE
+SUPPLY CHAIN PERFORMANCE
+FY19 RBA Member Compliance
+COMPLIANCE ELEMENTNVIDIA’S 
+REQUIREMENT NVIDIA PERFORMANCE
+Risk assessment on all  
+strategic suppliers100% 100%
+Self-assessment questionnaires 
+(SAQ) completed by suppliers in 
+the top 80% of NVIDIA spending100% 100%
+Based on RBA requirements, NVIDIA’s SAQ review 
+determined there were no suppliers rated as high risk in 
+our top spend.
+Validated audit process (VAP) 
+among 25% of high-risk suppliers0 (due to lack of high-
+risk suppliers from 
+SAQ)We audit suppliers even if their SAQ score comes back as 
+low risk.
+We require VAP audits to validate supplier SAQs.  
+Through this process one strategic* supplier came  
+back as high risk.
+In FY19, we reviewed VAP audits of 50% of strategic  
+suppliers. The total percentage of strategic suppliers 
+audited in the last two years is 60%. 
+In FY19, we reviewed an additional 19 VAP audits from 
+high-spend suppliers (spend > $1 million).  
+*Strategic suppliers include those who produce or handle NVIDIA 
+production material, non-critical suppliers for whom we closely 
+manage quality requirements, suppliers who design our branded 
+products, and those we are required to work with based on customer 
+agreements.
+Corrective action plans (CAP) 0 (due to lack of high-
+risk suppliers)We engaged six suppliers on their CAPs from the FY18-19 
+auditing season. Common findings include working hours, 
+social insurance, and fire protection.
+We’ll continue monitoring to ensure that suppliers 
+demonstrate effective processes to close these findings 
+and ensure compliance.62NVIDIA 2019 CSR REPORT  GOALS  AND  PERFORMANCE
+FY19 RBA Member Compliance
+RBA CODE ELEMENTNVIDIA AS 
+SUPPLIER NVIDIA AS CUSTOMER
+Labor Updated NVIDIA’s 
+Code of Conduct to 
+strengthen human 
+rights language.
+Relevant NVIDIA 
+employees took 
+several RBA Learning 
+Academy courses.
+Participate in the 
+RBA’s Responsible 
+Labor Initiative.We evaluated all contract manufacturers and direct 
+material suppliers on geographic location, manufacturing 
+processes, past SER performance and public reports.
+We tracked supplier working hours through VAP, CAPs, or 
+RBA working-hours templates.
+We worked with suppliers to address and comply with 
+zero hiring fees and freely chosen employment.
+We assigned Learning Academy courses to eight 
+suppliers, including: Hours of Work; Working Hours 
+Recording System; Working Hours Management System; 
+The Hiring Process; Recruitment and Selection; Hiring 
+and Working with Migrant Workers; Wages and Benefits; 
+Creating Motivating Wage Systems; Improving Your 
+Dormitories.
+Health and Safety Conducted an annual 
+tour of all NVIDIA 
+offices to audit health 
+and safety
+Updated 
+environmental,  
+health, safety and 
+energy policyWe closed CAPs covering all health and safety issues.
+We reviewed improvement plans on health and safety as 
+part of OHSAS 18001 for alignment with eight suppliers.
+We assigned Learning Academy courses to eight 
+suppliers: Effective H&S Systems, Fire Safety, Managing 
+Air Emissions.
+Ethics Continued 
+membership in RMI
+Participated in RMI 
+work groups on 
+due-diligence data 
+collection and smelter 
+engagement We engaged 100% of suppliers to collect smelter data for 
+our conflict minerals program.
+We continued evaluation of smelter metrics for the annual 
+SEC conflict minerals reporting requirement.
+We deactivated suppliers non-compliant with product and 
+conflict mineral requirements.
+We assigned Learning Academy courses to eight 
+suppliers: Supply Chain Ethics; Recognizing Forced 
+Labor; Preventing Forced Labor.63NVIDIA 2019 CSR REPORT  GOALS  AND  PERFORMANCE
+Environmental Received a B- score 
+via CDP Supplier 
+Engagement survey.
+Completed RBA  
+online environmental 
+survey on carbon, 
+water, and waste 
+Participated in 
+environmental 
+sustainability  
+work group We calculated carbon, water, waste data of all silicon 
+manufacturers and systems contract manufacturers to 
+determine carbon emissions and water consumption per 
+product and per financial outlay.
+We required compliance with environmental standards 
+(see Manufacturing Compliance sidebar ).
+We reviewed suppliers’ environmental improvement 
+plans for ISO 14001 alignment.
+We assigned Learning Academy courses to eight 
+suppliers: Environmental Protection; Managing Energy 
+and GHG Emissions; Water and Wastewater Management; 
+Resolving Wastewater Treatment Issues; and Managing 
+Waste.
+Management Systems Participated in VAP 
+work group
+Evaluated RBA full 
+membership tier to 
+determine any gaps 
+(accepted in January 
+2018 as full member)We conducted quarterly business reviews of suppliers.
+We assessed compliance with updated RBA Code with 
+respect to labor fees and freedom of association.
+We implemented a performance-based award system for 
+strategic suppliers.
+We assigned Learning Academy courses to eight 
+suppliers: Understanding Supply Chain Responsibility; 
+Industry Standards; Responsible Supply Chain 
+Management (for Factory Management); Supply Chain 
+CSR Monitoring; and Using k PIs.
+ENVIRONMENTAL PERFORMANCE
+Environmental Policy Mapping
+POLICY TYPE RESPONSE
+Assurance of Scope 1, 2, and 3 global GHG emissions Yes 
+Environmental policy Yes
+Corporate responsibility directive Yes
+Environmental supply chain management directive RBA members
+ISO 14001 certified sites 1 (Silicon Valley, Calif.)
+Emissions reduction initiatives Yes 
+Waste reduction initiatives Yes 
+Water reduction initiatives Yes RBA CODE ELEMENTNVIDIA AS 
+SUPPLIER NVIDIA AS CUSTOMER64NVIDIA 2019 CSR REPORT  GOALS  AND  PERFORMANCE
+Climate change policy See our Environmental, Health, Safety and Energy Policy
+Climate change opportunities discussed Yes; see CDP
+Climate change risks discussed Yes; see CDP
+Number of significant environmental fines 0
+Amount of significant environmental fines $0 
+Environmental Objectives
+CATEGORY GOALTARGET 
+DATE/STATUS FY19 PROGRESS
+Greenhouse 
+Gas Emissions, 
+Offices, and 
+DatacentersA 15% greenhouse gas reduction — 
+normalized per employee — by FY2020 
+from baseline year FY2014 FY20/Ongoing Down 7.2% compared to FY19  
+and down 20.3% compared to  
+FY14 baseline
+Waste A waste-to-landfill diversion rate of 80% 
+or greater each year at our Silicon Valley 
+headquartersAnnual/Ongoing 90% (calendar year 2018)
+New 
+Headquarters 
+BuildingsLEED Gold certification for our Silicon 
+Valley headquarters buildingsFY20/Ongoing LEED Gold certification achieved  
+for first building. Currently on 
+track for Gold status with  
+second building.
+Consumer 
+Product 
+Packaging15% reduction in total materials used 
+compared to previous generationFY19/Complete 21% reduction in packaging for 
+GeForce and SHIELD products 
+Product 
+Efficiency30% improved power efficiency in idle 
+state (as defined by Energy Star) for next 
+generation of GPUs for data centers, 
+desktops, and notebooks FY19/Complete Achieved
+Greenhouse Gas Data
+METRIC FY19 FY18 FY17 FY16 FY15a
+GHG Scope 1, total global (tCO2e) 2,671 2,370 2,571 2,419 3,339
+Stationary natural gas 2,379 2,267 2,313 2,316 2,483
+Stationary distillate fuel oil 54 43 78 71 205
+Gasoline 119 44 42 16 14
+Refrigerants 118 16 139 16 63765NVIDIA 2019 CSR REPORT  GOALS  AND  PERFORMANCE
+Perfluorocarbons (PFCs)  
+(Santa Clara headquarters  
+lab operations)<1 kg <1 kg Not tracked Not tracked Not tracked
+GHG Scope 2, total global (tCO2e), 
+market-based a 59,855 56,903 47,142 43,889 48,519
+Purchased and used electricity 59,035 56,460 46,721 43,487 48,117
+Purchased heating/cooling 820 443 421 402 402
+Total GHG emissions (Scope 1 and 
+2 total – tCO2e) a 62,525 59,273 49,713 46,308 51,858
+Normalized GHG emissions  
+per employee (Scope 1 and 2  
+total/headcount)3.60 3.88 4.01 4.26 4.81
+% change in normalized GHG 
+emissions per employee, 
+compared to FY14-20% -14% -11% -6% 6%
+GHG Scope 2, total global (tCO2e)a, 
+location-based64,940 50,863 51,224 48,774 49,662
+GHG Scope 3 (tCO2e) 427,730 326,648 277,014 237,579 117,762
+Purchased goods and services 
+(indirect procurement)254,071 190,734 150,741 159,976 42,791
+Capital goods 49,964 50,463 78,076 31,748 30,829
+Fuel- and energy-related 
+activities not included in  
+Scope 1 and 224,146 21,613 20,246 19,055 20,623
+Upstream transportation  
+and distribution d 38,352 28,590 Not tracked Not tracked Not tracked
+Waste generated in operations b991 405 240 839 184
+Business travel 51,525 31,360 25,064 23,285 20,083
+Upstream Leased Assets 8,681 3,483 2,647 2,676 3,252
+Scope 1 carbon dioxide emissions 
+(metric tons)2,547 2,349 2,427 2,398 2,695
+Scope 1 nitrous oxide emissions 
+(metric tons)2 2 2 2 2Greenhouse Gas Data (cont.)
+METRIC FY19 FY18 FY17 FY16 FY15a66NVIDIA 2019 CSR REPORT  GOALS  AND  PERFORMANCE
+Scope 1 methane emissions 
+(metric tons)4 3 4 3 4
+Sulfur dioxide emissions  
+(metric tons) h 0 0.08 0.14 0.12 0.36
+VOC emissions (metric tons) h0.24 0.17 0.16 0.15 0.43
+Carbon monoxide emissions 
+(metric tons) h 0.31 0.25 0.44 0.41 1.17
+ODS emissions from HCFCs 
+(metric tons R-11e) h 0.006 0.003 0.01 0.004 0.009
+Particulate emissions  
+(metric tons) h 0.10 0.08 0.14 0.13 0.38
+Energy, Waste, and Watera
+METRIC FY19 FY18 FY17 FY16 FY15
+Energy used (global) (MWh) 197,923 154,024 138,888 130,620 131,038
+Energy per headcount (global) (MWh/employee) 11.41 10.09 11.20 12.01 12.15
+Non-renewable fuels purchased and consumed (MWh) 13,614 12,894 13,270 13,217 14,652
+Non-renewable electricity purchased (MWh) 95,036 88,905 89,964 84,419 76,180
+Steam/heating/cooling and other energy  
+(non-renewable) purchased (MWh)253 196 185 141 131
+Total renewable energy purchased or generated for 
+own consumption (MWh) e 89,020 52,029 35,470 32,844 40,075
+Renewable electricity as percentage of total electricity e48% 37% 29% 36% 24%
+Total power generated, onsite solar (MWh) 772 719 0 0 0
+Water withdrawal, global (cubic meters) 320,013 265,030 213,625 196,309 260,054
+Surface water 0 0 0 0 0
+Groundwater 32,208 20,264 13,535 24,364 5,199
+Rainwater collected directly & stored 0 0 0 0 0Greenhouse Gas Data (cont.)
+METRIC FY19 FY18 FY17 FY16 FY15a67NVIDIA 2019 CSR REPORT  GOALS  AND  PERFORMANCE
+Wastewater from another organization 47,737 13,796 0 0 0
+Municipal water supplies or other public/private  
+water utilities240,068 230,970 200,090 171,945 254,855
+Percent of water (internally) recycled 0 0 0 0 0
+Water consumption, global (cubic meters) f95,969 61,169  39,506 29,127 57,193
+Water discharge, global (cubic meters) 224,044 203,860 174,119 167,182 202,861
+Total waste, corporate headquarters (metric tons) g18,344 c2,670 2,987 15,626 c1,242
+Total waste recycled/composted (metric tons) 16,554 c1,973 2,260 14,790 976
+Landfill diversion rate 90% 74% 76% 95% 79%
+General waste recycled 1,288 334 138 105 232
+General waste composted 1,008 874 799 651 594
+Clean paper recycled 29 102 145 70 86
+Batteries recycled 46 2 2 1 1
+Hazardous waste recycled 4 0.4 1 1 1
+Electronic waste recycled 128 59 63 96 62
+Lamps recycled 0.2 0.5 1 1 0.5
+Construction/demolition waste recycled 14,051 c602 1,111 13,866 c0
+Total waste landfilled (metric tons) 1,790 696 726 836 266
+General Waste landfilled 617 474 480 349 266
+Hazardous waste landfilled 0 0 0 0 0
+Construction/demolition waste landfilled 1,174 223 246 487 0
+a Selected historic values have been updated to reflect changes in methodologies or corrections to data. For example, we are now calculating Scope 2 market-based and location-based 
+emissions per the WRI/WBCSD GHG Protocol and have updated prior years’ data to align with the new methodology. 
+b In FY16, we began reporting on Scope 3 GHG emissions for waste generated at corporate headquarters.
+c We accumulated a large amount of demolition debris as part of our project to construct new Silicon Valley headquarters buildings. 88% of this debris was recycled in FY16 and 92% in FY19. 
+d In FY18, we started reporting Scope 3 upstream transportation emissions.
+e In FY18, we started calculating our global renewable energy use, excluding grid and including renewables from generation, utilities and residual mix. Previous years only reflect 
+renewables from local utility in Silicon Valley.
+f Water consumption includes water consumed by landscaping and evaporated in cooling tower for our new headquarters building.
+g Waste data for corporate headquarters is estimated on a calendar year basis. 
+h As of FY18, these metrics have been calculated and reported with historical year values updated. ODS emissions are from HCFCs; sulfur dioxide, carbon monoxide and particulate 
+emissions are from diesel generators. VOCs are from diesel generators and Santa Clara campus lab solvent usage (e.g. wipe cleaning).Energy, Waste, and Watera (cont.)
+METRIC FY19 FY18 FY17 FY16 FY1568NVIDIA 2019 CSR REPORT  GOALS  AND  PERFORMANCE
+Environmental Health and Safety
+Lost-time incident rate 0%
+Total recordable incident rate 0%
+We track, but do not currently publish, the following health and safety metrics for employees and contractors:
+ >Accidents 
+ >Fatalities
+ >Leave of absence requests
+PHILANTHROPY AND VOLUNTEER PERFORMANCE
+FY19 FY18 FY17 
+Percent of NVIDIA offices holding charitable-giving events 73% 65% 90%
+Offices participating in Project Inspire events 15 14 12
+# of Project Inspire events 12 12 10
+Volunteers 4,343 2,937 4,072
+Volunteer rate, total 34% 27% 42%
+Volunteer rate, unique 18% 21% 30%
+Number/value of volunteer hours 13,077/$322,871 9,394/$226,771 17,400/$417,600
+Donations, company cash $2,452,229 $3,043,878 $2,392,044 
+Donations, in-kind $242,868 $292,437 $184,349 
+Donations, employee $602,481 $1,062,493 $389,812 
+Total donations $3,297,578 $4,398,808 $2,966,205 
+Administrative overhead 9% 4% 8%
+GRI INDEX
+We applied the internationally recognized Global Reporting Initiative (GRI) Sustainability Reporting Standards  to 
+produce this FY19 CSR Report. This report has been prepared in accordance with the GRI Standards: Core Option. 
+Per the GRI Standards, we indicate the location of the required “General Disclosures” and each of the “Topic-Standard 
+Disclosures” related to our priority issues (“Management Approach for Material Topics” and selected disclosures). 
+In some cases, we provide a direct response to disclosures or additional information related to content located in the 
+main pages of the report within the index itself.69NVIDIA 2019 CSR REPORT  GOALS  AND  PERFORMANCE
+2019 GRI Content Index
+GRI 102: GENERAL DISCLOSURES 2016*
+DISCLOSURE DESCRIPTION CROSS-REFERENCE OR ANSWER
+Organizational Profile
+102-1 Name of the organization 2019 10-K
+102-2 Activities, brands, products,  
+and services2019 10-K  
+About NVIDIA  
+NVIDIA Products
+102-3 Location of headquarters Santa Clara, California, USA
+102-4 Location of operations Our Locations
+Significant operations in US (California), India and China. 
+Offices in 21 countries. 
+102-5 Ownership and legal form 2019 Proxy Statement  
+102-6 Markets served Our Locations  
+2019 10-K
+102-7 Scale of the organization. Goals and Performance, Economic  
+Goals and Performance, Diversity and Workforce  
+NVIDIA Products
+102-8 Information on employees and 
+other workersGoals and Performance, Diversity and Workforce
+NVIDIA employs several contract employees globally  
+who provide a variety of roles across our operations  
+and administrative functions. Current temporary  
+worker percentage is 21% of total headcount  
+(employees + contractors). 
+102-9 Supply chain Social, Supply Chain Management and Product Quality
+102-10 Significant changes to the 
+organization and its supply chainNone.
+102-11 Precautionary Principle  
+or approachWe do not specifically apply the precautionary principle. A 
+description of the role of the Board in risk oversight is located 
+in the 2019 Proxy Statement.
+2019 Proxy Statement
+102-12 External initiatives Social, Supply Chain Management and Product Quality
+102-13 Membership of associations Social, Supply Chain Management and Product Quality70NVIDIA 2019 CSR REPORT  GOALS  AND  PERFORMANCE
+Strategy
+102-14 Statement from senior  
+decision-makerExecutive Letters, Message from our CEO  
+Executive Letters, Message from our EVP of Operations
+Ethics and Integrity
+102-16 Values, principles, standards, and 
+norms of behavior Governance, Ethical Conduct
+102-17 Mechanisms for advice and 
+concerns about ethicsGovernance, Ethical Conduct
+Governance
+102-18 Governance structure Corporate Governance
+NVIDIA has two committees responsible for decision-making 
+on economic, environmental, and social topics: an executive-
+level committee, and a staff-level committee. NVIDIA’s board-
+level Nominating and Governance Committee oversees CSR. 
+Stakeholder Engagement
+102-40 List of stakeholder groups Stakeholders, Stakeholder Engagement
+102-41 Collective bargaining agreements Employees in the US, Canada, India and APAC regions are not 
+unionized. Employees in Brazil are unionized and make up 
+less than .2% of our total population. Employees in France, 
+Finland, Germany, Italy, and Poland (which make up 3.7% of 
+our total employee population) could participate in unions 
+but NVIDIA is legally not allowed to inquire with them about 
+their involvement. NVIDIA participates in collective bargaining 
+agreements in France, Finland and Italy. Employees in France 
+and Germany have formal representation on work councils.
+102-42 Identifying and  
+selecting stakeholdersStakeholders, Stakeholder Engagement
+102-43 Approach to  
+stakeholder engagementNo engagement undertaken specifically as part of the report.  
+Stakeholders, Stakeholder Engagement
+102-44 key topics and concerns raised Stakeholders, Stakeholder EngagementGRI 102: GENERAL DISCLOSURES 2016* (cont.)
+DISCLOSURE DESCRIPTION CROSS-REFERENCE OR ANSWER71NVIDIA 2019 CSR REPORT  GOALS  AND  PERFORMANCE
+Reporting Practice
+102-45 Entities included in the 
+consolidated financial statements 2019 10-K  
+102-46 Defining report content and  
+topic BoundariesPriorities
+102-47 List of material topics Priorities
+102-48 Restatements of information There were no restatements of information.
+102-49 Changes in reporting There were no significant changes in reporting.
+102-50 Reporting period About this Report
+102-51 Date of most recent report June 2018
+102-52 Reporting cycle About this Report
+102-53 Contact point for questions 
+regarding the reportAbout this Report
+102-54 Claims of reporting in accordance 
+with the GRI StandardsThis report has been prepared in accordance with the GRI 
+Standards: Core option.
+102-55 GRI content index GRI Index
+102-56 External assurance Environment, Greenhouse Gas and Climate Change
+We did not seek external assurance for the report. 
+NVIDIA’s internal audit group reviews elements of our CSR 
+program to ensure it had adequate governance structure. 
+They benchmarked the CSR report against comparable 
+companies, and assessed program ownership, monitoring, 
+and communications. They also evaluated key metrics in the 
+CSR report for accuracy, included those related to community 
+giving, economic, diversity, environmental, packaging, supply 
+chain, and workforce.  We provide limited assurance  for scope 
+1 and 2 greenhouse gas emissions, and scope 3 waste.
+* NVIDIA’s 2019 Sustainability Report applies the 2016 version of the GRI Standards; “2016” refers to the Standards issue date, not the date of information  
+ presented in this report.GRI 102: GENERAL DISCLOSURES 2016* (cont.)
+DISCLOSURE DESCRIPTION CROSS-REFERENCE OR ANSWER72NVIDIA 2019 CSR REPORT  GOALS  AND  PERFORMANCE
+2019 GRI Content Index
+GRI 103: TOPICS AND TOPIC BOUNDARIES 2016*
+MATERIAL 
+TOPICMANAGEMENT APPROACH  
+CROSS-REFERENCERELEVANT  
+ExTERNAL ENTITIES
+Economic
+GRI 201: 
+Economic 
+Performance 
+20162019 10-K  
+2018 CDP Customers  
+Consumers  
+Shareholders  
+Developers  
+Suppliers  
+Government  
+Communities
+GRI 206: Anti-
+competitive 
+BehaviorEconomic, Business Model and Competitiveness Customers  
+Government  
+Shareholders
+Environmental
+GRI 302: Energy 
+2016Environment, Energy  
+Environment, Environmental Impacts of ProductsCustomers  
+Consumers  
+Developers  
+Suppliers
+GRI 308: Supplier 
+Environmental 
+Assessment 2016Environment, Materials Availability  
+Social, Supply Chain Management and Product Quality  
+Goals and Performance, Supply ChainSuppliers
+Social
+GRI 401: 
+Employment 
+2016Social, Talent Strategy  
+Stakeholders, Stakeholder EngagementProspective employees  
+Shareholders
+GRI 404: Training 
+and Education 
+2016Social, Employee Engagement Prospective employees
+GRI 414: 
+Supplier Social 
+Assessment 2016Social, Supply Chain Management and Product Quality  Customers  
+Shareholders  
+Suppliers
+GRI 418: 
+Customer 
+Privacy 2016Economic, Cybersecurity  
+NVIDIA Privacy PolicyCustomers  
+Consumers  
+Shareholders  
+Governments
+* NVIDIA’s 2019 Sustainability Report applies the 2016 version of the GRI Standards; “2016” refers to the Standards issue date, not the date of information  
+ presented in this report.73NVIDIA 2019 CSR REPORT  GOALS  AND  PERFORMANCE
+2019 GRI Content Index
+GRI 200-400 TOPIC-SPECIFIC DISCLOSURES 2016*
+ TOPIC DISCLOSURE DESCRIPTIONCROSS-REFERENCE, OMISSIONS, 
+AND E xPLANATIONS
+Economic
+GRI 201: 
+Economic 
+Performance 
+2016201-1 Direct economic value 
+generated and distributedGoals and Performance, Economic  
+2019 10-K  
+NVIDIA Foundation Report
+201-2 Financial implications and 
+other risks and opportunities 
+due to climate change2018 CDP submission
+201-4 Government financial 
+assistanceWe have funding from the Department 
+of Energy, DARPA and the Department 
+of Defense for GPU-related research. 
+No governments are present in NVIDIA’s 
+shareholder structure.
+Stakeholders, Stakeholder Engagement
+Jensen Huang’s Speech at Unveiling 
+of Energy Department’s Summit 
+Supercomputer
+NVIDIA To Collaborate with DARPA to 
+Develop Systems for Post-Moore’s Law Era
+GRI 206: Anti-
+competitive 
+Behavior 2016206-1 Legal actions for anti-
+competitive behavior, anti-
+trust, and monopoly practicesIn FY19 there were no legal actions for anti-
+competitive behavior, anti-trust, or monopoly 
+practices.
+Environmental
+GRI 302: Energy 
+2016302-1 Energy consumption within 
+the organizationGoals and Performance, Environment
+302-3 Energy intensity Goals and Performance, Environment
+302-4 Reductions in energy 
+consumptionEnergy consumption initiatives implemented 
+during FY19 are projected to deliver total 
+annual electricity savings of 3,492 gigajoules.  
+The projections are derived from engineering 
+estimates. Initiatives include upgrades to 
+high efficiency lighting, HVAC and controls; 
+installation of a high efficiency hybrid chiller 
+and data center equipment tuning to increase 
+efficiency. 
+302-5 Reductions in energy 
+requirements of products  
+and servicesEnvironment, Environmental Impact of 
+Products  
+Goals and Performance, Environment74NVIDIA 2019 CSR REPORT  GOALS  AND  PERFORMANCE
+GRI 303: Water 
+2016**303-1 Water withdrawal by source Goals and Performance, Environment
+GRI 305: 
+Emissions 2016**305-1 Scope 1 GHG emissions Goals and Performance, Environment
+305-2 Scope 2 GHG emissions Goals and Performance, Environment
+305-3 Scope 3 GHG emissions Goals and Performance, Environment
+305-4 GHG emissions intensity Our GHG emissions intensity, ratio is 3.60, 
+compared to 4.52 in our baseline fiscal 2014. 
+The metric chosen to calculate the ratio 
+is our global headcount of employees and 
+contractors = 17,346 in FY19. Scope 1 and 
+scope 2 (62,525 CO2e) are included in the 
+intensity ratio. 
+305-5 Reduction of GHG emissions Environment, Greenhouse Gas and Climate 
+Change  
+Goals and Performance, Environment
+305-6 Emissions of ODS Goals and Performance, Environment
+305-7 NOx, SOx, and other 
+significant air emissionsGoals and Performance, Environment
+GRI 306: 
+Effluents and 
+Waste 2016**306-2 Waste by type and  
+disposal methodGoals and Performance, Environment
+GRI 307: 
+Environmental 
+Compliance 
+2016**307-1 Non-compliance with 
+environmental laws and 
+regulationsTo date, we have not incurred significant 
+expenses related to environmental 
+regulatory compliance matters.
+Goals and Performance, Environment
+GRI 308: Supplier 
+Environmental 
+Assessment 2016308-1 New suppliers screened using 
+environmental criteriaIn 2016 we implemented a process for new 
+suppliers, which includes screening them for 
+environmental and social criteria. 100% of 
+new suppliers were screened in FY19.
+Goals and Performance, Supply ChainGRI 200-400 TOPIC-SPECIFIC DISCLOSURES 2016* (cont.)
+ TOPIC DISCLOSURE DESCRIPTIONCROSS-REFERENCE, OMISSIONS, 
+AND E xPLANATIONS75NVIDIA 2019 CSR REPORT  GOALS  AND  PERFORMANCE
+Social
+GRI 401: 
+Employment 
+2016401-1 New employee hires and 
+employee turnoverGoals and Performance, Diversity and 
+Workforce
+401-2 Full-time benefits not 
+provided  to temporary/part-
+time employeesWe provide employees with a comprehensive 
+benefits package (see NVIDIA benefits for 
+more information). US employees are  
+eligible to enroll in NVIDIA’s health and 
+welfare programs if they are regular, 
+full-time or part-time employees normally 
+scheduled to work 20 hours or more per 
+week and more than 5 months/year. Part-
+time employees working fewer than 20 
+hours/week are not eligible.
+Social, Employee Engagement  
+NVIDIA benefits
+GRI 404: Training 
+and Education 
+2016404-2 Programs for upgrading 
+employee skills and transition 
+assistance programsTransition support is available through 
+the Employee Assistance Program, which 
+is available through COBRA. In some 
+cases, NVIDIA may provide outplacement 
+services. NVIDIA’s Learning & Development 
+organization provides skills building and 
+lifelong learning opportunities.
+Social, Employee Engagement
+404-3 Percentage of employees 
+receiving regular 
+performance and career 
+development reviews100% of employees receive  
+regular performance and career 
+development reviews.
+GRI 405: 
+Diversity 
+and Equal 
+Opportunity 
+2016**405-1 Diversity of governance 
+bodies and employeesGoals and Performance, Diversity and 
+Workforce
+Our board gender/racial diversity is 25%. 
+NEO gender diversity is 40% and NEO gender, 
+racial, and ethnic diversity is 80%.
+GRI 407: 
+Freedom of 
+Association 
+and Collective 
+Bargaining 
+2016**407-1 Operations and suppliers in 
+which the right to freedom 
+of association and collective 
+bargaining might be at riskWe ask our suppliers to submit RBA Self- 
+Assessment Questionnaires on an annual 
+basis, in which they self-report information 
+on freedom of association and collective 
+bargaining. We validate this with critical Tier 
+1 suppliers through the RBA Validated Audit 
+Process protocol.
+NVIDIA’s Code of Conduct  
+Corporate Responsibility Directive  
+RBA Code of ConductGRI 200-400 TOPIC-SPECIFIC DISCLOSURES 2016* (cont.)
+ TOPIC DISCLOSURE DESCRIPTIONCROSS-REFERENCE, OMISSIONS, 
+AND E xPLANATIONS76NVIDIA 2019 CSR REPORT  GOALS  AND  PERFORMANCE
+GRI 408: Child 
+Labor 2016**408-1 Operations and suppliers at 
+significant risk for incidents of 
+child laborWe ask our suppliers to submit RBA Self- 
+Assessment Questionnaires on an annual 
+basis, in which they self-report information 
+on child labor. We validate this with critical 
+tier 1 suppliers through the RBA Validated 
+Audit Process protocol. 
+Goals and Performance, Supply Chain  
+NVIDIA’s Code of Conduct  
+RBA Code of Conduct
+GRI 409: Forced 
+or Compulsory 
+Labor 2016**409-1 Operations and suppliers at 
+significant risk for incidents of 
+forced or compulsory laborWe ask our suppliers to submit RBA Self- 
+Assessment Questionnaires on an annual 
+basis, in which they self-report information 
+on forced or bonded labor. We validate this 
+with critical tier 1 suppliers through the RBA 
+Validated Audit Process protocol.
+Goals and Performance, Supply Chain  
+Combatting Trafficking in Persons Policy  
+RBA Code of Conduct
+GRI 414: 
+Supplier Social 
+Assessment 2016414-1 New suppliers that were 
+screened using social criteria In 2016 we implemented a process for new 
+suppliers, which includes screening them for 
+environmental and social criteria. 100% of 
+new suppliers were screened in FY19.
+Goals and Performance, Supply Chain
+GRI 417: 
+Marketing and 
+Labeling 2016**417-2 Incidents of non-compliance 
+concerning product and 
+service information and 
+labelingWe consider significant incidents of non-
+compliance those that are disclosed in the 
+company’s SEC filings. There were no such 
+incidents in FY19 that fell into this category.
+GRI 418: 
+Customer 
+Privacy 2016418-1 Substantiated complaints 
+concerning breaches of 
+customer privacy and losses 
+of customer dataWe consider significant substantiated 
+complaints those that are disclosed in 
+the company’s SEC filings. There were no 
+substantiated complaints in FY19 that fell 
+into this category.
+GRI 419: 
+Socioeconomic 
+Compliance 
+2016**419-1 Non-compliance with laws 
+and regulations in the social 
+and economic areaWe consider significant fines those that are 
+required to be disclosed in the company’s 
+SEC filings. We were not subject to any 
+significant fines in FY19 for non-compliance 
+with laws and regulations.
+* NVIDIA’s 2019 Sustainability Report applies the 2016 version of the GRI Standards; “2016” refers to the Standards issue date, not the date of information  
+ presented in this report.
+** We have reported additional disclosures not related to material topics.GRI 200-400 TOPIC-SPECIFIC DISCLOSURES 2016* (cont.)
+ TOPIC DISCLOSURE DESCRIPTIONCROSS-REFERENCE, OMISSIONS, 
+AND E xPLANATIONS77
+NVIDIA 2019 CSR REPORTABOUT  THIS REPORT
+The NVIDIA FY19 Corporate Social 
+Responsibility Report covers our 
+economic, social, and environmental 
+performance for the fiscal year, which 
+ended January 27, 2019. This report has 
+been prepared in accordance with the 
+GRI Standards: Core  option. We’ve  
+been reporting through GRI publicly 
+since 2010. 
+Previous sustainability reports:  
+FY18  
+FY17  
+FY16
+We determined the content for this 
+report based on conversations 
+among management and 
+engagement with several 
+stakeholders. No significant 
+changes have occurred during the 
+reporting period with regard to the 
+scope, boundary, or measurement 
+methods applied in this report. Distributing this 
+Report
+We promote the availability of our report 
+through:
+ >Targeted employee 
+communications,  
+including executives
+ >Outreach to stakeholders and 
+reporting organizations with 
+which we have built relationships
+ >Individual outreach to 
+shareholder groups that make 
+inquiries throughout the year
+ >Our social media channels,  
+which reach more than  
+22 million individuals
+We welcome feedback on this report 
+and our performance. Please send 
+comments and suggestions to 
+globalcitizenship@nvidia.com  or to:
+NVIDIA  
+Corporate Responsibility  
+2788 San Tomas Expressway  
+Santa Clara, CA 95051The information contained in this 
+report is accurate as of approximately 
+June 7, 2019 unless a different date is 
+used in this report. The information is 
+subject to change, and NVIDIA will not 
+necessarily disclose such changes. The 
+information may be updated, amended, 
+supplemented, or otherwise altered by 
+subsequent reports or filings by NVIDIA.
+Certain statements included or 
+incorporated by reference in this 
+report, other than statements or 
+characterizations of historical 
+fact, including, but not limited to, 
+statements as to:  our growth; our 
+market opportunities; the performance, 
+impact and benefits of our products 
+and technologies; our strategies; 
+our priorities, goals, and objectives; 
+market trends; future forecasts; and 
+other predictions and estimates are 
+forward-looking statements and are 
+based on our current expectations, 
+estimates, and projections about our 
+industry, and our management’s beliefs 
+and assumptions. We caution readers 
+that these statements are merely 
+predictions and are not guarantees of 
+future results. Actual events may differ 
+materially, perhaps adversely.
+Our Annual Report on Form 10- k, 
+subsequent Quarterly Reports on Form 
+10-Q, Current Reports on Form 8- k, and 
+other filings made with the Securities 
+and Exchange Commission discuss 
+some of the important risk factors that 
+could contribute to differences between 
+projections and outcomes, which 
+could affect our business, operational 
+results, and financial condition. Except 
+as required by law, NVIDIA does not 
+recognize any obligation to revise or 
+update any forward-looking statements.
+© 2019 NVIDIA Corporation. All rights reserved. NVIDIA and the NVIDIA logo are registered trademarks of NVIDIA Corporation in the U.S. and other countries.
