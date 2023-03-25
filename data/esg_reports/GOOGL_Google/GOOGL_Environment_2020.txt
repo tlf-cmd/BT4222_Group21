@@ -1,0 +1,2383 @@
+Environmental 
+Report
+2020Table of contents
+Our approach
+3 EXECUTIVE LETTER: Our third decade of climate action
+6	 Performance 	highlights 	and targets
+11	 Mission 	and	values
+14	 Our	priorities
+Designing efficient data centers
+21 Introduction
+21	 Energy 	efficiency
+24	 Embedding 	circularity
+24 E conomic impact
+25 C arbon-neutral cloud
+28 SPOTLIGHT: Developing 	a	carbon-intelligent 	computing 	platform
+Advancing carbon-free energy
+30 Introduction
+30	 Our	energy	journey
+36	 Investing 	in	renewable 	energy
+37 Our carbon footprint
+42 SPOTLIGHT: Boosting 	the	value	of	wind energy
+Creating sustainable workplaces
+44 Introduction
+44	 Healthy 	ecosystems
+46	 Green 	buildings
+48	 Office 	op erations
+52 SPOTLIGHT: Designing 	a	net-zero 	carbon workplace
+Building better devices and services
+54 Introduction
+55	 Consumer 	hardware 	devices
+56	 Circular 	materials
+58	 Energy 	savings
+59	 Partnerships
+62 SPOTLIGHT: Making	energy	savings	easy	with	Nest
+Empowering users with technology
+64 Introduction
+64	 Mapping 	our	world
+68	 AI	f or 	 social 	 good
+70	 Tools 	f or 	 everyone
+72 SPOTLIGHT: Expanding 	climate	insights 	Down	Und er
+Appendix
+74	 Environmental 	data
+77	 About 	G oogle
+78	 Endnotes	
+1
+Google Environmental Report 2020Our approach
+2
+Google Environmental Report 2020Executive 	letter
+Our third decade of  
+climate action
+Sustainability is one of our core values at Google, and we have been a leader 
+on climate change since the company’s founding over 20 years ago. These are some of our key achievements to date:
+In 2007,	we	became 	the	fir st 	 major 	 company 	 to 	 become 	 carbon 	 neutral, 	 
+and	in	2019,	we	achieved 	13	consecutive 	years	of	carbon	neutrality.
+In 2017,	we	became 	the	fir st 	 major 	 company 	 to 	 match 	 100% 	 of 	 our 	 annual	
+electricity 	use	with	renewable 	energy,	which	we’ve	done	f or 	 three 	 consecutive 	
+years.	W e 	 are 	 the 	 world’s 	 largest 	 annual 	 corporate 	 purchaser 	 of 	 renewable 	 energy.
+In 2020,	we	neutralized 	our	legacy	carbon	f ootprint 	 since 	 our 	f ounding, 	 
+making	G oogle 	 the 	fir st 	 major 	 company 	 to 	 be 	 carbon 	 neutral 	f or 	 its 	 entire	
+operating 	history.
+In 2020,	we	issued	$5.75	billion	in	sustainability 	bonds,	the	largest	sustainability 	
+or	green	bond	issuance 	by	any	company 	in	history,	to	f und 	 ongoing 	 and 	 new 	
+environmentally 	or	socially	responsible 	projects.
+We know there is much more to be done, so we challenged ourselves  
+to set bolder goals. That’s why, in September 2020, we were proud to launch our third decade of climate action with a new set of audacious commitments 
+(see Figure 1).
+Our planet, as seen via Google Earth 
+©2020 Landsat / Copernicus
+3
+Google Environmental Report 2020 Our approachBy	2030,	we	aim	to:
+Become 	the	fir st 	 major 	 company 	 to 	 operate 	 on 	 carbon-free 	 energy 	 24 	 hours 	 a 	 day,	
+seven	d ays 	a 	w eek, 	365 	d ays 	a 	y ear. 	This 	will 	me an 	e very 	em ail 	s ent 	t hrough 	Gm ail,	
+every	question 	asked	to	G oogle 	Se arch, 	 every 	Y ouTube 	 video 	 watched, 	 every 	 route	 
+taken	using	G oogle 	 Maps, 	 and 	 every 	 workload 	 run 	 on 	G oogle 	C loud 	 will 	 be 	 powered 	
+by	data	centers	that	are	supplied 	by	clean	energy	every	hour	of	every	day.
+Enable	5	gigawatts 	of	new	carbon-free 	energy	across	our	key	manufacturing 	
+regions	through 	investment. 	W e 	 expect 	 this 	 to 	 spur 	 more 	 than 	 $5 	 billion 	 in 	 clean	
+energy	investments, 	avoid	emissions 	equivalent 	to	taking	more	than	1	million	
+cars	off	the	road	each	year,	and	create	more	than	8,000	clean	energy	jobs.
+Help	more	than	500	cities	and	local	governments 	reduce	an	aggregate 	of	1	gigaton	 
+of	carbon	emissions 	annually—equivalent 	to	the	annual	emissions 	of	Japan	
+(home	to	126	million	people).
+And, because being helpful to our users is at the heart of everything we 
+do, we set a near-term goal to offer 1 billion people new ways to live more 
+sustainably via our core products by 2022.
+To build a carbon-free future for everyone requires each of us playing our 
+part—and that’s how we are approaching our work. We are focusing on our own  
+operations as well as how we can support our partners and consumers globally  
+to make more sustainable choices and drive more sustainable outcomes. 
+As a data-driven company, we believe it is critical to regularly track 
+progress toward our commitments and share updates with our stakeholders. For example, we began calculating our annual carbon footprint in 2006,  
+and every year since 2009, we’ve publicly reported the results to CDP.  
+We’re proud that for seven consecutive years we’ve earned a spot on  
+CDP’s Climate Change A List, which recognizes top reporting companies.Figure	1	
+GOOGLE’S 	THIRD 	 DECADE 	OF 	CLIMA TE 	A CTION
+24/7 carbon-free energy
+Become the first major company  
+to operate on carbon-free energy  
+24 hours a day, seven days a week,  
+365 days a year.500 cities
+Help more than 500 cities  
+and local governments reduce  
+an aggregate of 1 gigaton of  
+carbon emissions annually.5 gigawatts
+Enable 5 gigawatts of new  
+carbon-free energy across our  
+key manufacturing regions  
+through investment.We’re helping build a carbon-free future for everyone
+By	2030,	we	aim	to:
+4
+Google Environmental Report 2020 Our approachIn our 2020 Environmental Report, which covers progress in our 2019 fiscal 
+year as well as some notable achievements from 2020, we are pleased to 
+share how we are driving positive environmental impact throughout our value 
+chain in five key ways:
+Designing 	efficient 	data	centers: 	W e’ve	worked 	 to 	 make 	 our	
+cloud	the	cleanest 	in	the	industry 	and	our	data	centers	some	
+of	the	most	efficient 	in	the	world	by	designing, 	building, 	and	
+operating 	each	one	to	maximize 	efficient 	use	of	energy,	water,	
+and	materials.
+Advancing 	carbon-free 	energy:	W e’re	purchasing 	 renewable 	
+energy	f or 	 our 	 operations 	 and 	 helping 	 to 	 drive 	 wide-scale 	
+adoption 	of	clean	energy	through 	investments, 	such	as	in	 
+our	manufacturing 	regions.
+Creating 	sustainable 	workplaces: 	W e’re	striving 	 to 	 enable	 
+healthy	spaces	and	places	by	addressing 	the	carbon	impacts 	
+associated 	with	our	offices,	advancing 	circularity, 	and	 
+cultivating 	healthy	indoor	and	outdoor 	environments.
+Building 	better	devices 	and	services: 	W e’re	designing 	 our	 
+devices 	to	maximize 	recycled 	content 	wherever 	possible, 	
+neutralizing 	carbon	emissions 	fr om 	 shipping 	 Made 	 by 	G oogle 	
+hardware 	products 	to	and	fr om 	 our 	 direct 	 customers, 	 and	
+helping	consumers 	save	energy	in	their	homes.
+Empowering 	users	with	technology: 	W e’re	de veloping 	
+technologies 	to	help	measure 	and	monitor 	the	planet	in	real	 
+time,	using	artificial 	intelligence 	to	address 	environmental 	
+challenges, 	and	building 	tools	that	empower 	individuals 	to	
+reduce	their	personal 	environmental 	impact.
+To learn more about how we’re collaborating with stakeholders across our 
+supply chain to minimize our environmental impact and improve the lives of 
+people who make our products, see our 2020 Supplier Responsibility Report. 
+For more information about our overall corporate responsibility initiatives, 
+see our Sustainability  and Commitments websites.
+We believe that every business has the opportunity and obligation to 
+protect our planet. At Google, we remain steadfast in our commitment to 
+sustainability, and we’ll continue to lead and encourage others to join us in 
+improving the health of our planet. We’re proud of what we’ve achieved in our first two decades, and as we embark on our next decade of climate action, we’re energized to help move the world closer to a carbon-free future for all.
+Ruth	P orat
+Senior Vice President and  
+Chief Financial OfficerUrs	Hölzle
+Senior Vice President of  Technical Infrastructure
+5
+Google Environmental Report 2020 Our approachPerformance highlights 
+and targets
+The following section provides a snapshot of our performance as 
+of the end of 2019 and our targets going forward—demonstrating how we’re strengthening our business by reducing the environmental impact 
+of our operations and working to empower people everywhere to live 
+more sustainably. 
+For a more complete overview of our performance over time, see the 
+environmental data table in the appendix.
+2019	PERFORMANCE 	HIGHLIGHTS
+DESIGNING 	EFFICIENT 	DATA	CENTERS
+Energy Waste
+2x 
+as	energy	efficient7x 
+as	much	computing 	power1.1 0
+average 	annual	PUE90% 
+of	waste	diverted
+On average, a Google data center 
+is twice as energy efficient as a typical enterprise data center. 
+Page	22Compared with five years ago, we now deliver around seven times as much computing power with the same amount of electrical power.
+Page	22In 2019, the average annual PUE for our global fleet of data centers reached a new record low of 1.10, compared with the industry average of 1.67—meaning that Google data centers use about  six times less overhead energy. 
+Page	22In 2019, we diverted 90% of waste from our global data center operations away from landfills. 
+Page	24
+Waste	(continued) GHG	emissions
+19% 
+of	components 	refurbished9.9 million 
+components 	resold98% 
+emissions 	reduction0 
+net	carbon	emissions
+In 2019, 19% of components used for server upgrades were refurbished inventory. 
+Page	24In 2019, we wiped clean and resold nearly 9.9 million components into the secondary market for reuse  
+by other organizations. 
+Page	24A business using Gmail can reduce the GHG emissions impact of its email service by up to 98% compared with running email  
+on on-premises servers. 
+Page	26Whether someone is using  Google at home or as part of  an organization running Google Cloud or Google Workspace,  all products in our Cloud are  carbon neutral. 
+Page	26
+6
+Google Environmental Report 2020 Our approachADVANCING 	CARBON-FREE 	ENERGY
+Energy
+5.5	GW 
+of	renewable 	energy100 % 
+renewable 	energy40	milli on	MWh 	 
+of	renewable 	energy$2.7  billion  
+in	investment 	commitments
+From 2010 to 2019, we signed 
+52 agreements totaling nearly 
+5.5 GW of renewable energy, 
+representing a commitment  
+of approximately $4 billion 
+through 2034.  
+Page	30In 2019, we matched 100% of  
+the electricity consumption  
+of our operations with renewable 
+energy purchases for the third 
+consecutive year.
+Page	30Google is the world’s largest  
+annual corporate purchaser  
+of renewable energy, based on 
+renewable electricity purchased in 
+MWh. As of the end of 2019, we’d purchased a total of more than 40 million MWh of renewable energy 
+through PPAs, via on-site generation,  
+and from the electric grids where  
+our facilities are located.
+Page	3 1From 2010 to 2019, we made commitments to invest nearly 
+$2.7 billion in renewable energy 
+projects with an expected 
+combined capacity of approximately 4.6 GW. 
+Page	36
+GHG	emissions
+59%	decrease 	in	
+cumulative 	GH G 	 emissions86%	de crease 	 
+in	carbon	intensity13 years	 
+of	carbon	neutrality40   
+carbon	offset	projects
+Since 2011, we’ve reduced our cumulative Scope 1 and 2 GHG emissions by 59% by procuring renewable energy. 
+Page	38Since 2011, our carbon intensity per unit of revenue hasdecreased by 86%. 
+Page	38Google has been carbon neutral since 2007. Because of our renewable energy and carbon offset programs, our net operational carbon emissions during this period were zero.
+Page	40Since 2007, we’ve partnered with more than 40 carbon offset projects to offset more than 20 million tCO
+2e emissions. 
+Page	40
+CREATING 	SUSTAINABLE 	WORKPLACES
+Certifications Water Waste
+15	million	ft2  
+LEED-certified29% 
+LEED Platinum22	million	gallons	 
+of	water	use	avoided71%
+	landfill	diversion
+Since 2009, over 1.4 million square meters (15 million square feet) of Google office facilities have achieved LEED certification. 
+Page	4629% of our LEED-certified square footage has achieved a Platinum  rating and 56% a Gold rating. 
+Page	46In 2019, we achieved a 6.5% reduction in potable water intensity at our Bay Area offices, against a 2017 baseline—
+equivalent to avoiding the  
+use of more than 85 million  
+liters (22 million gallons) of 
+potable water. 
+Page	48In 2019, we reached a 71% landfill diversion rate for waste from our 
+offices globally.
+Page	49
+Waste	(continued) Commuting
+9.2	million	lbs	 
+of	f ood	waste 	 prevented 	3,400 electric  
+vehicle	charging 	ports43,000  tCO2e 
+emissions 	saved
+Since 2014, we’ve prevented 
+nearly 4.2 million kilograms  
+(9.2 million pounds) of waste in our cafés globally by tracking pre-consumer food waste.
+Page	49To date, we’ve installed more  than 3,400 electric vehicle charging ports at our offices in the United States and Canada.
+Page	50In 2019, by using Google shuttles  in the Bay Area, we saved more  
+than 43,000 tCO
+2e emissions—
+equivalent to taking 9,342 cars  
+off the road every workday.
+Page	50
+7
+Google Environmental Report 2020 Our approachBUILDING 	BETTER 	DEVICES 	AND	SERVICES
+GHG	emissions Materials Energy
+100 %  
+of	shipments 	are	
+carbon neutral
+As of October 2019, shipments  
+of Made by Google products  to and from direct customers  
+are carbon neutral.
+Page	5433%  
+emissions 	reduction 	 
+per unit
+From 2017 to 2019, we reduced 
+total transportation emissions  of Google hardware products  
+by 33% per unit.
+Page	56100 %  
+of	Nest	products 	contain	
+recycled 	p lastics
+In 2019, 100% of the Nest products 
+we launched, including Nest Mini and Nest Wifi, were built with 
+recycled plastics. 
+Page	5610%–15% 
+energy	savings
+On average, Nest thermostats 
+have proven energy savings of 10%–12% for heating and 15% for 
+cooling, which means they pay  
+for themselves in under two years. 
+Page	58
+Energy	(continued)
+47billion	kWh	 
+of	energy	savings
+By the end of 2019, Nest thermostats 
+had helped customers cumulatively 
+save more than 47 billion kWh of 
+energy—enough to power all of San 
+Francisco’s electricity consumption 
+for over eight years.
+Page	5817	b illion	kWh 	 
+of	energy	savings
+In 2019 alone, Nest thermostats 
+helped customers save more than  
+17 billion kWh of energy—more 
+energy than Google used in 2019.
+Page	58$150	milli on	investment 	
+into	renewable 	energy	projects
+We’ve committed to invest  
+approximately $150 million into 
+renewable energy projects in  
+key manufacturing regions.  
+Our investment commitment,  
+alongside those of our partners,  
+aims to catalyze roughly $1.5 billion  
+of capital into renewable energy.
+Page	60
+EMPOWERING 	USERS	WITH	TECHNOLOGY
+Products Tools
+1	billion	km 
+of	transit	results	
+Google Maps provides, on 
+average, more than 1 billion kilometers’ (621 million miles’) 
+worth of transit results per day, 
+helping to limit carbon emissions 
+by giving people access to mass transit options, bike routes,  
+and traffic information.
+Page	65120	milli on	km 	 
+carpooled  
+In 2019, Waze drivers and riders carpooled more than 120 million kilometers (75 million miles), 
+offsetting more than 26,000 tCO
+2e 
+emissions—equivalent to planting 
+more than 400,000 trees.
+Page	6525	petabytes 	of	fr eely 	
+available 	geospatial 	data	
+Earth Engine has enabled tens  
+of thousands of active users  
+around the world to easily 
+analyze over 25 petabytes 
+of freely available geospatial 
+information, resulting in a deeper understanding of the planet.
+Page	64100	ci ties	empowered 	
+with	environmental 	insights 	
+In 2019, we expanded the Environmental Insights Explorer to more than 100 cities worldwide, 
+empowering city planners and 
+policymakers with data to help 
+develop climate action plans.
+Page	66
+Tools	(continued)
+170	milli on	rooftops 	
+mapped 	with	solar	data300,000   
+environmental 	pledges
+By the end of 2019, Project  
+Sunroof contained data for  
+more than 170 million rooftops  
+across 21,500 cities, helping  
+users estimate the impact  
+and potential savings from  
+installing solar panels.
+Page	6 7By the end of 2019, Your Plan, Your Planet had documented more than 300,000 pledges to reduce environmental impact through individual behavior changes.
+Page	71
+8
+Google Environmental Report 2020 Our approach2019	PROGRESS 	AGAINST 	TARGETS
+Target Deadline 2019	progress Status
+DESIGNING 	EFFICIENT 	DATA	CENTERS
+Energy
+Maintain or improve average annual fleet-wide 
+PUE across Google data centers year over year.2019 (Annual)The average annual PUE for our global fleet of data centers reached a new record low of 1.10. Since 2012, our average annual fleet-wide PUE has stayed at or below 1.12, even as 
+demand for our products has dramatically risen.
+Page	22
+Certifications
+Maintain ISO 50001 energy management system 
+certification for Google-owned data centers that meet certain operational milestones.2019 (Annual)
+We were the first major Internet company to achieve a multi-site energy management system certification to  
+ISO 50001, which we’ve maintained from 2013 to 2019.
+Page	22
+Waste
+Achieve Zero Waste to Landfill for our global  data center operations.Not applicableOur global landfill diversion rate for data center  operations was 90%.
+Page	24
+ADVANCING 	CARBON-FREE 	ENERGY
+Energy
+Match 100% of the electricity consumption of our operations with renewable energy purchases.2019 (Annual)Our purchases of renewable energy, from sources such as wind and solar deals, produced enough renewable energy to match 100% of the electricity consumption of our data 
+centers and offices for the third consecutive year.
+Page	30
+Operate on carbon-free energy 24/7 by 2030. 2030 This target was set in 2020.
+Page	30
+Enable 5 GW of new carbon-free energy in our  
+key manufacturing regions by 2030. 2030 This target was set in 2020.  
+Page	36
+GHG	emissions
+Maintain carbon neutrality for our operations. 2019 
+(Annual)We purchased enough renewable energy and high-quality carbon offsets to bring our net operational carbon emissions to zero. Google has been carbon neutral  
+since 2007—for 13 consecutive years.
+Page	40
+CREATING 	SUSTAINABLE 	WORKPLACES
+Water
+Reduce potable water intensity at our Bay Area offices by 5%, against a 2017 baseline, by the end of 2019.2019
+In 2019, against a 2017 baseline, we achieved a 6.5% reduction in our Bay Area potable water intensity.
+Page	48
+ Achieved    In progress    Missed 
+9
+Google Environmental Report 2020 Our approachTarget Deadline 2019	progress Status
+Commuting
+Reduce single-occupancy vehicle commuting 
+at our Bay Area headquarters to 45% of workers commuting on any given day.Not applicableFor our Bay Area headquarters, we’re on track to meet this commuting goal.
+Page	49
+Provide electric vehicle charging stations 
+for 10% of total parking spaces at our  Bay Area headquarters.Not applicable
+We’ve achieved a design standard of approximately  10% of parking spaces for the majority of new development projects at our Bay Area headquarters, 
+and we continue to work toward achieving this  
+standard for total parking spaces.
+Page	49
+BUILDING 	BETTER 	DEVICES 	AND	SERVICES
+GHG	emissions
+Achieve carbon neutrality for 100% of shipments of Made by Google products to and from Google’s direct customers by 2020.2020 As of October 2019, shipments of Made by Google products to and from direct customers are carbon neutral. 
+Page	54
+Publish product environmental reports for 
+100% of flagship consumer hardware products launching in 2020 and beyond.2020
+We published product environmental reports for each  of our flagship products in 2019.
+Page	55
+Materials
+Use recycled or renewable material in at least  50% of plastic used across our consumer hardware product portfolio by 2025.2025
+This target was set in 2020.
+Page	54
+Eliminate plastic from packaging and make 
+packaging 100% recyclable by 2025.2025 This target was set in 2020.
+Page	54
+Include recycled materials in 100% of Made 
+by Google products launching in 2022 and every year after.2022
+In 2019, 100% of the Nest products we launched were  built with recycled plastics.
+Page	56
+Waste
+Achieve UL 2799 Zero Waste to Landfill certification at all final assembly  
+manufacturing sites by 2022. 2022
+This target was set in 2020.
+Page	54
+EMPOWERING 	USERS	WITH	TECHNOLOGY
+Tools
+Help more than 500 cities and local governments globally reduce an aggregate of 1 gigaton of carbon emissions annually by 2030.2030
+This target was set in 2020.
+Page	6 7
+Products
+Offer 1 billion people new ways to live more sustainably via our core products by 2022.2022
+This target was set in 2020.
+Page	71
+ Achieved    In progress    Missed 
+10
+Google Environmental Report 2020 Our approachMission and values
+Our mission is to organize the world’s information and make it universally 
+accessible and useful. Fulfilling this mission and bringing the benefits of information not just to the more than 3 billion people who are already online 
+but also to the next 4 billion requires us to use resources ever more efficiently.
+1 
+Sustainability has been a core value from the time of Google’s founding 
+in 1998, and since then, we’ve strived to build sustainability into everything we do. We have a long-standing commitment to climate action. By the end 
+of our first decade, we were the first major company to be carbon neutral  
+in our operations. By the end of our second decade, we were the largest annual corporate purchaser of renewable energy in the world and the first 
+major company to match 100% of the annual electricity consumption of our 
+global operations with purchases of renewable energy. As of the end of 2019, we’d matched 100% of our electricity consumption with renewable energy purchases for three years in a row. Our third decade of climate action will be our most ambitious yet: We’re committed to operating on carbon-free energy 
+around the clock and aim to get there by 2030. 
+We kicked off our third decade with an exciting achievement: As of 
+September 14, 2020, we’d neutralized our entire legacy carbon footprint  
+since our founding, making Google the first major company to be carbon neutral for its entire operating history.The Googleplex in Mountain View, California
+11
+Google Environmental Report 2020 Our approachIn our next decade of climate action, we’ll steadily advance toward our 
+carbon-free energy goal while maintaining our current operational carbon 
+neutrality commitment. We’ll test and iterate new technologies and sustainable 
+tools at Google, then offer them to our partners in businesses, communities, 
+and governments. We’ll also explore new ways for our products to help people make more sustainable choices.
+These ambitions are reflected across our value chain. Our data centers lead 
+the industry in energy efficiency by being twice as efficient as the industry average for enterprise data centers. We’ve been carbon neutral since 2007, and for the third year in a row, we’ve matched 100% of the electricity our operations use with purchases of renewables. This same ethos carries over to our workplaces, with over 1.4 million square meters (15 million square feet) of 
+Leadership in Energy and Environmental Design (LEED) certified offices, and 
+to our products. Whether someone is using Google at home or as part of an 
+organization running Google Cloud  or Google Workspace , all the products in 
+our Cloud are carbon neutral. We’re on a journey to make our tools, technology, and Made by Google consumer hardware products work for people and do 
+more for the planet.
+Our tools are built to help everyone reduce their environmental impact, 
+understand the planet, and take sustainable action. By mapping the world’s 
+forests and fisheries, our technology is making it easier for policymakers, 
+researchers, and nonprofits to monitor the pulse of the planet. We’re also 
+making it easier for everyone to make sustainable choices. For instance, we provide, on average, more than 1 billion kilometers (km) (621 million miles) of alternative transit options through Google Maps every day. Additionally, we’re 
+helping people reduce their home energy consumption with Nest thermostats, 
+which helped customers cumulatively save more than 50 billion kilowatt-hours 
+(kWh) of energy by the end of March 2020—enough to light up the entire  
+planet for five days. 
+A global challenge
+Humanity is consuming natural resources at an astonishing rate. During the 20th century, global raw material use rose at about twice the rate of population 
+growth.
+2 Every year, humanity consumes far more than what the planet can 
+naturally replenish. In 2020, global demand for resources was 1.6 times what 
+the earth’s ecosystems can regenerate in a year.3
+These statistics highlight the need to rethink the “take-make-waste” economic 
+model—in which we take a natural resource, make a product from it or burn it for fuel, and eventually send what remains to the landfill as waste—that human 
+societies have followed since the Industrial Revolution. The consequences of this 
+model have contributed to significant global challenges such as climate change, extreme weather events, and plastic pollution. We’ve been carbon 
+neutral since 
+2007 . 
+12
+Google Environmental Report 2020 Our approachClimate change is one of the most urgent and critical collective challenges 
+facing the world today. The science behind this is clear, and recent reports 
+continue to stress the urgency of the issue. In 2018, the Intergovernmental Panel on Climate Change (IPCC) released a special report addressing the 
+need for rapid transition and widespread action by 2030 if we’re going to limit 
+global warming to 1.5 degrees Celsius and prevent the worst consequences of climate change.
+4 We’re already feeling those impacts today, from historic 
+wildfires in the United States and Australia to devastating flooding in many parts of the world. Given this pressing time horizon, it’s now more important 
+than ever for governments, businesses, and individuals around the world 
+to take immediate and ambitious action on climate change at a global scale. Meeting this challenge will require businesses, cities, and nations to decarbonize in only 10 years. 
+At Google, we’ve always viewed a challenge as an opportunity to be helpful 
+and make things better for everyone. However, we know that no company, no matter how ambitious, can solve a challenge like climate change alone. That’s why we’re committed to action far beyond our own operations, creating tools and investing in technologies to help build a carbon-free future for everyone. 
+We believe that our scale, resources, and technological expertise can help the 
+world meet its energy and resource needs in a responsible way that drives innovation and growth.A view of our planet from Google Earth
+©2020 Landsat / Copernicus
+13
+Google Environmental Report 2020 Our approachOur priorities
+In 2018, we undertook an assessment to identify and prioritize content for our 
+environmental report that considered Google’s impacts on sustainability, the importance of environmental sustainability issues to our business strategy, 
+and the perspectives of a diverse range of external stakeholders. The topic 
+areas that were found to be of greatest relevance include our data centers, workplaces, users, water stewardship, circular economy strategy, and supply chain. Cutting across these priorities is the importance of engaging in public 
+policy—at local, state, federal, and international levels—to support the 
+success of sustainable business models. 
+Google uses energy, natural resources, and products and services from 
+our suppliers to build our workplaces, data centers, networking infrastructure, and consumer hardware. The software products and services that our 
+customers and users rely on are powered by our data centers and networking 
+infrastructure (see Figure 2). We’re driving positive environmental impact throughout our value chain in five key ways: designing efficient data centers, advancing carbon-free energy, creating sustainable workplaces, building 
+better devices and services, and empowering users with technology.
+Figure	2	
+GOOGLE 	V ALUE 	CHAIN
+Google Cloud,  
+Google Workspace,  
+Products, and ToolsData Centers and 
+Networking InfrastructureOffices and  
+Research/Development SitesConsumer Hardware, 
+Devices, and Services Energy
+Natural 
+ResourcesManufacturing,
+Construction, and
+Services
+Customers and Users Employees and Communities Suppliers and Communities
+Ecosystems
+14
+Google Environmental Report 2020 Our approachThrough our Supplier Responsibility program, we collaborate with 
+stakeholders across our supply chain to uphold our high standards for 
+protecting workers and the environment. Our Supplier Code of Conduct  
+builds upon Google’s core values and beliefs and incorporates key elements from the Google Code of Conduct and international human rights, safety, 
+and environmental standards. We require the highest ethical standards throughout our supply chain and are working to drive positive impacts 
+in the communities in which we operate.
+Taking action
+With millions more people coming online every month, the demand for 
+computing power continues to skyrocket, and data center capacity continues to expand to meet this need. But despite this growth, the total amount of electricity used by data centers has remained relatively constant. While the amount of computing done in data centers increased by about 550% between 2010 and 2018, the amount of energy they consumed only grew by 6% during the same period.
+5 As mobile device use increases and more 
+IT users transition to public clouds, we believe our industry can and must do better than just holding the line on energy use. We can actually lower it, 
+serving more users while using fewer resources.
+Google’s energy consumption drives our biggest impact on the 
+environment. As a result, we’re working toward our biggest sustainability 
+moonshot yet: to source 24/7 carbon-free energy for all of our data centers 
+and office campuses around the world. This means that we’ll evolve from 
+matching our annual energy consumption with renewable energy to sourcing round-the-clock carbon-free energy. By 2030, we aim to run our business  on carbon-free energy everywhere, at all times. 
+In 2017, we developed a climate resilience strategy , with the goal of 
+enabling our business and the communities we’re part of to thrive despite the effects of climate change. This strategy is focused on a people-centric framework that’s robust, integrated, diverse, and designed with unique locations, scalability, and longevity in mind. We used this framework to 
+conduct a climate-scenario analysis, assess the future resilience of our current locations, and evaluate the climate resilience of new developments. 
+We report our exposure to climate-related risks over multiple time horizons  
+in Alphabet’s annual CDP Climate Change Response, which we believe  
+reflects the recommendations of the Task Force on Climate-related  
+Financial Disclosures.We’re working toward 
+our biggest sustainability 
+moonshot yet: to source  
+24/7   
+carbon-free energy.
+15
+Google Environmental Report 2020 Our approachBeyond Google, we’ve long been a vocal advocate for the decarbonization 
+of electrical grids worldwide. We support public policies that strengthen 
+global climate action efforts through the Paris Agreement, G20, and other 
+multilateral forums, as well as policies that establish emissions-reduction 
+targets and technology-neutral pathways to achieve a carbon-free economy in line with the IPCC guidance and scientific consensus. We also support policies that ensure the clean energy economy provides economic growth 
+for all, spurs a new generation of green jobs, benefits the communities most 
+impacted by a changing climate, and leaves no one behind in the transition.  In Europe, we’re committed to supporting the EU Climate Pact, recognizing that technology will have a critical role to play in making the EU Green Deal vision a reality.
+Through Google.org, we’ve funded numerous initiatives and organizations  
+to support climate action, access to clean energy, and conservation.  
+In 2019, Google.org launched a $4 million fund in collaboration with ICLEI,  
+a global network of local governments committed to sustainability, to support nonprofits and academic institutions in Europe and Latin America that  
+are leading data-driven climate action efforts. Google.org also provided  
+a $500,000 grant to Renewable Energy Buyers Alliance (REBA) in the  
+United States and a €500,000 grant to RE-Source in Europe to help fund the development of new purchasing models, provide training and resources 
+for consumers, and enable more widespread access to clean power. In 2020, 
+we launched the Google.org Impact Challenge on Climate, which commits 
+€10 million to fund bold ideas that aim to use technology to accelerate Europe’s progress toward a greener, more resilient future. 
+As part of our efforts to protect and restore natural ecosystems, in 2020,  
+we launched a science-based reforestation program, which will plant trees on degraded lands in Australia, Spain, and the United States (California and Texas). We’re also supporting the Crowther Lab at ETH Zurich in developing a global restoration platform in collaboration with a wide network of environmental 
+organizations and scientists. To further support this work, Google.org 
+committed $1 million in funding to develop tools that will help increase the 
+likelihood of success for ecosystem restoration projects around the world. 
+Google’s AI for Social Good program and Crisis Response platforms are also 
+using our technology to enhance flood-forecasting models whose predictions help individuals in affected areas better prepare and stay safe. 
+We see the circular economy as a complex yet inspiring information 
+challenge that, once unlocked, will lead to a world of abundance where human, environmental, and economic systems can thrive. That’s why we’re leveraging 
+our scale, resources, technological expertise, and close partnerships—with 
+organizations such as the Ellen MacArthur Foundation and other leading 
+16
+Google Environmental Report 2020 Our approachcompanies—to accelerate the transition to a circular economy and help 
+the world meet its resource needs. In 2019, Google became a technology  
+partner to the Ellen MacArthur Foundation’s New Plastics Economy initiative 
+to help support organizations in reaching the goal of ending plastic waste 
+and pollution through packaging redesign and new delivery models. We also worked with Closed Loop Partners on its report that includes guidance and information on how companies can better support the recycling of plastics.
+Our ambition is to maximize the reuse of finite resources across our 
+operations, products, and supply chains and enable others to do the same. We’re applying our circular economy principles to design out waste, keep products and materials in use, and promote healthy materials and safe  
+chemistry . We strive to embed these principles across our infrastructure, 
+operations, and products—from how we manage servers in our data centers 
+to how we design our consumer hardware to the materials we select to build 
+and furnish our offices. As we work toward this, we’ll continue exploring the role of technology and artificial intelligence (AI) in accelerating our transition to becoming a circular Google that contributes to a sustainable world. 
+Water is another top priority. The United Nations predicts that by 2025,  
+two-thirds of the world’s population could live in water-stressed conditions, and with the existing climate change scenario, almost half the world’s population will be living in areas of high water stress by 2030.
+6 As a global 
+company headquartered in drought-prone California, we’ve established a set of water principles to guide our approach to water use and ensure business 
+Colorful pipes send and receive water to 
+cool our data center in The Dalles, Oregon.
+17
+Google Environmental Report 2020 Our approachcontinuity, especially in the places where we have the greatest potential risk. 
+Under these principles, we’re working to utilize water efficiently, exploring ways to incorporate circularity, and engaging in partnerships that use Google 
+technology to raise awareness of water-related risks and opportunities 
+and to create platforms that help everyone study and understand global water challenges. 
+Our sustainability goals, such as committing to match the electricity use 
+for our operations with 100% renewable energy, not only are good for the environment but also make good business sense. By purchasing electricity from renewable sources like wind and solar via long-term contracts, we can reduce emissions while keeping energy costs known and manageable. 
+In 2020, we issued $5.75 billion in sustainability bonds—the largest 
+sustainability or green bond issuance by any company in history—to fund  
+new and ongoing projects that are environmentally or socially responsible.  
+As outlined in Alphabet’s Sustainability Bond Framework, our sustainability 
+bonds will support investment in environmental and social initiatives, including energy efficiency, clean energy, green buildings, clean transportation, circular 
+economy and design, affordable housing, commitment to racial equity, and  
+support for small businesses and COVID-19 response. Although a number of companies have issued green bonds (directed solely to environmental uses), sustainability bonds differ in that their proceeds support investment in both 
+environmental and social initiatives. Such bonds are an emerging asset class, 
+and we hope this transaction will help develop this new market.
+Looking toward future opportunities
+We believe that global businesses like Google should lead the way in improving people’s lives while reducing or even eliminating our dependence on raw materials and fossil fuels. And we believe this can be done in a way 
+that makes business sense, providing economic returns alongside societal 
+benefits and positive environmental impacts. 
+Planning for the future, we’ve established a five-year strategy that 
+will enable us to continue building sustainability into everything we do 
+(see Figure 3). Our strategy focuses on three key pillars: accelerating the transition to carbon-free energy and a circular economy, empowering 
+everyone with technology, and benefiting the people and places where we operate. We continue to work to decouple our business growth from the 
+growth of material use and carbon intensity. We want Google technologies, 
+platforms, products, and services to enable everyone to tackle major sustainability problems and drive net-positive impact through carbon-emissions reductions, energy savings, and sustainable resource use.  
+We also want to ensure that we’re implementing practices to add value  
+to the communities of our facilities, users, partners, and suppliers.In 2020, we issued 
+$5.75 billion   
+in sustainability bonds— 
+the largest sustainability  
+or green bond issuance  by any company in history.
+18
+Google Environmental Report 2020 Our approachCreating Google tools that help people measure the planet’s health 
+and take action is a key part of our long-term strategy. Applications of AI 
+and machine learning are increasingly enabling not only Google but also 
+scientists and practitioners to create sustainable solutions and turn data into 
+the insights and knowledge needed to guide better decision-making. We’re excited to continue exploring how these technologies and applications can be used to create a more sustainable future for generations to come, 
+and we’re committed to responsibly using these technologies. 
+Changing the course on climate will require collective determination to act. 
+We’re optimistic that by harnessing new technologies, investing in the right 
+infrastructure and tools, and empowering partners, nonprofits, and people, this can be the most decisive decade for climate action yet. The next 10 years 
+will provide the springboard for further progress. We’re proud to do our part 
+and help move the world closer to a carbon-free future for all. 
+LEARN	MORE
+• Website: 	Alphabet 	Investor 	Relations: 	S ustainability 	 and 	 Related 	 Information
+• Website: 	Google’s 	Mission, 	V alues 	 & 	C ommitments
+• Website: 	Google’s 	Mission, 	V alues 	 & 	C ommitments: 	 Reports
+• Website: 	Supplier 	Responsibility
+• Website: 	Sustainability
+• Website: 	Sustainability: 	ReportsFigure	3	
+FIVE-YEAR 	SUS TAINABILITY 	S TRATEGY 	O VERVIEW
+We strive to build sustainability into everything we do
+Empower 	with	 
+technology
+Tackle major sustainability problems 
+and drive net-positive impact using 
+Google technologies, platforms, 
+products, and servicesAccelerate carbon-free  
+and circular 
+Decouple business growth 
+from the growth of carbon 
+intensity and material use Benefit	people	 
+and	places
+Share benefits with the  
+communities of our facilities,  
+users, partners, and suppliers
+19
+Google Environmental Report 2020 Our approachDesigning 
+efficient 
+data centers
+20
+Google Environmental Report 202020 Google Environmental Report 2020Introduction
+Google’s data centers are the heart of our company, powering products  
+like Gmail, Google Cloud, Search, and YouTube for billions of people around 
+the world, 24/7. At the end of 2019, we had 19 operational campuses across  
+21 data center locations7 on four continents, as well as 20 Google Cloud 
+regions . We continue to add new sites to better serve our users and 
+customers. By investing in our data center locations, we help support the  local communities where we operate, providing economic development,  
+job creation, educational programs, and environmental and cultural projects.
+Each data center is a campus where the majority of our facilities, servers, 
+networking equipment, and cooling systems are designed from the ground up for maximum efficiency and minimal environmental impact. For more 
+than a decade, we’ve worked to make Google data centers some of the most efficient in the world, improving their environmental performance even as demand for our products has dramatically risen. We’ve done this by designing, building, and operating each one to maximize efficient use 
+of energy, water, and materials. 
+These efforts have made our cloud the cleanest, most energy efficient 
+in the industry. This means that customers who migrate to Google Cloud  
+can take advantage of advanced computing technologies while reducing their operations’ environmental impact via our carbon-neutral cloud,  
+helping them to achieve their own sustainability goals. 
+Energy efficiency
+A study published in 2020 showed that while the amount of computing 
+done in global data centers increased by about 550% between 2010 and 2018, the amount of energy consumed by data centers grew by only 6%  
+during the same period.
+8 So while data centers now power more applications 
+for more people than ever before, they still account for about 1% of global electricity consumption—the same proportion as in 2010.
+9 
+Our long-standing data center efficiency efforts are more important 
+than ever because our data centers represent the vast majority of our 
+electricity use. To reduce energy use, we strive to build the world’s most 
+energy-efficient computing network by squeezing more out of every watt of power we consume. First, we outfit each data center with high-performance servers that we’ve custom-designed to use as little energy as possible. 
+We improve facility energy use by installing smart temperature and lighting 
+controls and redesigning how power is distributed to reduce energy loss.  BY	THE	NUMBERS
+2X
+as energy efficient
+On average, a Google data center 
+is twice as energy efficient as a 
+typical enterprise data center.
+1.10  
+average annual PUE
+In 2019, the average annual PUE 
+across our global fleet of data 
+centers reached a new record  
+low of 1.10, compared with  
+the industry average of 1.67—
+meaning that Google data  
+centers use about six times  
+less overhead energy.
+7X 
+as much  
+computing power
+Compared with five years ago,  
+we now deliver around seven 
+times as much computing  
+power with the same amount  
+of electrical power. 
+90 % 
+of waste diverted
+In 2019, we diverted 90% of 
+waste from our global data center 
+operations away from landfills.
+21
+Google Environmental Report 2020 Designing efficient data centersWe employ advanced cooling techniques, relying primarily on energy-efficient 
+evaporative cooling, and use non-potable water at some sites. At some sites, we also reuse waste heat generated by our servers to heat our data center office  
+spaces and other on-site facilities. Finally, we’re applying machine learning to drive energy efficiency even further and automatically optimize cooling.
+Our efforts have paid off: On average, a Google data center is twice as 
+energy efficient as a typical enterprise data center.
+10 Compared with five  
+years ago, we now deliver around seven times as much computing power with the same amount of electrical power. Much of this improvement has 
+come from new innovations with accelerators, such as our Tensor Processing 
+Units (TPUs)—highly efficient computer chips we designed specifically for machine learning applications.
+In 2019, the average annual power usage effectiveness (PUE)
+11 for our global 
+fleet of data centers reached a new record low of 1.10, compared with the industry average of 1.67
+12—meaning that Google data centers use about six 
+times less overhead energy (10%) for every unit of IT equipment energy (see Figure 4). We aim to maintain or improve our average annual fleet-wide PUE 
+across Google data centers year over year. Our average annual fleet-wide  
+PUE has stayed at or below 1.12 since 2012 (see Figure 5).
+13 
+In 2013, we became the first company in North America—and the only 
+major internet company—to achieve a multi-site energy management system certification to ISO 50001, a voluntary third-party standard. Our energy Google’s data center in Hamina, Finland
+22
+Google Environmental Report 2020 Designing efficient data centersmanagement system covers select Google-owned data centers once 
+they meet certain operational milestones. As of 2020, we have maintained our ISO 50001 certification for our operational European data centers.
+Google has saved more than $1 billion through our energy-efficiency 
+initiatives and hundreds of millions more through resource efficiency. By sharing our findings and best practices and supporting research and collaborations, we hope to help other companies realize their own 
+savings and promote ever-greater data center sustainability worldwide. 
+We’ll also continue to develop and commercialize new software, such as machine learning tools and carbon-intelligent computing, that can help better match real-time carbon-free energy supply with energy demand.10%Figure	4
+OVERHEAD 	ENERGY 	USE 	 IN 	GO OGLE 	 DATA 	CENTERS
+  Overhead energy as % of IT energy
+2011 2010 2009 2008 2012 2013 2014 2015 2016 2017 2018 20191520PERCENT
+010
+Figure	5
+FLEET-WIDE 	PUE	A CROSS 	GO OGLE 	 DATA 	CENTERS
+     Quarterly PUE        Trailing 12-month PUE
+1.10
+1.09
+2012 2011 2010 2009 2013 2014 2015 2016 2017 2018 2019 2020PUE1.24
+1.20
+1.16
+1.12
+1.08
+0
+23
+Google Environmental Report 2020 Designing efficient data centersEmbedding circularity
+We’re also working to design out waste by embedding circular economy 
+principles into our server management and reusing materials multiple times. In 2019, 19% of components used for machine upgrades were refurbished 
+inventory. When we can’t find a new use for our equipment, we completely 
+erase any components that stored data and then recycle or resell them. In 2019, we resold nearly 9.9 million units into the secondary market for reuse by other organizations. 
+We’re committed to achieving Zero Waste to Landfill for our global data 
+center operations by reducing the amount of waste we generate and finding better disposal options. In 2019, we diverted 90% of waste from our global data center operations away from landfills. Our approach is based on the UL Environmental Claim Validation Procedure for Zero Waste to Landfill,  
+which stipulates that when waste leaves our operating data centers, none  of it goes to a landfill—100% is diverted to more sustainable pathways, with no more than 10% going to a waste-to-energy facility unless waste to energy can be proved more valuable than alternative diversion paths. Some waste 
+cannot be diverted away from landfills for regulatory reasons.
+As part of our water stewardship efforts, we’re working to utilize water 
+more efficiently and exploring ways to incorporate circularity. We have a 
+site-specific approach where we work within the constraints of the local hydrological environment to find the best solutions. Examples of sustainable 
+water management practices in our data centers include the use of innovative 
+cooling options where possible, such as seawater in Finland, industrial canal water in Belgium, and recycled wastewater in the United States at our site in Douglas County, Georgia. In Ireland, we optimize water use by employing 
+cooling using outside air. We also recirculate water within our system multiple 
+times to get more out of every drop we use.
+Economic impact
+Google’s investment in digital infrastructure, such as data centers, supports sustainable growth and creates economic opportunity. In 2016, Google’s U.S. data centers generated $1.3 billion in economic activity, $750 million in labor 
+income, and 11,000 jobs.
+14 In 2019, we announced a $600 million investment in 
+our data center in Pryor, a town in Mayes County, Oklahoma.
+From 2007 to 2018, Google’s data center investments in Europe supported 
+economic activity, with €730 million per year in gross domestic product (GDP) 
+and 9,600 full-time equivalent (FTE) jobs per year, on average.15 In Finland, our In 2019, we diverted
+90 % of waste 
+from our global data 
+center operations 
+away from landfills.
+24
+Google Environmental Report 2020 Designing efficient data centersdata center has brought €1.2 billion in investment and supported 1,700 jobs 
+every year since 2009.16 During construction of our Denmark data center, we 
+spent over €600 million and supported 2,600 jobs,17 and in the Netherlands, 
+we’ve directly invested €2.5 billion since 2014.18 We’ve long worked with local 
+nongovernmental organizations (NGOs) in our data center communities and have donated millions to important initiatives in Europe, including skills 
+training in cooperation with local colleges and universities.
+In the next five years, we expect to anchor €2 billion in new carbon-free 
+energy generation projects and green infrastructure in Europe, helping to 
+develop new technologies to make round-the-clock carbon-free energy 
+cheaper and more widely available. We’re proud to invest in Europe’s digital 
+infrastructure, contribute to the local communities we operate in, and support Europe’s green transition.
+Carbon-neutral cloud
+Google operates the cleanest, most energy-efficient hyperscale cloud services in the industry. This is a result of our ongoing energy-efficiency efforts, matching 100% of our electricity with purchases of renewable energy 
+since 2017, and our carbon neutrality commitment. Google Cloud is the only 
+major cloud provider to purchase enough renewable energy to cover our entire operations. And in 2020, we set our most ambitious energy goal yet: to run our business on carbon-free energy everywhere, at all times, by 2030. 
+We’re the first cloud provider to make this commitment, and we intend to  
+be the first to achieve it.
+A look behind the server aisle at our data 
+center in Mayes County, Oklahoma
+25
+Google Environmental Report 2020 Designing efficient data centersAs the pace of digital transformation has accelerated, organizations 
+have migrated infrastructure and applications to the cloud to achieve cost 
+efficiencies, improve performance, and reduce environmental impact.  
+Google Cloud and Google Workspace products like Gmail, Docs, and Drive are enabling millions of businesses to shift their computing needs from self-managed data centers or colocation facilities to Google Cloud’s highly efficient computing infrastructure, which includes 100% renewable energy matching. 
+Businesses that switch to cloud-based products like Google Workspace 
+(formerly G Suite) have reported reductions in IT energy use and carbon emissions up to 87%,
+19 and a business using Gmail can reduce the greenhouse 
+gas (GHG) emissions impact of its email service by up to 98%, compared with running email via on-premises servers.
+20 Individual users also benefit, 
+since providing an active user with one month of Google services creates 
+fewer GHG emissions than driving a car one mile—and these emissions 
+are neutralized as part of our operational carbon neutrality commitment. 
+Whether someone is using Google at home or as part of an organization running Google Cloud or Google Workspace, all products in our Cloud are carbon neutral. This means that our Google Cloud customers benefit from a net-zero operational carbon footprint associated with running their 
+workloads on our infrastructure, and everyone using our products can rest 
+assured that our data centers have caused net-zero carbon emissions  
+for our planet.
+Supporting partners
+Switching to Google Cloud can help customers accelerate progress  
+toward their own sustainability targets. We’re developing tools to help our customers measure the impact of migrating to Google Cloud, report on their 
+emissions, and reduce them. For example, National Geographic Partners 
+migrated its entire image library application from its data center to Google Cloud to improve the security and management of the collection. Moving to Google Cloud reduced energy and emissions of the image collection by 
+approximately 62%.
+Google Cloud is working with customers to help everyone get closer 
+to achieving the United Nations Sustainable Development Goals. We’ve 
+partnered with customers to use Google technology to minimize wasteful  
+packaging, detect damage  in annual wind turbine inspections, and analyze  
+camera trap images to make faster decisions on wildlife conservation efforts.
+As organizations work to improve the environmental impact of their 
+operations, Google Cloud technologies can help them innovate. For instance,  
+customers have used BigQuery to reduce food waste by analyzing product  
+demand and optimizing supply. Others have leveraged BigQuery, BigQuery GIS,  All products in our Cloud are 
+carbon neutral.
+26
+Google Environmental Report 2020 Designing efficient data centersand Google Cloud to enable hyperlocal air-quality sensing on municipal 
+vehicles and have used Google Cloud to design routing software, reducing fuel consumption.
+We also work with partners to use our technology to improve lives and 
+do more for the planet. In 2019, Google Cloud partnered with SAP to host Circular Economy 2030—a sustainability contest for social entrepreneurs—  
+and announced the five finalists during the Google Cloud Next ’19 conference. 
+Google Cloud technology has also been used to measure environmental  
+impact and help create an environmental data platform to enable more 
+responsible sourcing decisions in the fashion industry. 
+In 2020, we collaborated on the first commercial application of Google   
+Cloud and Google Earth Engine for sustainable commodity sourcing. Through 
+the Google Cloud Public Datasets  Program and the U.S. National Oceanic 
+and Atmospheric Administration (NOAA) Big Data Program, Google Cloud 
+will host 5 petabytes of NOAA’s environmental data across our products—including BigQuery, Cloud Storage , Google Earth Engine, and Kaggle —to help 
+researchers, innovators, and organizations analyze data to tackle a range of 
+environmental challenges. 
+We’re exploring ways to scale up AI and machine learning efficiency 
+solutions for buildings, data centers, and facilities. Google Cloud and 
+DeepMind have developed an Industrial Adaptive Controls platform to deliver 
+machine learning–enabled energy savings on a global scale by autonomously 
+controlling heating, ventilation, and air conditioning systems in commercial buildings, data centers, and industrial facilities. We’re making these solutions available to the largest industrial enterprises and building-management software providers. 
+These are just a few examples of the many organizations leveraging 
+Google Cloud technology to do more for the planet. Millions of partners use this technology and other Google services. We’re humbled by this unique opportunity to enable universal action and offer organizations the information 
+and solutions they need to create a sustainable future.
+LEARN	MORE
+• 2016	case	study:	Circular 	Economy 	at	W ork 	 in 	G oogle 	 Data 	C enters
+• 2018	spotlight: 	Once	Is	Never	Enough
+• 2018	spotlight: 	Positive 	Energy:	Belgian	Site Becomes 	First	G oogle   
+Data Center t o Add On-site	Solar
+• 2018	spotlight: 	Putting	Down	Local	Roots	Wher e 	G oogle’s 	 European   
+Data	C enters 	Ar e 	G rowing
+• Website: 	Google	C loud: 	Sustainability
+• Website: 	Google	C loud 	 Next: 	S ustainability 	Sho wcase
+• Website: 	Google	Data	C enters: 	 Efficiency
+27
+Google Environmental Report 2020 Designing efficient data centersSpotlight
+Developing a carbon-intelligent 
+computing platform
+Our data centers deliver our products to billions of people around the world 
+every day. To achieve our 24/7 carbon-free energy goal, our data centers  
+need to work more closely with carbon-free energy sources like solar and  
+wind. However, wind and solar power don’t work in all places at all times,  
+and the intermittency creates complex challenges for optimization. 
+To tackle this problem, a small team of engineers at Google developed 
+a carbon-intelligent computing platform, which we announced in April 2020.
+This  first-of-its-kind system was deployed at our hyperscale data centers to 
+shift the timing of many non-urgent compute tasks—creating new filter features on Google Photos, processing YouTube videos, or adding new words to Google Translate—to times when low-carbon power sources, like wind and solar,  
+are most plentiful. 
+Early results demonstrate that carbon-aware load shifting works, and our pilot 
+suggests that by shifting compute jobs, we can increase the amount of lower-carbon energy we consume and reduce the electrical grid’s carbon footprint.
+Looking to the future of the platform, the team is already thinking about 
+how to shift compute load in both time and location to maximize the reduction 
+in grid-level carbon emissions and complete more work when and where doing 
+so is more environmentally friendly.
+We hope that our findings inspire other organizations so that together we 
+can continue to accelerate innovation in energy technologies and enable 
+the  transition to carbon-free electricity worldwide.
+Modular cooling units at Google’s data 
+center in Mayes County, Oklahoma
+28
+Google Environmental Report 2020 Designing efficient data centersAdvancing 
+carbon-free 
+energy
+29
+Google Environmental Report 2020Introduction
+Running our business requires us to use a lot of electricity to power our data 
+centers, offices, and other infrastructure. And combating climate change requires the world to transition to a clean energy economy. So we’ve made 
+it a top priority to become more energy efficient and to annually match 
+every unit of energy we consume at our facilities around the world with an equivalent unit of energy from renewable sources, such as wind and solar. Now we’re going even further: By 2030, we’re aiming to run our business 
+on carbon-free energy everywhere, at all times. 
+We want to work toward a world where everyone has access to renewable 
+energy, including our suppliers and their communities. Our renewable energy 
+investments help increase access to clean energy while bringing benefits in the form of jobs and economic activity to communities where the projects 
+are developed and built.
+Our support for clean energy goes hand in hand with reducing our carbon 
+footprint. By improving the efficiency of our operations and buying both 
+renewable power and high-quality carbon offsets, we’ve been carbon 
+neutral since 2007.
+Our energy journey
+Google is the world’s largest annual corporate purchaser of renewable 
+energy, based on renewable electricity purchased in MWh. From 2010 to 2019, we signed 52 agreements to purchase nearly 5.5 gigawatts (GW)  
+of renewable energy capacity that’s new to the grid (see Figure 6).  
+This represents a commitment of approximately $4 billion to purchase  
+clean energy through 2034.
+Matching 100% renewable energy
+In 2012, we set a long-term goal to purchase enough renewable energy  
+to match all the electricity we consume globally on an annual basis. In 2017, we achieved it, becoming the first company of our size to match  our total 
+annual electricity consumption with purchases of energy from sources like solar and wind. In 2018, we did it again. In 2019, for a third consecutive year, we matched 100% of the annual electricity used by our global operations—including offices, data centers, and networking infrastructure—with 
+renewable energy (see Figure 7). This amounted to more than 12 million 
+megawatt-hours (MWh) of energy in 2019 alone—more electricity than  
+the state of Maine uses annually.
+21 BY	THE	NUMBERS
+5.5 GW 
+of renewable energy
+From 2010 to 2019, we signed 
+52 agreements totaling nearly 
+5.5 GW of renewable energy, 
+representing a commitment 
+of approximately $4 billion 
+through 2034.
+100 % 
+renewable energy
+In 2019, we matched 100% of 
+the electricity consumption of 
+our operations with renewable energy purchases for the third consecutive year.
+$2.7 billion  
+in investment 
+commitments
+From 2010 to 2019, we made 
+commitments to invest nearly 
+$2.7 billion in renewable 
+energy projects with an expected combined capacity  of approximately 4.6 GW.
+13 years  
+of carbon neutrality
+Google has been carbon 
+neutral since 2007. Because 
+of our renewable energy and carbon offset programs, our net operational carbon emissions during this period were zero. 
+30
+Google Environmental Report 2020 Advancing carbon-free energy  Wind       Solar400 MW
+MW 200 
+MW 100 
+In 2019, we took another big step by making the biggest corporate 
+purchase  of renewable energy at the time.22 This purchase was made up of a 
+1.6 GW package of agreements and featured 18 new energy deals spanning 
+the globe, including investments in Chile, the United States, and Europe. 
+Together, these deals increased our worldwide portfolio of wind and solar agreements by more than 40%. As of the end of 2019, we’d purchased a cumulative total of more than 40 million MWh of renewable energy. As of September 2019, Google’s more than 50 long-term contracts to purchase 
+renewable energy had resulted in more than $7 billion in new capital 
+investment in renewable energy projects worldwide.
+23
+We achieved our 100% renewable energy match primarily by buying 
+renewable electricity directly from new wind and solar farms via long-term power purchase agreements (PPAs) on the grids where we operate, as well as 
+by buying renewable power through utilities via renewable energy purchasing 
+models that we helped create. With our PPAs, we’re purchasing physical renewable energy, which includes the electrons bundled with renewable energy certificates. Figure	6	
+RENEWABLE 	ENERGY 	FOR	GO OGLE’S 	OPERA TIONS
+From 2010 to 2019, Google signed 52 agreements 
+across four continents to purchase nearly 5.5 GW of renewable energy that is new to the grid.
+31
+Google Environmental Report 2020 Advancing carbon-free energyWe’re the first company of our size to achieve a 100% renewable energy 
+match three years running.24 While we’re still drawing power from the grid, 
+some of which is from carbon-emitting resources, we’re purchasing enough 
+renewable energy to match every megawatt-hour of electricity our data 
+center and office operations consume annually on a global basis. We procure 
+renewable energy through our PPA contracts, via on-site renewable energy generation, and from renewable energy in the electric grids where our facilities are located.
+25 Our ultimate vision is to create a world where everyone, 
+including our suppliers and their communities, has access to clean energy.
+Increasing access to clean energy
+Even though our data centers use a lot of energy, Google as a whole consumes a very small percentage of global electricity. Thus, in addition to focusing on our own energy efficiency and clean energy usage, we're also 
+working to help others do the same. By pioneering new energy purchasing 
+models that others can follow, we’ve helped drive wide-scale adoption of clean energy. For example, we joined forces with Walmart, Target, and Johnson & Johnson in Georgia to help build a state-approved program that 
+allows companies to buy renewable energy directly through the state’s Figure	7
+RENEWABLE 	ENERGY 	PURCHASING 	C OMPARED  
+WITH	T OTAL 	 ELECTRICITY 	USE
+  Total electricity consumption       Renewable energy %   TERAWATT-HOURS
+2012 201135%
+201337%
+201448%
+201561%
+2016100%
+2017100%
+201812.2
+100%
+2019  10 —
+  8 —
+  6 —
+  4 —
+  2 —  12 —
+034%
+32
+Google Environmental Report 2020 Advancing carbon-free energylargest utility. The program is the first of its kind in Georgia and has paved the 
+way for the construction of two solar energy projects with a total capacity of 177 megawatts (MW), 78.8 MW of which will be procured for Google.
+Also in the Southeast region of the United States, we worked with the   
+Tennessee Valley Authority to sign a utility-based agreement in which Google will purchase the output of several new solar farms, totaling 413 MW of power from 1.6 million solar panels—equivalent to the combined size of 
+65,000 home rooftop solar systems. Thanks to the abundant solar power generated by these new farms, electricity consumed by our new data centers  
+in Tennessee and Alabama was matched in 2019 with 100% renewable energy from the outset. And in 2019, we signed a contract for the world’s largest  
+solar-plus-storage project with Nevada utility NV Energy.
+Our renewable energy initiatives in the United States earned Google a 
+2019 Green Power Leadership Award as Green Power Partner of the Year from the U.S. Environmental Protection Agency. Also in 2019, Alphabet ranked number one on the Carbon Clean 200, a list of publicly traded companies leading the transition to a clean energy future. 
+We’re also helping to green the power grid by advocating for clean  
+energy policies and supporting renewable energy procurement programs.  For example, we worked with business and government stakeholders in Taiwan to share our experience with the benefits of corporate renewable 
+energy purchasing and to support the creation of new purchasing channels for companies. We were pleased to see that Taiwan passed a law in January 2017 to allow end users to directly purchase renewable energy for their operations. In January 2019, we announced our inaugural renewable energy  
+deal  in Asia, the first such corporate PPA in Taiwan. We’ll purchase the output 
+of a 10 MW solar array, which is part of a larger solar farm, in Tainan City.  It will deploy 40,000 solar panels across commercial fishing ponds, maximizing land-use efficiency and benefiting local aquaculture workers.  
+This will boost the carbon-free profile of our local data center. 
+We continue to experiment with a broader array of new models to simplify 
+and expand renewable energy purchasing. In 2019, we ran our first-ever 
+reverse auctions  for wind and solar projects in an attempt to streamline 
+our renewable energy procurement process. As we move toward our own long-term aspiration of sourcing round-the-clock carbon-free energy, 
+we anticipate using similar innovative approaches to source a variety of carbon-free energy products at scale. 
+For example, in January 2020, Google forged a partnership with Sembcorp 
+Industries to purchase energy generated from rooftop solar installations of 
+nearly 500 public housing blocks in Singapore. Under a private collaboration 
+with Sembcorp’s power retail arm, Sembcorp Power, and its solar-development arm, Sembcorp Solar, the excess solar power generated from these rooftop In 2019, we announced our
+1st renewable  
+energy deal  
+in Asia, the first such 
+corporate PPA in Taiwan.
+33
+Google Environmental Report 2020 Advancing carbon-free energyinstallations is exported into the national grid, which then goes into the 
+electricity supply of our operations. This deal pioneers the seamless integration of solar power directly into an existing power supply, which we 
+hope will contribute to making carbon-free energy more widely accessible 
+in Singapore and beyond. 
+Creating a carbon-free energy system in which any organization has 
+access to a simple and cost-effective marketplace is achievable only 
+through large-scale, coordinated action—and we know we can’t do it alone. 
+In 2019, Google helped lead the establishment of REBA, the world’s largest organization of corporate renewable energy buyers. As a founding member of REBA, we’re leading an effort to bring together more than 200 renewable energy buyers, developers, and service providers to pave the way for any 
+company to access and purchase renewable energy. Collectively, this group 
+has committed to purchasing 60 GW of renewable energy by 2025; that’s 
+approximately three times the amount of solar and wind capacity installed in the United States in 2019. Google currently chairs the Board of REBA. 
+In Europe, we helped launch the RE-Source Platform, a broad coalition 
+of companies and NGOs working to accelerate corporate purchasing of renewables. In 2019, the European Commission published a case study  on 
+Google’s renewable energy purchasing in Europe—where, as of June 2019, we’d signed 24 PPAs totaling 1.7 GW of wind and solar power capacity, 
+enabling more than €2.3 billion in investment.
+26 This case study helps 
+demonstrate corporate PPAs’ important contribution to achieving climate 
+and energy goals, and we’ll continue working toward accelerating Europe’s  
+clean energy transition. 
+24/7 carbon-free energy
+In 2018, we announced a new long-term ambition: sourcing carbon-free 
+energy for our operations 24/7. This means that we’ll evolve from matching our annual energy consumption with renewable energy to sourcing carbon-
+free energy around the clock. For example, we matched 100% of our annual 
+global electricity consumption with renewable energy in 2019, but on an hourly basis, only 61% of our data center electricity use was matched with 
+regional carbon-free sources.
+As one step toward this goal, in 2018, DeepMind and Google started   
+using machine learning to make wind power more predictable and valuable.   
+We used machine learning to optimize 700 MW of wind power capacity 
+in the Central United States that’s part of our global fleet of renewable 
+energy projects. By predicting wind power output 36 hours ahead of actual 
+generation, our model recommends how to make optimal hourly delivery commitments to the power grid a full day in advance. This is important Google’s renewable energy 
+purchasing in Europe has 
+enabled more than  
+€2.3 billion  
+in investment.
+34
+Google Environmental Report 2020 Advancing carbon-free energybecause energy sources that can deliver a set amount of electricity at  
+a set time are more valuable to the grid. Machine learning has boosted the 
+value of our wind energy by roughly 20%, compared with a baseline scenario  
+of no advance commitments to the grid.
+In 2020, building on what we’d learned and due to the transformation 
+underway in the global energy system, we set a deadline for our carbon-free energy goal: By 2030, Google intends to run on carbon-free energy 24/7—
+everywhere, at all times. We aim to bring clean energy to all our data centers 
+and office campuses around the world in a way that eliminates our emissions and accelerates a global energy transition. This is our biggest sustainability moonshot yet, with enormous practical and technical complexity (see Figure 8). We’re the first major company to commit to sourcing 24/7 carbon-free energy 
+for our operations, and we aim to be the first to achieve it.
+To get there, we need to integrate new technologies, such as battery 
+storage, into our portfolio. In Belgium, we’ll soon install the first-ever  
+battery-based system for replacing generators at a hyperscale data center. 
+In the event of a power disruption, the system will help keep our users’ 
+searches, emails, and videos on the move—without the pollution associated 
+with burning diesel. Our project in Belgium is a first step that we hope will lay the groundwork for a big vision: a world in which backup systems at data centers go from climate change problems to critical components in carbon-
+free energy systems.
+Figure	8	
+GOOGLE’S 	THREE 	 DECADES 	OF 	CLIMA TE 	A CTION
+Carbon neutrality
+In 2007, we achieved carbon  
+neutrality by purchasing enough 
+renewable energy and high-quality 
+carbon offsets to bring our net 
+operational emissions to zero, which 
+we’ve maintained each year since. FIRST	DECADE
+Since	2007
+100% renewable energy
+Starting in 2017, we’ve procured 
+enough renewable energy to match 
+every megawatt-hour of electricity our 
+operations consume annually, though 
+we’re still drawing some carbon-
+emitting power from the grid.SECOND 	DECADE
+Since	2017
+24/7 carbon-free energy
+By 2030, we aim to source carbon-free 
+energy from the same regional grids 
+where we operate—24 hours a day, 
+seven days a week, 365 days a year.THIRD	DECADE
+By	2030
+CHALLENGING MOST	CHALLEN GING
+35
+Google Environmental Report 2020 Advancing carbon-free energyInvesting in renewable energy
+Along with being the world’s largest annual corporate purchaser of renewable 
+energy, Google is also one of the largest corporate investors in renewable energy. From 2010 to 2020, Google made commitments to invest nearly 
+$3.3 billion in renewable energy projects with an expected combined capacity 
+of approximately 8.7 GW. These targeted investments are beyond our own operational footprint and are expected to result in more than $15 billion of investment in renewable energy projects when including capital invested 
+by partners (both equity and debt). 
+As of December 2019, we’d made commitments to invest nearly $2.7 billion 
+in renewable energy projects with an expected combined capacity of 4.6 GW.  
+In 2020, we made the commitment to invest in and help deploy 5 GW of 
+new clean energy by 2030 in our key supply chain regions (which includes 
+our previous commitments  of renewable energy in our key manufacturing 
+regions), bringing our combined commitments to 8.7 GW. Once online, this  
+5 GW supply chain commitment will avoid global emissions equivalent to taking 
+more than 1 million cars off the road each year and catalyze the additional 
+investment of more than $5 billion in new wind, solar, and other clean energy 
+technologies. Our long-term vision is for all our suppliers, direct and indirect, and their communities to have access to reliable, cost-effective, carbon-free energy—but we can get there only through significant global investment in new  
+wind, solar, and other clean energy capacity as well as more robust grid systems. 
+Investment is a scalable approach to drive system-level change and grid 
+decarbonization and to enable greater access to carbon-free energy. This is especially impactful in markets where credible carbon-free energy procurement mechanisms and available capital are both limited. 
+Investing in renewable energy also makes good business sense, given that 
+the cost of renewable power has dropped precipitously, while its scale has grown dramatically. From 2009 to 2019, levelized costs for utility-scale wind and solar energy decreased by 70% and 89%, respectively.
+27 In 2015, wind 
+and solar energy became the world’s largest source of new installed power capacity,
+28 and in 2019, 75% of net new power capacity globally came from 
+renewable energy.29 Renewables are expected to account for 95% of the net 
+increase in global power capacity through 2025.30 
+Increasing the share of renewables on the grid will produce many positive 
+impacts. For example, doubling renewables by 2030 is expected to increase 
+global GDP by as much as 1.1%, improve global welfare by 3.7%, and employ 
+more than 24 million people in the renewable energy sector.31 Greening the 
+energy supply by 2035 in the United States alone would avoid over $1.2 trillion in  
+health and environmental costs through 2050.32 At Google, we’ll continue to  
+work to accelerate the transition to clean energy and a more prosperous future.From 2010 to 2020,  
+Google made commitments  
+beyond our own operational 
+footprint to invest nearly  
+$3.3 billion  
+in renewable energy projects.
+36
+Google Environmental Report 2020 Advancing carbon-free energyOur carbon footprint
+We began calculating our annual carbon footprint in 2006. Every year since 
+2009, we’ve publicly reported the results to CDP, a global organization that asks companies to disclose information on their GHG emissions performance 
+and management. For seven consecutive years, we’ve earned a spot on CDP’s 
+Climate Change A List, which recognizes top reporting companies—in 2020, only 5% of companies scored by CDP made the A List.
+In 2019, our total Scope 1 and 2 (location-based) GHG emissions
+33  
+were nearly 5.2 million metric tons of carbon dioxide equivalent (tCO2e),34 
+but because of our renewable energy purchases, our total Scope 1 and 2 (market-based) GHG emissions were reduced by 4.3 million tons to 860,000 
+tCO
+2e. This reduction due to procuring renewable energy lowered our total 
+operational emissions from over 5.7 million tCO2e (location-based) to  
+1.4 million tCO2e (market-based) (see Figures 9 and 10). Growth in our 
+business led to a 16% increase in operational emissions over the past year.35 
+After accounting for our high-quality carbon offset purchases, our net 
+operational carbon emissions were zero.
+  Scope 1       Scope 2 (location-based)       Scope 2 (market-based)       Scope 3 (business travel and commuting)
+  Total (location-based)       Total (market-based)Figure	10
+GHG	EMISSIONS 	WITH 	 RENEWABLE  
+ENERGY 	PURCHASES
+ 2011    2012  2013 2014  2015  2016     2017  2018  20191.4Figure	9
+GHG	EMISSIONS 	WITH OUT 	 RENEWABLE 	 
+ENERGY 	PURCHASES
+ 2011   2012  2013  2014  2015  2016    2017    2018 20195.7MILLION tCO2e
+0246
+37
+Google Environmental Report 2020 Advancing carbon-free energySince 2011, our renewable energy purchasing has resulted in emissions 
+savings of over 15 million tCO2e—a cumulative 59% reduction in our Scope 1 
+and 2 emissions over this period (see Figure 11). This is equivalent to taking 
+more than 3 million cars off the road for a year, or the carbon sequestered by 
+more than 19.6 million acres of U.S. forests in a year.36 In 2019, our operational 
+Scope 1 and Scope 2 emissions were 83% lower due to our renewable 
+energy procurement.
+Because of our emissions-reduction efforts, our carbon intensity has   
+steadily decreased even as our company has grown and our energy use  
+has correspondingly increased. Since 2011, our carbon intensity per unit of revenue decreased by 86% (see Figure 12), our carbon intensity per FTE 
+employee decreased by 85% (see Figure 13), and our carbon intensity of  
+total energy consumed dropped by 87%.
+37 This means we’re delivering our 
+products and services with reduced carbon impacts even before using  
+carbon offsets to reach neutrality.
+Carbon neutrality
+In 2007, Google committed to being carbon neutral, and we’ve met this goal 
+every year since then. We reach carbon neutrality via three steps. First, we work to reduce our total energy consumption by pursuing aggressive energy-
+efficiency initiatives. Second, we match 100% of the electricity consumption of 
+our operations with purchases of renewable energy. Third, we buy high-quality carbon offsets for any remaining emissions we haven’t yet eliminated.
+38El Romero solar farm in Chile (80 MW for Google)
+38
+Google Environmental Report 2020 Advancing carbon-free energyFigure	13
+CARBON 	INTENSITY 	PER	FTE	EMPLOYEE
+  Carbon intensity      Average number of FTE employees
+108.2
+7.96tCO2e / FTE
+THOUSAND FTEs— 100 
+— 75 
+— 50 
+— 25 
+ 0 — 125 
+2011 2012 2013 2014 2015 2016 2017 2018 20194060
+020Figure	11
+IMPACT 	OF 	 RENEWABLE 	 ENERGY 	 PURCHASES 	ON 	CUMULA TIVE 	SC OPE 	 1 	AND 	SC OPE 	 2 	GH G 	 EMISSIONS
+  Without renewable energy      With renewable energyMILLION tCO2e25.7
+10.7
+2011 2012 2013 2014 2015 2016 2017 2018 201902030
+10
+Figure	12
+CARBON 	INTENSITY 	PER	UNIT 	OF 	 REVENUE
+  Carbon intensity      Total revenuestCO2e / BILLION US$
+BILLION US$
+0 161.9
+5.32
+2011 2012 2013 2014 2015 2016 2017 2018 20190203040
+10
+050100150200
+39
+Google Environmental Report 2020 Advancing carbon-free energyWhen we committed to carbon neutrality, we saw high-quality carbon 
+offsets as an interim solution. As we work to reduce our emissions, our need 
+for offsets will continue to decrease. We reduce our Scope 1 and 2 emissions 
+by improving energy efficiency and procuring renewable energy. We reduce  
+our operational Scope 3 emissions by minimizing the need for business travel  
+through encouraging the use of videoconferencing tools, like Google Hangouts   
+and Google Meet, and facilitating sustainable employee commuting options 
+such as public transit, shuttles, carpools, or electric vehicles.
+When we do purchase carbon offsets, we follow stringent principles. 
+We procure high-quality, third-party-verified offsets, including landfill and industrial gas projects. All our offsets are additional, meaning that the projects reduce GHG emissions that wouldn’t be reduced through other 
+incentives. We also ensure that the projects from which we procure offsets 
+are permanent sources of carbon reduction, rather than temporary solutions. 
+Finally, whenever possible, we procure for the long term, which offers project owners and developers the financial stability they need to continue operating.
+Google has been carbon neutral for 13 years. In that time, we’ve partnered 
+with more than 40 carbon offset projects to offset more than 20 million tCO
+2e 
+emissions, in addition to the emissions reduced by our renewable energy PPAs. One of our long-standing project partners is Oneida-Herkimer Solid 
+Waste Authority, a landfill gas project in upstate New York. By enabling us 
+to reduce our carbon footprint while reducing local air pollution, improving waste management, and increasing local revenue streams, each of these collaborations is a win for both Google and our communities. 
+Wells capture methane gas at Oneida-Herkimer 
+Regional Landfill—one of Google’s carbon offset partners—in New York.
+40
+Google Environmental Report 2020 Advancing carbon-free energyGoogle began operating in 1998, nine years before we first became 
+carbon neutral. That history deserves to be included in our carbon neutrality 
+commitment. Therefore, as of September 14, 2020, we’d neutralized our entire 
+legacy carbon footprint since our founding by procuring high-quality carbon 
+offsets and applying the same methodology used over the last 13 years. This makes Google the first major company to achieve carbon neutrality for its entire operating history.
+We’re also looking for new ways to sequester carbon from the atmosphere; 
+protecting existing natural ecosystems, such as forests, is one of the most cost-effective and reliable ways to do so. However, we also need to restore degraded ecosystems and forests. That’s why, in 2020, we launched a carbon sequestration program, starting with science-based reforestation. Our 
+reforestation pilot kicked off with plantings on degraded lands in Australia, 
+Spain, and the United States (California and Texas).
+We continue to improve our products to enable others to reduce their 
+own carbon impact, and we’re also committed to meaningfully supporting 
+communities and partners in new ways. We believe that Google can play 
+a key role in building a carbon-free future by enabling partners to improve 
+everyone’s lives through our technology.
+LEARN	MORE
+• 2011	white	paper:	Google’s 	C arbon 	Off sets: 	C ollaboration 	 and 	 Due 	 Diligence
+• 2013	white	paper:	Google’s 	G reen 	 PPAs: 	Wh at, 	 How, 	 and 	Wh y
+• 2016	white	paper:	Achieving 	Our 	 100% 	 Renewable 	 Energy 	 Purchasing 	G oal 	 and  
+Going	Beyond
+• 2017	white	paper:	10	Y ears 	 of 	C arbon 	 Neutrality
+• 2018	white	paper:	Moving	T oward 	 24x7 	C arbon-Free 	 Energy 	 at 	G oogle 	 Data  
+Centers :	Progress 	and	Insights
+• 2019	case	study:	Accelerating 	Renewable 	Energy	Purchasing 	through 	A uctions
+• 2020	white	paper:	Realizing 	a	C arbon-Free 	 Future: 	G oogle’s 	Thir d 	 Decade 	 of 
+Climate Action
+• 2020	white	paper:	24/7	by	2030:	Realizing 	a	C arbon-Free 	 Future
+41
+Google Environmental Report 2020 Advancing carbon-free energyCaption TBD
+Spotlight
+Boosting the value of 
+wind energy
+Google has long been committed to carbon-free energy. We recognize 
+that decarbonizing our energy consumption is a key step to mitigate climate change. Over the past decade, wind farms have become an 
+important source of carbon-free electricity as the cost of turbines has 
+plummeted and adoption has surged. However, the variable nature of wind makes it an unpredictable energy source—not always as useful as one that can reliably deliver power at a set time.
+In search of a solution to this problem, in 2018, DeepMind and Google 
+started applying machine learning algorithms to 700 MW of wind power capacity that’s part of Google’s global fleet of renewable energy projects. By predicting wind power output 36 hours ahead of actual generation, our 
+model recommends how to make optimal hourly delivery commitments 
+to the power grid a full day in advance. This is important because energy 
+sources that can be scheduled (i.e., can deliver a set amount of electricity at a set time) are often more valuable to the grid. 
+To date, machine learning has boosted the value of our wind energy 
+by roughly 20%, compared with the baseline scenario of no time-based 
+commitments to the grid. Increasing the value of renewable energy 
+makes it easier for us to continue to procure renewable energy to match electricity use across our business. 
+In 2020, we set our most ambitious energy goal yet: to run our business 
+on carbon-free energy everywhere, at all times, by 2030. Our partnership with DeepMind to make wind power more predictable and valuable is a concrete step toward that aspiration.
+Minco II wind farm in Oklahoma 
+(101 MW for Google)
+42
+Google Environmental Report 2020 Advancing carbon-free energyCreating 
+sustainable 
+workplaces
+43
+Google Environmental Report 2020Introduction
+At Google, we strive to enable healthy spaces and places that enhance  
+the well-being of Googlers, our communities, and the natural environment. 
+We focus on the many types of communities around the world—from 
+neighborhoods to ecosystems and watersheds—that we call home. 
+Our sustainability priorities for workspaces are guided by Google’s company-wide sustainability values and are applied everywhere we operate—from our Bay Area headquarters to our offices in more than 
+170 cities spanning over 50 countries. 
+These priorities include accelerating our carbon-free transition by taking 
+bold action to address the carbon impact associated with our operations, 
+through pioneering innovations like building and vehicle electrification, natural refrigerants, and 24/7 carbon-free electricity; advancing circularity 
+by transitioning from our current linear systems toward circular systems in 
+which natural resources and technical materials are reused; and cultivating healthy indoor and outdoor environments. 
+Healthy ecosystems
+We take a science- and community-driven approach to managing land use on our campuses, aiming to positively impact the places where we operate by designing and building our offices with local ecology and landscape resilience  
+in mind. We’re focused on creating healthy ecosystems that are great for people, provide animal habitat, support biodiversity, and can adapt to a changing climate.
+Google has a thriving egret rookery in the middle of our Mountain View, 
+California, campus. Since 2013, the Santa Clara Valley Audubon Society (SCVAS) and Google have worked together to provide conservation guidance and educational programming for the nesting area. Conservation efforts include limiting vehicular traffic during the breeding season, establishing   
+a protocol for collecting and caring for injured and orphaned egrets, and 
+installing signage. Additionally, the SCVAS organizes “Egret Office Hours,” 
+attracting hundreds of Googlers, community members, North Bayshore company employees, nature enthusiasts, school groups, and others to  
+learn about the rookery.BY	THE	NUMBERS
+15 million ft2 
+LEED-certified
+Since 2009, over 1.4 million 
+square meters (15 million square 
+feet) of Google office facilities 
+have achieved LEED certification.
+71%
+landfill diversion
+In 2019, we reached a 71% landfill 
+diversion rate for waste from our 
+offices globally. 
+9.2 million lbs  
+of food waste prevented
+Since 2014, we’ve prevented 
+nearly 4.2 million kilograms  
+(9.2 million pounds) of waste in 
+our cafés globally by tracking  
+pre-consumer food waste.
+43,000
+tCO2e emissions saved
+In 2019, by using Google shuttles 
+in the Bay Area, we saved more 
+than 43,000 tCO2e emissions—
+equivalent to taking 9,342 cars off the road every workday.
+44
+Google Environmental Report 2020 Creating sustainable workplacesWe’ve developed science-based Habitat Design Guidelines, which we 
+apply to our Bay Area campus design process. By the end of 2019, we’d 
+implemented these guidelines across our headquarters, resulting in the 
+planting of over 2,000 new native trees and the creation of over a dozen 
+acres of new site-appropriate habitat. Areas once defined by expanses of monotonous lawn and hedges now host vibrant colonies of native California wildflowers, shrubs, and trees teeming with bees and butterflies. We’ve also 
+partnered with local environmental organizations to make our Habitat Design 
+Guidelines available as a public resource .
+As part of these habitat expansion efforts, we’ve been a leader in “re-oaking” 
+Silicon Valley, bringing back lost native oak ecosystems. We’ve incorporated science-based re-oaking guidelines into our design guidelines for our Bay 
+View and Charleston East campuses to promote wildlife biodiversity, habitat 
+connectivity, and ecosystem function and catalyzed community efforts with 
+partner organizations across Silicon Valley to do the same. 
+To measure our impact, we’ve partnered with local environmental 
+scientists to study and monitor these new habitats. Results from our campus 
+biodiversity-monitoring program suggest that sites with native landscaping 
+can support up to two times more bird species than sites with conventional landscaping. This monitoring program is a unique effort to measure the impact of native landscaping on corporate campuses and will help inform future 
+design decisions at Google and other organizations. 
+Native landscaping helps enhance ecological 
+resilience at Google’s Bay Area headquarters. 
+45
+Google Environmental Report 2020 Creating sustainable workplacesGreen buildings
+This all starts with a strong foundation of sustainability standards applied to 
+the design, construction, and operation of our workplaces. These standards help us achieve sustainability at scale, while defining measurable metrics 
+to track progress and success. We also leverage industry-leading green 
+building certifications such as LEED and the Living Building Challenge (LBC), a standard administered by the International Living Future Institute (ILFI). By the end of 2019, over 1.4 million square meters (15 million square feet) 
+of Google office facilities had achieved LEED certification, with 29% of our 
+LEED-certified square footage achieving a Platinum rating and 56% a Gold rating (see Figure 14). In addition to receiving a LEED Platinum rating, our London office at 6 Pancras Square was the first building project in Europe to be fully certified by ILFI as well as the first in the world to receive ILFI 
+Zero Carbon Certification, demonstrating that the building was designed, 
+constructed, and operates with a net-zero carbon impact.
+At both of our Bay View and Charleston East campuses under construction 
+in Mountain View, California, we’re pursuing different LBC certifications 
+tailored to each campus’s specific sustainability goals. At Bay View, we’re 
+building a closed-loop water system to protect our local watershed. At Charleston East, we’re vetting every material to avoid toxic ingredients and diverting nearly all of our construction waste from the landfill. When finished, 
+Figure	14
+CUMULATIVE 	LEED-CERTIFIED 	OFFI CE 	SP ACE
+  Cumulative total     Certified and Silver     Gold     Platinum
+  1.5M —
+  1.0M —
+  0.5M —1.4M
+2012 2011 2013 2014 2015 2016 2017 2018 20190SQUARE METERS
+46
+Google Environmental Report 2020 Creating sustainable workplacesBay View will be the largest facility ever to receive the ILFI LBC Water Petal 
+certification, and Charleston East will be the largest facility ever to receive 
+the ILFI LBC Materials Petal certification. Our Bay View campus will also have the largest ground-source heat pump system installation in North America, 
+using geothermal heat to power the building’s climate control.
+39
+As part of our 24/7 carbon-free energy strategy, we continually pursue 
+energy-efficiency initiatives to reduce our energy consumption. In 2011, 
+our Google-occupied building spaces in New York City committed to the 
+NYC Carbon Challenge—a voluntary, public-private partnership with the 
+mayor’s office in which organizations strive for a 30% reduction in Scope 1 and Scope 2 GHG emissions per FTE employee by 2030. After meeting the 30% reduction goal, we committed to a 50% reduction by 2025. In 2018, we 
+exceeded this goal—seven years early. By the end of 2019, we had reduced 
+GHG emissions by 56% per FTE employee at our New York City office—primarily due to various energy-efficiency and emissions-reduction projects. Looking forward, we’re launching our NYC 2030 Carbon Strategy, which is intended to guide our next generation of action, including alignment with 
+Local Law 97, an ambitious, industry-leading building emissions regulation. 
+Our strategy will include a portfolio-wide audit, regulatory assessment, and strategic planning for retrofit and design opportunities, aiming to support the achievement of our 24/7 carbon-free energy goal by 2030. Inside a Google office in Sunnyvale, California
+47
+Google Environmental Report 2020 Creating sustainable workplacesWe also have a strong focus on the impacts associated with the selection, 
+production, transportation, use, serviceability, and recycling of the building 
+materials used for our spaces. We work to ensure that these products are 
+safe for humans and the environment throughout their life cycles. We’ve been 
+practicing deconstruction and salvage for our tenant interior construction since 2012, and we have a program in place to refurbish and reuse as much furniture as possible. In 2019, Google co-authored a white paper with the 
+Ellen MacArthur Foundation, illustrating the opportunity to deconstruct 
+commercial buildings to reuse materials for an increasingly sustainable and circular built environment. The most sustainable building is the one that already exists, so we look for opportunities to utilize existing spaces such as our Spruce Goose office  in the Los Angeles area, which uses a converted 
+airplane hangar, and our Fulton Market office in Chicago, which was a  
+cold-storage warehouse. We’re now working on scaling our deconstruction and salvage efforts for the benefit of not only Google but also the broader building industry.
+In 2019, we refocused our Healthy Materials Program to build on our 
+successes and the lessons we’ve learned, integrating targeted purchasing 
+guidance more fully across the design, construction, and operation of Google spaces. While an industry-wide transition to safe chemistry and healthy materials has begun, making this the new norm will require collective action 
+across sectors, increased access to high-quality data that assesses chemical 
+hazards, demand signals (from buyers like Google) to material and product manufacturers, and advancements in recycling technology and infrastructure.
+Office operations
+When it comes to our office operations, we support our sustainability priorities with initiatives focused on topics such as water, waste, food, and transportation, and we advance these priorities at global events and through 
+employee engagement.
+We reduce our water footprint by installing water-saving technologies and 
+using reclaimed water wherever possible. In 2018, we set a target to reduce 
+potable water intensity at our Bay Area offices by 5% by 2019, compared with 
+a 2017 baseline. In 2019, we achieved this target by reducing our Bay Area 
+potable water intensity by 6.5%—equivalent to avoiding the use of more than 85 million liters (22 million gallons) of potable water. Our current approach to global goal-setting focuses on the highest-impact opportunities. We’re now 
+targeting our work at Google offices in highly water-stressed locations. In 2019, we reduced 
+our Bay Area potable 
+water intensity by  
+6.5 %. 
+48
+Google Environmental Report 2020 Creating sustainable workplacesIn 2020, we were the first major tech company to achieve Alliance for Water 
+Stewardship certification for our office operations, certifying our campuses in Mountain View and Los Angeles, California, and Dublin, Ireland.
+40
+We implement strategies to minimize contamination in our office waste  
+streams and identify diversion pathways that keep the waste we do generate   
+out of landfills. In 2019, we reached 71% landfill diversion for our offices globally.
+Our cafés and Food Spots offer nutritious, responsibly sourced meals, 
+snacks, and beverages.41 We make thoughtful choices in the products we 
+buy and the suppliers we buy them from. We prioritize sustainability by preventing food waste, encouraging the use of reusable drinking containers, 
+avoiding air-shipped food whenever possible, and promoting low-carbon, 
+plant-forward offerings—all of which help reduce our environmental impact and support human health and well-being.
+We constantly devise inventive solutions to repurpose food and to compost 
+and donate leftovers wherever we’re legally able to do so. However, we’ve 
+learned that the best way to reduce food waste is to prevent it in the first 
+place by tracking data and making adjustments. In 2019, in our cafés around 
+the world, this sort of data-driven optimization helped Google prevent more than 1.1 million kilograms (kg) (2.5 million pounds) of pre-consumer food waste 
+(which includes items that are expired, over-produced, or spoiled), totaling 
+nearly 4.2 million kg (9.2 million pounds) of food waste prevented since 2014. 
+We also set 2018 and 2019 targets to reduce single-use beverages per 
+seated headcount at our top 25 offices by 20% and 35%, respectively, relative to a 2017 baseline. By the end of 2019, 23 of our top 25 office sites 
+had attained the 20% target, and 16 of them had achieved more than a 
+35% reduction. 
+Our transportation team plans, implements, and operates mobility 
+solutions to support Google’s global growth. We set ambitious goals for 
+helping Googlers transition to shuttles, carpooling, public transit, biking, 
+and walking. There is also a growing number of electric vehicles in our Google-owned and -operated commuter program fleet, with the majority of the nonelectric vehicles using renewable diesel. In 2019, our Bay Area 
+headquarters remained on track to meet our long-term goal of reducing 
+single-occupancy vehicle commuting to 45%. We also have a target to provide electric vehicle charging stations for 10% of the total parking spaces at our Bay Area headquarters. To date, we’ve achieved this design standard for the majority of new development projects and continue to work toward We’ve prevented  
+9.2 million lbs  
+of food waste since 2014.
+49
+Google Environmental Report 2020 Creating sustainable workplacesachieving it for all parking spaces. We’ve installed more than 3,400 electric 
+vehicle charging ports at our offices in the United States and Canada. In 2019, our Google shuttle buses in the Bay Area produced savings of more than 
+43,000 tCO
+2e emissions—the equivalent of avoiding more than 173 million 
+vehicle km (107 million vehicle miles) per year or taking 9,342 cars off the 
+road every workday.42
+Events
+Our events are public-facing spaces with many opportunities to embed sustainability principles beyond their programming, primarily through reducing waste and emissions. We’re experimenting with recycled and 
+recyclable materials, custom-built shipping crates, and modular conference 
+booth designs to do more with less at Google-hosted events like the 
+Geo for Good Summit and at global conferences like the CES and the 
+GREENTECH FESTIVAL. For example, design efficiencies for our 2020  
+CES Google Assistant conference space allowed us to achieve more than 
+a 50% reduction in waste compared with our 2019 build. We’re working on 
+reducing emissions via air travel by hosting hybrid satellite events—a mix of watch parties and local networking and learning experiences. 
+Because sustainability is part of our culture, we give our employees 
+opportunities to engage on environmental issues and put their passions into practice at work. Our Bay Area headquarters and many of our global 
+Google’s booth at the 2019 Greentech Festival in 
+Berlin, Germany, reused wood from shipping pallets.
+50
+Google Environmental Report 2020 Creating sustainable workplacesoffices celebrate Earth Day and World Environment Day by hosting annual 
+events where we share how Googlers can be sustainable on campus, at home, and in their communities. We also host an annual employee 
+recognition program to recognize Googlers around the world who are 
+driving sustainability across the company. Throughout the year we also invite thought leaders and experts to speak on the latest trends, achievements, and challenges related to sustainability, some of which are posted on the 
+Talks at Google YouTube channel. With most of the world sheltering in place, 
+working remotely, or both at some point in 2020, Google has helped everyone, especially our employees, learn sustainable living tips for life at home.
+Our employees constantly reinvigorate our determination to build a better   
+future. As we continue to explore sustainability strategies, we’re committed 
+to sharing what we learn with other companies to help foster the growth of 
+more productive, environmentally friendly businesses. 
+LEARN	MORE	
+• 2018	case	study:	The	Role	of	Sa fe 	C hemistry 	 and 	 Healthy 	 Materials 	 in 	Unl ocking  
+the	C ircular 	 Economy
+• 2018	case	study:	Seeding 	Resilience 	with	Ecology :	Implementing   
+Science-Based 	Ur ban 	 Ecological 	 Design 	 in 	G oogle’s 	So uth 	 Bay 	C ampuses
+• 2019	spotlight: 	The	J ourney 	T oward 	 Healthier 	 Materials
+• 2020	white	paper:	Accelerating 	the	C ircular 	 Economy 	 through 	C ommercial  
+Deconstruction 	and	Reuse
+51
+Google Environmental Report 2020 Creating sustainable workplacesSpotlight
+Designing a net-zero 
+carbon workplace
+Our pathway to a carbon-free future by 2030 starts with our own operations, 
+a key aspect of which is radically accelerating carbon emission reductions in buildings. That’s why we apply industry-leading green building practices 
+and pursue third-party green or healthy-building certifications for our office 
+projects whenever possible.
+Our 6 Pancras Square office building in London was the first building  
+project  in the world to receive ILFI Zero Carbon Certification, meaning that 
+it was designed, constructed, and operates with a net-zero carbon impact. 
+This building is also certified LEED Platinum and BREEAM (Building Research 
+Establishment Environmental Assessment Method) Excellent. 
+During construction, we used approximately 22% less energy than 
+standard practice, had no timber waste generated on-site, and diverted 
+98% of construction waste from landfills. Flexible design strategies—such 
+as modular, demountable systems for meeting rooms—were implemented to accommodate changing tenants and adaptable working requirements, with the goal of reducing future carbon emissions and renovation needs. By maximizing recycled content, sourcing local and low-carbon materials, 
+and reusing existing building materials, we helped ensure the project had  
+a net-zero carbon impact. 
+The long-term goal is to design, construct, and operate buildings that  
+are truly regenerative. We want future buildings to store more carbon  
+in their materials than what is spent producing them, to be powered by  
+24/7 carbon-free energy, and to positively impact their surrounding  
+ecology and community. 
+The interior of our office at 
+6 Pancras Square in London
+52
+Google Environmental Report 2020 Creating sustainable workplacesBuilding better 
+devices and 
+services
+53
+Google Environmental Report 202053 Google Environmental Report 2020Introduction
+Google’s consumer hardware product area was formed just over four 
+years ago. Our ambition is to create products that leave people, the planet, and our communities better than we found them. 
+In 2019, we shared our initial sustainability commitments for Google 
+hardware and services, demonstrating how we’re thinking about sustainability every step of the way—from design and manufacturing to shipping and reuse. One of our commitments was that by 2020, 100% of all shipments 
+going to and from customers would be carbon neutral. We hit this target 
+early: As of October 2019, 100% of all shipments of Made by Google products  
+going to and from direct customers are carbon neutral.
+43 
+Another goal is that by 2022, 100% of Made by Google products will include 
+recycled materials, with a drive to maximize recycled content whenever 
+possible. Based on our progress to date, we’re updating our original goal 
+and raising the bar by committing to using recycled or renewable material44 
+in at least 50% of all plastic used across all our hardware products by 2025, prioritizing recycled plastic everywhere we can.
+45 
+The next steps on our journey to sustainable hardware include committing 
+to achieving UL 2799 Zero Waste to Landfill certification at all final assembly 
+manufacturing sites by 2022 and making our product packaging 100% 
+plastic-free and 100% recyclable by 2025. 
+We’re at the start of a journey of reimagining how even better hardware 
+and hardware experiences are created. Looking ahead, we know there’s 
+more work to be done. We’ll continue working to design energy-efficient 
+products and to extend the useful life of our products by making them more serviceable. And we’ll continue ensuring that our products are accessible for as many people as possible. We’ve invested in integrating sustainability into our products, operations, and communities. Our new commitments are the 
+next step, and we plan on pushing ourselves and the industry forward even 
+more in the coming months and years. BY	THE	NUMBERS
+100 %  
+of shipments are 
+carbon neutral
+As of October 2019, shipments  
+of Made by Google products to  
+and from direct customers are 
+carbon neutral.
+100 %  
+of Nest products contain recycled 
+plastics
+In 2019, 100% of the Nest products 
+we launched, including Nest Mini 
+and Nest Wifi, were built with 
+recycled plastics.
+47  billion kWh
+of energy savings
+By the end of 2019, Nest 
+thermostats had helped 
+customers cumulatively save 
+more than 47 billion kWh of 
+energy—enough to power all 
+of San Francisco’s electricity consumption for over eight years.
+$150  million  
+investment into 
+renewable energy 
+projects
+We’ve committed to invest 
+approximately $150 million 
+into renewable energy projects in key manufacturing regions. 
+Our investment commitment, 
+alongside those of our 
+partners, aims to catalyze 
+roughly $1.5 billion of capital 
+into renewable energy.
+54
+Google Environmental Report 2020 Building better devices and servicesConsumer hardware devices
+Over the past few years, we’ve been steadily growing our family of Google 
+hardware products. We see tremendous potential for devices to be helpful, make life easier, and improve over time by combining the best of Google’s AI, 
+software, and hardware. This is reflected in our latest generation of consumer 
+hardware products. In 2019, we launched Pixel 4, Pixel Buds, Nest Mini, Nest Wifi , Pixelbook Go, and the Stadia Controller . In 2020, we launched Pixel 5, 
+Pixel 4a (5G), Pixel 4a, Nest Audio , Chromecast with Google TV, and a new 
+Nest Thermostat, among other products. 
+In 2018, we began publishing product environmental reports for our  
+flagship products to help people understand the sustainability attributes of our products. Each report provides an overview of that device’s environmental impact in areas such as material composition, life cycle 
+GHG emissions, and energy efficiency. We hold ourselves to the highest 
+environmental standards and strive to ensure that Google products are designed, manufactured, and disposed of sustainably. This applies to how  we think about materials, manufacturing processes, energy efficiency,  
+and packaging. Collaborating on the design 
+of Nest Wifi and Nest Mini
+55
+Google Environmental Report 2020 Building better devices and servicesWe consider sustainability throughout a device’s entire life cycle, including  
+its design, production, transportation, use, and end of life. Our product life  
+cycle assessments give us insight into our largest opportunities for reducing 
+the environmental impact of a given product. For example, GHG emissions 
+from shipping are an important contributor to our products’ environmental impact. To achieve carbon neutrality for shipping, we have a two-step approach: The first step is carbon reduction. Our goal is to work with shipping 
+partners to reduce shipping emissions. We achieved a 33% reduction in total 
+transportation emissions per unit for Google hardware products from 2017  
+to 2019. For the emissions that remain, our second step is to purchase  
+high-quality carbon offsets. As of October 2019, shipments of Made by  
+Google products to and from direct customers are carbon neutral.
+46  
+We support greener electronics standards and certifications, including 
+UL 110, IEEE 1680.1, and the Electronic Product Environmental Assessment 
+Tool (EPEAT).47 In the mobile phone category, we’ve achieved EPEAT Gold 
+registration for all current models of the Pixel phone, starting with the Pixel 3  
+in 2018 and most recently with the Pixel 5 in 2020.48 In the computer and 
+display category, Pixelbook Go and Pixel Slate achieved EPEAT Silver 
+registration when launched.49 
+We also strive to make our products as energy efficient as possible. 
+For example, Google Pixelbook incorporates power-management software to 
+reduce energy consumption during use. This allowed it to attain ENERGY STAR® 
+certification, which means it has energy performance among the top 25% of similar products. In February 2017, the Nest Learning Thermostat became the first smart thermostat to achieve ENERGY STAR certification by the EPA.
+50 
+Other products with ENERGY STAR certification include Pixelbook Go,  
+Pixel Slate, Nest Thermostat E, and the new Nest Thermostat.
+Circular materials
+Google has a goal to increase the sustainability and circularity of our  
+consumer hardware products, operations, and communities. By decreasing 
+our use of new materials, we’ll reduce our waste per device while signaling our 
+demand for a more circular economy. 
+To accelerate the transition to a circular economy, it’s critical to create 
+demand for recycled materials. We aim to design products and services for circularity and to reuse materials at their highest environmental and social 
+value. Our original goal was to include recycled materials in 100% of Made  
+by Google products, starting in 2022. We hit that goal early: In 2019, 100% of 
+the Nest products we launched were built with recycled plastics, and in 2020,  all new Pixel and Nest products were also designed with recycled materials.  As of October 2019, 
+shipments of Made by 
+Google products to and 
+from direct customers are  
+carbon neutral.
+56
+Google Environmental Report 2020 Building better devices and servicesTo raise the bar, we’re now committing to using recycled or renewable 
+material in at least 50% of all plastic used across all our hardware products  
+by 2025, prioritizing recycled plastic everywhere we can.
+The Nest Mini’s external enclosure is made from 41% post-consumer 
+recycled plastic , and its fabric covering is made from recycled plastic 
+bottles. In fact, one half-liter bottle can make enough textiles for two Nest Mini speakers. The same sustainable fabric was used for the Nest Audio 
+speaker enclosure, and in the Pixel 4a case and Pixel 5 case, all of which 
+are made from 70% recycled materials. Two recycled plastic bottles can provide enough knitted outer fabric for five cases. These processes provide a second use for plastic bottles so that they don’t end up in oceans or landfills. Also, the aluminum used in the back housing enclosure of the Pixel 5 
+is 100% recycled. This is our first phone to incorporate recycled aluminum, 
+which lowers the carbon footprint of manufacturing the enclosure by 35% compared with using mined aluminum.
+Incorporating recycled plastic into consumer electronics is very challenging, 
+so we’ve spent years building partnerships with top-tier materials suppliers willing to invest in producing high-quality materials and innovation. Going forward, we’re committed to expanding the use of sustainable materials across our product portfolio. Google’s focus on incorporating recycled materials into our hardware design not only supports our sustainability One plastic water bottle creates enough 
+fabric for two Nest Mini enclosures.
+57
+Google Environmental Report 2020 Building better devices and servicescommitments but also enables our supply chain partners to confidently 
+invest in and develop these types of materials so that the wider consumer electronics industry can use them too.
+We want to ensure that the materials and substances used for our  
+products are safe for people and the environment, can be reused to create future products, and retain economic value. One of the keys to unlocking the circular economy is safer chemistry from the start, so in 2017, we published 
+our Restricted Substances Specification to ensure the use of safer materials 
+across our products.
+We’re also making it easier for people to give their old devices a second 
+life. Customers can responsibly recycle devices for free—whether made by Google or not—via our take-back program, which expanded in 2020 and is 
+available in 32 countries, and via our U.S. and Canada Pixel trade-in program, 
+which allows customers to earn credit toward a new Pixel purchase.
+Energy savings
+Our products, such as Nest thermostats, enable customers to be more 
+thoughtful about their individual environmental impact. Connected homes can help streamline a customer’s daily decisions about resource 
+consumption, making sustainable choices easier for busy households.
+For example, smart thermostats can play a critical role in addressing climate  
+change  by automatically saving energy and helping customers be more aware 
+of their energy usage. These savings benefit customers, as well as the utilities 
+generating and delivering the energy, while reducing energy use and  
+GHG emissions.
+Nest thermostats help control residential heating and cooling systems—
+which can make up around half of a home’s energy consumption. Some  
+Nest thermostats also use AI and machine learning to reduce energy 
+consumption and achieve collective savings as they learn how and when  
+to keep customers comfortable, while optimizing for energy efficiency.  
+On average, Nest thermostats have proven energy savings of 10%–12% for heating and 15% for cooling,
+51 which means they pay for themselves in under 
+two years as a result of those savings.52 By the end of 2019, Nest thermostats 
+had helped customers cumulatively save more than 47 billion kWh of energy 
+(see Figure 15), based on average savings studies—enough energy to power 
+all of San Francisco’s electricity consumption for more than eight years.  
+In 2019 alone, Nest thermostats helped customers save over 17 billion kWh  
+of energy—more energy than Google used in 2019.  In 2019 alone, Nest thermostats 
+helped customers save over  
+17 billion kWh   
+of energy—more energy than 
+Google used in 2019.
+58
+Google Environmental Report 2020 Building better devices and servicesPartnerships
+As part of our commitment to make technology that puts people first and 
+expand access to the benefits of technology, our teams have explored a range of approaches, including the use of ultrasound sensing to make 
+Nest displays more accessible and collaborative partnerships with energy 
+companies and service providers to help customers save energy and money. 
+Nest’s Rush Hour Rewards program works in partnership with energy 
+providers to reduce energy use during times of peak demand by harnessing 
+the power of customer engagement—acting as a leader in demand response 
+programs for energy customers. Where there are extreme weather events and power outages, such programs—including one announced in 2020 in California—have helped keep the lights on.
+53 In 2018, Nest and partners also 
+pioneered residential gas demand response programs. In a world of gas shortages and increasing weather variability, these programs are proving 
+their capability to manage demand spikes and increase system flexibility.Figure	15
+CUMULATIVE 	HOUSEHOLD 	ENERGY 	S AVED 	 BY	 
+NEST	THERM OSTAT 	CUS TOMERS
+  Cumulative savings
+  20 —
+  10 —  30 —  40 —  50 —BILLION kWh
+2013 2014 2015 2016 2017 201847.0
+20190
+59
+Google Environmental Report 2020 Building better devices and servicesWe also work with energy, government, nonprofit, and manufacturing 
+partners to expand access to the benefits of technology through income-
+qualified programs. Nearly one in four U.S. households struggle with a high   
+energy burden, with up to 20%–50% of household income going to energy bills.
+54 In 2018, we launched the Nest Power Project, which aims to install   
+1 million energy- and money-saving Nest thermostats in homes that need 
+them most by 2023. As of November 2020, we had worked with partners to 
+provide more than 300,000 Nest thermostats to households in need.
+Stadia , Google’s gaming platform, joined the Playing for the Planet Alliance 
+in 2019 and will work closely with the UN Environment Programme (UNEP) 
+to support various gaming-related sustainability initiatives in the coming years. 
+Stadia is powered by Google Cloud, which means it’s carbon neutral.
+Our commitments go beyond the consumer hardware products we make. 
+We’re committed to minimizing our environmental impact and improving 
+the lives of people who make our products. We want to work toward a world where everyone has access to renewable energy, including our 
+suppliers and their communities. As a part of this, in 2019, we committed 
+to invest approximately $150 million into renewable energy projects in key 
+manufacturing regions. Our investment commitment, alongside those of our partners, aims to catalyze roughly $1.5 billion of capital into renewable energy. Some of Google’s consumer hardware products: Pixel 5, Pixel 4a with 5G, 
+Pixelbook Go, Stadia Controller, Nest Wifi router, Nest Wifi point, and Nest Mini
+60
+Google Environmental Report 2020 Building better devices and servicesWith these investments, we expect to help generate renewable energy  
+that is equivalent to the amount of electricity used to manufacture our 
+Google consumer hardware products.
+LEARN	MORE
+• 2015	white	paper:	Energy	Sa vings 	fr om 	 the 	 Nest 	 Learning 	Thermo stat:  
+Energy	Bill	An alysis 	 Results
+• 2018	report:	Circular 	C onsumer 	 Electronics: 	An 	 Initial 	 Exploration
+• 2020	report:	Supplier 	Responsibility 	Report
+• Guidelines: 	Alphabet’s 	C onflict 	 Minerals 	 Policy 	 and 	 2019 	C onflict   
+Minerals 	Report
+• Guidelines: 	Policy	A gainst 	 Modern 	Sl avery  and 2019	S tatement 	A gainst  
+Modern 	Sl avery
+• Guidelines: 	Restricted 	S ubstances 	Spe cification
+• Website: 	Google	S tore 	S ustainability
+• Website: 	Product 	Environmental 	Reports
+• Website: 	Supplier 	Responsibility
+61
+Google Environmental Report 2020 Building better devices and servicesSpotlight
+Making energy savings  
+easy with Nest
+In our next decade of climate action, we’re focused on helping 1 billion people 
+live more sustainably. This means ensuring our products enable everyone to connect with the right tools, information, and guidance to take action. 
+People want to use less energy at home, whether to save money or help 
+the environment. With the new Nest Thermostat, that’s now easier than ever. As of March 2020, Nest thermostat owners had saved over 50 billion kWh  
+of energy since we first introduced the device nearly a decade ago—that’s 
+enough energy to light up the entire planet for five days. 
+Nest thermostats are designed to bring more energy savings to more 
+people. The Savings Finder and Seasonal Savings features act like personal 
+energy monitors, suggesting small optimizations and making schedule 
+tweaks—sometimes by just a fraction of a degree each day—using the  
+Home app. These little changes through the Seasonal Savings feature can  add up: The average customer sees 3%–5% in energy savings on their home’s heating and cooling systems. 
+The new Nest Thermostat is also helping customers monitor their heating 
+and cooling systems, detecting and sending alerts about potential issues 
+early on. To avoid heating or cooling an empty house, Nest thermostats  
+use sensors to automatically set themselves to an Eco temperature  
+when no one’s home.
+Setting the temperature with 
+the new Nest Thermostat
+62
+Google Environmental Report 2020 Building better devices and servicesEmpowering 
+users with 
+technology
+63
+Google Environmental Report 202063Introduction
+A global challenge requires a global response. We want to leverage our 
+scale, resources, and technological expertise to meet the vast challenge posed by climate change and work to empower everyone—businesses, 
+governments, nonprofits, communities, and individuals—to use Google 
+technology to help create a more sustainable and resource-efficient world.
+For more than a decade, many of our technologies have helped to 
+measure, monitor, and visualize the planet in real time. We’re using artificial 
+intelligence to find new ways to address environmental challenges—such 
+as predicting natural disasters and preventing wildlife trafficking—and to improve people’s lives through crisis response. Our vision is to leverage our mapping, cloud, and machine learning technologies to create a living, breathing dashboard of our planet.
+We’re building products and tools that empower billions of people to 
+better understand and reduce their personal environmental impact. We’ve already started this journey by enabling sustainable transit via Google Maps and Waze , including carbon emissions data in Google Flights, and 
+adding sustainability filters in Google Shopping. Over the next two years, 
+we’ll continue to build features like these that connect people with more sustainable options and offer actionable information at the right time.  
+Our goal is to find new ways that our core products can help 1 billion  
+people make more sustainable choices by 2022.
+Mapping our world
+Millions of people around the globe use Google Earth to explore and 
+understand our ever-changing planet. In 2019, Google Earth introduced new tools to help users create maps  about places that matter to them, 
+shared audio recordings from more than 50 Indigenous language speakers,  
+and developed guided tours  through 31 U.S. national parks. 
+While Google Earth is for exploration, storytelling, and raising awareness, 
+Google Earth Engine gives researchers access to Google’s massive cloud 
+and computational capabilities for planetary-scale geospatial analysis. 
+Newly integrated with Google Cloud’s AI Platform, Google Earth Engine 
+included over 25 petabytes
+55 of freely available geospatial data  as of the  
+end of 2019. Between updates and expansions to existing datasets and new data additions  in 2020, the catalog grows at a rate of approximately 
+1 petabyte per month. Whether it’s a teenager monitoring mangroves   
+with NASA, a cartographer visualizing tsunamis, or Indian citizens mapping  
+invasive species, tens of thousands of people around the world use  BY	THE	NUMBERS
+25  petabytes
+of freely available 
+geospatial data
+Earth Engine has enabled tens 
+of thousands of active users 
+around the world to easily 
+analyze over 25 petabytes 
+of freely available geospatial 
+information, resulting in a deeper 
+understanding of the planet. 
+1 billion km  
+of transit results
+Google Maps provides, on 
+average, more than 1 billion 
+kilometers’ (621 million miles’) 
+worth of transit results per 
+day, helping to limit carbon emissions by giving people 
+access to mass transit options, 
+bike routes, and traffic 
+information.
+100 cities  
+empowered with 
+environmental insights
+In 2019, we expanded the 
+Environmental Insights Explorer  
+to more than 100 cities worldwide, 
+empowering city planners and 
+policymakers with data to help 
+develop climate action plans.
+170 million  
+rooftops mapped  
+with solar data
+By the end of 2019, Project 
+Sunroof contained data for 
+more than 170 million rooftops 
+across 21,500 cities, helping 
+users estimate the impact and 
+potential savings from installing 
+solar panels.
+64
+Google Environmental Report 2020 Empowering users with technologyGoogle Earth Engine to create new knowledge that’s fundamentally changing 
+what we know about Earth’s natural resources and how to manage them.
+Google Maps helps limit carbon emissions by giving people access to mass 
+transit options, bike routes, and traffic information. It has transit information for nearly 11,000 agencies running through more than 4.3 million transit stations in over 100 countries and provides, on average, more than 1 billion kilometers’ (621 million miles’) worth of transit results per day. Whether traveling in a 
+new city or planning a daily commute, Google Maps makes it easier to weigh 
+every transportation option with real-time information. Users can view live  
+traffic delays for buses, public transit crowdedness predictions , bikeshare  
+information , scooter availability , and first- or last-mile transit directions  paired 
+with biking and ridesharing. At the end of 2019, Google Maps contained nearly 
+142,000 electric vehicle charging port locations globally.
+Launched in the Bay Area in 2016, Waze Carpool is also tackling the issue of 
+too many cars on the road by encouraging Waze users to commute together,  
+saving time and money while reducing the strain on transportation infrastructure and the environment. In 2019, Waze drivers and riders carpooled more than 
+120 million km (75 million miles), offsetting more than 26,000 tCO
+2e emissions, 
+which is the equivalent of planting more than 400,000 trees.56 By the end of 
+2019, Waze Carpool was available nationally throughout Brazil, Israel, Mexico, and the United States. Cities also use Waze’s data, now on Google Cloud, to 
+inform mobility projects and policies and to share their own information about street closures or construction directly with residents on a daily basis.Google Earth image of Yellowstone 
+National Park in the United States ©2020 Maxar Technologies
+65
+Google Environmental Report 2020 Empowering users with technologyThrough Google Earth Timelapse—a global, zoomable video released in  
+2013 that lets us see how the world has changed over the last 35 years—  
+we can watch as cities grow, forests disappear, glaciers recede, and lakes  
+dry up. For example, one researcher used Timelapse in 2019 to illustrate  
+India’s rapid urbanization and monitor the regrowth of mangrove forests  
+on India’s eastern coastline.
+Technology for the planet
+We put Google technology to work helping others study and respond to 
+environmental challenges. Our Google Earth Outreach team collaborates with 
+numerous research and nonprofit organizations to map the world’s forests, 
+fisheries, watersheds, and air quality. We then work on getting that information 
+into the hands of decision-makers. 
+For example, in 2018, we launched the Environmental Insights Explorer  
+(EIE). This online tool uses exclusive data sources and modeling capabilities in a freely available platform to help cities measure emission sources, run 
+analyses, and identify strategies to reduce emissions. By analyzing Google’s 
+comprehensive global mapping data together with standard GHG emission factors, EIE estimates city-scale building and transportation carbon emissions and renewable energy potential, leading to more globally consistent baselines 
+from which cities can measure, plan, act upon, and track progress toward 
+emissions reductions. While EIE had officially published data for 100 cities by the end of 2019, the EIE team has processed climate-relevant data across a sample of 3,000 cities to produce emissions insights from approximately 95 million buildings and nearly 3 trillion km traveled. We worked  with the Global 
+Researchers use Google Earth 
+Timelapse to monitor mangrove forest regrowth in Kansardia, Odisha, India.©2020 Google / Landsat / Copernicus
+66
+Google Environmental Report 2020 Empowering users with technologyCovenant of Mayors for Climate & Energy and ICLEI, a global network of local 
+governments committed to sustainability, to review and validate the tool, and in 2019 we launched EIE Labs, which currently hosts climate-focused 
+datasets on air quality and tree canopy . The cities of Hamburg, Germany; 
+Hartford , Connecticut, United States; Kyoto , Japan; and Melbourne, Australia, 
+are just a few leading examples of how access to innovative data sources for 
+measuring and tracking impacts of GHG emissions helps cities act in a timely, 
+effective way. In 2020, we committed to helping more than 500 cities and 
+local governments reduce an aggregate of 1 gigaton of carbon emissions per  
+year by 2030, using EIE to support local climate action planning.
+Launched in 2014, Proje ct Air View measures air quality data by using 
+Google Street View cars equipped with air quality sensors. In 2019, Project Air 
+View increased its air quality mapping efforts, expanding beyond the United 
+States to map air quality in Copenhagen , Denmark; London , United Kingdom; 
+and Amsterdam , the Netherlands. And we’re enabling 50 more Street View cars  
+with Aclima’s mobile air sensors. 
+We’re also helping users explore whether they should go solar with Project  
+Sunroof , launched in 2015. This online tool analyzes high-resolution aerial 
+mapping and 3D modeling of residential roofs to sun positions, historical weather patterns, shadows cast by nearby objects, and typical electricity consumption. By the end of 2019, Project Sunroof contained data for more 
+than 170 million mapped rooftops across 21,500 cities. Policymakers can use 
+Sunroof data to make bold renewable energy commitments. For example, A map of Copenhagen’s 
+hyperlocal air quality data available through EIE Labs  
+Map data ©2020 
+67
+Google Environmental Report 2020 Empowering users with technologythe cities of San José, California, and Houston, Texas, have both used the 
+data for city-wide solar assessments as part of their climate action plans. In addition to city climate plans, Sunroof data is being used by some of the 
+world’s largest utilities, such as Engie and E.ON, to provide customers with 
+the option to power their homes with solar energy. The data has also been used to develop a tool to design solar power systems on residential roofs. And the tool was used in recovery efforts in Puerto Rico after the devastating 
+Hurricane Maria in 2017.
+Our technology is used to monitor and promote sustainable resource 
+management with tools like Global Fishing Watch (GFW), which launched 
+in 2016. Powered by Google Cloud’s machine learning algorithms, GFW 
+monitors  the planet’s fisheries by tracking the locations and behaviors 
+of commercial fishing fleets and making the data freely available and 
+transparent. The research community has released 13 new top-tier journal  
+publications  in the last two years alone, with over 25 total since 2016. Using 
+GFW’s near-real-time satellite-tracking data in the Pacific Ocean, there 
+was a threefold increase in boardings and an eightfold increase in violation 
+detections by the United States Coast Guard in 2019. Seeing the value of 
+transparency, governments from Chile, Costa Rica, Namibia, and Panama are joining Canada, Indonesia, Japan, and Peru in new commitments and programs using GFW insights. 
+In collaboration with UNEP and the European Commission Joint Research 
+Centre, Google launched a new platform  enabling all countries to freely 
+measure and monitor when and where surface water is changing. The Freshwater Ecosystems Explorer provides statistics for every country’s  
+annual surface water and shows changes from 1984 through 2019 via 
+interactive maps, graphs, and full-data downloads. Previously, 80% of the 
+roughly 200 UNEP member countries were unable to measure national water statistics; now, more than 160 countries plan to use this platform to officially report on the targets set out in the United Nations Sustainable Development 
+Goal for clean water and sanitation.
+AI for social good
+In 2018, Google AI announced its AI for Social Good program, which applies 
+core Google research and engineering efforts to projects that help address 
+social, humanitarian, and environmental challenges. Additionally, the program 
+provides tools and resources through initiatives like the Google AI Impact  
+Challenge , which was an open call for nonprofits, academics, and social 
+enterprises from around the world to submit proposals on how they could 
+use AI to help address some of the world’s greatest problems. For example, 160  
+countries   
+plan to use the 
+Freshwater Ecosystems 
+Explorer to officially 
+report on United 
+Nations Sustainable Development Goal 
+water targets.
+68
+Google Environmental Report 2020 Empowering users with technologyWattTime, a 2019 Google AI Impact Challenge grantee, is using satellite 
+images and processing algorithms to monitor global power plant emissions. 
+In 2020, WattTime and its partners announced Climate TRACE (Tracking 
+Real-time Atmospheric Carbon Emissions), a new coalition applying similar techniques to build the world’s first tool to trace all major sources of human-caused GHG emissions to their source anywhere in the world in real time.
+Google’s AI for Social Good program and Crisis Response teams launched  
+a flood-forecasting pilot in Patna, India, in 2018. To help keep people safe 
+during floods, we’re using AI to create better forecasting models that predict when and where floods will occur. The predictions are made using a combination of machine learning, satellite imagery, and physics-based simulations. The predictions are then shared with affected individuals via 
+Google Public Alerts. In 2019, we expanded our flood-forecasting coverage  
+area  in India by 12 times, improved our tracking accuracy notification 
+infrastructure, sent over 800,000 alerts to individuals in affected areas, 
+and developed key partnerships with local governments, international organizations, the academic community , and operational experts. In 2020,  
+we further expanded in India and brought our flood warnings and services  to Bangladesh , which experiences more flooding than any other country in  
+the world. Through services such as flood forecasting, wildfire mapping,  
+and earthquake detection, we continue to find new ways for technology  
+to be helpful at the most critical times.
+AI can also aid in wildlife conservation. Twenty-one companies joined 
+Google in launching the Coalition to End Wildlife Trafficking Online in 2018, 
+collectively creating a wildlife policy framework for online trade and an 
+In 2020, we launched a new wildfire 
+boundary map in the United States.
+69
+Google Environmental Report 2020 Empowering users with technologyindustry-wide approach to reduce online wildlife trafficking. The coalition 
+has now grown to 36 companies, uniting the tech industry to standardize prohibited wildlife policies, better detect illicit wildlife products, enhance 
+automated detection filters, and empower users to report suspicious listings. 
+In 2019, Google joined a number of partners in launching the Wildlife Insights  
+platform, developing custom AI models to automatically identify species in wildlife camera trap images so that conservationists can act more quickly 
+to help recover global wildlife populations. Google’s AI for Social Good 
+program also partnered with the NOAA Pacific Islands Fisheries Science Center to train an AI model on its vast collection of whale songs , helping 
+scientists better protect endangered whales.
+Using TensorFlow , Google’s open-source machine learning platform, 
+we’re enabling thousands of companies, nonprofits, researchers, developers, and students to apply machine learning to help fight illegal deforestation, 
+predict forest fires , combat crop pests, keep cows healthy , save the world’s  
+bees , and sort recyclable waste. TensorFlow is also being used along with 
+Google Cloud to help farmers reduce food-crop loss. 
+In 2019, we launched the Google for Startups Accelerator focused on the 
+United Nations Sustainable Development Goals, to help build and scale viable social impact companies to solve the world’s biggest problems with the best of Google, including our advanced technology. We selected 11 startups from 
+almost 1,200 applications from across Africa, Europe, and the Middle East 
+that are using technology to work toward at least one of the 17 Sustainable Development Goals.
+In 2020, we partnered with other institutions to advance weather and  
+climate prediction, forecasts, and technology. We’re working with NOAA  
+to explore the benefits of AI and machine learning to amplify environmental monitoring, weather forecasting, and climate research using Google Cloud infrastructure. Google was also a founding member of the AI Institute for Research on Trustworthy AI in Weather, Climate, and Coastal Oceanography, 
+which is developing trustworthy AI technology to address concerns related 
+to weather, climate, and coastal hazards. 
+Tools for everyone
+At Google, we know that individual actions can collectively make a big difference. We’re continuously looking for ways to help support everyone  
+on their journey to a more sustainable life.
+In 2018, Google teamed up with the California Academy of Sciences  
+to launch Your Plan, Your Planet, an award-winning interactive tool to help 
+people understand their environmental impact as it relates to food, energy, 
+70
+Google Environmental Report 2020 Empowering users with technologyand water, while demonstrating simple, science-based ways to improve it.  
+For example, individuals can learn tips to use at home, such as that food lasts longer when stored in the right spot in the fridge or that dishwashers use less 
+energy and water than washing dishes by hand. In 2019, we expanded the 
+tool to include a section on the circular economy and how people can extend the life of their stuff, and we released an education component as a tool for teachers. As of the end of 2019, Your Plan, Your Planet had documented more 
+than 300,000 individual pledges for people to take action to reduce their environmental impact.
+Google Assistant can help people go green by incorporating actions  
+to save energy, materials, and water into day-to-day life. For example, they can set daily routines that can help automate a more sustainable lifestyle. 
+In 2019, we partnered with Earth 911 to bring better recycling information to 
+the Google Assistant in North America, helping people make better, more 
+informed decisions about what to recycle based on their location. The Google Assistant will respond to queries about where to recycle with an address and  
+a map showing the fastest way to get there.
+We now offer carbon emissions data and the capability to sort flights by 
+least carbon-intensive option in Google Flights in select European countries. As of October 2019, we began offsetting all GHG emissions from shipping Buy on Google orders to customers, making Google Shopping carbon neutral 
+in the United States and France. And sustainability filters and zero-plastic 
+packaging options for stores in Google Shopping in the United States offer new functionality to enable users to make sustainable choices .
+We believe our core mission of organizing the world’s information plays 
+a key role in connecting people with sustainable choices for products, 
+services, and actions. We want to make it easier for people to help the planet 
+in their daily lives, by reducing the friction between good intentions and taking action. We’re committed to offering 1 billion people new ways to live more sustainably with the help of our core products like Search and Google 
+Maps, and we’ll continue to look for more ways for our products to enable 
+sustainable choices for a carbon-free world.
+LEARN	MORE
+• 2017	report:	Cities	in	the	C ircular 	 Economy: 	The 	 Role 	 of 	 Digital 	T echnology
+• Website: 	Google	AI: 	AI 	f or 	Soci al 	G ood 	Gui de
+• Website: 	Google	Earth	Ou treach: 	T ools
+• Website: 	Sustainability: 	T echnology 	T oolsWe’re committed  
+to offering   
+1 billion  
+people new ways to 
+live more sustainably 
+with the help of our 
+core products by 2022.
+71
+Google Environmental Report 2020 Empowering users with technologySpotlight
+Expanding climate insights 
+Down Under
+Over 70% of global carbon emissions come from cities. City leaders around 
+the world have pledged climate action and better air quality for their residents, but identifying the source of emissions—buildings, cars, or public transport—
+and measuring how much each is contributing is complex.
+As part of Google’s most ambitious decade of climate action, we’re making 
+a commitment to help more than 500 cities and local governments reduce 
+an aggregate of 1 gigaton of carbon emissions per year by 2030. To do this, 
+we’ll empower city planners and policymakers with the Environmental Insights 
+Explorer (EIE) to make it easier for cities to measure progress against their 
+climate action plans.
+Melbourne, Australia, was one of five pilot cities included in the EIE launch 
+in 2018, and Australian cities Adelaide , Canberra, and Sydney  were added in 
+2019. In 2020, we expanded EIE data access to thousands of cities worldwide, 
+including more than 100 Australian councils.
+To scale data access to local governments, policymakers, and community 
+groups, we’re developing partnerships with Australian organizations, councils, and climate change experts. This includes a partnership with Ironbark 
+Sustainability and Beyond Zero Emissions to make EIE transportation data 
+available in Snapshot—a free climate tool that calculates major sources of carbon emissions, including stationary energy, transport, waste, agriculture, and land-use change. Integrating EIE data into Snapshot provides updated 
+GHG profiles and enables local government policy decision-making for more 
+than 86% of the country’s population, putting councils on a fast track to deliver climate commitments, build local resilience, and ensure economic recovery.
+The Environmental Insights Explorer tool 
+provides city-level carbon emissions data.  
+©2020 CNES / Airbus, Landsat / Copernicus, Maxar Technologies
+72
+Google Environmental Report 2020 Empowering users with technologyAppendix
+73
+Google Environmental Report 202073Environmental data
+The following table provides an overview of our performance over time and  
+includes both environmental data for our global operations (including our data centers, offices, networking infrastructure, and other facilities) and data beyond 
+our operations (including our investments and technology). The majority of our 
+environmental data covers Alphabet Inc. and its subsidiaries, including Google LLC. All reported data is global and annual unless otherwise specified. 
+We obtain third-party assurance from an independent, accredited auditor 
+for specific environmental data as part of our Independent Accountants’ Review , including select energy, emissions, and water metrics, indicated in  
+the table below. 
+For more information on our 2019 energy use and GHG emissions, see 
+Alphabet’s 2020 CDP Climate Change Re sponse . 
+Key	performance 	indicator	Assur ed	 
+for 201958,59 Unit 2015 2016 2017 2018 2019
+OUR	OPERATIONS
+GREENHOUSE 	G AS	E MISSIONS
+Emissions 	inventory60 
+Scope 1 tCO2e 66,991 66,218 66,549 63,521 66,686
+Scope 2 (market-based)61 tCO2e 1,384,427 1,518,643 509,334 684,236 794,267
+Scope 2 (location-based) tCO2e 2,450,438 2,902,554 3,301,392 4,344,686 5,116,949
+Scope 3 (total)62 tCO2e 1,234,683 1,292,268 2,719,024 12,900,467 63,6411,669,000
+Scope 3 (business travel and commuting) tCO2e 297,789 314,028 356,060 463,467 542,000
+Scope 3 (other) tCO2e 936,894 978,240 2,362,964 12,437,0006511,127,000
+Total (Scope 1, 2 [market-based], and 3 [total]) tCO2e 2,686,101 2,877,129 3,294,907 13,648,224 66,6712,529,953
+Operational 	emissions68 
+Scope 1, 2 (market-based), and 3  
+(business travel and commuting)tCO2e 1,749,207 1,898,889 69 931,943 1,211,224 1,402,953
+Scope 1, 2 (location-based), and 3  (business travel and commuting) tCO2e 2,815,218 3,282,800 3,724,001 4,871,674 5,725,635
+Emissions 	reduced 	and	neutralized
+Total emissions reduced by renewable energy  PPAs and neutralized by carbon offset projectstCO
+2e –3,752,112 –3,282,800 –3,724,001 –4,871,674 –5,725,635
+Emissions reduced by renewable energy PPAs tCO2e –1,066,011 –1,383,911 –2,792,058 –3,660,450 –4,322,682
+Emissions neutralized by carbon offset projects tCO2e –2,686,101 –1,898,889 –931,943 –1,211,224 –1,402,953
+Net operational carbon emissions70 tCO2e 0 0 0 0 0
+Carbon	intensity71 
+Carbon intensity per unit of revenue tCO2e/ 
+million US$19.4 17.6 5.19 5.47 5.32
+Carbon intensity per full-time equivalent employee tCO2e/ 
+FTE25.0 23.4 7.60 8.36 7.96
+Carbon intensity per megawatt-hour of  energy consumed
+72 tCO2e/ 
+MWh0.262 0.243 0.0717 0.0707 0.0675Fiscal	year57
+74
+Google Environmental Report 2020 AppendixKey	performance 	indicator	Assur ed	 
+for 2019 Unit 2015 2016 2017 2018 2019
+ENERGY
+Energy	use
+Energy consumption73  MWh 5,533,433 6,513,719 8,029,409 10,572,485 12,749,458
+Total electricity consumption MWh 5,221,476 6,209,191 7,609,089 10,104,295 12,237,198
+Electricity consumption (U.S.) MWh 3,779,280 4,522,314 5,533,783 7,085,620 8,489,242
+Electricity consumption (international) MWh 1,442,196 1,686,877 2,075,306 3,018,675 3,747,956
+Energy	efficiency
+Average annual fleet-wide power usage 
+effectiveness across Google data centers  PUE 1.12 1.12 1.11 1.11 1.10
+Renewable 	energy
+Renewable energy contracts (cumulative) MW 2,121 2,611 2,960 3,837 5,401
+Total renewable electricity purchased74MWh 2,531,157 3,770,571 7,609,089 10,104,295 12,237,198
+Renewable electricity (PPAs and on-site) MWh 2,083,474 2,817,913 6,244,788 8,246,508 9,721,283
+Renewable electricity (grid) MWh      447,683 952,658751,364,301 1,857,787 2,515,915
+Electricity purchased from renewable sources76 % 48 61 77100 100 100
+WASTE
+Waste	generated
+Waste generated t 50,050 43,058 53,363 57,113 51,617
+Waste	diversion
+Total landfill diversion rate78 % — 81 83 80 76
+Landfill diversion rate (data centers) % 84 86 91 87 90
+Landfill diversion rate (offices) % 78 78 78 76 71
+Pre-consumer food waste prevented in cafés 
+(cumulative)kg 269,292 980,291 1,990,868 3,019,252 4,152,872
+Hardware 	refurbishment 	and	reuse
+Components used for machine upgrades that were refurbished inventory% 52 22 11 19 19
+Components resold into the secondary market Million 
+components2.0 2.1 2.1 3.4 9.9
+WATER79 
+Operational 	water
+Water withdrawal80 Million 
+gallons— 2,500 3,071 4,170 5,161
+Water consumption81 Million 
+gallons— — — — 3,412
+Water discharge82 Million 
+gallons— — — — 1,749Fiscal	year
+75
+Google Environmental Report 2020 AppendixKey	performance 	indicator	Assur ed	 
+for 2019 Unit 2015 2016 2017 2018 2019
+WORKPLACES
+Green	building 	certification
+LEED-certified office space (cumulative) m2711,625 865,493 1,034,875 1,294,161 831,438,257
+Platinum (cumulative) % 31 34 28 29 29
+Gold (cumulative) % 58 54 56 57 56
+Certified and Silver (cumulative) % 11 12 16 14 15
+Sustainable 	commuting
+Electric vehicle charging ports installed at offices in 
+the United States and Canada (cumulative)84 Ports 1,382 1,646 2,077 2,722 3,419
+Emissions avoided due to employee electric vehicle commuting in the United States and Canada
+85 tCO2e 1,489 2,142 2,891 4,103 6,258
+Employee shuttle commuting trips in the Bay Area Million trips 3.5 3.7 3.8 4.0 4.3
+Employee shuttle riders in the Bay Area (peak daily) Unique riders 8,500 9,000 10,000 11,000 11,900
+Emissions avoided due to employee shuttle trips in the Bay AreatCO
+2e 28,901 33,656 33,241 40,309 43,242
+Urban	ecology
+Native trees planted on our Bay Area campuses (cumulative)Trees 96 96 1,411 1,602 2,191
+Native habitat restored and created on our  
+Bay Area campuses (cumulative)Acres 1 1 7 9 12
+BEYOND 	OUR	OPERATIONS
+INVESTMENTS   
+Equity	investments 	in	renewable 	energy86 
+Equity investments (cumulative)87 GW 3.7 3.7 3.7 3.7 3.7
+EMPOWERING 	USERS	WITH	TECHNOLOGY
+Tools
+Rooftops mapped for solar potential by Project 
+Sunroof (cumulative)Million 
+rooftops43 60 67 107 170
+Cities covered by Project Sunroof (cumulative) Cities — 7,300 8,900 21,500 21,500
+Cities covered by the Environmental Insights Explorer (cumulative)Cities — — — 5 117
+Products
+Household energy saved by Nest thermostat customers, in gigawatt-hours (cumulative)GWh 5,717 10,270 17,480 29,894 47,020Fiscal	year
+76
+Google Environmental Report 2020 AppendixAbout Google
+As our founders explained in their first letter to shareholders, Google’s goal 
+is to “develop services that significantly improve the lives of as many people  
+as possible.” We believe in technology’s potential to have a positive impact 
+on the world. We also believe we’re just scratching the surface. Our vision  
+is to remain a place of incredible creativity and innovation that uses our 
+technical expertise to tackle big problems.
+Google’s core products and platforms—Android, Chrome , Gmail,  
+Google Drive, Google Maps, Google Play , Search, and YouTube—each 
+have more than 1 billion monthly active users. Our data centers help power all of those products, along with a broader set of cloud-based products and services, including Google Workspace business productivity apps, like Calendar and Docs, and satellite mapping and analysis platforms like 
+Google Earth. Our consumer hardware devices include Google Nest home  
+products , Pixelbooks, Pixel phones, and other devices.
+We generate revenues primarily by delivering both performance 
+advertising and brand advertising. We’re a wholly owned subsidiary 
+of Alphabet Inc., which as of December 31, 2019, had 118,899 full-time 
+employees. Revenues for the fiscal year ended on December 31, 2019, were more than $161 billion, over 99% of which came from the Google segment, which includes ads, Android, Chrome, hardware, Google Cloud, Google Maps, Google Play, Search, and YouTube.
+88
+Google’s global headquarters are located in Mountain View, California, 
+United States. We also have significant operations in Sunnyvale and other cities throughout the San Francisco Bay Area, including San Francisco,  
+San Bruno, and Palo Alto. In this report, “Bay Area headquarters” refers to  
+our operations in both Mountain View and Sunnyvale, and “Bay Area offices” refers to all of our operations in the San Francisco Bay Area. We own and  lease office and building space, as well as research and development sites, 
+across more than 170 cities. We have 21 data center locations across four 
+continents, as well as more than 20 Google Cloud regions .
+77
+Google Environmental Report 2020 AppendixEndnotes  
+Our approach
+1. “Internet Users by Region and Country, 2010–2016,” International Telecommunication Union, accessed 2020.
+2. M athy Stanislaus, “A Virtuous Circle,” The Environmental Forum, September/October 2016.
+3. “Earth Overshoot Day Is August 22, More Than Three Weeks Later Than Last Year ,” Global Footprint Network, June 5, 2020.
+4. V alérie Masson-Delmotte et al., eds., Summary for Policymakers. Global Warming of 1.5°C: An IPCC Special Report on the Impacts of Global Warming of 1.5°C above Pre-industrial Levels 
+and Related Global Greenhouse Gas Emission Pathways, in the Context of Strengthening the Global Response to the Threat of Climate Change, Sustainable Development, and Efforts to 
+Eradicate Poverty, Intergovernmental Panel on Climate Change, October 2018.
+5. E ric Masanet et al., “ Recalibrating Global Data Center Energy-Use Estimates,” Science, February 28, 2020.
+6. “International Decade for Action ‘Water for Life’ 2005–2015: Water Scarcity ,” United Nations Department of Economic and Social Affairs, accessed 2020. 
+Designing efficient data centers
+7. So me of our locations have more than one data center campus, and others were not yet operational during 2019.
+8. Se e note 5 above. 
+9. Se e note 5 above. 
+10. A ccording to Google’s own analysis of our more efficient servers, power infrastructure, and cooling systems, compared with data center industry averages.
+11. PUE is a s tandard industry ratio that compares the amount of non-computing overhead energy (used for things like cooling and power distribution) to the amount of energy used to 
+power IT equipment. A PUE of 2.0 means that for every watt of IT power, an additional watt is consumed to cool and distribute power to the IT equipment. A PUE closer to 1.0 means 
+nearly all the energy is used for computing.
+12. A ccording to the Uptime Institute’s 2019 Data Center Survey , the global average PUE of respondents’ largest data centers was around 1.67.
+13. T railing 12-month PUE consists of the average PUE for the previous 12 months, and it’s graphed quarterly in this figure. The trailing 12-month PUE reported for Quarter 4 is equivalent to 
+the average annual PUE, as it covers the time period from January to December.
+14. Google Data Centers: Economic Impact and Community Benefit, Oxford Economics, April 2018. 
+15. Bruno Ba salisco et al., Google’s Hyperscale Data Centres and Infrastructure Ecosystem in Europe: Economic Impact Study, Copenhagen Economics, September 2019. 
+16. Bruno Ba salisco et al., Inside Finland: Google’s European Hyperscale Data Centres and Infrastructure Ecosystem, Copenhagen Economics, November 2020.
+17. Bruno Ba salisco et al., Inside Denmark: Google’s European Hyperscale Data Centres and Infrastructure Ecosystem, Copenhagen Economics, November 2020.
+18. M att Brittin, “Our Data Centers Support Europe’s Green Economic Recovery ,” The Keyword (blog), December 14, 2020.
+19. E ric Masanet et al., The Energy Efficiency Potential of Cloud-Based Software: A U.S. Case Study, Lawrence Berkeley National Laboratory, June 2013.
+20. The annu al carbon footprint of a Gmail user is about 1/80th that of a small business with locally hosted email servers. Larger organizations show smaller, though still impressive,  
+efficiency gains. “ Google’s Green Computing: Efficiency at Scale,” Google, 2011.
+Advancing carbon-free energy
+21. “State Electricity Profiles: Data for 2019 ,” U.S. Energy Information Administration, accessed 2020. 
+22. “Corporate Clean Energy Buying Leapt 44% in 2019, Sets New Record,” BloombergNEF, January 28, 2020.
+23. Es timates of project-level capital investment are sourced from Google’s renewable energy project partners.
+24. G oogle is the largest organization, in terms of electricity consumption, to achieve a 100% renewable energy match.
+25. WRI’ s market-based Scope 2 methodology requires the use of residual grid mixes, which represent the mix of resources generating electricity in a region after accounting for those 
+designated for specific customers via contractual instruments like PPAs. Current residual mix data is available only in the EU.
+26. Se e note 15 above. 
+27. Lazard’s Levelized Cost of Energy Analysis—Version 13.0, Lazard, November 2019.
+28. Medium-Term Renewable Energy Market Report 2016, International Energy Agency, October 25, 2016.
+29. Renewables 2020 Global Status Report, REN21, June 2020.
+30. Renewables 2020: Analysis and Forecast to 2025, International Energy Agency, November 10, 2020.
+31. R abia Ferroukhi et al., Renewable Energy Benefits: Measuring the Economics, International Renewable Energy Agency, January 2016.
+32. The 2035 Report: Plummeting Solar, Wind, and Battery Costs Can Accelerate Our Clean Electricity Future, Goldman School of Public Policy, University of California Berkeley, June 2020.
+33. Sc ope 1 emissions are direct emissions from sources we own or over which we have operational control, such as company vehicles or generators at Google’s offices and data centers.
+Scope 2 emissions are indirect emissions from the production of electricity we purchase to run our operations and the production of space heating for our offices. The location-based category reflects the average carbon intensity of the electric grids where our operations are located and, thus, where our energy consumption occurs. The market-based category 
+incorporates our procurement choices, i.e., our renewable energy purchases via contractual mechanisms like PPAs. Scope 3 emissions are indirect emissions from other sources in our 
+value chain, such as business travel or our suppliers.
+34.
+ CO2e is a quantity that describes, for a given mixture and amount of GHG, the amount of carbon dioxide that would have the same global warming potential (GWP), i.e., the ability of a gas to trap heat in the atmosphere when measured over a specified timescale (generally, 100 years). Some GHGs are more potent than others, as measured by their GWP. Carbon 
+dioxide is the baseline and thus has a GWP of 1.
+78
+Google Environmental Report 2020 Appendix35. Our o perational emissions include our Scope 1, Scope 2 (market-based), and Scope 3 (business travel and employee commuting).
+36. “Greenhouse Gas Equivalencies Calculator ,” U.S. Environmental Protection Agency, accessed 2020.
+37. C arbon intensity metrics are based on gross global combined Scope 1 and market-based Scope 2 emissions.
+38. C arbon offsets are reductions in GHG emissions made to compensate for emissions that occur elsewhere. For each metric ton of carbon dioxide equivalent reduced, one carbon 
+offset is created.
+Creating sustainable workplaces
+39. A dele Peters, “ Google’s New Office Will Be Heated and Cooled by the Ground Underneath,” Fast Company, October 24, 2017.
+40. The Alliance for Water Stewardship, “ Alliance for Water Stewardship (AWS) North America Announces Google Achieves AWS Certification—the First Major Tech Company to Pursue the 
+Industry-Leading Water Standard for Its Campuses,” CSRWire, August 12, 2020.
+41. “F ood Spots” is an umbrella term covering Google’s MicroKitchens, Hubs, and Hydration Stations.
+42. Se e note 36 above. 
+Building better devices and services
+43. W e offset the carbon emissions from all Google-owned shipments of consumer hardware, including to and from retail partners, distributors, and Google Store customers.
+44. R enewable material consists of plastic made from bio-based material.
+45. Minimum per centage of recycled or renewable plastic content calculated as a percentage of total plastic (by weight) in all products manufactured in 2025. The following may be 
+excluded from the calculation of percentage: printed circuit boards, labels, cables, connectors, electronic components and modules, optical components, electrostatic discharge 
+components, electromagnetic interference components, films, coatings, and adhesives.
+46. Be cause shipping devices to customers falls outside the scope of Google’s operations, these efforts go beyond Google’s long-standing commitment to operational carbon neutrality.
+47. UL 110 and IEEE 1680.1 are multi-attribute, consensus-based sustainability standards for mobile phones and for computers and displays, respectively. Google uses a third party to 
+validate conformance and independently certify to these standards. 
+48. “EPEAT Registry: Mobile Phones,” Green Electronics Council, accessed 2020.
+49. “EPEAT Registry: Computers & Displays,” Green Electronics Council, accessed 2020.
+50. M ary H.J. Farrell, “Nest Becomes First Smart Thermostat to Get Energy Star ,” Consumer Reports, March 2, 2017.
+51. Energy Savings from the Nest Learning Thermostat: Energy Bill Analysis Results, Nest Labs, February 2015.
+52. Ind ependent studies showed that Nest saved people an average of 10% to 12% on heating and 15% on cooling. Using typical energy costs, we’ve estimated average savings of $131 to 
+$145 a year. That means the Nest Learning Thermostat can pay for itself in under two years. Individual savings are not guaranteed.
+53. Darr ell Proctor, “ Companies Announce New Residential VPP for California,” POWER, December 7, 2020.
+54. “Energy Savings Are for Everyone,” Nest Power Project, accessed 2020.
+Empowering users with technology
+55. O ne petabyte is 1015 bytes, or 1 million gigabytes, of digital information. It’s equal to approximately 2.5 months of uninterrupted, uncompressed, high-definition (1920 x 1080 pixels)  
+video data.
+56. Se e note 36 above. 
+Appendix
+57. Alp habet’s fiscal year runs from January 1 to December 31.
+58. E rnst & Young LLP reviewed select quantitative performance indicators for the fiscal year ended December 31, 2019. See their related Independent Accountants’ Report. 
+59. W e had another provider verify the following metrics in prior years: Scope 1 emissions, Scope 2 (market-based) emissions, Scope 2 (location-based) emissions, Scope 3 (business 
+travel and commuting) emissions, and biogenic emissions. For more information, see our prior annual Environmental Reports.
+60. GH G emissions are calculated according to WRI’s Greenhouse Gas Protocol. For more information on our methodology, including a breakdown of Scope 3 categories,  
+see Alphabet’s 2020 CDP Climate Change Response.
+61. Sinc e 2010, we’ve procured renewable energy for our operations, and in 2012, we began publishing how this reduces our overall carbon footprint. Up until 2015, there was no guidance 
+from WRI on how to account for these emissions reductions, so we developed our own methodology, whereby on an annual basis we assigned renewable electricity procured against 
+electricity consumed (in megawatt-hours) in the closest data center to the renewable energy project. In 2015, WRI released new guidance for market-based Scope 2 accounting, 
+which we adopted, starting with 2015 data. Our pre-2015 methodology differs from WRI’s in the use of residual mixes, which avoid double-counting of claimed renewable energy 
+attributes.
+62. Se e note 60 above.
+63. In 20 18, to align with industry best practices for Scope 3 reporting, we extended our reporting boundaries to include emissions associated with food served in our offices, hardware 
+manufacturing emissions beyond Tier 1 suppliers (full upstream to the point of extraction), use of sold products, and end-of-life treatment of sold products. Google’s hardware 
+includes data center servers, networking equipment, and consumer hardware products. These extended categories have been reported annually from 2018 onward.
+64. W e’ve restated our 2018 Scope 3 (other) emissions due to changes in our calculation methodology and improvements in data quality, resulting in a corresponding restatement of our 
+2018 Scope 3 (total) and 2018 Total (Scope 1, 2 [market-based], and 3 [total]) emissions.
+65. Se e note 64 above.
+66. Se e note 63 above.
+79
+Google Environmental Report 2020 Appendix67. Se e note 64 above.
+68. W e calculate total operational emissions as the sum of Scope 1, Scope 2 (location-based or market-based), and Scope 3 (business travel and employee commuting) emissions, which 
+have been third-party assured by Ernst & Young LLP as shown in their 2019 Independent Accountants’ Review .
+69. In 20 16, we adopted the industry practice of including only operational emissions in our carbon neutrality commitment. The operational emissions included in our carbon  
+neutrality commitment include Scope 1, Scope 2 (market-based), and Scope 3 (business travel and employee commuting). For more information, see our 2017 white paper  
+10 Years of Carbon Neutrality.
+70. Se e note 69 above.
+71. Se e note 37 above.
+72. In 20 19, we updated our megawatt-hour carbon intensity metric to include all of our gross Scope 1 and market-based Scope 2 emissions divided by our total energy consumption, 
+rather than limiting this intensity figure to our data centers.
+73. T otal energy consumption represents Scope 1 fuel use, Scope 2 electricity consumption, and Scope 2 purchased heating.
+74. W e’ve restated our 2015 and 2016 data for total renewable electricity purchased due to quality assurance improvements in our data collection and calculations.
+75. W e’ve restated our 2016 data for renewable electricity (grid) due to quality assurance improvements in our data collection and calculations.
+76. P ercentage of renewable energy is calculated on a calendar-year basis, comparing the volume of renewable electricity (in megawatt-hours) procured for our global operations  
+(i.e., renewable energy procured through our PPA contracts, on-site renewable energy generation, and renewable energy in the electric grids where our facilities are located) with the total volume of electricity consumed by our operations. This metric includes all renewable energy purchased, regardless of the market in which the renewable energy was consumed.
+77.
+ T o align with the method outlined in note 76 above, starting in 2016, we adapted our methodology for calculating total electricity obtained from renewable sources. Prior to 2016,  
+we were not accounting for the residual renewable electricity purchased through grid electricity.
+78. W aste diverted to a more sustainable pathway than landfill or incineration without energy recovery.
+79. In 20 19, we aligned our water reporting with industry standards to disclose three water indicators: withdrawal, consumption, and discharge.
+80. In 20 16, 2017, and 2018, water withdrawal was reported as water consumption. Starting in 2019, the 2016, 2017, and 2018 values are now reported as water withdrawal.
+81. 20 19 is the first year for which we’re disclosing gross global water consumption and gross global water discharge data; therefore, we do not publish data from any prior years.
+82. Se e note 81 above.
+83. 20 18 LEED data has been restated based on a refinement of Green Business Certification Inc.’s methodology.
+84. N umber of ports for ChargePoint stations in the United States and Canada, which represent the majority of our electric vehicle charging ports in those countries. We began installing 
+electric vehicle charging ports in Canada in 2017.
+85. E missions avoided are estimated using data from the reported ports for ChargePoint stations in the United States and Canada only.
+86. In a ddition to our renewable energy contracts, Google also invests in renewable energy projects around the world that are not used to offset our carbon footprint.
+87. C umulative gigawatts represent the expected combined capacity of renewable energy projects in which we have an equity investment, even if we’re a minority owner.
+88. See Alphabet Inc.’s Form 10-K for the fiscal year ended December 31, 2019.
+80
+Google Environmental Report 2020 AppendixGoogle	Environmental 	Report	2020
+December 2020
+On	the	cover:	
+A Google Earth image of Tabuaeran, Kiribati, a low-lying island nation in the Pacific Ocean that is expected 
+to become the first country submerged by sea level rise as a result of climate change.  ©2020 Maxar Technologies
+Our	approach:
+Golden Hills wind farm in California (43 MW for Google)
+Designing 	efficient 	data	centers:
+A closer view of backup tapes in our Berkeley County, South Carolina, data center tape library
+Advancing 	carbon-free 	energy:
+Maevaara wind farm in Sweden (a total of 105 MW for Google)
+Creating 	sustainable 	workplaces:
+A Googler rides a GBike around our Bay Area headquarters.
+Building 	better	devices	and	services:
+The Pixel 4a case is made from 70% recycled materials, including recycled plastic bottles.
+Empowering 	users	with	technology:
+Google Earth image of Greater London, United Kingdom ©2020 Bluesky, Getmapping plc, Infoterra Ltd & Bluesky, Maxar Technologies, The GeoInformation Group
