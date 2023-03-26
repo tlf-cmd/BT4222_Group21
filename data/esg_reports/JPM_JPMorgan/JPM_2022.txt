@@ -1,0 +1,1173 @@
+2022  
+CLIMATE 
+REPORT
+December 2022Contents
+Introduction 2
+Message from Our Chairman & CEO 2
+About This Report 3
+TCFD Index 4
+Company at a Glance 6
+Climate Action to Date 8
+Governance 10
+Firmwide Climate-Related Governance 12
+Management of Climate-Related Matters  
+Across the Firm  14Strategy 16
+Our Approach to Environmental Sustainability 18Scaling Green Solutions 19
+Meeting Needs Responsibly 25
+Minimizing Our Operational Impact 29
+Accountability, Transparency and Engagement 32Metrics & Targets 54
+Measuring Our Progress 56
+Scaling Green Solutions 57
+Meeting Needs Responsibly 58
+Minimizing Our Operational Impact 63
+Risk Management 36
+Our Climate Risk Framework 38
+Risk Identification 40
+Scenario Analysis 42
+Risk Management by Risk Type 45
+Future Improvements 53Conclusion & 
+Appendices 66
+Looking Ahead 66
+Appendices 68
+Message from 
+Our Chairman & CEOproviders need to invest to achieve net-zero emissions. To support 
+clients, we established the Center for Carbon Transition, central -
+izing client access to financing, advisory and research solutions to help them make the low-carbon transition and thrive. 
+Second, we need to scale investment massively in clean tech-
+nologies. As the International Energy Agency has emphasized, “huge leaps in clean energy innovation” are core to achieving net zero. This is because the world will rely on traditional fuels until alternatives, like clean hydrogen, are fully available. To accelerate 
+progress, JPMorgan Chase set a target to finance and facilitate 
+$2.5 trillion over ten years to advance sustainable development, including $1 trillion for climate action and other green initiatives — with approximately $106 billion green activities financed in 2021.
+Third, while businesses have important roles to play in driving 
+the transition to a low-carbon economy, the private sector cannot do this alone. Public sector leadership is needed to enact policies that spur long-term and large-scale capital deployment for low-carbon solutions that benefit the global economy, including measures like promoting investment in technology R&D and re-ductions in permitting timelines for energy infrastructure, such as wind and solar farms, transmission lines and liquefied natural gas. 
+Finally, let’s set meaningful goals and identify a few tangible, 
+cost-effective solutions to reduce emissions today. This should include minimizing fugitive methane emissions and virtually eliminating wasteful flaring of natural gas. Immediately actionable opportunities like these might require more financing, not less, to prepare companies to thrive in a lower-carbon future. In 2021, 
+JPMorgan Chase set 2030 targets to reduce the carbon intensity 
+of our financing portfolio, starting with Oil & Gas, Electric Power, and Automotive Manufacturing — and now we are establishing three new sectoral goals for Iron & Steel, Cement and Aviation. It’s worth noting that while we make our own decisions for our company, we may work with coalitions or join organizations that seek to advance progress. 
+Introduction
+At the end of the day, our climate ambitions are subject to important prerequisites and considerations, both within and outside of our control, including energy security, investment in innovation, appropriate climate policy, and our own views about orderly transition. 
+It is in this context that we are pleased to present our 2022 
+Climate Report, which outlines the measures we are taking to respond to the climate challenge across our business. We remain committed to addressing energy and climate challenges as part of how we do business and serve our customers, clients, shareholders, and communities each day. 
+There is no silver bullet to meet the world’s energy and 
+climate goals. But we can start by prioritizing emissions reductions, developing meaningful short- and long-term goals and crafting innovative policy solutions. The curve toward net zero can still be bent before it’s too late. 
+Jamie Dimon
+Chairman & CEO, JPMorgan Chase & Co.As I said in my annual letter to shareholders last April, despite 
+the growth in well-intended climate pledges from governments and companies, the world is well short of meeting its net-zero emissions goals by 2050. At the same time, resource scarcity is leading to higher energy costs and reduced reliability, hindering national security and hurting the most vulnerable. Disruptions to the global energy system are again highlighting our urgent, global need to provide energy resources securely, reliably and affordably and, at the same time, address long-term clean energy solutions and strategies to reduce our carbon footprint.
+These objectives are not mutually exclusive. We can — and 
+must — do both. To begin, we need to find a better way forward that can bring diverse stakeholders together in pursuit of an appropriate climate approach. Last April, I set out four ways to jump-start that process. These have as much validity today as they did over six months ago:
+First, we must promote energy security. Constraining the flow 
+of capital needed to produce and move fuels, especially as the war in Ukraine rages on, is a bad idea. The world still needs oil and natural gas today. But not all hydrocarbons are equal when it comes to their carbon footprint. We should be directing more capital toward less carbon-intensive fuel sources and investing in innovations, such as carbon capture and sequestration, as we look to transition to green technologies delivered at scale for society. JPMorgan Chase is firmly committed to helping finance these kinds of investments and expediting the use of lower-car -
+bon fuels. We don’t boycott companies — we believe capital About This 
+Report
+This Climate Report is informed by the 
+recommendations of the Task Force on Climate-related Financial Disclosures (“TCFD”), including the most recent 2021 updates and the supplemental guidance for the financial sector.  JPMorgan Chase also publishes 
+climate-related information annually through multiple channels, including our Environmental, Social and Governance (“ESG”) report, regulatory filings and press releases, and shares climate-related information with stakeholders through direct conversations.
+1
+As informed by TCFD’s recommendations, this report provides details on:
+• How climate-related risks and opportunities are 
+addressed within our corporate governance practices; 
+• How our business is responding to climate risks and opportunities, including our evolving strategies and programs to support the transition to a low-carbon economy;
+• How we identify, assess and manage climate risks within our risk management framework; and
+• How we are measuring our performance and making progress toward our targets, including for our operational emissions and key sectors of our financing portfolio.
+All data in this report is as of December 31, 2021, unless otherwise noted; for example, progress toward our original portfolio-level emissions reduction targets are as of June 30, 2022.
+1 Implementing the Recommendations of the Task Force on 
+Climate-Related Financial Disclosures. Task Force on Climate-Re-
+lated Financial Disclosures. October 2021.
+2 3
+TCFD Index
+This table identifies where to find information related to each of the recommended disclosures from TCFD, both in this report and in 
+our other publicly available documents. 
+RECOMMENDED DISCLOSURE CLIMATE REPORT REFERENCES OTHER SOURCE REFERENCES
+GOVERNANCE
+Board’s oversight of climate-
+related risks and opportunitiesGovernance
+a. Board Oversight (pages 12–13)
+2021 Form 10-K (pages 81–84)
+2022 Proxy Statement (pages 11–13, 25, 28–29)
+ Audit Committee
+Corporate Governance & Nominating 
+Committee
+Public Responsibility Committee
+Risk Committee
+Management’s role in assessing 
+and managing climate-related risks and opportunitiesGovernance
+a. Senior Management (pages 12–13)
+ 2021 Form 10-K (pages 41, 81–84)
+ Center for Carbon Transition
+STRATEGY
+Climate-related risks and 
+opportunities the organization has identified over the short, medium and long termRisk Management
+a. Identifying and Integrating Climate-Related Risks 
+(pages 40–41; 45–53)
+b. Scenario Analysis (pages 42–44)
+c. Time Horizons (page 44)
+ 2021 Form 10-K (pages 9–10, 15, 26, 29)
+ Carbon CompassSM (2021)
+ 2022 Carbon CompassSM
+Impact of climate-related 
+risks and opportunities on the organization’s businesses, strategy, and financial planningStrategy
+a. Scaling Green Solutions (pages 19–24)
+b. Meeting Needs Responsibly (pages 25–28)
+c. Minimizing Our Operational Impact (pages 29–31)
+Risk Management
+a. Identifying and Integrating Climate-Related Risks 
+(pages 40–42; 45–53)
+b. Scenario Analysis (pages 42–44)
+c. Time Horizons (page 44)Metrics & Targets (pages 54–65)
+ 2022 Proxy Statement (page 6)
+ Carbon CompassSM (2021)
+ 2022 Carbon CompassSM
+ Center for Carbon Transition
+ Sustainability
+R
+esilience of the organization’s 
+strateg
+y, taking into consideration 
+different climate-related scenarios, 
+including a 2°C or lower scenarioStrategy
+a. Meeting Needs Responsibly (pages 25–28)Risk Managemen
+t
+a. Scenario Analysis (pages 42–44)
+b. Time Horizons (page 44)RECOMMENDED DISCLOSURE CLIMATE REPORT REFERENCES OTHER SOURCE REFERENCES
+RISK MANAGEMENT
+Organization’s processes for 
+identifying and assessing climate-related risksRisk Management (pages 36–53)
+ 2021 Form 10-K (pages 81–84)
+Or
+ganization’s proc
+esses for 
+managing climate-related risksRisk Management (pages 36–53)
+  2021 Form 10-K (pages 81–84)
+ Carbon CompassSM (2021)
+ 2022 Carbon CompassSM
+How processes for identifying, assessing, and managing climate-related risks are integrated into the organization’s overall risk managementRisk Management (pages 36–53)
+ 2021 Form 10-K (pages 81–84)
+METRICS AND TARGETS
+Metrics used to assess climate-related risks and opportunities in line with its strategy and risk management processMetrics & Targets (pages 54–65)
+ 2022 Proxy Statement (pages 6, 57–58)
+ Carbon CompassSM (2021)
+ 2022 Carbon CompassSM
+ Sustainability
+Sc
+ope 1, Scope 2, and Scope 3 
+gr
+eenhouse gas (“GHG”) emissionsMetrics & Targets (pages 54–65)
+  Carbon CompassSM (2021)
+ 2022 Carbon CompassSM
+ Sustainability
+T
+argets used by the or
+ganization to 
+manage climate-related risks and opportunities and performance against targetsStrategy
+a. Scaling Green Solutions (pages 19–20)
+b. Meeting Needs Responsibly (pages 25–28)
+c. Minimizing Our Operational Impact (pages 29–31)
+Metrics & Targets (pages 54–65)
+ 2022 Proxy Statement (pages 6, 57–58)
+ Carbon CompassSM (2021)
+ 2022 Carbon CompassSM
+ Sustainability
+4 5
+Company at a Glance
+Commercial Banking
+CB provides comprehensive financial solutions, including lending, payments, investment banking and asset management products 
+across three primary client segments: Middle Market Banking, Corporate Client Banking and Commercial Real Estate Banking. Middle Market Banking covers small and midsized companies, local governments and nonprofit clients. Corporate Client Banking covers large corporations. Commercial Real Estate Banking covers investors, developers, and owners of multifamily, office, retail, industrial and affordable housing properties.JPMorgan Chase & Co. (“JPMorgan Chase”, the “Firm” or “we”) is a financial services company based in the United States of America (“U.S.”), with branches in 48 states and Washington D.C., with 271,025 employees in 62 countries worldwide and $3.7 trillion in assets as of December 31, 2021. The Firm is a leader in investment banking, financial services for consumers and small businesses, commercial banking, financial transaction processing and asset management. Under the J.P. Morgan and Chase brands, the Firm serves millions of customers, predominantly in the U.S., and many of the world’s most prominent corporate, institutional and government clients globally.
+JPMorgan Chase’s activities are organized, for management reporting purposes, into four major reportable business segments, 
+as well as a Corporate segment. The Firm’s consumer business is the Consumer & Community Banking (“CCB”) segment. The Firm’s wholesale business segments are the Corporate & Investment Bank (“CIB”), Commercial Banking (“CB”), and Asset & Wealth Management (“AWM”). The business segments are referred to as “lines of business” (“LOB”). For further information, refer to Business Segment Results on pages 61–80 of our Form 10-K for the year ended December 31, 2021.
+Consumer & Community Banking
+CCB offers services to consumers and businesses through bank branches, ATMs, digital (including mobile and online) and telephone banking. CCB is organized into Consumer & Business Banking  (including Consumer Banking, J.P. Morgan Wealth Management and 
+Business Banking), Home Lending (including Home Lending Production, Home Lending Servicing and Real Estate Portfolios) and Card & Auto. Consumer & Business Banking offers deposit, investment and lending products, payments and services to consumers, and lending, deposit, and cash management and payment solutions to small businesses. Home Lending includes mortgage origination and servicing activities, as well as portfolios consisting of residential mortgages and home equity loans. Card & Auto issues credit cards to consumers and small businesses and originates and services auto loans and leases. 2
+Corporate
+The Corporate segment consists of Treasury and Chief Investment Office (“CIO") and Other Corporate, which includes corporate staff functions and expense that is centrally managed. Treasury and CIO is predominantly responsible for measuring, monitoring, reporting and managing the Firm’s liquidity, funding, capital, structural interest rate and foreign exchange risks. The major Other Corporate functions include Real Estate, Technology, Legal, Corporate Finance, Human Resources, Internal Audit, Risk Management, Compliance, Control Management, Corporate Responsibility and various Other Corporate groups. 
+Information about JPMorgan Chase’s financial performance is available in our quarterly earnings materials, as well as quarterly and 
+annual reports on Form 10-Q and Form 10-K, respectively.
+Corporate & Investment Bank
+CIB offers a broad suite of investment banking, market-making, prime brokerage, and treasury and securities products and services to a global client base of corporations, investors, financial institutions, merchants, and government and municipal entities. Banking offers a full range of investment banking products and services in all major capital markets, including advising on corporate strategy and structure, capital-raising in equity and debt markets, as well as loan origination and syndication. Banking also includes Payments, which provides payments services enabling clients to manage payments and receipts globally, and cross-border financing. Markets & Securities Services includes Markets, a global market-maker across products, including cash and derivative instruments, which also offers sophisticated risk management solutions, prime brokerage, and research. Markets & Securities Services also includes Securities Services, a leading global custodian which provides custody, fund accounting and administration, and securities lending products principally for asset managers, insurance companies and public and private investment funds.Asset & Wealth Management
+Asset Management (“AM”) offers multi-asset investment management solutions across equities, fixed income, alternatives and money market funds to institutional and retail investors, providing for a broad range of clients’ investment needs. The Global Private Bank (“PB”) provides retirement products and services, brokerage, custody, trusts and estates, loans, mortgages, deposits and investment management to high net worth clients. The majority of AWM’s client assets are in actively managed portfolios.
+2 Effective in the fourth quarter of 2022, Consumer & Business Banking was renamed Banking & Wealth Management.
+6 7
+Climate Action to Date
+2005 2007
+Published first GHG inventory2008
+Set t
+arget to reduce Scope 1 and 2 
+(market-based) GHG emissions by 
+20% by 2012, over 2005 baseline
+Began offsetting employee business 
+travel emissions2012
+Exceeded 20% Scope 1 and 2 (market 
+based) GHG emissions reduction target and increased the goal to 40% reduction by end of 2020, over 2005 baseline
+2013
+Became a member of the Equator Principles Association2014
+Representatives of the Firm were among the co-authors of the Green Bond Principles2015
+Issued first annual ESG report2016
+Executed first Virtual Power Purchase Agreement to source renewable energy for our operations
+Representatives of the Firm became 
+members of TCFD2017Established Office o
+f Environmental Affairs to direct 
+the Firm’
+s environmental initiatives
+Adopted a comprehensive Environmental and Social 
+Risk Governance Policy and published first 
+Environmental and Social Policy Framework
+Set target to source renewable energy for 100% of 
+global power needs by 2020
+Made first $200 billion Clean Financing Commitment
+2019
+Published first 
+TCFD-aligned climate disclosure report2020
+Met goals to source renewable energy to meet 100% of global power needs  annually and achieve operational carbon neutrality
+Set and achieved a target to finance and facilitate $200 billion to support climate action and sustainable development in 2020
+Announced commitment to set portfolio-level emissions 
+intensity reduction targets for key sectors of our financing portfolio
+Created a dedicated Climate Risk team Established the Center for Carbon Transition as the Firm’s 
+center of excellence to provide clients globally with cutting edge low-carbon transition focused advisory and expertise
+Launched an ESG Solutions team of investment bankers to 
+provide ESG-related corporate finance advice to CIB clients 
+Issued inaugural $1 billion green bondBecame a founding member of the Climate Leadership Council2021
+Announced a new 10-year, $2.5 trillion Sustainable Development 
+Target, including $1 trillion to support climate action and other green initiatives
+Published J.P. Morgan’s Carbon Compass
+SM (2021) 
+methodology and 2030 intermediate targets for three sectors — 
+Oil and Gas, Electric Power, and Automotive Manufacturing
+Set additional operational sustainability targets, including to 
+reduce Scope 1 and 2 (location based) GHG emissions 40% by 2030, over 2017 baseline
+Launched Carbon Assessment Framework (CAF) for balance 
+sheet transactions with clients covered by J.P. Morgan’s 2030 intermediate targets (in-scope clients)
+Established the CB Green Economy TeamIssued $1.25 billion green bond and published first green 
+bond reportJoined Net-Zero Banking AllianceLaunched Carbon Assessment Framework for 
+capital markets transactions with in-scope clients
+Published 2030 portfolio-level emissions intensity 
+reduction targets for three new sectors — Iron & Steel, Cement and Aviation2022 TO DATE $2.5T 100 %
+8 9
+Governance
+10 11
+Our corporate governance practices help us serve the interests of our stakeholders, including customers, clients, employees, 
+shareholders and communities. The Firm believes that our Business Principles are fundamental to our success, which focus on how we strengthen, safeguard and grow our company over time. These principles apply consistently across LOBs and geographies where we operate.
+The illustration below outlines how environmental sustainability and climate-related matters are overseen by the Board of 
+Directors (“the Board”) and senior management and are managed within the Firm’s LOBs. We will continue to enhance the below structure, as appropriate.
+Organizational Illustration
+BOARD OF DIRECTORS
+Corporate Governance &
+Nominating CommitteeBoard Risk
+CommitteeAudit
+CommitteePublic Responsibility
+Committee
+FIRM-WIDE SENIOR SUSTAINABILITY LEADERSRELEVANT OPERATING COMMITTEE MEMBERS
+Climate 
+Risk Executive
+Global
+Head of
+Sustainability
+Chief
+Administrative
+Officer
+Head of 
+ESG Investor Relations
+Head 
+of GreenEconomyBanking
+Head of
+Center for CarbonTransition
+Head of
+Global Markets SustainabilityCenter
+AM 
+Head ofSustainableInvesting
+PB 
+Head ofSustainableInvesting
+CCB EV Auto
+LendingCenter for
+Carbon 
+TransitionGlobal Markets
+Sustainability
+CenterGreen Economy
+BankingAsset 
+Management
+Sustainable
+Investing
+Global
+Private Bank
+Sustainable
+InvestingCLIENT-FACING TEAMS
+ESG SolutionsClimate Risk
+Global
+Environmental
+and Social Risk
+ManagementOperational 
+Sustainability 
+Global Real
+Estate Energy &
+Sustainability
+Corporate
+Sustainability
+OCFO for Corporate
+ResponsibilitySupplier
+Sustainability
+Firmwide Business
+Resiliency & Global
+Technology Resiliency
+ManagementGlobal Crisis
+Management
+ & Global Security
+Operation CentersFIRM-WIDE CORPORATE TEAMS
+ESG Investor
+RelationsBoard Oversight
+The Board is responsible for oversight of the business affairs of 
+the Firm on behalf of shareholders. Oversight of ESG matters, including those related to environmental sustainability and climate-related matters, is an important part of the Board’s work. Board committees consider climate-related matters within the scope of their responsibilities. 
+The Board Risk Committee is responsible for assisting the Board 
+in its oversight of management’s responsibility to implement a global risk management framework reasonably designed to identify, assess and manage the Firm’s risks, including ESG and climate risks. Its responsibilities include approval of applicable primary risk policies and review of certain associated frameworks, analysis and reporting established by management. As part of its oversight of the Firm’s risks, the Board Risk Committee is responsible for considering issues concerning how the Firm identifies, assesses and manages climate risk. 
+The Public Responsibility Committee is responsible for 
+overseeing the Firm’s positions and practices on public responsibility matters, including environmental sustainability, 
+that reflect JPMorgan Chase’s values and impact its reputation 
+among shareholders and other stakeholders. Among the matters the Public Responsibility Committee periodically considers are the Firm’s approach to and progress on sustainability initiatives and commitments, external policy developments related to energy and climate change, and stakeholder views. 
+The Corporate Governance & Nominating Committee is 
+responsible for exercising general oversight with respect to the governance of the Board, including its composition, nominees and framework for self-assessment. Among its responsibilities is the review of stockholder proposals and proposed responses. This includes stockholder proposals relating to environmental sustainability issues, such as climate change. 
+The Audit Committee is responsible for assisting the Board 
+in its oversight of, among other things, management’s responsibility to ensure that there is an effective system of controls reasonably designed to safeguard the Firm’s assets Firmwide Climate-Related Governance and income, ensure the integrity of the corporation’s financial statements and to maintain compliance with the corporation’s ethical standards, policies, plans and procedures, and with laws and regulations. As part of this oversight, the Audit Committee considers ESG- and climate-related matters.
+Climate- and ESG-related matters are also considered as part of 
+our director education program. For example, in 2021 directors were provided with education on the Firm’s climate risk management framework. 
+Senior Management
+Our management structure is designed to encourage leadership that is consistent with our corporate standards. Senior management — including certain members of the Operating Committee (“OC”) and relevant leaders within each of our LOBs — are responsible for strategy and execution on ESG matters across the Firm. With respect to climate-related matters, senior management’s responsibilities include; consideration and inclusion of climate-related risks into the Firm’s strategy and operations; and the implementation of strategic climate-related business initiatives, like our work to finance and facilitate more than $1 trillion by the end of 2030 to support climate action and other green initiatives.
+OPERATING COMMITTEE
+Our Firm’s most senior management body is the OC, which is responsible for developing and implementing corporate strategy and managing operations. The OC is composed of our Chief Executive Officer (“CEO”), Chief Risk Officer (“CRO”), Chief Financial Officer (“CFO”), General Counsel, CEOs of each of the LOBs and other senior executives. 
+The CRO, the Global Head of Sustainability, the Head of the 
+Center for Carbon Transition (“CCT”) and other senior leaders have provided updates on climate-related initiatives to the OC and Board of Directors to assist the Board in meeting its responsibilities. In addition, the CRO and/or senior management provide the full Board and/or the Board Risk Committee with more in-depth information on specific climate-related matters.
+12 13
+Management of Climate-Related Matters Across the Firm 
+Several teams across the Firm help manage climate-related matters. For more information on how we manage climate-related matters by client-facing teams within our LOBs, please see the Strategy chapter.
+CLIMATE RISK 
+The Climate Risk team is responsible for establishing the firmwide 
+framework and strategy for climate risk, developing and advancing climate risk policy and standards, and building our approach to climate risk data. The team is engaging across the Firm to help integrate climate considerations into LOB risk management frameworks. The Climate Risk team is led by the Firmwide Risk Executive for Climate Risk, and is overseen by the CRO. 
+FIRMWIDE BUSINESS RESILIENCY (“FBR”) AND GLOBAL 
+TECHNOLOGY RESILIENCY MANAGEMENT (“GTRM”)
+FBR and GTRM are responsible for overseeing our firmwide resiliency 
+program which is designed to enable the Firm to prepare for, adapt to, withstand and recover from business disruptions that may impact critical business functions and supporting assets (e.g., people, technology, facilities and third parties). This includes major events and disruptions that impact the Firm and which may be driven by climate change. The program includes governance, awareness training, planning and testing of recovery strategies, as well as strategic and tactical initiatives to identify, assess, and manage business resiliency risks. The program is required to be managed in accordance with the Firm’s overall approach to Operational Risk Management, including alignment with technology, cyber, data, physical security, crisis management, real estate and outsourcing programs. The Head of FBR reports to our Chief Control Manager. The Head of GTRM reports to the Head of Cybersecurity & Technology Controls. ESG INVESTOR RELATIONS (“ESG IR”) 
+The ESG IR team is responsible for providing information and managing the Firm’s relationships with the investor community on climate and other ESG matters. Members of the team are responsible for engaging with the investor community on the Firm’s climate strategy, disclosures and performance, and then providing strategic intelligence and advice to senior management and the Board on investor views. ESG IR sits within the Global IR function, which reports to the CFO of the Firm.CORPORATE SUSTAINABILITY 
+The Corporate Sustainability team is responsible for providing advice across the Firm and its LOBs on its approach to managing ESG matters, including supporting the development of sustainability- and climate-focused business strategies and financing opportunities, engaging with stakeholders and policymakers, and facilitating external reporting. The team is led by the Global Head of Sustainability, who reports to the Global Head of Corporate Responsibility and the CRO.
+OFFICE OF THE CHIEF FINANCIAL OFFICER (“OCFO”) FOR 
+CORPORATE RESPONSIBILITY
+The OCFO for Corporate Responsibility is responsible for providing 
+oversight and controls for the reporting of the Firm’s external ESG-related commitments. The team is led by the CFO for Corporate Responsibility, Morgan Health, and Diversity, Equity & Inclusion reporting into the Corporate Sector CFO.GLOBAL ENVIRONMENTAL AND SOCIAL RISK 
+MANAGEMENT (“GESRM”) 
+Climate Risk also includes the GESRM team, which is responsible 
+for establishing the Firm’s environmental and social (“E&S”) risk standards that outline the approach for identification, escalation and management of transactions and activities that may present an increased E&S risk.OPERATIONAL SUSTAINABILITY 
+The Operational Sustainability team is responsible for the Firm’s carbon management strategy, including tracking and reporting the Firm’s GHG emissions and progress toward our operational sustainability targets. The team also coordinates the implementation of operational sustainability efforts across the corporate functions, manages sustainability-focused employee engagement, and identifies and sources carbon credits. The Operational Sustainability team is led by the Head of Operational Sustainability, who reports to the CAO CFO. CHIEF ADMINISTRATIVE OFFICE (“CAO”)
+The CAO provides multiple global services that support the day-to-day operations of the Firm’s businesses, including real estate, sourcing, amenities, document and business solutions, aviation and security. The CAO has resources focused on executing the Firm’s strategy to minimize the environmental impact of our operations and supply chain. Together, these groups are responsible for setting and executing the Firm’s operational sustainability targets, including to reduce GHG emissions, water use and waste. This work is overseen by the Chief Administrative Officer, who reports to the CFO of the Firm.
+GLOBAL REAL ESTATE (“GRE”) ENERGY & SUSTAINABILITY 
+The GRE Energy & Sustainability team is responsible for procurement of the energy needed for the Firm’s real estate globally. The team is focused on deploying onsite renewable energy, implementing energy efficiency measures and reducing water usage. GRE seeks to reduce the environmental impact of the Firm’s real estate portfolio. The team reports to the Head of Property Management, who reports to the Head of GRE.
+SUPPLIER SUSTAINABILITY
+The Supplier Sustainability team is responsible for providing oversight of the Firm’s supply chain with respect to ESG matters, including on environmental sustainability matters. The team works to identify sustainable solutions to meet the Firm’s needs by setting procurement guidelines and engaging with suppliers to understand the environmental impact of their operations and products. The team is led by the Global Head of Supplier Sustainability, who reports to the Head of Sourcing & Procurement.
+GLOBAL CRISIS MANAGEMENT (“GCM”) AND GLOBAL SECURITY OPERATION CENTERS (“GSOCS”) 
+GCM is responsible for providing 24 hours a day, seven days a week monitoring of incidents potentially impacting the operation of the Firm, including natural disasters, and for coordinating with our Resiliency, Real Estate, Human Resources and Technology groups, among others, to respond to events that may affect our employees, clients and customers. The Head of GCM manages our three GSOCs, that are designed to continuously detect, analyze and report on incidents with actual or potential impact. The team is led by the Head of GCM, who reports to the Chief Security Officer.
+14 15
+Strategy
+16 17
+Our Approach to Environmental 
+Sustainability
+Our Approach to Environmental Sustainability
+MEETING NEEDS
+RESPONSIBLYMINIMIZING OUR
+OPERATIONAL IMPACT
+Using our capital and expertise in a 
+way that is consistent with meeting 
+economic and societal needs
+ACCOUNTABILITY
+, TRANSPARENCY AND ENGAGEMENT
+R
+eporting regularly and engaging with a diverse set of stakeholders 
+to identify and advance best practices and new opportunitiesMinimizing the environmental 
+impact of our own operations, 
+including in our buildings, 
+branches and data centers1
+SCALING GREEN 
+SOLUTIONS
+Focusing our efforts to meet client 
+needs and on scaling solutions the 
+world will need for long-term 
+environmental sustainability2 3Scaling Green Solutions
+To meet client demand and global climate and sustainability goals, the world will need to develop and deploy a host of new 
+technologies, business models and other solutions. As a global financial institution, w e have an important role to play by providing 
+financing and strategic advice to clients and by helping investors put their capital to work. 
+Mobilizing Capital for Climate Action
+Developing solutions sufficient to meet the climate challenge will require significant capital. In April 2021, we announced a target to finance and facilitate $1 trillion toward green initiatives that support climate action by the end of 2030, as part of our broader $2.5 trillion Sustainable Development Target. The 10-year timeframe of this target is intended to reflect the long-term nature of climate change and our continued resolve to play our part in addressing it.
+Our $1 trillion green target is aimed at accelerating the 
+deployment of solutions for cleaner sources of energy and facilitating the transition to a low-carbon economy. This includes supporting activities which advance climate action (such as renewable energy, clean technology and sustainable transportation) and other environmental objectives (such as water, waste management and conservation). JPMorgan Chase helps our clients navigate the challenges and realize the economic opportunities of the transition to a low-carbon economy. We believe helping our clients finance and accelerate their transition objectives creates positive environmental benefits and generates long-term financial returns for our shareholders. 
+These efforts are guided by the three pillars of our environmental sustainability strategy — scaling green solutions, meeting 
+needs responsibly, and minimizing our operational impact — all of which is underpinned by our ongoing focus on accountability, transparency and engagement, which helps us continue to evolve and remain responsive to stakeholder interests.
+Our progress against this target over the 10-year timeframe will not be linear, but we will continue to show our work, publishing 
+details of our approach and periodically reporting progress. See 
+page 57 in the Metrics & Targets section of this report for more details and discussion of our progress against our $1 trillion green target. 
+We also support the market through our own green bond issuances. As of this report’s publishing we have issued two green bonds, governed by our July 2020 Sustainable Bond Framework, which allocated proceeds to renewable energy investments across the U.S. Collectively, these projects are expected to produce more than 13,000 gigawatt-hours of electricity annually — enough to supply over one million homes with clean electricity each year. See our inaugural Green Bond Report , as well as page 73 of our 2021 ESG Report , for more 
+details on these two issuances. In October 2022, we updated our Sustainable Bond Framework which will govern green, social and sustainability bond issuances going forward.
+18 19
+Providing Climate-Related Solutions to Consumers and Investors
+Our global and diversified franchise allows us to offer climate-conscious financial options to those customers who want them, under both the J.P. Morgan and Chase brands. This includes a growing range 
+of climate- and sustainability-related products and services through our Consumer Banking and Wealth Management businesses, including the J.P. Morgan Global Private Bank. We aim to give individuals and families the tools they need to meet their goals.
+GLOBAL PRIVATE BANK SUSTAINABLE INVESTING
+At J.P. Morgan Global Private Bank, we provide retirement products and services, brokerage, investment advisory and other solutions to high-net-worth clients. We currently provide clients with access to multiple sustainable investment strategies across equities, fixed income, alternatives and multi-asset portfolios, with an increasing focus on climate-related opportunities. 
+In response to growing interest in climate-related thematic 
+investing, J.P. Morgan Global Private Bank is actively expanding our range of available strategies and funds. For example, in 2022, we added a growth equity climate solutions investment fund focused on decarbonization, energy efficiency, resource conservation and emissions management. Additionally, we are considering new product opportunities in the sustainable food and agriculture industries.
+The Global Private Bank also recognizes demand from certain 
+clients that climate risk be incorporated into how they manage their strategy and operations. In line with this, the J.P. Morgan Global Private Bank offers a number of strategies and funds that aim to actively manage and address ESG risks, including climate. 
+Finally, we have invested in tools and solutions to help clients 
+achieve their sustainable investing goals.CCB EV AUTO LENDING
+As automakers accelerate efforts to transition to electric vehicles (“EVs”), many consumers are evaluating them for the first time. JPMorgan Chase is responding by helping consumers understand and navigate this new segment and access financing to support their purchases. 
+The EV landscape is complex and evolving quickly, and 
+information can be hard to find or understand for consumers. In response, Chase Auto launched the EV Education Center, a website intended to help consumers learn about, find and purchase electric and hybrid vehicles, including information about charging, battery range and maintenance. The EV 
+Education Center builds on JPMorgan Chase’s efforts to scale 
+green and innovative technologies. 
+We are also working to increase financing to support EV adoption, 
+including entering into private label relationships with EV manufacturers to provide flexible financing options to consumers. Our $2.5 Trillion Sustainable Development Target
+In 2021, we set a target to finance and facilitate more than $2.5 trillion over 10 years — from 2021 through the end of 2030 — to advance long-term solutions that address climate change and contribute to sustainable development.
+Our Sustainable Development Target (the “Target”) aims to 
+grow and strengthen our business activities across three important areas:
+The Target reflects the opportunities that we see to support our clients’ goals, deploy capital and invest in solutions that can help to advance a more sustainable and inclusive future.
+By drawing awareness to the work happening across the Firm 
+to advance sustainable development, the Target is designed to contribute toward scaling solutions for the world’s toughest challenges. For more information on the Target, including the activities it is designed to support and amplify across our business, see page 6 of our 2021 ESG Report . To learn more 
+about our progress specifically on the green objective of our Target, please see page 57 in Metrics & Targets.GREEN
+Supporting climate action and other green initiatives such as 
+clean energy and sustainable resource management
+COMMUNITY DEVELOPMENT
+Advancing economic inclusion in developed economies
+DEVELOPMENT FINANCEImproving socioeconomic development in emerging 
+economiesASSET MANAGEMENT SUSTAINABLE INVESTING
+At J.P. Morgan Asset Management (“JPMAM”), we believe contributing to solutions to tackle climate change creates long-term value for our clients. For this reason, we continually strive to enhance our climate-related investment capabilities and our efforts to help clients consider the material implications of climate change within their portfolios.
+JPMAM’s Global Sustainable Investing Team leads sustainable 
+investing globally in partnership with investment professionals to meet client needs. The team: provides investing research and insights on thematic ESG issues; works with clients to implement sustainable investing solutions; and oversees our ESG-related investment stewardship, including proxy voting and investor engagement. Members of JPMAM’s Global Sustainable Investing team are senior staff with relevant experience and a broad range of skills in the ESG space.
+At JPMAM, we endeavor to help clients enhance long-term value 
+to their portfolios by considering financially material climate risks and opportunities as part of the investment process. Where aligned with our clients’ investment objectives, we also strive to address climate risks and opportunities through meaningful carbon emissions reductions in client portfolios, including by reducing exposure to the largest carbon-emitting companies or sectors, investing in companies which are on a path to reduce carbon emissions, growing our sustainable product suite and actively engaging with our investee companies. To learn more about these efforts see the 2022 Inaugural JPMAM TCFD Report . 
+20 21
+Supporting Our Clients 
+We continue to broaden our efforts to support the climate- and sustainability-related banking needs of wholesale 
+clients, from early stage and small companies through to multinationals and other large corporations. We deploy our capital and expertise to assist clients working to transition their business model and operations to reduce emissions. As we expand our capabilities across our LOBs, we aim to provide clients with increasingly diverse and innovative solutions while helping to grow the market for green and sustainable financing. 
+GREEN ECONOMY BANKING 
+As the need for climate solutions grows, so does the number of companies focused on providing them, with each requiring a unique combination of financing and advice to achieve its business objectives. Our CB Green Economy Banking team leads our green economy-focused client franchise and is called upon to provide subject matter expertise, banking solutions, and specialized credit underwriting for the growing number of companies focused on sustainable technologies, products and services. Green Economy Banking is currently focused on five sectors — renewable energy, efficiency technology, sustainable finance, sustainable agriculture & food technology, and clean energy mobility — with senior bankers assigned to provide specific sub-industry coverage within each of these sectors.GREEN, SOCIAL AND SUSTAINABILITY BONDS
+The global market for green, social and sustainability bonds has grown rapidly in recent years, rising to over $900 billion in 2021 — a jump of almost 80% in comparison to 2020. Through our business, JPMorgan Chase is a leading underwriter of such instruments, many of which our clients intend to use to support their climate-related activities. In 2021, JPMorgan Chase was the number one underwriter of sustainable bonds globally, and the Firm’s broker-dealer subsidiaries underwrote over $50 billion in green, social and sustainability bond debt, including approximately $30 billion in green bonds.
+3
+Financing Toyota’s Sustainable Vision 
+of the Future
+JPMorgan Chase acted as the managing bookrunner and 
+sole structuring agent on Toyota Motor Corporation’s $2.75 billion Sustainability Bond, a triple-tranche bond under Toyota’s “Woven Planet Bond Framework.” The Woven Planet initiative represents Toyota’s stated principle of "doing things for someone other than ourselves."  
+Toyota has allocated proceeds to be used for projects that contribute to solving both E&S issues, such as green projects to accelerate the reduction of CO
+2 emissions in 
+vehicles, plants and offices and the development and manufacturing of advanced safety and driving support technologies, including Toyota Safety Sense™. The automobile industry has a critical role in addressing ESG issues and this was an inaugural USD Sustainability Bond for Toyota. 4CENTER FOR CARBON TRANSITION 
+The CCT provides clients globally with low-carbon transition focused advice and expertise, and works with industry coverage and product teams within the CIB and CB on a wide variety of strategic sustainability focused transactions. The team is also responsible for supporting our banking teams in identifying green business opportunities to meet client demands and amplifying our green economy coverage. 
+The combined expertise of the CCT and other banking teams helps provide tailored 
+advice and solutions to clients who seek this advice as they adapt and grow their businesses. This includes providing strategic advice on clients’ long-term business strategies and working with industry and product teams to structure unique financing solutions in public and private capital markets.
+The CCT works to develop and implement the Firm’s strategy to align, over time, its financing 
+portfolio with what we consider to be the primary goals of the Paris Agreement. The team has led the creation, and continues to oversee the implementation, of our Carbon Assessment Framework (“CAF”), which helps us monitor our progress toward our portfolio-level emissions intensity reduction targets. For more information on our Paris-aligned financing commitment and the CAF, see pages 25–28 in Strategy and pages 58–62 in Metrics & Targets.
+Supporting the Global Renewable Energy 
+Expansion 
+JPMorgan Chase acted as lead active bookrunner and stabilization 
+agent on the $998 million Initial Public Offering (“IPO”) of Fluence Energy (“Fluence”), a leading pure-play provider of energy storage technology globally. Energy storage is critical to decarbonizing the electrical grid, reducing variability of renewable generation and reallocating energy to be used when it is most needed. Fluence’s solution for utility scale energy storage supports the largest part of the market, assisting utilities, developers, and commercial and industrial customers around the world in delivering a more sustainable, reliable and resilient electric grid. Fluence intends for its products, services and digital applications, in combination with its sponsorship from Siemens and AES, to create meaningful impact in a market that is highly fragmented. We supported the client with a multidisciplinary team and advisory capabilities across the Firm as part of Fluence’s IPO.Scaling a Pioneer in the Carbon Removal Industry
+JPMorgan Chase acted as sole placement agent on a $650 million equity private placement for Climeworks, a global pioneer in direct air capture (“DAC”). The Climeworks technology captures carbon dioxide (“CO
+2”) 
+directly from the air and permanently stores it underground with its mineralization and storage partner, addressing unabated and historical CO
+2 emissions in complement to drastic emissions reduction. By 
+permanently removing harmful CO 2 in the Earth’s atmosphere, DAC aims to scale as an important climate 
+action solution. This transaction was the largest private capital raise for a pure-play DAC company to date. The investment intends to fund and unlock Climeworks’ next phase of growth: continued scale up and commercialization of the company’s technology. Over the next decade, Climeworks plans to develop million-ton per year capacity plants and deploy these large-scale facilities internationally.
+The financing was co-led by Partners Group and GIC, and included several other institutional technology 
+and infrastructure investors globally. JPMorgan Chase supported the client with a cross-border, cross-
+functional team from diverse Investment Banking and Corporate Banking coverage and product groups 
+across the Firm, including the Green Economy Banking team and CCT.CASE STUDY
+CASE STUDY CASE STUDY
+3 Source: Dealogic 
+4 Source: https://www.jpmorgan.com/solutions/cib/investment-banking/toyota-sustainability-bond22 23
+Meeting Needs Responsibly
+While we work to scale green technologies and solutions, we also seek to use our capital and expertise to meet client demands 
+and support societal and economic needs. A sustained move to greener energy sources will not happen without a plan to allocate financing resources. Examples of this work include aligning our lending and underwriting decisions with our portfolio-level emissions intensity reduction targets in key carbon-intensive sectors, managing climate risks thoughtfully in our business (see pages 36–53 for more information), and deploying our philanthropic capital to support initiatives that help vulnerable communities globally advance their resilience to climate change. 
+A key aspect of our strategy is how we engage with our clients who operate in carbon-intensive industries, with the goal of accelerating the low-carbon transition and encouraging near-term actions that will set a path for global achievement of net-zero emissions. In 2020, we committed to align key sectors of our financing portfolio with what we consider to be the primary goals of the Paris Agreement, which aims to limit the global average temperature rise to well below 2 degrees Celsius, and ideally 1.5 degrees Celsius, above pre-industrial levels. In May 2021, we became the first large U.S. bank to set 2030 portfolio-level emissions intensity reduction targets, which we set for three sectors — Oil & Gas, Electric Power and Auto Manufacturing — and published our Carbon Compass
+SM 
+(2021) methodology detailing our approach. We also announced our plans to expand our targets to additional sectors of our financing portfolio over time. 
+We are now setting net-zero aligned targets for three additional 
+sectors — Iron & Steel, Cement and Aviation — building on the approach and foundation we set with our initial three sectors. 
+Our new targets are intended to align to the International 
+Energy Agency’s (“IEA”) Net Zero Emissions by 2050 Scenario (“NZE”). We chose to address these three sectors next given their contribution to total global emissions, and in consideration of the technical and economic maturity of their available decarbonization pathways. We believe expansion to additional sectors also helps us further sharpen our focus on the interplay between the supply and demand sides of the global energy system, which is vital to advancing overall decarbonization and the global path to net-zero emissions. For example, by understanding evolving technologies and approaches in both the Electric Power sector and major industrial sectors pursuing electrification, we believe we are better positioned to meet the needs of both types of clients, including helping them seize opportunities to accelerate and strengthen their transition strategies. 
+We aim to continue expanding this work over time for additional 
+carbon-intensive sectors, engaging with our clients on their 
+decarbonization journeys, and aligning that work with global 
+climate goals and evolving best practices for the financial sector.
+This Climate Report provides an opportunity to reflect on our 
+progress to date, including how we have been implementing our existing targets and expanding our approach to additional sectors. Below we summarize key elements of our approach and our strategy for driving progress toward our targets, while in the Metrics & Targets chapter (see pages 54–65) we provide details of our performance to date, as well as disclosure of our portfolio baselines and targets for the three new sectors.
+Supporting Green Hydrogen 
+JPMorgan Chase acted as Joint Global Coordinator on Green Hydrogen Systems’ circa €170 million IPO. Green Hydrogen Systems designs and manufactures efficient, standardized, and modular electrolysers for the production of green hydrogen, with the aim of driving a sustainable global energy transition. Green hydrogen is produced using renewable energy and electrolysis to split water to produce the energy source, and effectively scaling up green hydrogen is considered an important tool to help global economies achieve net-zero emissions by 2050 and limit global temperature rise to 1.5°C.  Based in Kolding, Denmark, Green Hydrogen Systems 
+is responding to the growing global demand for electrolyser technology as markets around the world diversify their energy mix.
+5
+6ESG SOLUTIONS
+Our CIB ESG Solutions team is a multidisciplinary group of investment bankers — including corporate governance, environmental and proxy advisory experts — that advise a large number of clients across our major industry verticals on improving their sustainability credentials, optimizing value, mitigating risk and addressing stakeholder concerns through effective ESG integration. The team manages the ESG workstreams of capital markets and M&A transactions, embedded in deal teams working alongside investment banking product and industry coverage teams. 
+In 2021, the ESG Solutions team helped meet client demand by enabling clients’ access to ESG-focused capital across equity, debt 
+and private markets and had a key role in several IPOs leading the ESG workstream.
+CASE STUDYGLOBAL MARKETS SUSTAINABILITY CENTER
+Within CIB Markets, we created the GMSC in October 2021 to, among other purposes, further drive the Firm's efforts in providing sustainability solutions to institutional investors. GMSC is developing solutions across asset classes, from equity to credit, including new asset classes like carbon credits, to help clients transition their portfolios to a low-carbon economy. 
+5 Source: https://www.forbes.com/sites/mikescott/2020/12/14/green-hydrogen-the-fuel-of-the-future-set-for-50-fold-expansion/?sh=96866fc6df3b .
+6 Source: https://greenhydrogensystems.com.Aligning Our Financing with the Goals of the Paris Agreement
+24 25
+KEY ELEMENTS OF OUR APPROACH
+Our Carbon CompassSM methodologies (2021 and 2022) incorporate and expand upon several related approaches to define robust, 
+decision-useful metrics and science-based targets on a sector-by-sector basis. The following key choices and considerations 
+informed how we designed our approach:
+The framework below guides how we have sought to reasonably develop metrics and targets that are robust, decision-useful and 
+tailored to each included sector. 
+How We Design Our Methodology for Each Sector
+Define sector 
+activities, 
+emissions, and 
+financing in scopeDevelop 
+decision-useful 
+emissions metric(s)Determine 
+appropriate 
+emissions 
+trajectoryDerive 2030 
+portfolio target(s)Reassess as 
+emissions 
+trajectories change 
+and new data 
+becomes available1 2 3 4 5HOW WE ARE DRIVING PROGRESS TOWARD OUR TARGETS
+As we continue to expand our sector-specific targets, we are also focused on aligning our capabilities and efforts to make progress toward them. We strive to use our knowledge and expertise to help clients frame and act on their decarbonization plans. Our strategy centers on the following key elements:
+• A framework for assessing our clients’ progress. To bring a climate lens to the way we make financing decisions, we have de
+veloped an assessmen
+t methodology of our clients’ emissions and decarbonization plans for consideration in our decision-
+making in new in-scope financing transactions for in-scope clients in our targeted sectors. Our CAF uses a combination of quantitative and qualitative measures to evaluate clients’ climate ambition and performance. Quantitative factors include an analysis of the client’s historical emissions reductions, current carbon intensity and forecasted intensity based on publicly announced targets. Qualitative factors include reviewing actions the client has taken to drive progress and other strategic actions taken toward decarbonization. Each of these factors is then assigned a score, which contributes to a client’s overall CAF score of 1–5, allowing the carbon assessment results to be reviewed as one consideration alongside other factors in our transaction review process. We believe this is a reasonably designed framework currently, but the Firm will continue to look for enhancement opportunities.
+CLIENT CARBON ASSESSMENT FRAMEWORK SCOREQUANTITATIVE ASSESSMENT
+QUANTITATIVE SCORE (1–5) QUALITATIVE SCORE (1–5)QUALITATIVE ASSESSMENT
+Client is scored relative to JPMorgan Chase's portfolio
+Client is scored relative to 
+JPMorgan Chase's 2030 interim targetCurrent Carbon 
+Intensity
+Forecasted 
+Carbon Intensity
+Historical 
+Carbon Intensity 
+ReductionClient is scored based on the 2-year change in its carbon intensityHolistic view of the client's plans to achieve its decarbonization plans
+Bucket 1 Bucket 2 Bucket 3 Bucket 4 Bucket 5
+LOWEST HIGHESTThis includes strategic actions taken by clients to drive progress toward decarbonizing their businessKey Aspects of Our Carbon Assessment Framework
+• Governance of our progress. By considering CAF as one element of our transaction-level decision-making for in-scope clients, we are able to assess how an in-scope transaction may affect progress toward our portfolio-level targets. Accountability for progress toward the targets has been assigned to senior leaders with the relevant LOBs at a regional- and sector-specific level. This senior-level accountability — coupled with CAF — is designed to serve as a monitoring mechanism to help senior management oversee progress toward achieving our targets. • Science-based. Our targets build on the transition pathways outlined 
+by cr
+edible, third-party emissions reduction scenarios, 
+including the IEA NZE by 2050 Scenario and Sustainable Development Scenario (“SDS”). We also reference a wide range of public resources, including additional climate scenarios, decarbonization research and other frameworks for assessing alignment with global emission reduction goals.• Sector-specific. Within each sector, we focus on specific ac
+tivities with material emissions and credible 
+tr
+ansition pathways, enabling us to gain more useful 
+insight and better support our clients in developing and implementing their strategies.
+• Decision-useful. F or each sector, we define one or more 
+core metrics that capture essen
+tial facts about companies’ 
+performance and progress toward decarbonization, and that are compatible with the benchmark trajectories we use to evaluate alignment to global emissions goals.• Utilizing best available data. Each metric is designed to mak
+e use of consistent
+, well-reported and standardized 
+data. Where gaps exist, we define processes for use of appropriate alternatives.
+26 27
+• Client engagement. Assessing decarbonization plans through our CAF also creates an opportunity for us to engage with our 
+clien
+ts, understand their vie
+ws, plans and constraints, and guidance and capital. The CCT, together with other banking teams, 
+works closely with clients to help advance clients’ decarbonization initiatives. Our goal is to support our clients in successfully navigating the low-carbon transition by helping their management teams and boards think through and implement their plans, while also accelerating emissions reductions across our own financing portfolio.
+• Capital facilitation and deployment. We are also working to meet clients’ unique capital needs related to decarbonization. Applyin
+g the Firm
+’s expertise in structuring financial instruments, we work to develop solutions — including both traditional and 
+alternative debt and equity instruments — to help advance their decarbonization efforts while optimizing their cost of capital. Our focus on capital solutions for our clients may also translate into increasing reductions in our portfolio-level emissions over time. 
+Climate Resilience Grantmaking
+JPMorgan Chase deploys philanthropic capital to nonprofit organizations to support initiatives that help vulnerable communities in different parts of the world advance their resilience to climate change. Since 2019, we have committed over $13 million in grants to advance resilience to climate change, including over $5 million in 2021, supporting initiatives with local, regional, and international organizations.
+Building Climate and Community 
+Resilience through Land Trusts 
+Through a grant to the Oregon Community Foundation, 
+we are supporting the Pacific Northwest Resilient Landscapes Initiative, a multi-state effort that is providing dozens of nonprofit land trusts with the resources to address climate and community resilience. The overall initiative is supporting 24 projects that will conserve more than 40,000 acres — an area larger than Bryce Canyon National Park or 30,500 football fields — and aims to strengthen land trusts as they help nature and communities adapt to a changing climate. The initiative is a partnership of the Oregon Community Foundation, Idaho Community Foundation, Seattle Foundation, and the Land Trust Alliance. Equipping Underserved Communities 
+to Lead on Climate Resilience 
+Our grant to Thrive New Orleans, in support of the Thrive 
+Green Business Academy, helps to train and support entrepreneurs of color to pursue business opportunities in stormwater management and green infrastructure. Trainees learn to implement and manage stormwater management and green infrastructure projects, including installing bioswales, permeable surfaces, rain barrels and tree cover. Thrive New Orleans has self-reported that since 2021 the organization’s innovative education pipeline has trained 115 individuals, including Black, Indigenous, and people of color contractors and formerly incarcerated people, that have collectively completed over 100 urban resilience projects. In total, trainees have been awarded contracts that generated over $3 million in revenue, enhancing economic and climate resilience for New Orleans communities. Minimizing Our Operational Impact
+A key component of our approach to sustainability is managing our GHG footprint by reducing our direct and indirect emissions, which stem primarily from the operation of our more than 6,000 corporate offices, bank branches and data centers. To guide our efforts, we have developed a set of operational sustainability targets, many of which are focused on reducing our contribution to climate change. To view progress made toward our sustainability targets, see pages 63–65 in Metrics & Targets.
+Achieving and Maintaining Operational Carbon Neutrality
+In 2020, we committed to achieve carbon neutrality across our operations annually. This commitment includes Scope 1 (direct) GHG emissions from building operations and company-owned aircraft and vehicles; Scope 2 (indirect) GHG emissions from purchased electricity; and Scope 3 (indirect) GHG emissions associated with business travel. In 2021, we met our carbon-neutral goal for the second year in a row, using carbon credits to help us achieve neutrality. We are committed to maintaining carbon-neutral operations each year going forward.
+Our strategy to maintain carbon-neutral operations is focused on the following:
+CASE STUDY CASE STUDY
+IMPROVING EFFICIENCY
+R
+educing energy use is our first 
+priority. We undertake a variety of 
+energy efficiency measures, including optimizing the use of heating and cooling in our buildings, and seek to expand their implementation across our operations.SOURCING RENEWABLES
+We are focused on installing on-site 
+solar systems at JPMorgan  Chase 
+properties and establishing long-term renewable energy procurement agreements (e.g., Power Purchase Agreements and green power supply contracts). We are working to increase the proportion being met with on-site renewable energy and off-site long-term renewable energy contracts to 70% or more by 2025. In 2021, over 20% of our renewable procurement came from these solutions.PURCHASING ENERGY ATTRIBUTE 
+CERTIFICATES (“EACS”) AND CARBON CREDITS
+To continue to meet our 
+commitment to source renewable energy for 100% of our global power needs annually and address the remainder of our direct and indirect emissions, we purchase applicable EACs (e.g., Green-E certified Renewable Energy Certificates (“RECs”), International RECs) and carbon credits.
+28 29
+Our Emissions Reduction Pathway
+To build on our commitment to carbon-neutral operations, in 2021 we announced a new target to reduce our Scope 1 and Scope 2 
+(location based) emissions by 40% by 2030 versus a 2017 baseline. As of the end of 2021, we had reduced Scope 1 and Scope 2 location-based emissions by 17%. Moving forward, we intend to make further progress by increasing our direct use of renewable energy, upgrading existing heating and cooling systems, and optimizing building space. Over time, as we strive to reduce our operational emissions through these measures, we anticipate needing to buy fewer carbon credits to neutralize our emissions.
+Highlights of our recent emissions reduction efforts include the following:
+• Data center efficiency. The Firm continues to implement 
+improvements across its data centers by shifting information technology load to newer, more efficient data centers. We also endeavor to share what we have learned with others. For instance, in October 2021, we joined the Low Carbon Patent Pledge, through which we will share several key patents related to how we efficiently cool and ventilate our data centers, with the aim of helping to speed the transition to low-carbon technology and energy sources. 
+• Solar expansion. We continue to expand on-site solar power at our corporate office buildings and retail branches across the U.S. As of December 31, 2021, we have added solar installations at nearly 300 retail branches in nine states including Arizona, California, Ohio and New York. Our goal is to complete solar installations at approximately 400 additional branches and 125 carports, totaling over 25 megawatts (“MW”) of solar capacity. We are also expanding solar installations at our corporate office buildings and expect to deploy approximately 90 MW of additional solar capacity.• 24/7 renewable energy. In 2021, we worked with energy provider EDF to power our buildings in the United Kingdom (“U.K.”) with renewable energy around the clock. As part of this effort, our electricity consumption in the U.K. will be matched to renewable generation every minute of the day, providing us with approximately 120,000 megawatt hours (“MWh”) of renewable electricity each year — enough to power our three million square feet of offices in the U.K., or the equivalent of about 33,000 homes.
+• Net zero branch pilot. In 2022, we opened a Chase retail branch in Pico Rivera, California that is piloting a net zero carbon design. Built from the ground up, the new branch will incorporate a full range of low-carbon technologies and building techniques including a wood frame modular design, low-carbon concrete, enhanced insulation, rooftop solar arrays, full electrification and the use of reclaimed asphalt in the parking lots. We expect to purchase carbon credits to address any emissions associated with construction that cannot be mitigated via sustainable design. The branch is undergoing an intensive 12-month energy performance analysis to provide insights that can inform our approach to designing and retrofitting other branches in the future. 
+Our Approach to Carbon Offsets
+We believe it is in the interest of all companies to pursue efforts to avoid, reduce and/or neutralize emissions in their own operations and across their value chains. Carbon markets can play an important role in accelerating the overall transition to a low-carbon economy. Key benefits may include: 
+• Enabling flexibility for when, where and how emissions are reduced or removed, which can help to lower the aggregate cost of 
+reducing net emissions; 
+• Driving capital toward existing and already scalable solutions, which may help to deliver near-term reductions or removals faster; 
+• Generating economic value for reducing or removing emissions, which can incentivize innovation with the potential to further accelerate decarbonization;
+• Creating a range of potential environmental, social and/or economic co-benefits, such as pollution reduction, job creation, community development and enhanced resilience.
+Through a variety of roles, including purchasing credits to address our own emissions, deploying capital to promote decarbonization solutions, and providing strategic advice to support clients’ transition efforts, we participate in voluntary carbon markets which are an important tool for optimizing investments to reduce emissions and drive progress toward the goal of net zero. 
+For more information related to our emissions data and renewable energy use, see Metrics & Targets on pages 63–65.
+30 31
+While we are proud of the steps our Firm has taken to respond to climate-related risks and opportunities in our business, we know 
+we have more work to do, and that we will continue to learn, including from the feedback we receive from stakeholders. We also know our efforts will have the greatest impact in combination with those of others. For these reasons, our strategy is supported and strengthened by our ongoing efforts to enhance accountability, transparency and engagement.
+Realizing Environmental Benefits by Engagement with Our Suppliers 
+At JPMorgan Chase, we recognize that the environmental impact of our operations extends to our suppliers’ practices. As such, we look for opportunities to work with our suppliers to operate more sustainably. For example, during a paper shortage caused by supply chain issues, we worked with one of our suppliers to recycle our paper scraps, convert them to pulp and sell them back to paper mills to use in their manufacturing process. These efforts contributed to the recycling of over 16.5 million pounds of paper, saving an estimated 57 million gallons of water and avoiding more than 8,000 metric tons of carbon dioxide equivalent (“mtCO
+2e”) 
+between January and August of 2022. Strengthening Our Sustainability Commitments Through Employee Engagement 
+We encourage our employees to think about how they can live more sustainably. Our GoGreen teams are a global network of employee-led teams that work to foster a community of informed, engaged and inspired employees who contribute to our sustainability culture. The mission of the GoGreen teams is to increase employee awareness of sustainability initiatives at JPMorgan Chase, including our sustainability commitments, and what the Firm is doing to meet them; and offer employees opportunities to engage in sustainable activities at work, at home and in their communities. 
+In the first half of 2022, our employees were offered the opportunity to engage in sustainability activities around the globe. 
+Highlights of GoGreen efforts include: Accountability, Transparency and Engagement
+• Participating in Earth Hour, going dark for one hour in our homes and within more than 30 JPMorgan Chase buildings; 
+• Hosting events around the globe in celebration of Earth Day and World Environment Day;
+• Collaborating with local community organizations to host beach and riverbank clean-ups, wildlife habitat enhancement activities, tree planting and litter clearing;• Helping employees discover ways to live sustainably through onsite events such as electric bicycle demonstrations, personal e-waste disposal days, reusable giveaways to reduce single-use plastics, and carbon footprint reduction challenges; and
+• Sponsoring learning sessions with sustainability experts on topics such as making sustainable food choices, composting and gardening at home, recycling and waste management, and establishing a corporate beekeeping program to provide safe pollinator habitats for honeybees.Accountability
+We strive to leverage the Firm’s robust governance structures to foster sound management and a culture of accountability on ESG matters, including climate risks and opportunities. This includes defining oversight and management of climate-related risks and opportunities within and across our LOBs, and integrating them with our firmwide governance framework. To learn more, see the Governance chapter, pages 10–15.
+We aim for transparency and accountability by reporting progress against key financing commitments and operational targets 
+annually. Additionally, JPMorgan Chase has set up governance structures to monitor progress toward key commitments and targets, 
+including processes and controls for data disclosure and verification. 
+Public Reporting
+We recognize stakeholders’ interest in timely information concerning our climate-related strategies and activities. We plan to continue to provide information through a number of channels including our Annual Report and Proxy Statement, ESG and Climate reporting, regulatory filings, website, press releases, direct conversations with stakeholders, and various other reports and presentations. 
+We intend to continue to use the TCFD’s guidance to inform the development of our climate-related disclosures. We are also closely 
+monitoring regulatory developments related to potential mandatory climate reporting requirements in several jurisdictions around the world. 
+Stakeholder Engagement
+Our key stakeholders include customers and clients, shareholders, employees, communities, regulators and policymakers, research analysts and suppliers. We engage with stakeholders throughout the year to obtain insight into their needs and perspectives, and to gather feedback on our strategy and performance, including as they relate to climate change. CASE STUDY
+CASE STUDY
+32 33
+Similarly, the Firm may engage with industry initiatives to help address complex global challenges, including climate change, where 
+we are aligned with the initiatives’ goals and can continue to exercise our own business judgment based on the best interest of the Firm. We participate in a variety of initiatives focused on advancing sustainability where we share our expertise and learn from other companies and organizations. Three examples areJPMorgan Chase believes that responsible corporate citizenship demands a strong commitment to a healthy and informed democracy through civic and community involvement. Our business is subject to extensive laws and regulations, and changes to such laws can significantly affect how we operate, our revenues and the costs we incur. Because of the impact public policy can have on our businesses, employees, communities and customers, we engage with policymakers holding a range of views, on a range of issues — including banking, financial services, cybersecurity, workforce development, small business, tax, trade, and inclusive economic growth, among others — to advance and protect the long-term interests of the Firm. 
+We recognize the need for thoughtful public policy on climate- 
+and energy-related matters. It can help accelerate the Firm’s progress on sustainability-related business objectives and contribute to sustainable economic growth. It is among the prerequisites we view as essential to make the achievement of our and others’ climate targets feasible. We therefore engage with external stakeholders and trade associations on policies that we believe can help make net zero achievable, including by mobilizing capital for green solutions and supporting clients in the low-carbon transition.Examples of our recent climate-related public policy and industry engagements include: 
+• Providing a grant to the Energy Futures Initiative to support 
+its research on public policy issues and barriers for financing the deployment of decarbonization technologies; 
+• Providing a grant to the Climate Leadership Council, and engaging with its recently launched Center for Climate and Trade, which explores and advances policies that leverage trade relationships and guide the global market economy toward greater international cooperation and climate ambition; and
+• Contributing to the Business Roundtable’s submission to the Environmental Protection Agency advocating methane emission reductions standards for the Oil & Gas sector.
+The Firm belongs to a number of trade associations that advocate on major public policy issues of importance to the Firm and the communities we serve. The Firm’s participation in these associations comes with the understanding that we may not always align with all their positions or those of its other members. We are committed to independent decision-making at the Firm and providing appropriate feedback on the efforts by these associations, including where there is misalignment between the Firm’s climate objectives and trade association positions or activities. A list of the Firm’s principal trade associations is disclosed in our Political Engagement Report .Policy and Industry Engagement
+• In October 2021, we joined the Net-Zero Banking Alliance 
+(“NZBA”), which brings together a global network of banks committed to considering their lending and investment port -
+folios with net-zero emissions by 2050. Participation in NZBA is part of our effort as we work to develop our own targets for other sectors and engage with a growing number of clients who are aligning their strategies with science-based emission reduction pathways. It is also a reflection of our support for the ambition of greater climate action. While we are commit -
+ted to these objectives, we also have noted that NZBA sets a high bar and its goals are subject to other prerequisites and critical considerations, both within and outside our control. These include the necessity of technological advancements, the evolution of consumer behavior and demand, and the need for thoughtful climate polices — all factors required to make achievement of targets feasible — as well as the potential impact of legal and regulatory obligations and the challenge of balancing our commitment to short-term targets with the need to facilitate an orderly and just transition and energy security. As we engage with NZBA and other industry initiatives to which our efforts are aligned, the Firm will con-tinue to make independent decisions that we believe are best for the long-term success of our business.• We are working to advance climate resilience solutions. For example, with our support, the Atlantic Council’s Adrienne Arsht-Rockefeller Foundation Resilience Center hosted a Resilience Hub at COP26 in Glasgow to build awareness and foster global action to build climate resilience, attracting speakers from 176 participating organizations and over 10,000 visitors. The center-sponsored research has identified challenges from extreme heat, including inequitable public health impacts and significant economic productivity loss. We are also supporting a new center-led initiative called “Cool Capital” to identify and quantify opportunities to channel multiple types of capital into on-the-ground solutions to mitigate the effects of extreme heat on people in 12 cities around the world. 
+• We continue to work with Oil & Gas industry participants, the public sector, and non-governmental organizations (“NGOs”) to support improved methane data quality. For example, we engage with the Oil & Gas Methane Partnership, as part of our broader efforts to explore opportunities for industry clients, technology innovators, and data providers to accelerate direct measurement technologies as a preferred method of tracking and reporting methane emissions.
+34 35
+Risk Management
+36 37
+Our Climate Risk Framework
+• Transition risk refers to the financial and economic implications associated with a 
+societal adjustment to a low-carbon economy. Transition risk drivers include possible changes in public policy, such as legislation and industrial and financial regulation; adoption of new technologies; and shifts in consumer preferences. These drivers could impact our clients, and our business strategy in providing financial services to them. Transition risks may also be influenced by changes in the physical climate.• Physical risk refers to economic costs and financial loss associated with a changing climate. Acute physical risk drivers include increased frequency or severity of climate and weather events (e.g., floods, wildfires, tropical storms, etc.). Chronic physical risk drivers include more gradual shifts in the climate and include sea level rise, persistent changes in precipitation levels and average ambient temperature increases. Indirect physical risk drivers include the second-order effects of these acute and chronic risks, such as supply chain disruptions or changes to property valuations.As a global financial institution, our clients, operations and business strategy may be impacted by climate change — either from the transition to a low-carbon economy (transition risk) or through the changing climate itself (physical risk). 
+JPMorgan Chase recognizes that climate risk management is a new and rapidly evolving risk discipline. We are investing in talent and improving our data and technology resources to learn and support 
+the identification, quantification and subsequent management of climate risks.JPMC Climate Risk Framework
+RISK
+IDENTIFICATIONREPORTING &
+DISCLOSURESSCENARIO
+ANALYSISDATA
+MANAGEMENTRISK
+GOVERNANCERISK
+MANAGEMENTWe have developed a climate risk framework and continue to enhance the processes to capture the transmission channels through which transition and physical risk drivers impact each of our four risk types (strategic, credit & investment, market and operational), for example, higher financial costs to companies due to carbon taxes could lead to higher credit risk to the Firm. This framework is comprised of six core firmwide risk capabilities central to enabling assessment, quantification and management of the climate risks that may manifest across our diverse global footprint. In this chapter, we discuss the Risk Identification, Scenario Analysis, and Risk Management capabilities of this framework.
+38 39
+Risk Identification
+At JPMorgan Chase, businesses are required to examine the 
+activities they are responsible for and to identify, discuss and escalate the associated risks. We believe that this practice is the foundation of a risk-aware business culture and an effective risk management process. We have enhanced this process to assess the ways in which climate change can manifest as strategic, credit & investment, market and operational risk types. Supporting this assessment is a classification system, illustrated below, that describes how climate risk drivers could translate into potential impacts to our clients, our exposures and our operations. A number of climate change risk assessments are now included in the Firm’s risk inventory, and more will likely continue to be added to it as we evolve and deepen our examination of climate change.
+Translating Climate Risk Drivers into Potential Risks to the FirmCLIMATE RISK
+* List is not exhaustive. We continue to refine our taxonomy based on an evolving understanding of how climate-related risk drivers may manifest as risks to the Firm.
+CLIMATE RISK DRIVERS * IMPACT TRANSMISSION CHANNELS *
+Avenues of potential impacts through which climate risk drivers manifest into risk typesCategories of risks as outlined inJPMorgan Chase’s Annual Report on Form 10-KPotential factors that could cause a risk to occurPhysical RiskAcute Physical Risk
+(e.g., floods, cyclones, wildfires)
+Chronic Physical Risk
+(e.g., sea level rise, water stress,
+temperature warming)
+Transition Risk
+Regulatory and/or
+Governmental Policy Change
+Technological Evolution
+Market Preference
+JPMORGAN CHASE RISK TYPES
+Supply/Demand/PriceFinancial CostsMacroec
+onomic
+Country and/or Business
+Competitiveness
+Physical Damages
+Business DisruptionSocioeconomicReputational Damage 
+and/
+or Litigation
+Credit & Investment Risk
+Operational RiskMarket RiskStrategic RiskTransition and physical risks can manifest in a variety of ways. The infographic below provides examples of different types of 
+transition and physical risks and how they could materialize across the four major risk types we manage.
+Examples of Potential Climate Risk Impacts
+POTENTIAL CLIMATE RISK IMPACTS
+Transition Risk Physical RiskJPMORGAN CHASE RISK TYPESStrategic Risk
+Risk to earnings, capital, liquidity or reputation associated with poorly designed or failed business plans or inadequate response to changes in the operating environmentChanging stakeholder perceptions of business (e.g., supply chain, lending, investments) result in reputational impacts to companies in carbon-intensive sectorsBusinesses operating in areas susceptible to climate-related events face inability to obtain appropriate insurance for their properties
+Credit & Investment Risk
+Risk associated with the default or change in credit profile of a client, counterparty or customer; or loss of principal or a reduction in expected returns on investments, including consumer credit risk, wholesale credit risk and investment portfolio riskShifts in consumer preferences to low-carbon goods and services, changes in policy, or technological advances jeopardize the viability of certain business models (e.g., through lower revenues, higher costs, or stranded assets)Temporary disruption in a business’s operations, or those in its supply chains, due to severe weather events leads to loss in profitability
+Market Risk
+Risk associated with the effect of changes in market factors, such as interest and foreign exchange rates, equity and commodity prices, credit spreads or implied volatilities, on the value of assets and liabilities held for both the short and long termChanges in demand for carbon-intensive products or services lead to price volatilityLocal weather events cause variability in agricultural output and lead to commodity price volatility
+Operational Risk
+Risk of an adverse outcome resulting from inadequate or failed internal processes or systems; human factors; or external events impacting the Firm’s processes or systemsNew legislation and/or regulatory requirements lead to significant changes in business processes and costsExtreme weather causes physical damage to buildings and decreases worker productivity
+40 41
+CLIMATE RISKTransition Risk
+Physical RiskJPMORGAN CHASE RISK TYPESScenario Analysis
+To assess the range of potential climate-driven paths and outcomes, we are analyzing an array of scenarios. We use 
+internationally recognized scenarios from the Network for Greening the Financial System (“NGFS”) and the Intergovernmental Panel on Climate Change (“IPCC”) to inform our measurement of the potential financial and economic impacts to the Firm from the manifestation of climate risks.
+Note: this diagram is for illustrative purposes only and no specific probability distribution of temperature outcomes should be inferred.Global Temperature Increase (°C)1.0°High Transition Risk High Physical Risk
+1.5° 2.0° 2.5° 3.0° 3.5° 4.0° 4.5°DNZERCP
+4.5
+RCP
+4.5Current
+PoliciesNGFS and IPCC Scenarios Provide an Array of Potential Climate Outcomes
+Scenario RCP 1.9DIVERGENT NET 
+ZERO (“DNZE”) NET ZERO 2050DELAYED TRANSITION RCP 2.6NATIONALLY DETERMINED CONTRIBUTIONS RCP 4.5 CURRENT POLICIES RCP 7.0 RCP 8.5
+Provider
+IPCC NGFS NGFS NGFS IPCC NGFS IPCC NGFS IPCC IPCC
+Temperature Rise
+(by 2100)<1.5˚C 1.5˚C 1.5˚C 1.8˚C <2.0˚C ~2.5˚C 2.7˚C 3.0˚C+ 3.6˚C 4.4˚C
+Outcome Lowest temperature 
+change that integrated assessment models can feasibly produce; aligned with Paris AgreementPoorly coordinated policy; extremely rapid oil phase-out required for net zeroReach net zero in 2050 via stringent, immediate, and sweeping policy action with technological innovationBusiness as usual until 2030, then sudden and decisive policy actionLow end of temperature range, low physical riskReflects Paris alignment pledges made to the United Nations Framework Convention on Climate Change as of 2021GHG emissions peak in 2040, then decline; aligned with fossil fuel availabilityOnly includes current policies enshrined in lawNo climate change mitigation, mid–high range of physical risk (more likely to occur)No climate change mitigation, highest physical risk (less likely to occur)
+7 World Meteorological OrganizationThe NGFS and IPCC scenarios represent widely accepted plausible pathways for society’s future GHG emissions and consider the 
+complex interactions between global socioeconomic systems and natural Earth systems over time. As of 2022, global temperatures are approximately 1.1°C above pre-industrial levels (1850–1900).  We define this as the “current state” of the climate, with 
+assessments of future transition and physical risk based on further warming above this state.7
+42 43
+Transition Risk Scenario Analysis
+The Firm applies NGFS-derived macroeconomic variables and sector-level outcomes to individual clients to help assess potential 
+transition risk impacts to the Firm. In order to quantify and understand the range of these impacts, we are using a ‘baseline’ transition risk scenario and a severe transition risk scenario from the NGFS.
+BASELINE
+The NGFS Current Policies Scenario represents a low-transition risk scenario that captures the current state of global climate policy. The scenario assumes that no future emissions reduction policies are implemented by governments, leading to high physical risks.  In this scenario, 3°C or more of warming 
+could occur by 2100.
+98SEVERE TRANSITION RISK
+The NGFS DNZE represents the most severe transition risk scenario. The scenario assumes that global net-zero is reached by 2050 through higher carbon prices with a rapid phase-out of fossil fuels, despite divergence in policies introduced by governments across the world. The scenario assumes that global warming is successfully limited to 1.5°C by 2100, which limits physical risk impacts.
+Physical Risk Scenario Analysis
+The Firm applies IPCC-derived physical risk parameters to assess the potential impacts of the increasing frequency and severity of extreme weather events on our business operations, credit exposures, and collateral locations. Consistent with the transition risk approach, we utilize both a ‘baseline’ physical risk scenario and a severe physical risk scenario to inform the range of outcomes.
+BASELINE
+The IPCC Representative Concentration Pathway (“RCP”) 4.5 scenario represents an intermediate, middle-of-the-road scenario where social, economic and technological trends do not shift markedly from historical patterns. Global and national institutions work toward but make slow progress in achieving sustainable development goals; overall, the intensity resource and energy use declines. The scenario assumes that global mean temperature reaches 2.7°C warming above pre-industrial levels by 2100.SEVERE PHYSICAL RISK
+The IPCC RCP 8.5 scenario represents the worst-case, highest emissions scenario. The scenario assumes that global mean temperature reaches 4.4°C warming above pre-industrial levels by 2100 due to the continued exploitation of abundant fossil fuel resources and a continued rise in resource- and energy-intensive activities around the world. Under this scenario, there is no transition to a low-carbon economy and GHG emissions continue to be very high.
+8 NGFS Scenario Portal 
+9 Temperature increases are relative to global mean temperatures at pre-industrial levels (1850–1900)Time Horizons
+The pace and cumulative effects of climate change are important factors in considering the potential financial and economic implications. We therefore analyze these scenarios over multiple periods.
+• Short-term: Less than 5 years; aligned with the horizon of e
+xisting loss 
+and capital adequac
+y assessments 
+performed by the Firm.• Medium-term: 5–10 y ears; aligns to 
+our 2030 Paris-
+aligned financing 
+commitment and time horizons used for credit risk assessment.• Long-term: More than 10 years; aligns to the Firm
+’s aim to help set a path f
+or 
+achieving net-zero emissions by 2050, as well as strategic risk assessments.Risk Management by Risk Type
+Credit & Investment Risk
+Credit & investment risk is the risk associated with the default or change in the credit profile of a client, counterparty or customer, or loss of principal or a reduction in expected returns on investments. We leverage our risk identification and scenario analysis to measure the potential adverse impacts the baseline and severe climate risk scenarios may have on our credit portfolios, both today and into the future. We are analyzing the direct impacts of transition and physical risk — considering property damage and financial loss due to extreme weather events or the potential reduction in profitability of a client, counterparty or customer as a result of transitioning from a high-carbon to a lower carbon-intensive footprint. We are also considering indirect and longer-term risk drivers, including the potential for change in cost or availability of insurance for physical risks in a given geography, permanent loss or structural changes to consumer preferences. JPMorgan Chase Risk Types
+Note: Country risk may be a driver of risk, or an aggregation of exposures that could give rise to multiple risk types such as credit or market risk, but is not 
+a JPMorgan Chase risk type. This diagram is intended to aid the commentary that follows and is not an exhaustive list of the Firm's risk functions.
+Operational Risk Strategic Risk Credit & Investment Risk Market Risk
+Country RiskWholesale
+Credit RiskConsumer
+Credit RiskLiquidity Reputation
+Risk Risk
+CONSUMER CREDIT RISK
+As of December 31, 2021, the Firm had $1.3 trillion of consumer 
+credit exposure, including residential real estate, auto loans and credit cards. The Firm is using catastrophe models to quantify the hypothetical physical damage from various climate- and weather-driven events and applying it to our real estate portfolios to estimate potential financial loss. For example, residential real estate loans made up $225 billion of the total consumer credit portfolio, predominantly in the U.S. Today, climate-related risks for this portfolio are substantially mitigated through geographic diversification of the properties, the prevalence of hazard insurance, and the effective average life of the underlying loans, among other factors. As a result, financial losses due to natural disasters and weather events have not been material to the Firm. As we examine the potential for future impacts, we may consider outcomes in which these mitigants are weakened — for example, if insurance becomes less prevalent.We are using our resources to better understand how transition and physical risks may manifest and their potential impacts on the existing risk types the Firm manages.
+44 45
+The map below shows, at the U.S. county level, the modeled potential 
+increase in property damage due to flooding in 2050 under RCP 8.5 compared to 2020. This includes the impact of heavy rainfall, riverine flooding and storm surges, but assumes that no future mitigation steps are taken (such as improving flood defenses). Third-party analysis such as this helps the Firm to assess the potential susceptibility of our credit portfolio to these events. This map was derived utilizing an external risk-based software analytics tool. 
+The cumulative effect of physical climate risk may impact our residential real 
+estate portfolio in several ways, including the following: 
+• Greater physical damages: increased likelihood or severity of extreme 
+weather events may increase consumer credit losses;
+• Higher insurance premiums: higher insurance premiums may increase living expenses and financial burden for consumers;
+• Reduced coverage or availability of insurance: insurers may further limit types of damage they cover or withdraw coverage from specific geographies; and
+• House price impacts: cumulative effect of climate-driven events may adversely impact house prices and local economies in certain geographies, potentially disproportionately impacting lower-income households and communities.
+Additionally, we are examining how the transition to a low-carbon economy may create financial burden on consumers from potentially higher energy prices, pass-through of carbon taxes on goods and services, or result in declines in the value of other assets (e.g., gas-burning vehicles), which could impact consumers’ ability to repay and may result in additional credit losses to the Firm.
+Low    HighChange in Flood Risk in the U.S. from 2020 to 2050 under RCP 8.5
+46 47
+WHOLESALE CREDIT RISK
+As of December 31, 2021, the Firm had $1.1 trillion of wholesale credit exposure. The Firm is 
+building a framework to estimate the potential impact of a low-carbon transition on clients’ financials and credit ratings. Financial impacts from the carbon transition could manifest in a variety of ways, including weaker demand for carbon-intensive products, resulting in lower revenue, or higher operating costs for carbon-emitting companies as described above. Additionally, companies may need to increase their capital expenditures through investments that improve resilience to the low-carbon transition (e.g., power companies investing in renewables). 
+Heatmap of Credit Exposures (as of December 31, 2021)
+Key:  N/A Very Low Low Moderate High Very High
+Sector Total Credit Exposure (US$millions) Carbon Intensity Physical Risk
+COMMERCIAL & INDUSTRIAL 492,221 High Moderate
+Consumer & Retail 122,789 Moderate Low
+Retail 34,024 Moderate Low
+Business & Consumer Services 32,506 Low Very low
+Food & Beverage 31,392 Moderate Moderate
+Consumer Hard Goods 17,145 High Moderate
+Leisure 7,722 Very low Very low
+Technology, Media & Telecommunications 84,070 Low Low
+Industrials 66,974 Very High High
+Machinery & Equipment 30,354 Very High Moderate
+Construction & Building Materials 14,936 Very High High
+Agriculture, Forest Products & Textiles 14,479 High Very High
+Aerospace & Defense 7,204 Moderate Moderate
+Healthcare 59,014 Very low Low
+Oil & Gas 42,606 Very High High
+Exploration & Production and Oilfield Services 23,083 Very High High
+Other Oil & Gas 19,523 Very High High
+Automotive 34,573 High Moderate
+Auto Dealers 17,485 Low Low
+Auto Manufacturing 17,089 High High
+Utilities 33,203 Very High High
+Electric 11,870 Very High Very High
+Gas 8,816 Very High Very High
+Integrated & Other Utilities 12,517 Very High LowAlong with financial impacts, and as discussed on pages 27–28, the Firm’s framework also incorporates an assessment of a client’s decarbonization plans in selected sectors with higher carbon intensity. This is based on several indicators, including current emissions intensity, future emissions reduction targets, recent emissions track record and internal governance structures. The Firm has utilized this framework to assess financial and credit rating impacts for clients in the Oil & Gas, Automotive and Utilities sectors in a Severe Transition scenario.  
+10
+Sector Total Credit Exposure (US$millions) Carbon Intensity Physical Risk
+Chemicals & Plastics 17,660 High High
+Chemicals 13,155 Very High High
+Plastic & Rubber 4,506 Moderate High
+Metals & Mining 16,696 Very High Very High
+Steel 3,935 Very High Very High
+Aluminum 1,425 Very High Very High
+Coal 262 Very High Very High
+Other Metals & Mining 11,075 Very High Very High
+Transportation 14,635 Moderate Low
+FINANCIAL INSTITUTIONS 158,396 Low N/A
+REAL ESTATE 155,069 Low Moderate
+Multifamily 89,154 N/A Moderate
+Office 16,643 Low Moderate
+Industrial 11,612 Low Moderate
+Retail Property 9,687 Moderate Moderate
+Lodging 2,922 Moderate Moderate
+Other Income Producing Properties 13,515 Low Moderate
+Services and Non Income Producing 11,536 Low Moderate
+GOVERNMENT & AGENCIES 44,533 N/A N/A
+OTHER INDUSTRIES 253,662 N/A N/A
+Individuals 141,973 N/A N/A
+Other 111,689 N/A N/A
+TOTAL 1,103,880 High Moderate
+Exposure to high-intensity sectors 213,511Below is a heatmap of credit exposures using a five-point color scale to indicate carbon intensity of our own lending portfolio — to the extent that data is available — and sector-level physical risk. We use carbon intensity data as one input into our transition risk scenario analysis, with more carbon-intensive companies generally subject to higher costs in the event of a carbon tax. The physical risk categorizations are judgment-based, and we are using them as an intermediate indicator while we develop more targeted location-based analysis.
+Note: Data in the above table is as of December 31, 2021. The carbon intensity heatmap color is based on the average sector total carbon intensity (Scope 1+2+3) in TCO2e/$mm, weighted by exposure to each counterparty in the sector. The ‘high carbon intensity industries’ subtotal includes those with high intensity (orange) and very high intensity 
+(red). The physical risk color is based on internal methodology assessing characteristics of each industry that could lead to physical risk vulnerability. Grey cells indicate sectors we have not yet scored and/or sectors with insufficient data. Total credit exposure includes retained loans, lending-related commitments and derivative receivables. Totals 
+may not sum due to rounding.
+10 Severe Transition scenario narrative based on IEA SDS 2020 scenario narrative and parameters. 48 49
+750
+300225150NO. OF DAYS ABOVE 35°C
+2041–2060 RCP 8.5Operational Risk Number of Days Above 3
+5°C Under RCP 8.5 in 2050, with Major JPMC O ffice Locations O verlaid
+This map shows the global vulnerability to rising heat stress, with the red locations predicted to see the most days above 35°C in 2050. We have included our o ffice locations, to give a sense of any key vulnerabilities. Operational risk is the risk of an adverse outcome 
+resulting from inadequate or failed internal processes or systems, human factors, or external events impacting the Firm’s processes or systems.
+We have integrated climate risk drivers into our 
+operational risk framework and associated resiliency processes. Increasingly volatile and severe climate-related events, including more severe storms, flooding, heat and related impacts such as drought and wildfires, have the potential to impact the likelihood and severity of a variety of existing operational risks. The Firm’s GRE and Global Security functions review and manage how physical hazards of any form can adversely impact our personnel, facilities, and surrounding infrastructure. Business Resiliency recovery strategies are designed to act as a mitigant to physical risk consequences such as asset disruption. Simulation exercises are conducted to test these recovery strategies. Longer-term, chronic and acute impacts from our climate scenarios are being integrated into the existing risk frameworks with the intention of allowing us to consider potential impacts of climate change when developing strategies for our physical footprint and operations. 
+For example, the map shows the projected number 
+of extreme heat days globally under the most severe physical climate scenario in 2050, with our major office locations overlaid. This is particularly relevant for locations which may not historically have experienced consistent high temperatures and therefore adaptation may be required.
+50 51
+Strategic Risk
+Strategic risk is the risk to earnings, capital, liquidity or 
+reputation associated with poorly designed or failed business plans or inadequate response to changes in the operating environment. In response to climate change, and in support of our clients transitioning to a lower-carbon economy, the Firm may make changes to its business strategy, product offerings and risk profile. To minimize the strategic risks, we follow a facts and science-based approach with the objective of protecting the long-term resilience and value of the Firm.
+REPUTATION RISK
+Reputation risk is the risk that an action or inaction may negatively impact perception of the Firm’s integrity and reduce confidence in the Firm’s competence by various constituents, including clients, counterparties, customers, investors, regulators, employees, communities or the broader public. Reputational risk assessment is designed to take into account the commercial consequences of actions or inactions that may impact clients, customers, employees, capital providers and other stakeholders. In many cases we recognize that a position we take will be favored by some and disapproved of by others and where all positions including neutrality can be controversial.
+Climate- and environmental-related business strategies 
+and activities are under increasing scrutiny, and companies are facing reputational risk from the real or perceived lack of progress made toward climate-related commitments, as well as in how they provide transparency around climate-related matters. The Firm may face reputation risk relating to its climate risk framework and environmental sustainability strategy. Future Improvements
+Access to quality climate data remains a key challenge for climate risk managers. The lack of historical data, given that there is no precedent for what is being projected into the future, makes any climate risk methodology difficult to back-test and is subject to a wide array of assumptions. This is in contrast to many other areas of risk (e.g., credit risk, market risk), which can draw upon decades worth of history on corporate defaults and market dislocations. We are working to improve the depth and breadth of our climate data and technology infrastructure to take advantage of anticipated data enhancements across the industry, such as: 
+• Enhanced corporate emissions data and underlying estimation techniques;
+• Improved company-level assessments of transition plans and credibility of those 
+plans, based on a combination of publicly-announced emissions targets and expertise of client coverage teams;
+• Expanded company and supply chain location data for physical risk vulnerability assessments.
+These future data improvements may help us to model climate risks in a way that captures more than just the direct impacts (e.g., property damage, credit losses from companies subject to a carbon tax), which would allow us to enhance our analysis with indirect impacts (e.g., from economic effects, commodity price impacts, or population migration) and to be more comprehensive in the way we manage climate risk. Market Risk
+Market risk is the risk associated with the effect of changes in market factors such as interest and foreign exchange rates, equity and commodity prices, credit spreads or implied volatilities, on the value of assets and liabilities held for both the short and long term. Climate risk drivers may lead to sharp volatility or persistent changes in the prices of commodities and financial assets, for example, companies in carbon intensive industry sectors without credible transition plans may have assets which are viewed as stranded, resulting in materially depressed equity prices. The Firm has established a stress framework to quantify the impact of the transition risk stress scenarios to vulnerable asset classes. We have analyzed a series of physical drivers to estimate the potential impacts of various climate- and weather-driven events to our markets exposures.  
+Country Risk
+The Firm, through its LOBs and Corporate, may be exposed to country risk resulting from financial, economic, political or other significant developments which adversely affect the riskiness of the Firm’s exposures related to a particular country or set of countries. The negative implications from climate change may impact a country’s economic, fiscal, monetary and political frameworks in numerous ways, in turn adversely affecting its sovereign credit ratings. Climate risk considerations are incorporated, as appropriate, in existing sovereign ratings and risk management processes. In addition, the Firm has developed a score to help explore the potential sensitivity of sovereign ratings to climate risks beyond the standard rating horizon or under specific stress scenarios.
+52 53
+Metrics & Targets
+54 55
+Measuring Our Progress
+We intend to measure and report our progress over time on climate-related matters, both to provide information to our 
+stakeholders and to inform how we manage and implement our environmental sustainability approach. In this section, we provide details of the metrics and targets we are currently using in conjunction with each of the three pillars of our environmental sustainability approach.
+Select Eligibility Criteria by Dollar Amount
+Total
+$285BGreen
+$106BCommunity
+Development
+$61B
+Development
+Finance
+$117BELIGIBILITY CRITERIA $B11%
+Sustainable Transportation $22 21%
+Renewable Energy & Energy Efficiency $14 14%
+Water & Waste Management $6 6%
+Green Buildings $2 2%
+Mixed Use12$60 57%Scaling Green Solutions
+11 Totals may not sum due to rounding.
+12 Mixed Use is comprised of transactions where the use of proceeds may facilitate activities across more than one eligibility criteria, 
+such as green bonds and emissions contracts.Meeting the climate challenge will require developing and deploying new technologies, business models and other solutions throughout the global economy. As a global financial institution, we have an important role to play by providing financing, strategic advice and other services to clients who are working to create and implement such solutions, in order to help them grow and drive impact at scale. Detailed below discusses how we are measuring our progress through the amount of the capital we finance and/or facilitate on behalf of climate- and sustainability-focused activities.
+$1 Trillion for Green
+In 2021, we set a target to finance and facilitate more than $2.5 trillion over 10 years — from 2021 through the end of 2030 — to advance long-term solutions that address climate change and contribute to sustainable development. As part of this target, we aim to finance and facilitate $1 trillion to support climate action and other green initiatives. In 2021, our Firm financed and facilitated approximately $106 billion in support of the $1 trillion green objective. This encompassed a range of activities including underwriting of green bonds, lending to support construction of sustainable infrastructure and raising capital for innovative clean technology, renewable energy, and sustainable transportation companies. The figures below demonstrate both the depth and breadth of these efforts. 
+To learn more about our criteria for determining what business activity is eligible to count toward our Sustainable Development Target, and how we account for the value of transactions, see Our Approach to Our Sustainable Development Target .SCALING GREEN SOLUTIONS
+Including progress toward 
+our goal of financing and 
+facilitating $1 trillion to support 
+climate action, clean energy, 
+and sustainable resource 
+management by the end of 2030.MEETING NEEDS RESPONSIBLY
+Including working to align our 
+lending and underwriting decisions 
+with our portfolio-level emissions 
+intensity reduction targets in key 
+carbon-intensive sectors (i.e., 
+our Scope 3 financed emissions) 
+and other measures to support 
+integration of climate considerations 
+into the Firm’s risk management and 
+decision-making frameworks.MINIMIZING OUR OPERATIONAL 
+IMPACT
+Including our Scope 1, 2 and 3 
+GHG emissions and performance 
+against our climate-related 
+operational targets.
+56 57
+Meeting Needs Responsibly
+Metrics, Baselines and 2030 Targets – Iron & Steel, Cement and Aviation13
+SECTOR DETAILS BASELINE 2030  
+TARGET 
+Scope(s) 
+IncludedScenario  
+UsedUnit of 
+Measurement Baseline  
+YearPortfolio 
+Baseline 
+Iron & SteelScopes 1 and 2 IEA NZEt CO 2e / t  
+crude steel 2020 1.4541.010
+-31% from baseline 
+CementScopes 1 and 2 IEA NZEkg CO 2e / t  
+cementitious 
+product 2020 647.8460.0
+-29% from baseline 
+AviationScope  1  
+(tank-to-wake)IEA NZE g CO 2 / RTK 2021 972.6625.0
+-36% from baseline An important part of our strategy is using our capital and expertise to support our clients’ decarbonization efforts and to support 
+societal and economic needs. We are working to align our lending and underwriting decisions with our portfolio-level emissions intensity reduction targets in key carbon-intensive sectors, managing climate-related E&S risks as part of making capital allocation decisions. Below, we provide details of the metrics and targets we have developed for these purposes. 
+Updates on Our Paris-Aligned Financing CommitmentNew Sector Targets
+When we announced our first set of portfolio-level emissions intensity reduction targets, we also committed to set targets for addi -
+tional sectors in the future. As part of this report, we are releasing details of the initial baselines and 2030 targets we have set for Iron & Steel, Cement and Aviation. Among other reasons, we have prioritized these sectors — together with those we have previously set targets for — based on their contribution to total global emissions, their importance to the wider economy and our aim to help them overcome the significant challenges they face to decarbonize. The aggregate of these six sectors account for the majority of global emissions across the supply and demand side value chains of the global energy system. Our work reflects not only our aim to tackle the largest and most challenging sources of emissions, but also our commitment to engage and support our clients as they navigate the low-carbon transition.
+OUR APPROACH TO SETTING PORTFOLIO TARGETS
+In 2021, we set portfolio-level emissions intensity reduction targets for three sectors in our financing portfolio — Oil & Gas, Electric Power and Auto Manufacturing — in line with science-based emission reduction pathways. Now, we have set net-zero emissions by 2050 targets for three additional sectors — Iron & Steel, Cement and Aviation. Below we provide an update on our approach, details of our three new targets, performance to date of our existing targets, and details of how we are managing ongoing data challenges as we work to implement those targets.
+Metrics
+The emissions metrics we use to evaluate the emissions performance of the sectors for which we have set 2030 targets are currently intensity-based, meaning they measure emissions relative to a given unit of output (e.g., kilograms of carbon dioxide per megawatt hour of electricity generation).
+Intensity-based metrics currently provide the most decision-
+useful and effective way for us to evaluate performance at the sector- and client- level against science-based scenarios, and to engage with our clients to advise them on capital allocation decisions. We continue to evaluate the comparative strengths and advantages of both absolute and intensity-based metrics. Absolute-based metrics are also an area of interest for many of our stakeholders and have a role to play in how we understand the impact of our emissions reduction efforts. In 2023, we intend to share more details on our approach to absolute-based metrics, including disclosure of absolute financed emissions in key sectors of our financing portfolio.
+How We Measure Portfolio-Level Emissions Intensity 
+for Targeted Sectors
+To measure portfolio-level emissions intensity in each of the 
+included sectors, we compute a portfolio-weighted average of emissions performance for our clients in the sector portfolio. Weights are determined based on our cumulative financing to each client as a share of our total financing to the sector. We include both financing that we directly provide (such as through revolving credit facilities) as well as our share of facilitated financing (such as through our underwriting in debt and equity capital markets). The vast majority of this activity occurs in our CIB and CB LOBs. In the case of revolving credit facilities, financing amounts reflect the total limit of available credit outstanding, not just the drawn amount. The following highlights key aspects of the methodology for each of the newly included sectors:
+Cement
+We evaluate GHG emissions (Scopes 1 and 2) from cement manufacturing, which include both energy-related and process emissions and account for approximately 90% of total lifecycle emissions for the industry. By using cementitious product, we are able to capture both the primary driver of sector emissions (i.e., clinker production) and potential levers for reducing them, including the use of cement and clinker substitutes.Iron & Steel 
+We focus on GHG emissions associated with crude steel production (Scopes 1 and 2), which captures emissions and activity from both primary and secondary steelmaking processes and accounts for approximately 97% of total value chain emissions for the sector. This enables us to account for variations in the emissions profiles of different steelmaking processes while also concentrating on the full range of decarbonization strategies for the sector, including electrification, increasing scrap recycling, using lower-carbon energy inputs such as biomass or hydrogen, and deploying carbon capture, use and storage technologies.JPMC Sector 
+ =  Σ  Client Weight Client 
+Portfolio in JPMC Sector 
+Emissions Metric  Portfolio (%)   ×  Emissions 
+Metric  ( )Aviation
+Our target focuses on direct (Scope 1) CO
+2 emissions for revenue-generating 
+passenger service and belly freight operations of airline companies, specifically from combustion of fuels during flight. This allows us to focus on companies’ relative progress in reducing and ultimately replacing the use of fossil-based jet fuel, which is the primary driver of the sector’s climate impact. 
+For more information on the 
+methodology behind setting our new net-zero aligned targets, please see our 2022 Carbon Compass
+SM methodology .
+13 The targets above are based on available data and scenario projections as of September 2022. Future updates to the IEA NZE scenario and/or other inputs — for example, to reflect changes in global emissions, available technologies or economic conditions — may result in changes to the 
+implied emissions trajectories, and therefore our targets for these sectors. Improving visibility, quality and availability of data may also necessitate additional restatements of our baselines for one or more of the included sectors. We will regularly monitor these changes and assess the need to 
+recalibrate our metrics and targets as appropriate.58 59
+Progress on 2030 Targets – Oil & Gas, Electric Power and Auto Manufacturing14
+SECTOR DETAILS BASELINE 2030  
+TARGETPROGRESS
+Scope(s) 
+IncludedScenario 
+UsedUnit of 
+Measure-
+mentBaseline 
+YearPortfolio 
+BaselinePortfolio 
+as of June 
+30, 2022% Change 
+from Portfolio 
+Baseline
+Oil & GasOperationalScopes  1 
+and 2IEA SDS g CO 2e / MJ 20195.4 
+(revised)15-35%  
+from 
+baseline5.4 0%
+End Use Scope 3 IEA SDS g CO 2 / MJ 2019 66.5-15%   
+from 
+baseline67.0 +1%
+Electric PowerScope 1 IEA SDSkg CO 2 / 
+MWh2019 375.6115.4
+-69% from 
+baseline294.8 -22%
+Auto 
+ManufacturingScopes 1, 2 
+and 3IEA B2DS g CO 2e / km 2019 157.892.3
+-41% from 
+baseline141.5 -10%Progress Toward Our Existing Targets
+Since publishing portfolio-level emissions intensity reduction targets for Oil & Gas, Electric Power and Auto Manufacturing sectors 
+in May 2021, we have been working internally and with clients to guide our portfolios toward our 2030 goals. Externally, we are engaging with our clients on key climate topics and helping them transition toward a low-carbon future. Using our expertise in providing advisory services and facilitating capital, we are working with our clients toward formulating and taking action toward achieving their transition strategies. Internally, we created our CAF process to score clients on their carbon performance as one consideration as part of our decision-making for new transactions within in-scope sectors and have set up governance frameworks to monitor and guide our progress. 
+We believe the actions we are taking today will position us well to accelerate progress toward our targets in the years ahead — 
+understanding that such progress will not be linear, and knowing it will take time to implement effective solutions while also continuing to promote energy security and meet important economic and societal needs around the world. We are committed to responding to this challenge over the long term.
+The below table summarizes our portfolio emissions intensity for the Oil & Gas, Electric Power and Auto Manufacturing sectors as 
+of June 30, 2022. More detail on our progress in each of these sectors is provided below. To learn more about the methodology for setting sector-specific targets please see our Carbon Compass
+SM methodology (2021).Oil & Gas
+We have two 2030 targets for our Oil & Gas portfolio: Operational (covering Scopes 1 and 2) and End Use (covering Scope 3). 
+As noted in our Carbon Compass
+SM (2021) methodology , 
+improving visibility, quality and availability of data may 
+also necessitate restatements of our baselines from time to time. We utilize a quantitative and qualitative materiality approach to assess the appropriateness of restatement for each baseline metric, where applicable. As such, we have revised our Oil & Gas Operational 2019 baseline to reflect data quality improvements over the past year. See page 62 for more details on the data challenges we have experienced and how we are working to address them. 
+Against this revised 2019 baseline, progress on our Oil & Gas 
+Operational 2030 target remains flat, reflecting marginal emissions intensity and financing changes in the portfolio. We expect the portfolio will benefit from the maturity of our CAF process and continued assessments of new in-scope transactions over time.
+Progress on our Oil & Gas End Use 2030 target, as of June 30 
+2022, is marginally higher compared to our 2019 baseline, driven by portfolio companies shifting their fuel production mix. The difference between the relative carbon intensity 
+of oil and natural gas means that a tilt toward oil will result 
+in higher portfolio End Use carbon intensity. Amidst the backdrop of the pandemic and volatile commodity markets, our portfolio fuel mix for the 2020 emissions year had a higher proportion of oil than natural gas products, resulting in a higher End Use emissions intensity compared to 2019. While we recognize the necessity and likelihood of the long-term shift of energy demand away from fossil fuels, the challenging macroeconomic environment that we are operating in makes the decreases in both Operational and End Use carbon intensity our clients are expecting to achieve difficult.Electric Power 
+Electric Power portfolio emissions intensity has decreased significantly compared to our 2019 baseline. This was driven by a combination of our clients moving their generation mix to lower emissions sources and the Firm increasing financing to companies and projects with lower emissions intensity.
+Auto Manufacturing
+Auto Manufacturing portfolio emissions intensity has decreased compared to our 2019 baseline. This was driven mainly by banking new and emerging pure-play EV manufacturers that are bringing EVs to customers across the globe. The sector’s overall effort to embrace and speed toward an all-EV future, as well as the behavioral and policy changes that are catalyzing the shift are prerequisites and critical considerations in allowing us to continue to make progress toward our portfolio-level emissions intensity reduction target. 
+14 The targets above are based on available data and scenario projections as of April 2021. Future updates to the IEA SDS scenario and/or other inputs — for example, to reflect changes in global emissions, available technologies or economic conditions — may result in changes to the required emissions 
+trajectories, and therefore our targets for these sectors. Improving visibility, quality and availability of data may also necessitate additional restatements of our 2019 baseline for one or more of the included sectors. We regularly monitor these changes and assess the need to recalibrate our metrics 
+and targets as appropriate. 
+15 Revised 2019 portfolio baseline to 5.4 g CO 2e / MJ from originally disclosed 6.1 g CO 2e / MJ. The reduction and restatement of 2019 baseline Oil & Gas Operational Emissions Intensity is mainly due to a change in historic equity ownership data inputs to our model for a subset of our portfolio companies. 60 61
+DATA CHALLENGES
+Improving the quality, timeliness and availability of data is a key component to properly measure emissions and monitor progress 
+over time. This section summarizes the key points on data considerations and challenges that we continue to face, and the steps we are taking to address them.
+Measurement vs. Estimation
+There are well-known challenges with the quality and reliability of emissions data in many sectors. This means we sometimes rely on estimated versus directly measured emissions data. For example, in the Oil & Gas sector, there are inconsistencies in the measurement, management and reporting of data across organizations, as well as the lack of reliable and standardized techniques for measurement in certain areas, such as methane emissions. As a result, reported methane emissions rely on estimation methods that are less accurate. We are working with industry partners and NGOs to help make direct measurement technologies the preferred method of tracking and reporting methane emissions. More generally, emerging best practices, including reporting to organizations which provide data aggregation services and soliciting assurance for reported GHG emissions data, are steps in the right direction.
+Data Lag
+Another challenge we consistently face is with the timely availability of data inputs to calculate carbon intensity. In the Auto Manufacturing sector, for example, certain data from regulatory sources can experience significant delays — sometimes two to three years. In such cases, we seek to address gaps using a defined data waterfall approach that may include company-disclosed figures, provided they are verified and prepared in line with recommended protocols that we have identified. Failing that, we use proxy values, though they may not always be ideal for decision-making. As climate- and sustainability-focused disclosure becomes more standardized, we expect lags — especially on company-reported data — to reduce gradually. Comparable Methodologies
+While we seek to design and implement robust proxies that minimize the impact on our portfolio when preferred data becomes available, there are cases where this may not be achievable. For example, in our Electric Power portfolio, a small proportion of companies for which no data is available receive a default carbon intensity based on a relatively conservative proxy. Unless the company’s North America Industry Classification System (“NAICS”) codes or project financing use of proceeds indicate it to be a zero-emitting power producer, in which case it is assigned a carbon intensity of zero, the company is assigned a fuel mix that is equal parts coal and natural gas. However, due to the large differences between the emissions intensities of the different fuel types, there could be significant differences between proxies and actual data. To mitigate this, we are continuing to work with our clients and other stakeholders to improve overall quality and availability of data. We expect to periodically review our data sourcing choices to assess whether better alternatives have become available.
+Lack of Data on Emerging Decarbonization 
+Technologies
+Emerging technologies such as hydrogen, biofuels, carbon 
+capture, use and storage and carbon credits — will play a key role in helping clients decarbonize. However, data availability in these areas remains a significant challenge. Innovative solutions continue to emerge — such as the use of blockchain to trace carbon credit ownership and retirement, mitigating concerns associated with the use of unverified public reports — but lack the scale today that is necessary to meaningfully impact our portfolio-level emissions intensity. We recognize that data in this space is evolving and will require us to consider viable data solutions as they may become available. Minimizing Our Operational Impact
+Our commitment to minimizing the environmental impact of our operations includes measuring and reporting our Scope 1, 2 and certain Scope 3 emissions and setting targets to improve our performance across several related dimensions. A summary of our current operational targets is provided below, followed by a detailed breakdown and discussion of our performance in key climate-related areas. 
+GHG Emissions
+JPMorgan Chase’s 2021 operational GHG emissions were driven by two primary activities: powering our buildings (e.g., electricity, heating and cooling) and business travel. Scope 1 GHG emissions include those from building operations and company-owned aircraft and vehicles. Scope 2 emissions, from purchased electricity, are the largest driver of our building-related emissions and overall operational GHG footprint. The majority of our business travel-related emissions are Scope 3 emissions from commercially operated air and rail; reimbursed personal vehicle and rental car travel; and hotel stays. A small portion of our business travel emissions are Scope 1 emissions from company-owned aircraft and vehicles.In 2020, we set a target to achieve and maintain carbon neutrality across our global operations annually, which we have met for each of the last two years (2020 and 2021) through the purchase of carbon credits. 
+Although we aim to continue maintaining carbon neutrality and 
+meeting 100% of our global power needs with renewable energy, we also believe it is important to continue working to reduce our underlying emissions on an ongoing basis. To that end, in 2021 
+we announced a new target to reduce Scope 1 and 2 (location-
+based) emissions by 40% by 2030 from a 2017 baseline.2021 Progress Towards Our Operational Sustainability Targets
+Reduc e office paper use by 
+90% by 2025 vs. a 2017 
+baselineReduce global water use by 20% by 2030 vs. a 2017 baselineMaintain carbon neutral operations 
+TARGET MET
+ANNUALLY RECURRINGTARGET MET
+ANNUALLY RECURRINGTARGET MET
+ANNUALLY RECURRINGTARGET MET
+ANNUALLY RECURRINGSource renewable energy 
+for 100% of our global power needsDivert 100% of e-waste from landﬁlls
+Reduce Scope 1 and Scope 2 greenhouse gas emissions by 40% by 2030 vs. a 2017 
+baselinePurchase 100% of our paper from certiﬁed sources
+Satisfy at least 70%  of our 
+renewable energy goal with on-site renewable energy and 
+off-site long-term renewable  
+energy contracts by 2025
+TARGET PROGRESS TARGET PROGRESS TARGET PROGRESS
+100
+40%TARGET PROGRESS
+17% 100 23% 100 8%
+70% 20%100 55%
+90%
+62 63
+GHG Emissions 2017 –202116
+2021 2020 2019 2018 2017
+GHG EMISSIONS (mt CO 2e),iii
+Scope 1 – directiii84,911 81,944 102,423 98,505 93,031
+Natural gas  58,820  55,080  68,428  64,975  60,422 
+Propane  57  228  300  260  234 
+Fuel oil  627  629  1,391  1,500  1,387 
+Jet fuel  6,228  4,013  8,558  8,640  9,160 
+Fugitive emissions  17,517  18,940  19,448  20,903  20,121 
+Diesel  1,031  2,568  2,881  1,302  1,655 
+Fleet  631  486  1,416  924  52 
+Scope 2 (location) – indirect 755,514 816,056 851,622 919,876 922,762
+Purchased electricity  749,234  811,127  842,994  907,508  913,188 
+Purchased steam and chilled water  6,280  4,929  8,627  12,368  9,574 
+Total Scope 1 and Scope 2 (location) 840,425 898,000 954,045 1,018,381 1,015,794
+Change from 2017 baseline -17% -12% -6% 0%  -   
+GHG emissions intensityiv6.9 7.5 8.2 9.3 10.1
+Scope 2 (market) – indirect 6,280 4,929 711,595 746,043 793,746
+Purchased electricity  -    -    702,968  733,675  784,172 
+Purchased steam and chilled water  6,280  4,929  8,627  12,368  9,574 
+Total Scope 1 and Scope 2 (market) 91,191 86,873 814,018 844,548 886,777
+Scope 3 (category 6 – business travel)v 38,336  36,169  181,004  176,356  187,020 
+Verified carbon offset emissions reductions  129,527  123,042  189,327  184,769  175,155 
+Net emissions: Scope 1, 2 (market), and 3  -    -    805,694  8
+36,135  898,642 
+i. JPMorgan Chase utilizes an operational control approach to establish boundaries for our GHG inventory. This includes owned and leased facilities for 
+which we control the energy usage. 
+ii. Scope 1, 2, and 3 emissions were verified for 2017, 2018, 2019, 2020, and 2021. Water withdrawal has been verified for 2018, 2019, 2020, and 2021. Other 
+data has not been subject to external verification. Some sources of emissions ha
+ve been excluded as they have been found to be de minimis, accounting 
+for less than 5% of total Scope 1 and Scope 2 emissions.
+iii. Scope 1 emissions include emissions from corporate air travel and owned vehicle fleet.
+iv. Includes Scope 1 and 2 location-based GHG emissions; mtCO 2e/$M revenue
+v. Scope 3 emissions include business travel (air, rail, car, and hotel stays for 2020 and 2021, air and rail travel in 2019, and only air travel in 2017 and 2018).Renewable Energy Use 2017 –2021
+2021 2020 2019 2018 2017
+RENEWABLE POWER (MWH)
+Progress toward 70% long-term renewable target 23% - - - -
+Electricity production (on-site solar)  26,125  13,929  4,569  9,665  2,598 
+Contractual instrumentsi 2,060,483  2,166,728  380,901  375,280  370,801 
+Proportion of power use from renewable sources (production and 
+instruments)100% 100% 18% 17% 18%
+i. Contractual instruments include applicable EACs, RECs from PPAs, UK renewable energy guarantees of origin, and renewable supply contracts.Renewable Energy
+With the majority of our operational emissions linked to electricity use, increasing our use of renewable energy is a central part of 
+our strategy for reducing emissions. Since 2020, we have achieved our target of meeting 100% of our global power needs annually using renewable energy, which we have accomplished through a combination of on-site installations at JPMorgan Chase facilities and the purchase of renewable energy via both EACs and long-term power purchase agreements. 
+The table summarizes our global energy consumption by displaying renewable energy use obtained via either on-site generation or 
+contractual instruments. 
+In recognition of the challenges and limitations associated with many av
+ ailable EACs, we are also working to increase the 
+proportion of renewable energy we source via other methods, including on-site generation and long-term power purchase 
+agreements. We have set a target to increase this proportion to at least 70% by 2025. The table summarizes our emissions for the categories included in our target, including Scope 1 (dir ec
+t) GHG emissions from 
+building operations and company-owned aircraft and vehicles; Scope 2 (indirect) GHG emissions from purchased electricity; and Scope 3 (indirect) GHG emissions associated with business travel. 
+16 Further definitions regarding Scope 2 accounting:
+• Location-based method for Scope 2 accounting: A method to quantify Scope 2 GHG emissions based on average energy generation emission factors for 
+defined locations, including local, subnational, or national boundaries. 
+• Market-based method for Scope 2 accounting: A method to quantify Scope 2 GHG emissions based on GHG emissions emitted by the generators from 
+which the reporter contractually purchases electricity bundled with instruments, or unbundled instruments on their own.
+64 65
+Looking Ahead
+As a global financial institution, we can play an important role in helping to respond to the climate challenge and meeting the 
+world’s energy needs. We are supporting clients across sectors and building our own capabilities to help accelerate the transition to a low-carbon economy. Moving forward, we will plan to expand our efforts across the pillars of our environmental sustainability strategy, including:
+• Enhancin g climate-related disclosures 
+by publishin
+g Scope 3 absolute financed 
+emissions next year, continuing to set portfolio-level targets for additional sectors, and re-evaluating our targets for the Oil & Gas, Electric Power and Auto manufacturing sectors with intention of aligning them with the IEA NZE scenario.• Scalin g green solutions with the aim 
+of con
+tributing to global climate 
+and sustainability goals, including pursuing our target to finance and facilitate $1 trillion to support climate action by the end of 2030. • Deplo ying our capital in a 
+responsible w
+ay and pursuing the 
+goals of the Paris Agreement and our commitments to align our lending and investment portfolios with net-zero emissions by 2050. We are committed to setting high standards in our business activities and with our stakeholders. Our governance structures are designed to promote accountability, transparency and ethical behavior, consistent with our corporate standards and Business Principles. We have already implemented governance structures to help us drive progress toward key commitments and targets and to support both internal and external transparency on our work. This includes developing processes and controls for data disclosure, and verification. Moving forward, we will continue to evaluate whether further enhancement of these governance systems is warranted. 
+We will continue to adapt and enhance our environmental sustainability strategy, governance systems, approach to risk 
+management, and transparency on our work and progress. In the near term, we are focused on progressing how we consider climate-related risks; collect, analyze and disclose climate-related data; and set, measure and report on our climate-related commitments. Moving forward, we may enhance our efforts based on internal learnings, advances in market best practice and changing regulations.
+• Minimizin g our operational impact 
+by c
+ontinuing to advance innovative 
+solutions to reduce our direct and indirect GHG emissions in our corporate offices, bank branches and data centers.• W e anticipate that our progress will 
+not be linear, but w
+e will continue to 
+show our work, reporting on details of our approach and progress.Conclusion & Appendices
+66 67
+Disclaimers
+The information provided in this report reflects JPMorgan Chase’s approach to ESG as at the date of this report and is subject 
+to change without notice. We do not undertake to update any of such information in this report. Any references to “sustainable investing”, “sustainable investments”, “ESG” or similar terms in this report are intended as references to the internally defined criteria of the Firm or our businesses only, as applicable, and not to any jurisdiction-specific regulatory definition. 
+Our approach to inclusion of disclosures in this report is informed by the TCFD recommendations and is different from disclosures 
+included in mandatory regulatory reporting, including under Securities and Exchange Commission (“SEC”) regulations. While this report describes events, including potential future events, that may be significant, any significance does not necessarily equate to the level of materiality of disclosures required under U.S. federal securities laws. 
+This report contains forward-looking statements within the meaning of the Private Securities Litigation Reform Act of 1995. These 
+statements relate to, among other things, our goals, commitments, targets, aspirations and objectives, and are based on the current 
+beliefs and expectations of JPMorgan Chase’s management and are subject to significant risks and uncertainties, many of which 
+are beyond JPMorgan Chase’s control. Expected results or actions may differ from the anticipated goals and targets set forth in the forward-looking statements. Factors that could cause JPMorgan Chase’s actual results to differ materially from those described in the forward-looking statements include the necessity of technological advancements, the evolution of consumer behavior, the need for thoughtful climate polices, the potential impact of legal and regulatory obligations, and the challenge of balancing our commitment to short-term targets with the need to facilitate an orderly and just transition and energy security. Additional factors can be found in JPMorgan Chase’s Annual Reports on Form 10-K, Quarterly Reports on Form 10-Q and Current Reports on Form 8-K filed with the SEC. Those reports are available on JPMorgan Chase’s website (https://jpmorganchaseco.gcs-web.com/ir/sec-other-filings/overview) and on the Securities and Exchange Commission’s website (https://www.sec.gov/). JPMorgan Chase does not undertake to update any forward-looking statements. 
+This report does not include all applicable terms or issues and is not intended as an offer or solicitation for the purchase or sale 
+of any financial instrument or as an official confirmation of any transaction or a recommendation for any investment product or strategy. Any and all transactions (including potential transactions) presented herein are for illustration purposes only.
+This material does not and should not be deemed to constitute an advertisement or marketing of the Firm’s products and/or 
+services or an advertisement to the public.
+No reports, documents or websites that are cited or referred to in this document shall be deemed to form part of this report. 
+Information contained in this report has been obtained from sources, including those publicly available, believed to be reliable, 
+but no representation or warranty is made by JPMorgan Chase as to the quality, completeness, accuracy, fitness for a particular 
+purpose or non-infringement of such information. Sources of third-party information referred to herein retain all rights with respect to such data and use of such data by JPMorgan Chase herein shall not be deemed to grant a license to any third party. The use of any third-party trademarks or brand names is for informational purposes only and does not imply an endorsement by JPMorgan Chase or that such trademark owner has authorized JPMorgan Chase to promote its products or services.Appendices
+Resources
+1. Carbon CompassSM Methodology (2021)
+2. Carbon CompassSM Methodology (2022)
+3. Center for Carbon Transition
+4. JPMAM 2022 TCFD Report5. Sustainable Development Target Approach
+6. Sustainable Investing (Asset Management)
+7. Sustainable Investing (Global Private Bank)List of Acronyms
+AM Asset Management 
+AWM Asset & Wealth ManagementCAF Carbon Assessment FrameworkCB Commercial Banking CCB Consumer & Community Banking CCT Center for Carbon TransitionCEO Chief Executive OfficerCFO Chief Financial OfficerCIB Corporate & Investment BankCIO Chief Investment OfficeCO
+2 Carbon Dioxide
+CRO Chief Risk OfficerDAC Direct Air Capture E&S Environmental and SocialEAC Energy Attribute CertificateESG Environmental, Social and GovernanceEV Electric VehicleFBR Firmwide Business ResiliencyGCM Global Crisis ManagementGESRM Global Environmental and Social Risk Management GHG Greenhouse Gas GMSC Global Markets Sustainability CenterGSOC Global Security Operation CenterGTRM Global Technology Resiliency ManagementIEA International Energy AgencyIPCC Intergovernmental Panel on Climate ChangeIPO Initial Public OfferingIR Investor RelationsJPMAM J.P. Morgan Asset ManagementLOB Line of BusinessmtCO
+2e Metric Tons of Carbon Dioxide Equivalent
+MW MegawattsMWh Megawatt HourNGFS Network for Greening the Financial SystemNGO Non-Governmental OrganizationNZBA Net-Zero Banking AllianceNZE Net-Zero Emissions by 2050 ScenarioOC Operating CommitteeOCFO Office of the Chief Financial OfficerPB Private BankRCP Representative Concentration PathwayRECs Renewable Energy CertificatesRTK Revenue Tonne-KilometersSDS Sustainable Development ScenarioTCFD Task Force on Climate-Related Financial DisclosuresU.K. United KingdomU.S. United States
+68 69

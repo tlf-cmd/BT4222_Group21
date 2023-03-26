@@ -1,0 +1,3970 @@
+Environmental
+Social
+Governance
+Report
+Apple’s 2021 ESG ReportContents
+ Introduction
+3 
+ L
+etter from Tim Cook
+4 
+  O
+ur approach 
+ 
+Environment  Environmental
+7  C limate change
+10 
+ R
+esources
+12 
+ S
+marter chemistry 
+O
+ur People 
+ Social
+14  I nclusion and diversity 16 
+ S
+upporting our people
+17 
+ B
+enefits
+18 
+ C
+ompensation
+20 
+ E
+ngagement
+20 
+ W
+orkplace practices and policies
+21
+ A
+pple’s COVID-19 response
+23 
+ H
+ealth and safety at Apple 
+ 
+Customers
+26 
+ P
+rivacy
+28 
+ A
+ccessibility
+29 
+ E
+ducation
+31 
+ H
+ealth
+33 
+ C
+aring for customers 
+ 
+Suppliers
+36 
+ O
+ur approach to supplier responsibility
+37 
+ P
+artnering with our suppliers
+40 
+ S
+upplier employees 
+42 
+ E
+nvironment and the supply chain
+43 
+ W
+orking in partnership 
+ 
+Communities
+45 
+ C
+ommunity initiatives
+48 
+ C
+ommunity investments
+51 
+ J
+ob creation
+O
+ur Business  Governance
+53  C orporate governance55 
+ O
+ur commitment to human rights
+56 
+ E
+thics and compliance
+58 T
+ax payments
+58 
+ S
+takeholder engagement 
+ 
+Appendix
+60 
+ A
+wards and recognition
+61 
+ U
+nited Nations Sustainable Development Goals
+63 
+ A
+bout the report 
+64 
+ No
+tes
+ESG Index ↗︎
+The rainbow arches at Apple Park in 
+Cupertino, CA are a nod to Apple’s original logo and an expression of our inclusive values.This report contains forward-looking statements and actual results may differ. Numbers and percentages in this report include estimates or approximations and may be based on assumptions. For more information, see ‘About the report’.“At the heart of our work is a 
+steadfast commitment to doing 
+right by the planet and its people. We’re transparent about our ambitions and the steps we’re taking toward them, because we know the global challenges we’re tackling—and their solutions—are bigger than any one company or individual.”
+Lisa  Jackson  
+Vice President Environment, Policy and Social InitiativesAt Apple, we are optimistic about technology’s awesome potential for good. 
+But we know that it won’t happen on its own. Every day, we work to infuse 
+the products and services we make with decency and humanity. And we 
+strive to build the best products on earth while leaving the world better 
+than we found it.
+Living up to that commitment means staying true to the values that have defined Apple from the 
+beginning. It means innovating to protect people’s privacy, which we believe is a fundamental human 
+right. It means creating technology that is accessible for all people. It means building a company culture 
+that is inclusive and a team that represents the diversity of our world. It means treating our colleagues, 
+customers, and supply chain partners with dignity and respect, and protecting the planet we all share.
+In all this, we’re mindful that global challenges like climate change must be tackled not just by 
+governments but by innovative companies. We are proud to be carbon neutral today, and we’ve 
+set an ambitious goal to make our entire worldwide supply chain and the use of our products carbon 
+neutral by 2030. We’re also partnering with nonprofit and community leaders to help students access 
+a quality education and learn vital skills like coding, to break down systemic barriers to opportunity 
+in our economy, and to invest in the next generation of diverse entrepreneurs and problem-solvers.
+This report comes in the wake of a year defined by the COVID-19 pandemic, and from its earliest 
+days, the first question we asked ourselves was, “how can we help?” We met an urgent call to action 
+by working with our partners to source millions of masks, designing and manufacturing millions of face 
+shields, and supporting medical workers and first responders however we could. No period has taught 
+us more about protecting each other’s health, and we plan to carry the lessons we’re learning with us 
+long into the future.
+At Apple, we are pushing this work forward every day, and we’re deeply committed to measuring our 
+efforts and improving upon them—day by day and year by year. We do so in the belief that at its best, 
+technology can empower people, enrich their lives, and help everyone participate in the always-urgent 
+work of building a better world.
+Tim Cook  
+CEO
+Our Business Appendix Our People Suppliers Customers Communities Environment Apple’s 2021 ESG Report   3 Introduction We are committed to demonstrating that business can and should be a force 
+for good. Achieving that takes innovation, collaboration, and a focus on serving 
+others. It also means leading with our values  in the technology we make, the way 
+we make it, and how we care for people and the planet we share. We’re always 
+working to leave the world better than we found it, and to create powerful tools  
+that empower others to do the same.
+The initiatives described in this report speak to our long-standing commitment to 
+advancing initiatives across Environmental, Social, and Governance (ESG) efforts.Our approach 
+Environmental
+We consider our environmental impact in everything we do:
+• We’re carbon neutral for our own operations, 
+including business travel and employee 
+commute, and are progressing toward an 
+urgent goal to be carbon neutral across our 
+entire business—including the full life cycle 
+of our products—by 2030. 
+• We’re on an ambitious journey to one day 
+make our products using only recycled or 
+renewable materials. • We design our products to be safe for anyone 
+who assembles, uses, or recycles them—and 
+to be better for the environment.
+In all this work, we’re partnering with communities 
+and local leaders to make sure our environmental 
+efforts are also a force for equity and justice.Read more about our  
+work to protect the  
+Environment  (p6)
+Our Business Appendix Our People Suppliers Customers Communities Environment Apple’s 2021 ESG Report   4 Introduction Social 
+At Apple, we work every day to put people first:
+• We’re committed to inclusion and diversity. 
+And we’re investing in programs to ensure more 
+positive outcomes for communities of color.
+• We have programs and benefits to support the 
+development of all of our team members.
+• We continue to prioritize the health and safety of 
+our teams, customers, supplier employees, and 
+communities.
+• We engineer privacy and security into everything 
+we make, and we are always raising the bar to 
+protect people’s data.
+• We design our products and services to be 
+accessible for the widest range of users.• We find innovative ways to give parents, 
+students, and educators the tools to engage 
+their creativity and explore the world around 
+them, with a specific focus on communities too 
+often denied opportunities.
+• We’re accelerating social change by investing 
+in communities and organizations that are 
+addressing society’s toughest problems. 
+• We hold ourselves and our suppliers to the 
+highest standards of labor and human rights, 
+health and safety, environmental protections, 
+and ethics.Read more about 
+our work to support 
+Our People  (p13)
+Customers  (p25)
+Suppliers  (p35)
+Communities  (p44)
+Governance 
+We embed transparency and accountability at every level of our  company:
+• Apple’s Board and governance structure helps 
+foster principled actions, informed and effective 
+decision-making, and appropriate monitoring of 
+our compliance and performance.• Apple’s Human Rights Policy governs how 
+we treat everyone, including our customers, 
+employees, business partners, and people 
+at every level of our supply chain. 
+• We’re committed to conducting business 
+ethically, honestly, and in full compliance 
+with applicable laws and regulations. Read more about 
+how we operate 
+Our Business  (p52)Our Business Appendix Our People Suppliers Customers Communities Environment Apple’s 2021 ESG Report   5 Introduction   
+Environment
+In this section
+Climate change 7
+Resources  10
+Smarter chemistry  12To support our Prineville, OR data center, 
+we signed a 200-megawatt power 
+purchase agreement for a new wind farm 
+in Oregon—the Montague Wind Power 
+Facility—which entered commercial 
+operation at the end of 2019. It’s our 
+largest project to date, producing over 
+562 million kWh of clean, renewable 
+energy a year. Apple’s 2021 ESG Report   6 Introduction Our Business Appendix Our People Suppliers Customers Communities EnvironmentOur work is led by Lisa 
+Jackson, Apple’s Vice 
+President of Environment, 
+Policy and Social Initiatives, 
+reporting directly to CEO 
+Tim Cook. The Office 
+of Environment, Policy 
+and Social Initiatives 
+works with teams across 
+Apple to set strategy, 
+engage stakeholders, 
+and communicate progress. 
+Our integrated approach 
+means that decisions 
+about Apple’s values, 
+including environment, 
+are reviewed and supported 
+at the highest levels of 
+the company.We are committed to creating products that enrich the lives of our customers 
+in a way that protects the earth’s resources that we all share. In 2018, we 
+reached our goal of sourcing all electricity for our stores, data centers, and 
+offices from renewable sources. Then in 2020, Apple became carbon neutral 
+for our worldwide operations, including business travel and employee commute. 
+We are now tackling the remainder of our footprint with an ambitious goal to 
+make our products carbon neutral by 2030—from our supply chain to the 
+energy customers use to power our devices.  
+Our strategy focuses on three interconnected areas: climate change, resources, 
+and smarter chemistry. Our comprehensive carbon footprint informs the work 
+we do to reduce our emissions, including our roadmap to carbon neutrality. 
+Within our resources pillar, we’re working to make our products using only 
+recycled and renewable materials and eliminate plastic from our packaging.  
+And we are committed to using safer materials to create better products 
+for those who design, make, use, and recycle them. All the work we do aims 
+to improve environmental health, not just for our customers, suppliers, and 
+employees, but also for broader global communities. 
+Climate change
+As climate change increasingly threatens 
+biodiversity and puts people’s access to clean 
+air, adequate food, safe drinking water, and homes 
+at risk, we believe we have a responsibility to take 
+urgent and decisive action. 
+Since April 2020, Apple has been carbon neutral 
+across all of our corporate emissions, including our 
+stores, data centers, and corporate facilities, as 
+well as business travel and employee commuting. 
+We started by investing in clean energy around the 
+world. Since 2018, Apple has sourced 100 percent 
+of its corporate and retail electricity from 
+100 percent renewable sources.
+In 2020, we unveiled an ambitious plan to achieve 
+carbon neutrality for our entire carbon footprint, 
+including our products, by 2030. We plan to reach 
+this goal by reducing our emissions by 75 percent 
+compared to 2015,1 and by investing in carbon 
+removal solutions for the remaining emissions.Our 10-year climate roadmap will address Apple’s 
+carbon footprint through the following five pillars:
+• Low-carbon design:  We’re making products 
+with more recycled materials and working to 
+reduce the amount of energy our devices use.
+• Energy efficiency:  We’re using energy more 
+efficiently across retail stores, offices, data 
+centers, and manufacturing sites.
+• Renewable electricity: We’re committed to 
+transitioning our entire manufacturing supply 
+chain to 100 percent renewable electricity 
+generated from solar, wind, and other 
+renewable projects.
+• Direct emissions abatement:  We’re innovating 
+and improving the processes in our facilities 
+and supply chain to reduce greenhouse  
+gas emissions.
+• Carbon removal:  We’re investing in working 
+forests and ecosystem restoration in ways that 
+respect communities and remove carbon from 
+the atmosphere.We’re leveraging the funds 
+from Apple’s €2 billion 
+(about $2.2 billion) bond 
+issuance in 2019 to help 
+meet our climate neutrality 
+goal. Read about the 
+projects funded over the 
+last year in our 2020 Green 
+Bond Report . To date, Apple 
+has issued about $4.7 billion 
+in green bonds.
+Read more about our 
+environmental efforts in 
+our 2021 Environmental 
+Progress Report , including 
+information about Apple’s 
+renewable energy  projects .Introduction Our Business Appendix Our People Suppliers Customers Communities Apple’s 2021 ESG Report   7 EnvironmentProgress toward neutrality 
+In 2020, we became carbon neutral for our 
+corporate operations. To reach carbon neutrality 
+for the full life cycle of our products by 2030, we’ve 
+swiftly been deploying innovations at scale—like 
+decarbonizing materials used in our products, 
+rapidly deploying renewable energy across our 
+operations and our supply chain, and launching 
+a first-of-its-kind fund to invest in nature-based 
+carbon removal solutions.
+In 2020, Apple’s comprehensive carbon footprint 
+was 22.6 million metric tons. We’ve decreased this 
+footprint by 40 percent since 2015, our baseline 
+year, even as net revenue has increased. In 2020 
+alone, we avoided more than 15 million metric tons 
+of carbon emissions by using low-carbon materials, 
+driving energy efficiency, and switching to clean 
+energy. Since 2011, our Scope 1 and 2 emissions 
+have declined by 73 percent, and we had zero 
+Scope 2 electricity-related emissions for the 
+second year in a row.
+Low-carbon design
+We believe that well-designed products have a 
+lower environmental footprint. Our carbon footprint 
+helps us identify opportunities to reduce the 
+carbon intensity of our product designs through 40% 
+decrease in emissions 
+across our entire value 
+chain since 2015.
+100% 
+renewable energy sourced 
+for all Apple facilities.
+110+ 
+suppliers in 24 countries 
+committed to 100 percent  
+renewable electricity for 
+Apple production.
+Read more about our 
+efforts to tackle climate 
+change, including risks and 
+opportunities, in our 2021 
+Environmental Progress 
+Report  and our CDP 
+Climate Change  response .material efficiency, use of low-carbon materials, 
+and product energy efficiency. For example, several 
+of our products use 100 percent recycled aluminum 
+in their enclosures, helping reduce our carbon 
+emissions associated with aluminum by 72 percent 
+since 2015. 
+Product energy use accounts for 19 percent of our 
+carbon footprint, so we’ve set aggressive targets 
+to reduce this. By addressing this in the earliest 
+design phases, the average product energy use 
+across all our major product lines has declined by 
+more than 70 percent since 2008.2 And in fiscal 
+year 2020, 100 percent of our eligible products 
+received an ENERGY STAR rating for superior 
+energy efficiency.3
+Energy efficiency
+Our energy efficiency goals extend well beyond 
+our products. We’re focused on using less energy 
+across our operations and in our supply chain. 
+At our facilities, we track energy use and explore 
+ways to save energy: renovating and retrofitting 
+older locations, designing new facilities with energy 
+efficiency in mind, and working with local utilities on 
+energy efficiency strategies. 
+In total, Apple-created renewable energy account for 90 percent of the renewable electricity our facilities use, 
+and include wind projects in Viborg, Denmark, and Prineville, Oregon (pictured above).Introduction Our Business Appendix Our People Suppliers Customers Communities Apple’s 2021 ESG Report   8 EnvironmentThe Impact Accelerator
+To ensure that our work to protect the planet also helps advance 
+equity, Apple has launched an Impact Accelerator  for Black- and 
+Brown-owned businesses.5 The Accelerator expands access to 
+opportunity in sectors like renewable energy, carbon removal, 
+and recycling innovation. We are making investments in these 
+sectors to help fight systemic barriers impacting communities 
+that are disproportionately affected by environmental issues 
+like climate change. With customized training, access to Apple 
+experts, and an expanding alumni community, our Impact 
+Accelerator is tailored to support companies as they pursue 
+their next stage of development.
+The Impact Accelerator is just one of many efforts within Apple’s 
+$100 million Racial Equity and Justice Initiative , which focuses on 
+education, economic equality, and criminal justice reform in the 
+United States. With our partners, we aim to redefine business as 
+usual and drive progress toward a more equitable future.
+Fifteen Black- and Brown-owned green technology and clean energy businesses are joining 
+Apple’s inaugural Impact Accelerator, part of the company’s Racial Equity and Justice Initiative. “Systemic racism and climate change 
+are not separate issues, and they will 
+not abide separate solutions.”
+Lisa Jackson
+Vice President of Environment, Policy and Social InitiativesTo address emissions from manufacturing, which 
+account for approximately 70 percent of our carbon 
+footprint, we’ve continued to scale up our Supplier 
+Energy Efficiency Program. This program helps 
+suppliers that use significant amounts of energy 
+to reduce their energy use. In 2020, more than 
+900,000 annualized metric tons of supply chain 
+carbon emissions were avoided, a 44 percent 
+improvement over 2019.4
+Renewable electricity
+Our stores, data centers, and offices currently 
+source 100 percent renewable energy, which 
+reduces emissions while also offering greater 
+control over electricity supply and reducing 
+exposure to cost fluctuations. 
+And we’ve made tremendous progress toward 
+our goal of transitioning our entire manufacturing 
+supply chain to 100 percent renewable electricity 
+by 2030. Launched in 2015, our Supplier Clean 
+Energy Program  has already brought over  
+4 gigawatts of additional renewable energy online 
+to our supply chain, with additional supplier 
+commitments bringing the total to nearly 8 
+gigawatts. The renewable energy already online 
+generated 11.4 million megawatt-hours of clean 
+energy in fiscal year 2020, avoiding 8.6 million 
+metric tons of carbon emissions in our supply chain.
+Direct emissions abatement
+To address the emissions associated with our 
+materials and manufacturing processes, we 
+seek technological solutions through emissions 
+abatement or switching to low-carbon fuel options. 
+For example, we have helped fund research 
+and development for ELYSIS , a technology 
+that eliminates direct GHG emissions from 
+aluminum smelting. And we’ve started to use 
+ELYSIS  aluminum in production of the 16-inch 
+MacBook Pro. 
+Many components of Apple products, including 
+integrated circuit chips and display panels, rely 
+on manufacturing processes that use fluorinated 
+gases with a high global warming potential. We’re 
+partnering with key manufacturers to optimize 
+manufacturing processes, reduce the use of these 
+gases, and deploy abatement technologies to limit 
+any emissions.Introduction Our Business Appendix Our People Suppliers Customers Communities Apple’s 2021 ESG Report   9 EnvironmentFor more information about 
+the responsible sourcing 
+of the materials used in 
+our products, read Apple’s 
+People and Environment 
+in Our Supply Chain report 
+and our Conflict Minerals 
+Report on our Supplier 
+Responsibility  website.65%
+less plastic in packaging 
+since 2015—progressing 
+toward our goal to eliminate 
+plastics from packaging 
+by 2025.
+39,000
+metric tons of e-waste 
+sent to recycling in fiscal 
+year 2020.
+Resources
+Our efforts to conserve resources are directly 
+connected to the creation of our products, and 
+span both our own operations and those of our 
+suppliers. We focus on three main areas: 
+• Materials:  Transition to only recycled or 
+renewable materials in our products and 
+packaging, and maximize material efficiency, 
+product longevity, and recovery. 
+• Water stewardship:  Reduce freshwater use, 
+transition to alternative sources, improve the 
+quality of the water we discharge, and protect 
+shared water resources. 
+• Zero waste to landfill:  Minimize overall waste 
+generated and eliminate waste sent to landfill 
+from key manufacturing facilities, corporate 
+offices, data centers, and retail stores.
+Materials
+We’re using three different levers to reduce 
+our footprint and achieve circularity: sourcing 
+and efficiency; product longevity; and product 
+end-of-life.Sourcing and efficiency
+Our goal is to use only recycled and renewable 
+materials in our products and packaging, and 
+to use these materials more efficiently. And we 
+source materials responsibly, whether from virgin, 
+recycled, or renewable sources. In fiscal year 
+2020, we released seven products with more than 
+20 percent recycled content. The MacBook Air 
+with Retina display (2020) contains 40 percent 
+of material from recycled sources, including 
+100 percent recycled aluminum in the enclosure. 
+And in October 2020, we introduced iPhone 12 
+and iPhone 12 Pro, the first Apple products made 
+with 99 percent recycled tungsten and 98 percent 
+recycled rare earth elements.
+Product longevity
+We want to make the most of the materials we 
+use through designing long-lasting products. 
+We design durable hardware, leverage software 
+updates to extend functionality, provide convenient 
+access to repair services, refurbish devices for 
+their next user, and reuse parts that still have 
+more to give.Carbon removal
+To address the emissions we can’t avoid, we need 
+to take active steps to remove carbon dioxide (CO 2) 
+from the atmosphere. We invest in nature-based 
+solutions that protect and restore forests, wetlands, 
+and grasslands, which store carbon drawn from 
+the atmosphere. Partnering with Conservation 
+International and Goldman Sachs, Apple will invest 
+up to $200 million through the Restore Fund, which 
+aims to remove more than 1 million metric tons of 
+CO 2 per year in its pilot phase. The Restore Fund 
+will align with international standards to ensure that 
+the carbon stored in forests is being conservatively 
+and accurately quantified and is permanently 
+locked out of the atmosphere. We are also closely 
+engaging with local and indigenous communities to 
+respect and protect their rights and livelihoods. Climate scenario analysis
+Looking to the future, we conducted a climate 
+scenario analysis to better understand the potential 
+effects of climate change on Apple’s business. 
+To align with the Task Force on Climate-related 
+Financial Disclosures (TCFD) recommendations, 
+we considered a range of scenarios, including one 
+well below 2° Celsius. The analysis highlighted how 
+our renewable energy program, carbon neutrality 
+goals, and emissions reduction target aligned 
+with the Science Based Targets initiative (SBTi) 
+could improve our resiliency to the impacts of 
+climate change.10.4M
+devices refurbished for new 
+users in fiscal year 2020.6 Introduction Our Business Appendix Our People Suppliers Customers Communities Apple’s 2021 ESG Report   10 Environment41B
+gallons of water saved 
+through our supplier Clean 
+Water program since 2013.
+Read more about our efforts 
+to conserve resources in 
+our 2021 Environmental 
+Progress  Report .Dianshan Lake is located in the Kunshan watershed, where four Apple suppliers have earned Alliance for 
+Water Stewardship certifications. Product end-of-life 
+We are enhancing product collection and recycling 
+innovation, so we and others can use old devices 
+as raw material sources. We continue to provide 
+product take-back and recycling collection 
+programs in 99 percent of the countries where 
+we sell products. And we’ve continued to expand 
+methods for recovering materials from our 
+products. Daisy, a robot designed to disassemble 
+iPhone devices, has now been joined by Dave, 
+which dismantles Taptic Engines from iPhone to 
+enable the recovery of materials like rare earth 
+magnets, tungsten, and steel. And in Austin, Texas, 
+we’ve launched a Material Recovery Lab, where our 
+team works on developing better, more efficient 
+recycling technologies. 
+Water stewardship
+Water is an essential shared resource and vital 
+to our operations. To address the water footprint 
+of our corporate and suppliers’ sites, we aim to 
+use water efficiently, transition from freshwater 
+to alternative sources, discharge used water 
+responsibly, and pursue water stewardship to 
+keep watersheds healthy.
+In fiscal year 2020, Apple facilities used 1.29 billion 
+gallons of water, about 54 percent of which we 
+discharged back into the watershed.7 Freshwater 
+comprised about 90 percent of our corporate water 
+use, with the balance made up from recycled water 
+and other alternative sources. 
+We saved 111 million gallons of freshwater in fiscal 
+year 2020 due to efficiency projects implemented 
+at Apple facilities since 2017.8 We prioritize those 
+areas with high water risk, where approximately 
+46 percent of our corporate water use occurs. 
+In addition, our Prineville, Oregon, data center 
+became the first Apple-owned or operated 
+site—and the first data center worldwide—to 
+achieve certification by the Alliance for Water 
+Stewardship (AWS).Recognizing that far more water is used within 
+our supply chain, we partner with our suppliers to 
+identify and implement water-saving improvements 
+through our supplier Clean Water program. We 
+encourage performance that goes far beyond 
+compliance—to date, 13 supplier facilities have 
+received AWS certification, of which 10 were 
+Platinum status, the highest recognition level. 
+Zero waste
+We’re working toward waste-free operations in 
+which we rely on recyclable or reusable materials 
+and send nothing to landfill. Our Prineville data 
+center, for example, is the first Apple facility to 
+receive TRUE certification at the Platinum level, 
+meaning more than 90 percent of its waste is sent 
+to recycling or composting. Such efforts helped 
+limit the amount of waste sent to landfill to about 
+12,000 metric tons for our global operations.
+Helping our suppliers eliminate waste from 
+manufacturing is also essential to realizing our zero 
+waste goals. In 2015, we launched our supplier 
+Zero Waste Program, through which more than 
+165 participating facilities can access guidance 
+and tools to improve waste management. Suppliers 
+diverted over 400,000 metric tons of waste from 
+landfill in 2020, bringing the total to 1.65 million 
+metric tons diverted since 2015. 100%
+All established final 
+assembly sites are now 
+Zero Waste certified.9 Introduction Our Business Appendix Our People Suppliers Customers Communities Apple’s 2021 ESG Report   11 Environment1400+ 
+new materials evaluated 
+for safety.100%
+of supplier final assembly 
+sites use safer cleaners.
+Our restrictions on 
+potentially harmful 
+chemicals are outlined 
+in the Apple Regulated 
+Substances Specification  
+and in our Restricted 
+Chemicals for Prolonged 
+Skin Contact Materials  list.Smarter chemistry
+We’re committed to using safer materials to create 
+safer products.
+Our smarter chemistry strategy covers three areas:
+• Mapping and engagement:  Engage our 
+supply chain partners to build a comprehensive 
+inventory of chemicals used in our products and 
+go beyond regulatory compliance.
+• Assessment:  Assess the potential human health 
+and environmental risks of chemicals to evaluate 
+compliance with our requirements—including 
+our Regulated Substances Specification—and 
+inform product design.
+• Innovation:  Exceed regional requirements by 
+innovating safer alternatives and improving how 
+we and our suppliers manage potential risks 
+of chemicals.
+Mapping and engagement
+Our commitment to smarter chemistry starts 
+with a deep understanding of the materials and 
+chemistries used to make our products. In 2016, 
+we launched the Full Material Disclosure program 
+to catalog and map every chemical our products 
+contain. Each supplier is required to report the 
+materials used to manufacture Apple products, 
+using our library of over 40,000 materials to 
+accurately identify each material.
+We prioritize the health and safety of the people 
+who make our products. Our Supplier Code of 
+Conduct  and Supplier Responsibility Standards  
+set clear workplace safety requirements, and our 
+Chemical Safety Disclosure program advances 
+disclosure around the chemistries used in 
+manufacturing processes. We have identified 
+14,000 unique chemicals and applications, 
+enabling us to remove those that don’t meet 
+our standards. Assessment
+With our products, we aim to make the best 
+chemical and material choices to protect both 
+personal and environmental health. Our Regulated 
+Substances Specification sets standards for the 
+chemicals in our products and manufacturing 
+processes, which exceed many regional 
+regulatory requirements.
+Apple’s Environmental Testing Lab performs  
+chemical analyses to evaluate the safety of our 
+products and materials and to monitor compliance 
+with the specifications. Our assessment system  
+helps ensure that only materials that meet our 
+stringent requirements can be used in Apple 
+products. Each year, we conduct more than 100 
+assessments on chemicals before they are used  
+in our manufacturing processes.
+Innovation
+Our efforts to map and assess the chemicals within 
+our supply chain ultimately fuel innovations at Apple 
+and with our suppliers. We use toxicology data at 
+each point in the product life cycle to seek out and 
+develop safer chemistries, continually improving 
+the overall safety of our products and processes. 
+Since the late 1990s, we have diligently identified 
+and removed potentially harmful chemicals from 
+our products. This has required developing 
+alternatives by creating safer compounds 
+to replace potentially harmful chemistries or 
+replacing components with alternatives that 
+meet our safety standards.
+We’re also partnering with nongovernmental 
+organizations (NGOs) to cascade our materials 
+data throughout the electronics industry. Through 
+Chem FORWARD , we are able to share our list of 
+safer cleaners and degreasers with companies 
+beyond our supply chain and outside our industry. 
+We’ve also worked with the Clean Electronics 
+Production Network to develop the Process 
+Chemicals Data Collection Tool, which supports 
+data collection on process chemicals used in the 
+electronics industry.Introduction Our Business Appendix Our People Suppliers Customers Communities Apple’s 2021 ESG Report   12 EnvironmentOur 
+People
+In this section
+Inclusion and diversity  14
+Supporting our people  16
+Benefits  17
+Compensation  18
+Engagement  20
+Workplace practices and policies  20
+Apple’s COVID-19 response  21
+Health and safety at Apple 23At Apple, we’re committed to 
+supporting our team members 
+at work and beyond.Apple’s 2021 ESG Report   13 Introduction Our Business Appendix Suppliers Customers Communities Environment Our PeopleDeirdre O’Brien is Apple’s 
+Senior Vice President of 
+Retail + People, reporting to 
+CEO Tim Cook. In her role 
+leading the People team, 
+Deirdre works to help Apple 
+connect with, develop, and 
+care for its team members—
+and to help everyone do the 
+best work of their lives. As 
+the leader of Apple’s retail 
+and online teams, Deirdre 
+supports their work to enrich 
+the lives of millions of Apple 
+customers every year. Inclusion and diversity
+Across Apple, we’re strengthening our long-  
+standing commitment to making our company 
+more inclusive and diverse. We’re committed 
+to hiring inclusively, providing training and 
+development opportunities, fostering an 
+inclusive culture, and ensuring equitable pay for 
+all employees. And we’re continuing to focus on 
+increasing diverse representation at every level of 
+the company to help Apple become an even better 
+reflection of the world we live in. 
+Our work here doesn’t stop at our own doors. 
+With efforts like our Racial Equity and Justice 
+Initiative (REJI), we’re working to expand access 
+to education, support criminal justice reform, 
+and advance economic opportunities for 
+underrepresented communities.
+Inclusive hiring and 
+diverse representation
+We’re making progress toward building an Apple 
+community that represents the diverse and 
+ever-changing world around us. Since 2014, the 
+number of employees from underrepresented 
+communities (URCs) has increased by 64 percent 
+in the U.S. and the number of female employees 
+worldwide has grown more than 70 percent.To build upon this growth, we’re creating diverse 
+interview panels and candidate slates to ensure 
+that diversity is reflected at every stage of the 
+hiring process. And we’re focusing on robust 
+diversity recruiting efforts for R&D and leadership 
+to accelerate progress in hiring across technical, 
+engineering, and leadership roles. In 2020, 
+43 percent of open leadership roles were filled by 
+people from underrepresented communities in the 
+U.S., and 37 percent of open leadership roles were 
+filled by women globally.
+We’re also expanding our diversity outreach 
+efforts through organizations like Historically 
+Black Colleges and Universities (HBCUs) and 
+Hispanic-Serving Institutions (HSIs) that serve 
+and engage talent from underrepresented 
+communities. Since 2014, the number of Hispanic/
+Latinx employees in the U.S. has grown by more 
+than 80 percent with a 90 percent increase in 
+leadership, while the number of Black employees 
+in the U.S. has grown by more than 50 percent 
+with a 60 percent increase in leadership.We have a talented, motivated, and dedicated team at Apple, and we’re 
+committed to supporting the development of all our team members. 
+We’re continuously building on our strong culture, creating an environment 
+where everyone can be their whole selves and do the best work of their lives.
+In a year that brought challenges and hardship to so many, we’ve also ensured 
+that our teams around the world receive the support they need to care for their 
+health, safety, and physical and mental well-being.
+We’re making progress and 
+we’re holding ourselves 
+accountable to do even more. 
+To learn more and to see our 
+latest diversity figures, visit 
+apple.com/diversity .1064%
+increase in U.S. employees 
+from underrepresented 
+communities since 2014.
+70%
+increase in global  
+population of women 
+at Apple since 2014. Introduction Our Business Appendix Suppliers Customers Communities Environment Apple’s 2021 ESG Report   14 Our PeopleWhere we stand today
+We have over 160,000 talented employees 
+across the world. And we are proud that when 
+people join Apple, they find fulfillment for many 
+years. That also means increasing overall 
+representation takes time.
+Every hiring decision is made one role, and one 
+person, at a time. We are taking meaningful 
+actions for more diverse representation across 
+every part of the business. Because just 1 percent 
+of over a hundred thousand represents change 
+for over a thousand people.
+ “Inclusion and diversity are cornerstones 
+of the global Apple community. We’re 
+proud of the foundation we’ve built, and 
+we’re clear-eyed about the challenges 
+that remain. Together, we’re committed 
+to continuing this journey with humility 
+and resolve.”
+Barbara Whye
+Vice President of Inclusion & DiversityTraining and resources
+Apple team members have access to career 
+development programs, ongoing inclusion and 
+diversity education, and support throughout 
+their career journey. From new-hire orientation 
+to talent planning and mentorship, we’re always 
+finding new ways to help team members continue 
+to learn, thrive, and advance in their careers in an 
+inclusive environment.
+All of our team members are required to complete 
+unconscious bias and inclusion training, and can 
+access expert-led courses on race, justice, allyship, 
+and more. In addition, all our managers are required 
+to take inclusive leadership training, and inclusion 
+and diversity measures are built into our annual 
+review process for leaders across Apple.
+Community and connection
+For more than 30 years, Apple team members  
+have found community and connection in our 
+Diversity Network Associations (DNAs).  
+Rooted in the celebration and amplification  
+of culturally underrepresented communities,  
+DNAs are employee groups that create spaces 
+for belonging, learning, and growing inclusivity, 
+diversity, and equity efforts.  As of August 2021, DNA membership has more 
+than doubled since 2018, with more than 54,000 
+employees. Our DNA communities include 
+Accessibility@Apple, Amigos@Apple, Apple 
+Veterans Association, Asian Pacific@Apple, 
+Black@Apple, Indigenous@Apple, Pride@Apple, 
+South Asian@Apple, and Women@Apple, as well 
+as a range of faith -based and cultural groups. 
+Throughout the year, to deepen connection and 
+understanding, DNAs regularly lead celebrations, 
+events, and educational sessions that are open to 
+everyone across the company.160,000  hrs
+In 2020, team members 
+completed nearly 160,000 
+hours of learning to 
+create more inclusive 
+work environments.  Under 30        OverallU.S. Underrepresented 
+Community Representation
+49%62%
+44%
+2014 202048%Global Female Representation
+31%40%
+30%
+2014 202034%Introduction Our Business Appendix Suppliers Customers Communities Environment Apple’s 2021 ESG Report   15 Our PeopleSupporting our people
+From their first day, Apple team members have 
+the resources and opportunities to build new skill 
+sets, pursue new passions, and feel supported 
+and cared for at work and beyond. 
+Growth and development
+Team members across Apple have ongoing 
+opportunities to learn and grow through 
+challenging work, collaboration with other experts, 
+and ongoing support. In 2020, we invested nearly 
+$200 million in training and programs to support 
+our teams’ growth and development.
+• Apple University: Apple University began 
+in 2010 with a simple mission—to foster 
+understanding and critical thinking about 
+Apple’s culture, organization, and values. To 
+date, more than 90 percent of current executives 
+and managers have participated in a variety of 
+individual, manager, and senior leader classes.• Growth and development framework:   
+We provide our teams with individual growth 
+and development plans to shape their careers 
+and identify their goals, including planning 
+worksheets, manager toolkits, and a dedicated 
+internal web page.
+• Management and leadership:  Apple helps 
+our teams progress to leadership, creating 
+development pathways that enable individuals  
+to learn, improve, and empower their colleagues 
+to do the best work of their lives.
+• Professional growth: We offer a variety of 
+educational seminars, external speakers, guest 
+creative performances, and comprehensive 
+resources to support professional growth. 
+Our Educational Assistance Program also offers 
+helpful resources and tuition reimbursement for 
+team members to continue their education.
+We provide our teams with individual growth and development plans to help shape their careers.Read the Harvard Business 
+Review article  about 
+how Apple’s distinctive 
+organizational model is key 
+to inspiring innovation.Introduction Our Business Appendix Suppliers Customers Communities Environment Apple’s 2021 ESG Report   16 Our PeopleBenefits
+We recognize that our people thrive when they 
+have the resources to meet their needs and the 
+time and support to succeed in their professional 
+and personal lives. We provide a host of benefits 
+to help our teams live healthier, more fulfilled, and 
+happier lives at work and beyond.11
+Physical and mental well-being
+Apple provides employees a wide variety of 
+health-related benefits, including:
+• Physical and mental health coverage that also 
+extends to spouses and domestic partners
+• Virtual and onsite wellness visits for employees 
+and eligible dependents
+• Free, confidential counseling for employees and 
+their dependents12• Reproductive health services covering 
+contraception, pregnancy, and menopause, 
+as well as prenatal care, pregnancy and 
+delivery, and postnatal care13
+• Expert second opinion resources to help 
+employees and their family members make 
+informed healthcare decisions
+• A comprehensive mental health and well-being 
+hub where employees can find events, apps, and 
+other resources
+• Month-long wellness events for team members 
+across Apple to support one another and build 
+healthier habits
+Our health plans are designed to support the 
+various life stages of our employees and their 
+families. They are transgender-inclusive, where 
+legally and plan-allowed, and support routine care, 
+therapies, and other medically necessary surgeries.• Career experience:  Career experiences 
+provide team members from our stores, retail 
+customer care, and AppleCare teams the 
+opportunity to spend time on a corporate career 
+rotation. Participants build new skills, while host 
+teams benefit from their team members’ new 
+perspectives, talent, and passion. Participation 
+has grown by 30 percent year on year since it 
+began in 2015, and in fiscal year 2021, thousands 
+of upcoming opportunities are planned across 
+80 percent of our lines of business.
+• Coaching at Apple:  This training program for 
+retail leaders in stores, retail customer care, and 
+corporate retail teams provides a consistent 
+and effective model for improving employee 
+engagement and performance. More than  
+110 senior Apple Store leaders and People  
+team leaders are certified to deliver Coaching  
+at Apple, and more than 4200 have been 
+trained in the content.• Internal mobility: We encourage our teams to 
+discover new opportunities at Apple that spark 
+their interest and draw on their skills. We provide 
+an internal career site, detailed guidance 
+on exploring new roles, and we encourage 
+discussions with managers so they can support 
+their team members’ growth at Apple.
+Performance reviews
+Our annual performance review process offers 
+team members the opportunity to have meaningful 
+conversations with their managers about their 
+performance, growth, and development. Reviews 
+include a self-assessment and feedback from 
+peers and their manager. It’s also a chance to 
+reflect on the contribution each person makes 
+to Apple’s long-standing commitment to 
+inclusion and diversity.Introduction Our Business Appendix Suppliers Customers Communities Environment Apple’s 2021 ESG Report   17 Our PeopleLife and family
+Apple also provides a host of benefits to support 
+our employees in their personal and family 
+life, including:
+• Retirement programs to help employees with their 
+future financial needs, such as 401k matching 
+contributions in the U.S. and local retirement 
+plans for employees outside of the U.S. 
+• Referrals and resources for childcare, before- 
+and after-school programs, programs for 
+children with special needs, and more
+• Consultations and referrals to support 
+employees caring for an elderly family member
+• Adoption, surrogacy, and fertility services
+• Financial coaching services
+• Tuition reimbursement
+• Legal services for adoption, child support, 
+housing, wills, identity theft, and more
+Coming back to work after the arrival of a child can 
+be a big adjustment for employees, so to smooth 
+the transition period following the arrival of a new 
+family member, under our gradual return-to-work 
+program, employees can choose to return half-time 
+at full pay for four weeks—whether they’re 
+welcoming a child through birth, adoption, or other 
+covered means.Time away
+Taking the time to recharge is an important part 
+of employee health and well-being. We provide 
+a wide variety of time-away options for our 
+employees, including:
+• Vacation
+• Paid sick time and medical leave for serious 
+health conditions
+• Pregnancy leave and New Parent Leave
+• Leave for bereavement or to care for a sick  
+family member
+• Time off for voting, jury duty, and other 
+civil obligations
+• Company holidays throughout the year 
+Product discounts
+Apple’s Employee Purchase Plan offers special 
+pricing on most Apple products. We offer 
+substantial discounts on hardware, software, and 
+accessories for employees, families, and friends— 
+as well as an additional credit that can be used to 
+purchase a Mac, iPad, or unlocked iPhone once 
+every two years.
+Compensation
+At Apple, we believe that our compensation 
+should not only be competitive; it should be 
+equitable and enable all employees to share in 
+the company’s success as shareholders of Apple. 
+We’re committed to being a leader in pay equity, 
+using pay gap metrics to measure our progress 
+on representation, providing all employees 
+annual opportunities for stock ownership in 
+the company, and paying a highly competitive 
+minimum wage. And we hold our leaders 
+accountable by incorporating Apple values and key 
+community initiatives into our executive short-term 
+incentive compensation.Pay equity
+Apple has a firm and long-standing commitment 
+to pay equity. Since 2017, we have achieved 
+pay equity globally: In every country where we 
+operate, team members of all genders earn 
+the same when engaging in similar work with 
+comparable experience and performance. In the 
+United States, the same is true for employees of 
+all race and ethnicities. 100%
+At Apple, women and 
+men earn the same when 
+engaging in similar work with 
+comparable experience and 
+performance.Introduction Our Business Appendix Suppliers Customers Communities Environment Apple’s 2021 ESG Report   18 Our People• Annual pay equity review: To maintain pay 
+equity, we engage a third party to independently 
+evaluate compensation across all of Apple 
+using statistical modeling. This rigorous review 
+considers annual total compensation, including 
+base salary, bonuses, and Restricted Stock Units 
+(RSUs), as well as a variety of data related to 
+pay, including job level, location, performance 
+ratings, and tenure. We also regularly conduct 
+comprehensive job title reviews to ensure 
+employees are in the correct job title, an 
+important factor in determining pay.
+• Annual compensation planning:  During our 
+annual compensation planning process, the 
+People team uses analytics to assess promotion 
+rates, performance ratings distribution, and pay 
+metrics for women compared to men and, in the 
+U.S., for underrepresented groups compared to 
+non-underrepresented groups.
+• Global compensation history policy:  We 
+don’t ask candidates for salary history during 
+the recruiting process, which has been our 
+policy globally since 2019. To help ensure 
+internal equity, our recruiters develop offers of 
+employment based on the compensation of 
+current Apple employees in similar roles using 
+a tool developed specifically for this purpose.$1 billion
+By the end of 2021, over 
+$1 billion of RSU grants will 
+have been awarded under 
+Apple’s Stock Ownership 
+Program, and those shares 
+today have a value of over 
+$3 billion.14
+In addition to the stock programs and wide range of benefits we provide, Apple is committed to paying employees a highly 
+competitive wage in every location where we operate.Apple stock ownership
+In 2015, we introduced our Stock Ownership 
+Program, which was designed to reach employees 
+who were not previously eligible for stock awards, 
+including all of our retail and AppleCare teams. By 
+the end of 2021, over $1 billion of RSU grants will 
+have been awarded under this program, and those 
+shares today have a value of over $3 billion.14 Apple 
+is one of only a few companies in the S&P 500 
+where all employees are eligible for equity awards.
+In most countries, employees also get discounts 
+when purchasing Apple stock by participating 
+in the Employee Stock Purchase Plan (ESPP). 
+Currently, over 80 percent of eligible employees 
+participate in the ESPP.15
+Minimum wage
+Apple is committed to paying employees a highly 
+competitive wage in every location where we 
+operate. In addition to the stock programs and 
+wide range of benefits we provide, our minimum 
+hourly wage for employees leads our peers 
+across industries. Introduction Our Business Appendix Suppliers Customers Communities Environment Apple’s 2021 ESG Report   19 Our PeopleWorkplace practices and policies
+Apple’s culture is built on treating everyone with 
+dignity and respect. This focus shapes how our 
+colleagues engage with one another and with 
+our customers and partners around the world.
+Harassment and discrimination
+We are committed to providing a workplace free 
+of harassment or discrimination based on race, 
+color, religion, sex, sexual orientation, gender 
+identity, national origin, disability, veteran status, 
+caste, or other legally protected characteristic. 
+We do not tolerate discrimination or harassment 
+of our employees or those with whom we have 
+a business, service, or professional relationship 
+(including customers), nor do we tolerate workplace 
+violence of any kind. Retaliation against anyone for 
+complaining about harassment or discrimination, 
+or for participating in the investigation of a complaint 
+of harassment or discrimination is against Apple 
+policy and will not be tolerated at Apple.Equal employment opportunity
+Apple is an equal opportunity employer committed 
+to inclusion and diversity. We take steps to ensure 
+equal opportunity for all applicants and employees, 
+without regard to race, color, religion, sex, sexual 
+orientation, gender identity, national origin, 
+disability, veteran status, caste, or other legally 
+protected characteristic. We provide reasonable 
+accommodations to applicants and employees 
+with physical and mental disabilities.
+Voluntary decision review 
+Apple’s voluntary decision review enables 
+employees to have an employment decision 
+reevaluated. This is designed to promote fairness 
+and impartiality, in line with our values and policies. 
+The reviewer will consider any new information 
+that indicates the decision may not have been 
+in accordance with our policies and guidelines.Engagement
+We believe that open and honest communication 
+among team members, managers, and leadership 
+fosters an open, collaborative work environment 
+where everyone can participate, develop, and 
+thrive. Team members are encouraged to come 
+to their manager with questions, feedback, or 
+concerns. Our goal is to listen and learn—and to 
+use those lessons to build an even better work 
+environment for all.We regularly conduct surveys that gauge sentiment 
+in areas like career development, manager 
+performance, and inclusivity. Teams and leaders 
+are encouraged to engage in meaningful dialogue 
+informed by the survey results, and to create action 
+plans that are shared, along with the survey results, 
+with Apple’s leadership. Across all our teams, we’re 
+always building on our long-standing commitment 
+to an environment where people at every level of 
+our company feel connected and supported.
+At Apple, we seek to foster an open, collaborative work environment where everyone can participate, develop, and thrive.   Introduction Our Business Appendix Suppliers Customers Communities Environment Apple’s 2021 ESG Report   20 Our PeopleApple’s COVID-19 response
+When the pandemic struck, the first question 
+we asked ourselves was, “How can we help?” 
+Our teams answered an urgent call to action by 
+coming together to design and manufacture 
+face shields, helping to source and distribute 
+millions of masks around the world, and 
+making contributions to support medical 
+workers on the front lines and those hardest 
+hit by the pandemic. As the world continues 
+to grapple with COVID-19, we’re committed to 
+innovating, to giving back, and to working with 
+our neighbors to protect people’s health.
+Protecting each other’s health
+At every stage of the pandemic, our first 
+priority has always been the health of our 
+teams, customers, and communities. That 
+meant being one of the first companies to 
+close our offices and retail stores, and finding 
+innovative ways to connect with colleagues 
+and customers virtually. Apple continued to 
+pay our teams during temporary store and office closures, expanded our paid leave 
+policies, provided team members with face 
+coverings and PPE, and enhanced our policies 
+and procedures for a safe work environment— 
+both in the office and in-store.
+To keep our teams informed, we deployed 
+comprehensive resources with up-to-date 
+COVID-19 information, including a dedicated 
+platform for teams returning to the office. We 
+also provided free testing to eligible employees 
+and created our own face masks for the safety 
+of employees—without tapping into the 
+medical supply chain. COVID-19 case support, 
+implemented for all team members, included 
+return-to-work guidance and contact tracing, 
+with the utmost regard for employee privacy.
+We continue to offer special sick leave for 
+employees with possible COVID-19 symptoms, 
+as well as comprehensive health coverage.Innovating to support  
+our customers
+Despite all of the pandemic’s challenges, 
+we brought our most powerful generation 
+of hardware, software, and services into 
+customers’ hands, helping them stay 
+informed, connected, and entertained. 
+We also tailored our services to promote easy 
+access to trusted information on COVID-19: 
+launching a dedicated section on Apple News; 
+prioritizing visibility of essential services 
+locations—including COVID-19 testing 
+and vaccination locations—on Apple Maps; 
+offering a curated collection of telehealth 
+apps on the App Store; and leveraging Siri 
+to provide the latest COVID-19 guidance. 
+To meet the extraordinary challenges of 
+virtual education, we delivered new content 
+and services for students, parents, and 
+teachers to foster creativity and learning A healthcare worker in Zambia wears an Apple-produced face shield.Introduction Our Business Appendix Suppliers Customers Communities Environment Apple’s 2021 ESG Report   21 Our Peoplein a digital environment. We worked with 
+mobile carriers and school administrators 
+to deliver iPad devices with cellular support 
+for students in need. With our Apple Card 
+Customer Assistance Program, we also offered 
+customers the option to skip their monthly 
+payments without incurring interest. Across 
+many of our stores, we were able to serve 
+our customers’ needs through contactless 
+pickup, express storefronts, and new online 
+support. In store, mandatory face masks, 
+physical distancing, temperature checks, and 
+deep-cleaning procedures were put in place 
+to keep our teams and customers safe. Our 
+response to COVID-19 is still ongoing, and 
+we are committed to implementing health 
+protocols and adjusting store operations as 
+required based on available data and guidance 
+from health officials.
+Helping our suppliers adapt
+From the early days of the pandemic, we 
+worked hand in hand with our suppliers to 
+deploy a range of protections suited to their 
+local circumstances, which included measures 
+such as health screenings, limiting density, and 
+ensuring strict adherence to social distancing in their facilities. We strengthened our incident 
+reporting mechanisms to more clearly include 
+the reporting of any infectious disease 
+incidents to Apple. This has allowed us to track 
+COVID-19 cases at supplier facilities around 
+the world, from initial reporting to recovery, 
+and to engage with each of these sites 
+individually to confirm they have the correct 
+protocols in place to keep their employees safe 
+and healthy. 
+We have worked closely with suppliers to help 
+support their ability to pay their hourly workers. 
+And we have further supported our business 
+partners by accelerating our payments to 
+suppliers and extending payment and credit 
+terms for our resellers. We also partnered with 
+NGOs to help further support people deeper 
+in our supply chain through an unprecedented 
+time, particularly those from vulnerable groups 
+like migrant workers and mining communities.
+Giving back to our communities
+We also made significant contributions 
+toward relief efforts supporting healthcare 
+professionals, first responders, and impacted 
+communities worldwide. This included over $120 million in donations toward organizations 
+offering COVID-19 relief,16 sourcing more than 
+30 million masks and 10 million custom-built 
+face shields, and matching our employees’ 
+charitable donations. With $10 million of 
+support from Apple’s Advanced Manufacturing 
+Fund, COPAN Diagnostics produced over 
+20 million17 COVID-19 sample collection kits 
+for hospitals across the United States.
+In partnership with the White House 
+Coronavirus Task Force and the Centers for 
+Disease Control and Prevention (CDC), we 
+released an app and website that guided 
+Americans through a series of questions about 
+their health and exposure to determine if they 
+should seek care for COVID-19 symptoms, 
+providing CDC recommendations on next 
+steps including guidance on social distancing 
+and self-isolating, how to closely monitor 
+symptoms, recommendations on testing, 
+and when to contact a medical provider. 
+And we collaborated with Google to create a 
+new exposure notification system for global 
+governments and health agencies, with user 
+privacy and security central to its design, to 
+help fight the pandemic.
+With support from Apple’s Advanced Manufacturing Fund, COPAN Diagnostics has shipped more than 20 million COVID-19 test kits to medical facilities across the country.Introduction Our Business Appendix Suppliers Customers Communities Environment Apple’s 2021 ESG Report   22 Our People
+Health and safety at Apple
+We’re dedicated to protecting our team members 
+and our customers everywhere we operate—a 
+responsibility COVID-19 has brought into even 
+greater focus. At every stage of the pandemic, 
+we make decisions based on the latest local data 
+and public health guidance, and we share lessons 
+across our Environment, Health, and Safety (EHS) 
+teams globally so we can continuously improve 
+our safety programs.
+Protecting our people
+We’re always working hard to ensure our 
+employees and contractors are safe no matter 
+where they are when they’re conducting business 
+for Apple. We abide by EHS requirements in every 
+country where we operate, to ensure the safety  
+and well-being of our global teams.
+Managing work-related hazards and risks
+To ensure the safety of our employees and 
+customers, we put procedures in place to identify 
+the potential risks associated with workplace 
+activities and to mitigate possible hazards. We 
+support and protect employees in lower hazard 
+spaces, and put special programs in place 
+for smaller groups working in higher hazard 
+environments, including chemical management, 
+laser safety, equipment and machinery safety, 
+hazardous materials management, and 
+electrical safety. Employees can request to 
+have their workspaces individually inspected 
+to identify hazards and controls, including 
+ergonomics evaluations. Our EHS teams identify and provide appropriate 
+personal protective equipment (PPE) for specific 
+hazards, which is provided to employees at no cost 
+and with training on correct use. Additionally, EHS 
+conducts mandatory health checks for employees 
+where they are required.
+We invest in new technologies and talent to 
+continually manage risks across our operations, 
+including manufacturing in Cork, Ireland. These 
+standards, programs, trainings, procedures, 
+and other safeguards are managed by trained 
+EHS professionals, and where required, we also 
+translate EHS procedures into local languages 
+for our employees.
+Risks identified from incidents, injuries, and 
+non-routine events are addressed immediately 
+for corrective action, and integrated into future 
+program development and training. Lessons 
+learned are routinely communicated across Apple’s 
+EHS team and potentially affected operations, and 
+are used to inform updates to existing policies and 
+procedures if necessary.
+Employees and managers can report incidents, 
+near-misses, and observations—including newly 
+identified hazards and risks—through an internal 
+iOS app. Incident responses are addressed by 
+Apple’s EHS team through a consistent process 
+that connects employees with care and support 
+while identifying corrective actions where 
+appropriate to prevent future occurrences.Read more about our 
+hazardous waste and 
+chemical safety procedures 
+in our 2021 Environmental 
+Progress  Report .Introduction Our Business Appendix Suppliers Customers Communities Environment Apple’s 2021 ESG Report   23 Our PeopleEmergency preparedness and response
+Beyond COVID-19, we supported the response 
+to dozens of crisis events in 2020, including fires, 
+severe weather, and civil unrest. Our responses 
+focused on ensuring the safety of our employees 
+and business continuity.
+All team members can sign up for Apple’s 
+Emergency Alert system, enabling them to be 
+notified of local emergencies and to indicate 
+whether they are safe or need help. Disaster 
+supplies are available at our facilities, depending 
+on risk and location. 
+Facility Response and Recovery Plans provide 
+a comprehensive approach to the safety and 
+support of our employees while minimizing 
+business interruption, and site-specific Emergency 
+Response Plans have been implemented globally. 
+These plans are communicated to all employees, 
+and trainings and drills are held at least annually. 
+And our employees are trained in emergency 
+response, allowing them to react quickly while 
+supporting the safety of our team members 
+and customers.EHS management systems 
+To provide a safe environment to our teams, 
+our EHS programs are built to share information 
+about risks, requirements, and expectations for 
+all employees.
+Our EHS Policy outlines our commitment to 
+workplace safety and environmental stewardship, 
+and establishes the principles that integrate 
+effective EHS practices into all aspects of our 
+business. The EHS policy is communicated 
+through mandatory training for all new employees 
+and through our internal EHS website.
+Apple’s EHS leadership team, including 
+Apple’s EHS director, is responsible for 
+establishing priorities, determining annual 
+work plans, and assigning resources to 
+execute improvement actions.5000+ 
+employees trained 
+as first aiders and 
+emergency response 
+team members globally.
+Apple’s EHS teams follow local health guidelines and have expanded safety protocols in stores during COVID-19 to protect the 
+health of team members and customers.Introduction Our Business Appendix Suppliers Customers Communities Environment Apple’s 2021 ESG Report   24 Our PeopleCustomers
+In this section
+Privacy 26
+Accessibility  28
+Education  29
+Health  31
+Caring for customers  33Blind surfer, Scott Leason, 
+enjoys the independence that 
+Apple technology, including 
+features like VoiceOver, helps 
+enable. At Apple, we believe 
+accessibility is a human right, 
+so we design our products and 
+services with everyone in mind. Apple’s 2021 ESG Report   25 Introduction Our Business Appendix Our People Suppliers Communities Environment CustomersAt Apple, our focus is on creating the world’s best products that are a force 
+for good in our customers’ lives. It’s why we’re constantly innovating to protect 
+people’s privacy, empowering them to learn more and to live healthier, and 
+designing our technology to be accessible for everyone. From the products 
+and services we create to how we share them with the world, we imbue our 
+technology with the values that define us.Delivering exceptional 
+products that enrich the 
+lives of our customers is 
+core to Apple’s business. 
+That’s why the responsibility 
+for integrating privacy, 
+accessibility, education, 
+and health features into 
+our products cuts across 
+many teams, including 
+Hardware Engineering, 
+Software Engineering, 
+Hardware Technologies, 
+and Environment, Policy 
+and Social Initiatives.Privacy
+At Apple, we believe privacy is a fundamental 
+human right, and we’re constantly innovating to 
+give users more transparency and control over 
+their data. It’s why we set the industry standard 
+for minimizing data collection and processing a 
+user’s data on-device, and build industry-leading 
+transparency and controls into our technology.
+Hand in hand with the privacy of our users are our 
+commitments to free expression and access to 
+information. Our products and services help our 
+customers learn, express their creativity, exercise 
+their ingenuity, communicate privately and securely, 
+and share information globally, whether it be 
+by text message, audio, or sign language over 
+FaceTime video.
+Designed for privacy
+Our products and services are built with innovative 
+privacy technologies and techniques designed 
+to minimize how much of your data Apple—or 
+anyone else—can access. They contain features  
+designed and implemented over decades to 
+protect customers’ privacy and give them control 
+over their information.
+Safari was the first browser to block third-party 
+cookies by default as far back as 2005, and 
+more recently, Safari added Intelligent Tracking 
+Prevention to further limit tracking while still 
+enabling websites to function normally. Random 
+identifiers ensure that a customer’s use of Maps 
+isn’t associated with their Apple ID, and iMessage 
+and FaceTime are end-to-end encrypted, 
+preventing anyone, including Apple, from 
+eavesdropping on user conversations.Throughout the App Store ecosystem, we 
+continue to add innovative new features that 
+advance user privacy even further. Privacy 
+Nutrition Labels  require developers, including 
+Apple, to report their data collection and privacy 
+practices. And App Tracking Transparency requires 
+developers to obtain a user’s permission to track 
+their data across apps or websites owned by 
+other companies.
+A new App Tracking Transparency feature across iOS, 
+iPadOS, and tvOS requires apps to get the user’s permission 
+before tracking their data across apps or websites owned by 
+other companies.
+Introduction Our Business Appendix Our People Suppliers Communities Environment Apple’s 2021 ESG Report   26 CustomersApple’s Privacy Policy ensures that privacy remains 
+a top priority in all that we do. We respect users’ 
+ability to know, access, change, transfer, restrict, 
+and delete personal data, and we strive to collect 
+the minimum amount of data necessary to power 
+our products and services. Customers control what 
+information is shared, where it’s shared, and when 
+it is backed up. We do not provide user information 
+to any third parties without a clear legal basis, 
+and we publish a Transparency Report  detailing 
+government requests for customer data and 
+app removal.
+Apple is committed to delivering advertising and 
+other services in a way that respects user privacy. 
+We do not track user information across third-party 
+apps or websites for the purposes of advertising, or 
+do business with data brokers.
+To continue raising awareness and educating 
+people on how to protect their personal information, 
+on Data Privacy Day in January 2021, we shared 
+a report  that illustrates how companies track user 
+data across websites and apps. And in June 2021, 
+we shared another report  exploring how Apple’s 
+security layers and the App Review process protect 
+users and keep them in control of their data.
+Privacy and security  
+on the App Store
+To meet the highest standards for 
+privacy, security, and content, all the 
+apps in our App Store agree to comply 
+with our App Store Review Guidelines . 
+These provide developers with clear 
+and transparent guidance on safety, 
+performance, business, design, and 
+legal issues, including appeal rights. 
+The guidelines help ensure that the 
+apps offered on the App Store are safe, 
+provide a good user experience, adhere 
+to our rules on user privacy, and secure 
+devices from malware and threats.Privacy governance
+To keep privacy at the center of our work, we 
+maintain rigorous privacy standards for both 
+customer and employee data. Our Chief Privacy 
+Officer reports to Apple’s General Counsel who 
+chairs Apple’s Privacy Steering Committee. 
+The Committee sets privacy standards for teams 
+across Apple and addresses or escalates privacy 
+compliance issues. Its members include Apple’s 
+Senior Vice President of Machine Learning and 
+AI Strategy, and a cross-functional group of 
+senior representatives from across the business.
+The Audit and Finance Committee of the Board 
+of Directors regularly reviews Apple’s privacy 
+and data security risks, and discusses them 
+with management. The Committee reviews 
+reports on privacy and data security matters, 
+including updates on Apple’s privacy program, 
+risk management, and relevant legislative, 
+regulatory, and technical developments.
+Privacy and security training 
+We communicate privacy and security guidelines 
+with employees and strictly enforce safeguards 
+across the company. All employees take annual 
+training on business conduct, of which privacy is 
+an essential component. Employees with access 
+to customer data and personal information are 
+required to undergo additional privacy and security 
+training. For more information, visit Apple’s Ethics 
+and Compliance  website.
+Privacy Impact Assessments
+As part of our General Data Protection Regulation 
+(GDPR) and human rights work, we undertake 
+Privacy Impact Assessments (PIAs) of our major 
+products and services. These assessments also 
+consider decision-making that relies on algorithmic 
+systems and the impact such decisions have 
+on individuals and their rights. PIAs take into 
+consideration how laws affect privacy and assess 
+any associated risks in the relevant jurisdictions 
+where we operate. PIA reviewers are also trained to 
+identify and highlight potential impacts to freedom 
+of expression. Apple regularly engages with a wide 
+range of civil society representatives globally on 
+various privacy and freedom of expression issues, 
+including privacy by design and encryption.Learn more about  
+privacy  at Apple.
+Review privacy  features
+Control what you  share
+See how apps from Apple 
+handle your  dataIntroduction Our Business Appendix Our People Suppliers Communities Environment Apple’s 2021 ESG Report   27 CustomersPrivacy inquiries
+Privacy questions, concerns, or complaints can 
+be raised online or by calling our Apple support 
+number . Our Data Protection Officer is available for 
+questions regarding the Privacy Policy or general 
+privacy practices. 
+Embedding security and privacy
+We’ve spoken out, time and again, for strong 
+encryption without backdoors, recognizing 
+that security is the foundation of privacy. We 
+build security into our hardware, software, 
+and services  to provide users with maximum 
+security and a transparent user experience, 
+serving the ultimate goal of keeping personal 
+information safe. And we’ve designed the Secure 
+Enclave—a dedicated secure subsystem integrated 
+into Apple hardware—to keep sensitive user data, 
+like biometric information, secure.As part of our commitment, our Apple Security 
+Bounty  rewards researchers who discover and 
+share with us critical issues in our latest operating 
+systems and the techniques used to exploit them. 
+Apple also uses administrative, technical, and 
+physical safeguards to protect users’ data, taking 
+into account the nature of that information and 
+the threats posed. Apple employees who handle 
+personal information are only permitted to use 
+approved software and collaboration tools, and all 
+our employees can easily raise any privacy issues 
+and questions with our Data Protection Officer.
+When we become aware of a potential data security 
+incident, we conduct prompt investigations and 
+analysis, provide notifications in a timely manner 
+when necessary, and determine what steps to 
+take in response.
+Accessibility
+Technology works best when it works for everyone. 
+At Apple, we believe accessibility is a human right, 
+so we design our products and services with 
+everyone in mind.
+Vision
+Our features for blind and lo w-vision users  include 
+VoiceOver, an industry-leading screen reader that 
+describes exactly what’s happening on your device, 
+and Zoom, a screen magnifier that lets you enlarge 
+the content you see on your device. Magnifier turns 
+the camera on an iPhone, iPad, or iPod touch into a 
+digital magnifying glass to increase the size of any 
+physical object you point it at.
+Hearing
+To support customers who are deaf or hard of 
+hearing , Apple was the first to create a direct 
+connection between hearing aids and cochlear 
+implants to iPhones and other iOS devices through 
+the Made for iPhone program. This enables 
+customers with hearing loss to make phone calls 
+and stream high-quality audio directly to their 
+hearing devices. Sound Recognition is a feature 
+that notifies users of external environmental sounds like doorbells and alarms, while FaceTime detects 
+when someone uses sign language in group calls 
+and makes them more prominent. Other features 
+include Headphone Accommodations, which 
+adjust certain sounds and frequencies to best suit 
+a user’s hearing preferences, and Sensory Alerts, 
+which offer visual or vibrating notifications for 
+incoming calls, messages, and events.
+Mobility 
+Users with limited mobility  can use Switch Control 
+to navigate their device easily and efficiently with 
+a variety of adaptive switch hardware, a single tap, 
+or mouth sounds for users who are non-speaking 
+and have limited mobility. Voice Control lets a 
+user control a device with voice commands, and 
+AssistiveTouch for watchOS allows users with 
+upper body limb differences to enjoy the benefits 
+of Apple Watch without ever having to touch the 
+display or controls. With Touch Accommodations, 
+customers can control how long they touch the 
+screen before it’s recognized and whether repeat 
+touches are ignored, while Back Tap lets users 
+double-tap or triple-tap the back of their iPhone 
+to automatically perform a range of custom tasks, 
+from opening an app to taking a screenshot.We maintain current  
+ISO 27001 and ISO 27018 
+certifications  setting user 
+security standards, for which 
+we undergo yearly audits. 
+Learn more about Apple’s 
+accessibility  featuresIntroduction Our Business Appendix Our People Suppliers Communities Environment Apple’s 2021 ESG Report   28 CustomersCognitive 
+Our products are built with an array of features to 
+support neurodiversity  and cognitive disabilities. 
+Apple is introducing new background sounds to 
+help minimize distractions and help users focus, 
+stay calm, or rest. Audio can be used to enhance 
+reading or writing comprehension with Speak 
+Screen or Speak Selection for iOS. Text to Speech 
+on Mac lets users highlight text to hear it read aloud 
+in over 35 languages, and Dictation and Siri help 
+anyone who finds speaking easier than typing or 
+writing. Another feature, Guided Access, limits a 
+device to a single app and lets users control which 
+features are available.Community support
+We offer sessions  to teach anyone how to use our 
+built-in accessibility features and provide tools for 
+developers  to make their apps more accessible. In 
+May 2021, we announced world-class, on-demand 
+sign language interpretation services, designed to 
+communicate with AppleCare and Retail Customer 
+Care using American Sign Language (ASL) in the 
+U.S., British Sign Language (BSL) in the UK, or 
+French Sign Language (LSF) in France. With the 
+SignTime app, along with video remote and onsite 
+interpreting, Apple customers and team members 
+can now request an interpreter for one-on-ones, 
+group meetings, external interviews, and more.
+ 
+Learn more  about how 
+Apple empowers educators 
+and learners of all ages.Apple has received many 
+awards for its impact in 
+disabled communities, 
+including the prestigious 
+Helen Keller Achievement 
+Award from the American 
+Foundation of the Blind.
+Education
+For more than 40 years, we’ve worked alongside 
+educators to inspire the next generation of 
+learners, supporting creativity, problem-solving, 
+communication, and collaboration. 
+We believe that education is a great equalizing 
+force, and our goal is to empower all educators 
+and learners through technology that protects 
+student privacy and is accessible for all learners. 
+We develop products, programs, tools, and 
+curricula for educators to create engaging learning 
+experiences, and we support education leaders 
+and administrators so they can get the most out 
+of the technology in the classroom and beyond.
+Coding is a universal language, and a great way 
+to help students think critically and express their 
+creativity. We’re always working to make it easy 
+and fun to learn to code, with supportive resources 
+like Swift Playgrounds and the Everyone Can 
+Code curriculum. And we work hand in hand 
+with communities—particularly communities 
+of color and others often under-resourced—to 
+bring coding, creating, and entrepreneurship 
+opportunities to learners of all ages.Products for learning 
+Knowing that everyone has their own way of 
+learning and expressing themselves, we offer 
+products that support students and educators 
+from kindergarten through higher education. 
+iPad provides apps and advanced technologies 
+that help educators teach and students push the 
+boundaries of their creativity. The Augmented 
+Reality capabilities on iPad let students bring digital 
+objects into the real world to spark curiosity and 
+enhance understanding in new, exciting ways. And 
+the powerful Mac processors are equipped for the 
+most intensive tasks, throughout university and 
+far beyond.
+We also developed Apple School Manager, a free 
+web-based portal that helps IT administrators in 
+K–12 and higher education institutions effortlessly 
+configure, deploy, and manage iPad and 
+Mac devices.Introduction Our Business Appendix Our People Suppliers Communities Environment Apple’s 2021 ESG Report   29 CustomersInspiring others
+Our programs nurture and support educators and schools 
+using Apple technology. We recognize those that go above and 
+beyond to rethink what’s possible so they can help inspire and 
+mentor others.
+Our community of nearly 3000 Apple Distinguished Educators  
+in 45 countries model, advise, advocate, and publish materials 
+on ways to integrate Apple technology into teaching and learning. 
+These educators are active leaders, helping to make learning 
+deeply personal for every student. 
+Apple Distinguished Schools  are centers of leadership and 
+educational excellence that demonstrate the impact of learning 
+with Apple technology. The 500-plus schools in 32 countries 
+cultivate environments where students are excited and curious 
+about learning.
+Apple Distinguished Educator Mike Lang is using Dr. Martin Luther King Jr.’s legacy to show his 
+kindergarten and first grade students at Laura Dearing Elementary School that they have the 
+power to change the world.Teaching tools 
+Our teaching tools empower educators to 
+personalize the learning experience for each 
+student and manage the classroom to keep every 
+student on task. Our Classroom app serves as a 
+powerful teaching assistant that makes it easy to 
+navigate lessons and share information, while the 
+Schoolwork app aids the distribution and collection 
+of assignments, tracks progress, and supports 
+collaboration with students.
+Curricula and project guides
+Our programs help educators integrate creativity 
+and coding into their lessons, even if they’re new 
+to teaching with technology:
+• Everyone Can Create : Gives educators fun and 
+meaningful ways to bring creative expression into 
+any lesson, topic, or assignment. The free guides 
+teach students to develop and communicate 
+ideas through drawing, photography, video, 
+and music, while teacher guides help educators 
+integrate both technology and creativity into 
+every lesson.
+• Everyone Can Code : Guides students through 
+the Swift Playgrounds app on iPad and Mac. 
+This free curriculum and the app teach coding for 
+kids through a world of interactive puzzles and 
+playful characters, and introduce Swift, the same 
+programming language used by professional app 
+developers. Teacher guides support educators in 
+teaching code, even if they have no experience. 
+• Develop in Swift : Teaches students aged 14 
+and over how to use Swift for designing and 
+developing apps through Apple’s integrated 
+development environment, Xcode. In 2020, we 
+launched a free online course taught by Apple 
+experts that helps instructors learn to teach 
+Swift and Xcode. Introduction Our Business Appendix Our People Suppliers Communities Environment Apple’s 2021 ESG Report   30 CustomersInspiration and support for teachers 
+We help educators share experiences, ideas, and 
+inspiration, so that they too can get more out of the 
+technology in their classrooms: 
+• Apple Teacher:  A free online, self-paced 
+professional learning program that helps 
+teachers build their skills and confidence 
+teaching with Apple technology and earn 
+Apple Teacher recognition.
+• Apple Teacher Portfolio:  A new addition to 
+Apple Teacher that further supports educators 
+in reimagining their lessons.• Apple Professional Learning Specialists:  These 
+experts provide one-on-one coaching sessions 
+and group professional learning workshops for 
+educators, in addition to the support resources 
+available online or via phone.
+The majority of our educator tools are free, and we 
+offer special pricing on Mac, iPad, and other Apple 
+hardware for education institutions, eligible college 
+students, and education faculty and staff.
+Health
+Apple empowers our users to take control of their 
+health by making it easier to track and share their 
+health and wellness information while always 
+keeping their data secure. This allows for a more 
+informed dialogue with loved ones and doctors, 
+offering the ability to make better health choices 
+on a daily basis.
+Technology for better health
+Since launching Apple Watch in 2015, we’ve been 
+constantly inspired by the stories we hear from 
+our users about how using Apple Watch for health 
+and fitness has changed their lives. These range 
+from users who found closing their Activity rings 
+every day motivated them to be in the best shape 
+of their lives to those alerted to a potential irregular 
+heart rhythm who sought medical care to confirm. 
+Stories like those continually drive us to do more 
+for our users.
+Building on innovative features for Apple Watch  
+like ECG, Irregular Rhythm Notifications, and Fall 
+Detection, Apple introduced a variety of new 
+services and features to help people on their health 
+and fitness journeys. With Apple Fitness+, we built 
+an entirely new, inclusive, and welcoming fitness 
+service that intelligently incorporates workout metrics from Apple Watch for a first-of-its-kind 
+personalized and immersive experience. New 
+apps like Handwashing, Sleep, and Blood Oxygen 
+offer more insights into users’ overall wellness to 
+make more informed decisions for themselves. 
+Apple Watch users can also view a classification 
+of their Cardio Fitness Level—a powerful predictor 
+of overall health—in the Health app , and receive 
+a notification if it falls within the “low” range. The 
+breakthrough technology allows users to better 
+understand their cardio fitness measurements 
+right on their own wrist.
+On iPhone, Walking Steadiness is an industry first, 
+providing insight into fall risk by capturing important 
+mobility data as users walk with their iPhone, directly 
+within the Health app. The Health app provides a 
+consolidated view of users’ health information—data 
+from iPhone, third-party apps, and Apple Watch. 
+And since introducing the feature in 2018, Health 
+Records at more than 12,000 care locations across 
+three countries are available for users to directly 
+access from multiple providers. Additionally, users 
+have the option to securely share their health data 
+with a loved one, caregiver, and, in the U.S., their 
+doctor through the Health app.  
+Read more about 
+Apple’s community 
+education initiatives 
+in Communities  (p45).Introduction Our Business Appendix Our People Suppliers Communities Environment Apple’s 2021 ESG Report   31 CustomersHealth research
+Everything Apple does in health is based in 
+science. We have a history of enabling the medical 
+community through platforms like ResearchKit and 
+CareKit , which help researchers produce medical 
+insights and discoveries on conditions from 
+epilepsy to Parkinson’s at a pace and scale never 
+seen before.
+Apple technology is helping democratize medical 
+research by giving users the ability to opt-in to 
+share data through the Research app  on their 
+iPhone or Apple Watch. In 2021, in collaboration 
+with Harvard T.H. Chan School of Public Health 
+and the University of Michigan, the Apple 
+Women’s Health Study  and Apple Hearing Study  
+released new insights on women’s health and 
+hearing health. 
+In 2020, Apple joined forces with researchers 
+at several universities across North America 
+to explore how Apple Watch and iPhone can 
+help across a variety of conditions, including 
+depression, asthma, and heart failure.Partnering with the medical industry
+Our technology gives healthcare  providers the 
+tools they need to work effectively within hospitals 
+and connect remotely with patients. Apps on 
+iPad, iPhone, and Apple Watch can help medical 
+professionals deliver personalized care. Our 
+devices protect patient data yet remain accessible 
+and easy to use across providers. The result is care 
+that becomes more efficient, more personalized, 
+and ultimately, more human. 
+For providers, especially during COVID-19, we’ve 
+seen the power that technology has brought to 
+healthcare. FaceTime was, and still is, being used 
+to deliver virtual care at a time when PPE was so 
+scarce and face-to-face medical appointments 
+were often deferred.
+At home, iPhone, Apple Watch, the Health app, 
+and HealthKit-enabled apps and devices make it 
+easy for patients to record and share their health 
+data. This became even more important during 
+the pandemic as many patients began opting for 
+virtual visits.
+Apple Fitness+, the first fitness service built around Apple Watch, launched in December 2020. Apple Fitness+ 
+intelligently incorporates workout metrics from Apple Watch for a first-of-its-kind personalized and immersive 
+workout experience.
+Privacy is a fundamental 
+aspect of our health work. 
+The right place for health 
+information to exist is with 
+a user on their device, 
+and where or how that 
+information is shared 
+should be completely 
+up to the individual.
+Introduction Our Business Appendix Our People Suppliers Communities Environment Apple’s 2021 ESG Report   32 CustomersWe take responsibility for 
+our products throughout 
+their life cycles—including 
+the materials they are made 
+of, the people who assemble 
+them, and how they are 
+recycled at end-of-life. 
+Read more in our Product 
+Environmental  Reports .Caring for customers
+At Apple, we want to create products and services 
+that enrich people’s lives. To us, that means making 
+the best, not the most, and only building things that 
+make us proud. 
+A world-class experience
+We’re motivated by creating the best user 
+experience through our products and in every 
+interaction with our customers. We focus on 
+breakthrough technologies and innovative features 
+that set us apart and keep people coming back 
+to Apple. Consumer surveys have consistently 
+shown high satisfaction ratings for our revolutionary 
+products, including iPhone (97 percent or higher), 
+Mac (over 90 percent), iPad (over 93 percent), 
+and Apple Watch (over 90 percent).18
+Support through retail
+Our focus on our customers extends to an 
+unparalleled retail experience that puts the people 
+we serve at the center of everything we do. 
+Our retail teams inspire our customers to discover, 
+learn about, and choose Apple products, services, 
+and accessories by delivering a personalized 
+experience like no other. Apple Specialists in our 
+retail stores and contact centers help customers 
+find the right products with one-on-one shopping 
+and support sessions—in person, over the phone, 
+or via chat. Today at Apple  sessions help customers 
+learn how to get the most from their devices and 
+take their creativity further.
+Apple’s Education team works to ensure students, 
+teachers, and parents have the best learning tools 
+for the classroom. For business customers, the 
+dedicated teams in every Apple Store provide the 
+advice, pricing, and support small businesses need 
+in our communities.
+We work closely with Apple Authorized Resellers, 
+like carriers, and retailers to enhance the customer 
+shopping experience beyond our own retail 
+locations and the Apple online store. Listening and improving
+To ensure quality, we continually monitor customer 
+feedback, assess key drivers, and leverage 
+analytics to improve the customer experience. 
+Customer feedback is shared with team members 
+as well as leaders, so that everyone understands 
+their impact and is focused on making the 
+customer experience the best it can possibly be. 
+Our Net Promoter Scores® (NPS®),19 a measure 
+of brand loyalty, are consistently strong and 
+industry-leading among retailers, and reflect 
+our commitment to the customer shopping and 
+support experience.
+As we continue delivering exceptional products, 
+we remain committed to high-quality standards 
+and transparent communication with customers. 
+We maintain a System Status  page to actively 
+report on identified system issues and offer 
+service programs  to address hardware issues. 
+We encourage our customers to contact us  with 
+questions, feedback, or to request support.
+Product longevity
+We are committed to providing long-lasting 
+devices by building durable hardware designed 
+to endure the rigors of everyday use and to 
+be compatible with years of software updates 
+that unlock new features and functionality. 
+We also provide convenient access to safe and 
+reliable repair services in case they’re needed, 
+and offer collection programs to refurbish or 
+recycle products. 
+Product durability
+Our customers expect their devices to be ready 
+when they need them, with minimal interruption 
+for maintenance or repair. Apple products are 
+designed to endure daily life, and confidence in 
+the reliability of the device is an essential element 
+of the product experience.Introduction Our Business Appendix Our People Suppliers Communities Environment Apple’s 2021 ESG Report   33 Customers 
+Read more about how we 
+create products that are safer 
+across their entire life cycle in 
+Smarter chemistry  (p12).Engineers in our Reliability Testing Lab measure 
+the performance of materials, components, and 
+products. Through our iterative testing approach, 
+we continuously improve designs until they can 
+withstand rigorous real-world conditions and meet 
+our strict durability standards, which are informed 
+by in-depth user studies to understand how our 
+customers use their products.
+Software support
+Product longevity relies as much on software support 
+as it does on durable hardware design. That’s 
+why we work to continually improve the operating 
+systems that power our products. We engineer each 
+software release to make sure it runs beautifully on 
+all supported devices. This helps us maximize the 
+number of customers who benefit from the latest 
+software updates, regardless of whether their device 
+is brand-new or several generations older.
+Access to repairs
+We design our products for durability to minimize 
+the need for repair. But when a repair is needed, 
+we believe our customers should have convenient 
+access to safe and reliable repair services so 
+their product is up and running again as quickly 
+as possible. 
+Apple-certified repairs are performed by trusted 
+experts who only use genuine Apple parts to 
+ensure reliability and safety. Customers can ship 
+their products to Apple Repair Centers, find an 
+Authorized Service Provider, or visit a Genius Bar 
+at an Apple Store. Since 2019, our repair programs 
+added over 1500 Independent Repair Providers to 
+our growing network of over 5000 Apple Authorized 
+Service Providers around the world. Our program 
+leads the industry for customer satisfaction 
+and helps millions of people with both in- and 
+out-of-warranty repairs.
+Refurbishing and recycling 
+At the end of product life, we make it easy to recycle 
+devices for free, and provide a range of upgrade, 
+finance, and trade-in options. And by encouraging 
+our customers to access the value of their current 
+device through Apple Trade In or third-party 
+trade-in platforms, we not only make their next 
+purchase more affordable, we also enable a new 
+customer to experience Apple products and 
+services through their purchase of a refurbished 
+device. Refurbished devices meet the highest 
+quality, performance, and safety standards.Product safety
+We design our products to make sure they’re safe 
+for anyone who assembles, uses, or recycles them.
+Commitment to safety
+The well-being of those who design, make, use, 
+and recycle our products is a priority for Apple, 
+which is why we’re committed to using safer 
+materials to create safer products. We assess 
+the health and safety of all our products, during 
+every stage of their life cycle, from early concept 
+development, through use, service, and repair, 
+to recycling. During the design and prototyping 
+process, cross-functional Apple teams analyze 
+potential failures and their effects from a quality 
+and safety perspective. The results drive product 
+design improvements and manufacturing 
+process controls.
+Safety compliance
+Apple’s products are designed, tested, and 
+certified to comply with international and regional 
+safety standards. They also meet our own 
+specifications, which often go above and beyond 
+what is required. For example, Apple’s Regulated 
+Substances Specification  restricts the use of 
+certain chemical substances in Apple products, 
+and we apply rigorous additional controls for 
+materials that may have prolonged contact with 
+the skin. Components that are critical to safety are 
+subject to enhanced requirements and additional 
+supplier audits.
+Apple’s Safety Compliance Policy defines 
+procedures to monitor products in the field and 
+investigate potential safety issues. This policy 
+requires prompt escalation of safety issues to Apple 
+management and timely reporting to regulators. 
+It also requires mechanisms for employees 
+to confidentially report safety or compliance 
+concerns, as well as training for employees on how 
+to address the concerns. Our Product Integrity and 
+Legal teams are responsible for ensuring Apple’s 
+Safety Compliance Policy is followed. Introduction Our Business Appendix Our People Suppliers Communities Environment Apple’s 2021 ESG Report   34 CustomersSuppliers
+In this section
+Our approach to supplier responsibility 36 
+Partnering with our suppliers  37
+Supplier employees  40
+Environment and the supply chain  42
+Working in partnership  43From the very beginning of 
+the COVID-19 pandemic, we 
+partnered with our suppliers to 
+ensure strong protections were 
+in place for their employees.Apple’s 2021 ESG Report   35 Introduction Our Business Appendix Our People Customers Communities Environment SuppliersWe are deeply committed to working with our suppliers to ensure that the people 
+in our supply chain are safe at work, that they are treated with dignity and respect, 
+and that our planet is protected throughout the process of building our products. 
+This responsibility includes supporting our suppliers in achieving the highest 
+standards of labor, human rights, and health and safety, and investing in the 
+personal and professional development of those working in our supply chain. 
+It also means working with them to promote renewable energy and energy 
+efficiency; reduce waste; recover and use recycled materials; and design 
+the recycling technologies of the future.Sabih Khan is Apple’s 
+Senior Vice President of 
+Operations, reporting 
+to COO Jeff Williams. 
+Sabih is in charge of 
+Apple’s global supply 
+chain, ensuring product 
+quality and overseeing 
+planning, procurement, 
+manufacturing, logistics, 
+and product fulfillment 
+functions, the programs 
+that support Apple’s 
+Supplier Responsibility 
+work. The Operations team 
+also supports Apple’s 
+environmental initiatives by 
+partnering with suppliers to 
+propel green manufacturing, 
+help conserve resources, 
+and protect the planet. Our approach to supplier responsibility
+At Apple, people come first in everything we do. 
+That means holding ourselves and our suppliers to 
+the highest standards of labor and human rights, 
+health and safety, environmental protection, and 
+ethical conduct. 
+Our supply chain 
+Apple’s supply chain comprises a complex global 
+network of businesses spanning more than 
+50 countries worldwide. We define our supply 
+chain broadly, including the design, engineering, 
+manufacturing, and recycling of our products, 
+as well as the companies and places where our 
+suppliers source materials. It also incorporates 
+logistics, sales, and support functions, as well 
+as suppliers that support Apple services. 
+Upholding the highest standards
+Developed in 2005, the Apple Supplier Code 
+of Conduct  (the Code) and the Apple Supplier 
+Responsibility Standards  (the Standards) outline 
+our requirements for suppliers in the areas of labor 
+and human rights, health and safety, environment, 
+management systems, and ethics. We share these 
+requirements with suppliers through annual tailored 
+communication and guidance, and require all 
+suppliers to train their employees on their rights.Our Code and Standards are aligned with 
+internationally recognized labor and human rights 
+standards, including the International Labour 
+Organization’s Declaration on Fundamental 
+Principles and Rights at Work and the Organisation 
+for Economic Co-operation and Development’s 
+(OECD) Due Diligence Guidance for Responsible 
+Supply Chains of Minerals from Conflict-Affected 
+and High-Risk Areas, as well as industry-leading 
+health and safety standards. Our approach to 
+conducting labor and human rights due diligence 
+in our supply chain is based on the UN Guiding 
+Principles on Business and Human Rights (UNGPs). 
+Every year we incorporate feedback from 
+stakeholders to ensure that our Code and 
+Standards reflect current internationally recognized 
+standards. We also engage with human rights, 
+environmental, and industry organizations to openly 
+share our tools and learnings with other companies 
+in order to drive high standards beyond our supply 
+chain and accelerate progress more quickly.For more information, 
+read Apple’s People 
+and Environment in Our 
+Supply Chain report.Introduction Our Business Appendix Our People Customers Communities Environment Apple’s 2021 ESG Report   36 SuppliersIdentifying and managing  
+salient risks 
+Identifying potential human rights risks to people 
+in our global supply chain is the first step toward 
+eliminating them. Our prevention strategy relies 
+on both internal monitoring and analysis, as well 
+as input from key rights holders, stakeholders, 
+international organizations, policymakers, 
+and partners.
+Reports identifying potential risks can also come 
+to us from grassroots civil society organizations, 
+local news outlets, individuals in the supply chain 
+or supply chain communities, local whistleblower 
+mechanisms, and third-party hotlines. They also come through the reporting mechanisms we 
+make available directly to supplier employees, 
+Apple employees, and the general public. These 
+reports can come to us in any language and can 
+be anonymous.
+We work quickly and diligently to thoroughly 
+investigate reports, and promptly correct any 
+issues we discover. If any issues are discovered, 
+we go further to prevent recurrence by 
+implementing improvements to our policies and 
+strategies, building capability with our suppliers, 
+and integrating findings and learnings into our 
+annual Code and Standards updates. 
+Partnering with our suppliers
+We partner closely with our suppliers to help 
+them meet and exceed our workplace and 
+environmental requirements. 
+Assessing prospective suppliers 
+We assess select prospective suppliers and 
+facilities on their ability to adhere to our rigorous 
+Code and Standards before they enter our 
+supply chain through a process called the Facility 
+Readiness Assessment. In calendar year 2020, 
+8 percent of prospective suppliers evaluated were 
+excluded from entering our supply chain for being 
+unable or unwilling to meet our high standards. 
+But even if prospective suppliers are ultimately 
+not awarded business by Apple, we continue 
+to help them improve their performance across 
+environmental, health and safety, and labor and 
+human rights criteria. This includes providing 
+subject matter expertise to help them correct 
+any compliance issues found during the supplier 
+and facility selection process. While the program 
+is voluntary, 56 percent of companies opted to 
+receive this additional support in 2020, helping 
+to protect the rights of people beyond our 
+supply chain.Driving continuous improvement 
+We assess our suppliers’ performance according to 
+our Code and Standards, and we work closely with 
+our suppliers to drive continuous improvement, 
+because we believe that if we’re not finding ways 
+to improve, we’re not looking hard enough.
+Our comprehensive supplier assessments, 
+also known as audits, evaluate suppliers 
+against more than 500 criteria. Throughout the 
+assessment process, independent third-party 
+auditors conduct extensive document reviews, 
+thorough site walk-throughs, and interviews with 
+management and workers. This rigorous process 
+can take anywhere from a day to more than a week, 
+depending on the scale of the supplier’s operations. 
+The high-level factors Apple considers when 
+selecting suppliers for assessment include 
+geographic location, previous assessment 
+performance, previous record of Core Violations 
+or allegations, how much business the supplier 
+does with Apple, and whether the supplier employs 
+those from vulnerable groups, such as Foreign 
+Contract Workers.Introduction Our Business Appendix Our People Customers Communities Environment Apple’s 2021 ESG Report   37 SuppliersBeyond our regularly scheduled assessments, every 
+year we also conduct unannounced assessments. 
+In calendar year 2020, we conducted more than 
+100 unannounced assessments and investigations, 
+up from 70 in 2019. We also supplement our own 
+assessment protocol with the Responsible Business 
+Alliance’s Validated Assessment Program, a 
+third-party assessment widely used by the industry. 
+Apple-managed assessments covered a cumulative 
+total of 94 percent of Apple’s direct manufacturing 
+spend based on assessments conducted since 
+2007. In 2020, a total of 1121 assessments were 
+conducted across manufacturing sites, smelters 
+and refiners, and service providers, including those 
+that support AppleCare and Apple Retail. Results of 
+these assessments are detailed in Apple’s People 
+and Environment in Our Supply Chain report. 
+Accountability at every step
+As auditors review supplier documentation or 
+inspect a supplier site, they look for any instances 
+of noncompliance with Apple’s Code and 
+Standards. Assessment findings are divided into 
+three categories based on their severity, with Core 
+Violations being the most serious type of violation.
+If a Core Violation is identified, the supplier’s 
+Chief Executive Officer is notified and the supplier 
+is placed on probation. The probation period 
+continues until Apple determines that the supplier 
+has completed all corrective actions. The possible 
+consequences of probation include receiving no 
+new projects, no new business, or the termination 
+of existing business with Apple. 
+If noncompliance is identified, we take prompt 
+action to ensure suppliers correct the issue 
+and make meaningful, long-term changes. We 
+do this through a Corrective Action Plan (CAP), 
+during which 30-, 60-, and 90-day check-ins 
+with Apple are required. We then conduct our 
+Corrective Action Verification (CAV) process 
+to verify that all corrective actions have been 
+successfully implemented, and necessary steps 
+have been taken to prevent a reoccurrence. 
+Beyond immediately addressing the Core 
+Violation, suppliers must also make changes in 
+their management system that address the root 
+causes of the violation, take and sustain preventive 
+measures to ensure the violation does not reoccur, 
+and provide remedy to affected workers in line with 
+the UNGPs.We are committed to working with a supplier until 
+it becomes clear they are unable or unwilling to 
+uphold our high standards. At that point, they risk 
+removal from our supply chain. Since 2009, we 
+have directed the removal of 24 manufacturing 
+supplier facilities, and 153 smelters and refiners 
+from our supply chain.
+Instilling a culture of safety
+Health and safety are a critical part of every 
+assessment we conduct at supplier sites. Among 
+other standards, suppliers must implement 
+programs for tracking the use of hazardous 
+chemicals and communicating related risks, 
+maintain systems for reporting and addressing 
+health and safety incidents, and provide training 
+in local languages for all their employees. Any 
+instances of noncompliance with our Code and 
+Standards during an assessment are addressed 
+through Corrective Action Plans, online training 
+materials, and in-person capability-building with 
+Environment, Health, and Safety (EHS) experts.
+In 2020, we partnered with our suppliers from 
+the very beginning of the COVID-19 pandemic to 
+ensure strong protections were in place for their 
+employees, and that their rights were respected 
+throughout. This included daily infection and 
+recovery reporting, one-on-one support, and 
+in-depth guidance on health, safety, and labor 
+and human rights standards. 
+We are also continually improving machine safety 
+across our supply chain. To identify high-priority 
+suppliers, we conducted a risk assessment of 
+suppliers considering three main areas: machine 
+procurement, machine safety sign-off, and safe 
+work procedures. And in 2021, we provided 
+customized, onsite support to 78 suppliers to 
+help improve machine safety in their facilities. 
+We also introduced a new Apple Machine Design 
+Safety Guide for machine builders who provide 
+equipment for enclosure manufacturers in order 
+to help them put into place high safety standards 
+starting with how machines are designed.Read more about  
+Apple’s response to 
+COVI D-19 (p21).
+94% 
+Apple-managed 
+assessments covered 
+a cumulative total of 
+94 percent of Apple’s direct 
+manufacturing spend based 
+on assessments conducted 
+since 2007. Introduction Our Business Appendix Our People Customers Communities Environment Apple’s 2021 ESG Report   38 SuppliersAdvancing smarter 
+chemistry in manufacturing
+While we require suppliers to maintain strict safety 
+measures at all times, the strongest method we can 
+employ to protect people is to select safer materials 
+from the start. 
+An area where we are making an immediate impact 
+is with process chemicals, such as cleaners 
+and degreasers, that are used in manufacturing 
+processes. All of our final assembly sites use only 
+safer alternative cleaners and degreasers. This year, 
+we were the first consumer electronics company to 
+receive the U.S. Environmental Protection Agency’s 
+(EPA) Safer Choice Partner of the Year Award in 
+recognition of our work to scale the use of safer 
+process chemicals in our supply chain. 
+We also require that suppliers comply with 
+Apple’s Regulated Substances Specification , 
+a list of substances that Apple restricts from 
+being included in Apple products or used in their 
+manufacturing. We hold our suppliers accountable 
+by conducting factory audits and testing materials 
+and components at certified laboratories for 
+substances of high concern. We also support 
+our suppliers by sharing a list of identified safer 
+alternatives and promoting the use of substances 
+that meet our standards.
+Responsible materials sourcing
+Deeper in our supply chain, we require suppliers 
+to responsibly source materials and conduct due 
+diligence in their own supply chains. We also 
+Apple partnered with RESOLVE and Tiffany&Co. on the Salmon Gold project, which works with small-scale gold miners and 
+Indigenous peoples in remote regions of the Yukon, Alaska, and British Columbia to support a mining practice that helps restore 
+rivers and streams so that salmon and other fish can thrive. 
+consider the human rights impact on surrounding 
+communities, engage with others to strengthen 
+industry standards, drive transparency, and foster 
+the same opportunities as we do in other parts of 
+Apple’s supply chain.
+Our strict Responsible Sourcing Standards apply 
+to primary minerals, recycled materials, primary 
+minerals processors, recyclers, and even to the 
+mining level. We conduct detailed due diligence 
+of our supply chain by mapping higher-risk minerals 
+and identifying risks and opportunities in the supply 
+chain using tools created by Apple. We then take 
+corrective actions where social, environmental, 
+human rights, and governance risks are identified 
+through a variety of sources, such as independent 
+third-party audits, civil society engagement, and 
+public reporting.
+We investigate allegations deeper in our supply 
+chain through our Responsible Minerals Sourcing 
+program, which requires minerals suppliers to 
+review incidents and public allegations linked 
+to their smelters and refiners, and to participate 
+in traceability and audit programs that address 
+and mitigate risk.
+We also provide support to the Fund for Global 
+Human Rights, which partners with grassroots 
+human rights and environmental organizations 
+in the Democratic Republic of the Congo (DRC). 
+And we continued our support to the International 
+Tin Association’s International Tin Supply Chain 
+Initiative’s (ITSCI) DRC whistleblowing mechanism, 
+to empower and amplify local voices.Read more about our 
+smarter chemistry work in 
+our 2021 Environmental 
+Progress  Report .
+See Apple’s 2020 Conflict 
+Minerals Report  for more 
+information on responsible 
+materials sourcing.
+100% 
+In calendar year 2020, 
+100 percent of the 
+identified tin, tungsten, 
+tantalum, gold, cobalt, 
+and lithium smelters and 
+refiners in our supply chain 
+participated in independent 
+third-party audits.Introduction Our Business Appendix Our People Customers Communities Environment Apple’s 2021 ESG Report   39 SuppliersSupplier employees
+Everyone deserves to be treated with dignity 
+and to have their rights respected. As part of 
+our Supplier Code of Conduct, we require our 
+suppliers to provide their employees with training 
+on their rights. Apple also directly engages with 
+tens of thousands of supplier employees on their 
+workplace experiences each year—because the 
+more we listen and learn, the better we all are.
+Worker rights 
+Since 2008, 21.5 million supplier employees 
+have been trained on their rights. Building on this 
+progress, we’re working with partners to deliver 
+digital worker rights training to supplier employees, 
+enabling better learning and more accurate 
+knowledge gap identification. 
+Suppliers are required to respect the rights of their 
+employees to form or join, or refrain from joining, 
+organizations of their choice, and to bargain 
+collectively. Even where the right to freedom of 
+association or collective bargaining is restricted 
+under local law, suppliers are prohibited from 
+obstructing alternative legal means for workers 
+to associate or to individually and collectively 
+engage with their employer without interference, 
+discrimination, retaliation, or harassment. In 
+2020, 562 supplier facilities in 25 countries 
+employed unionized workers, and 422 sites had 
+negotiated collective bargaining agreements 
+with their employees. Worker voice 
+Listening directly to rights holders is critical to 
+creating safe and equitable workplaces. Our Code 
+and Standards require worker feedback channels, 
+including grievance mechanisms at supplier sites. 
+These grievance mechanisms include third-party 
+anonymous hotlines and the ability to contact the 
+Apple Environment and Supply Chain Innovation 
+team at any time, and in any language.
+Worker interviews are an important part of every 
+supplier assessment we conduct. In 2020, we 
+interviewed 57 ,618 supply chain workers, in their 
+local language and without their managers present, 
+to confirm that their experience on the job aligns 
+with our observations during assessments.
+In 2019 we began anonymously measuring 
+supplier employees’ general satisfaction at work 
+and in 2020 we surveyed 196,647 workers from 
+135 facilities across Greater China, India, Ireland, 
+the UK, U.S., and Vietnam. The surveys sought 
+feedback on different aspects of the workplace, 
+including working and living conditions, food, 
+and management. And as a result of these 
+surveys, suppliers took 3173 actions to address 
+worker feedback, including adding shuttle buses, 
+reducing turnaround time for addressing worker 
+grievances, increasing bonuses, and improving 
+dorm maintenance.
+We are also exploring additional digital tools to 
+further scale worker voice across our supply chain, 
+including a digital platform that combines digital 
+and in-person training to help suppliers gather 
+and address worker grievances, measure worker 
+satisfaction, and provide health and well-being 
+training and services to their employees.For detailed information on 
+our assessment process 
+and how we remediate Core 
+Violations, read How We 
+Work With  Suppliers .Introduction Our Business Appendix Our People Customers Communities Environment Apple’s 2021 ESG Report   40 SuppliersStudents in a SEED lab studying Swift coding.
+Worker education and  
+professional development 
+Over the last decade, we’ve developed a network 
+of higher education opportunities, coding courses, 
+vocational certification programs, and health 
+awareness education programs, that help people 
+working in our supply chain to cultivate the skills 
+needed to advance in the jobs of today and tomorrow. 
+Some examples of these programs include:
+• Supplier Employee Education and 
+Development (SEED):  Since 2008, the SEED 
+program has helped 4.65 million supplier 
+employees cultivate skills to prepare for the 
+future of work. 
+• Apprenticeships and technical training: Over 
+18,000 supplier employees have participated 
+in our technical training and apprenticeship 
+programs since 2018, including programs on 
+robotics, Computer Numerical Control machines, 
+and mobile device repair. We’re also working 
+to increase the impact of these programs by 
+helping expand the capabilities of teachers at 
+local vocational schools.• The Automation Technician program  teaches 
+students to install, maintain, and repair 
+automation machines in the production line, 
+while the Line Leader program  helps students 
+cultivate skills needed to advance into production 
+line supervisor roles. Among other topics, 
+the program covers management training, 
+production organization and management, 
+and project management. 
+• Coding:  A few years ago we began offering 
+training to supplier employees on Apple’s Swift 
+coding language. We’ve expanded this program 
+so students can also learn from Creatives at 
+our Apple Store locations to become more 
+familiar with the functionality of Apple products 
+and services, and gain insight into Apple’s 
+developer systems as they continue to advance 
+in their coding coursework.
+• Health and wellness: We provide programs that 
+empower supplier employees to take charge of 
+their own personal health and well-being. Our 
+health education program started in 2017 in China 
+as a peer-to-peer program providing training 
+on reproductive health, disease prevention, and 
+nutrition. The program has since expanded to 
+other countries and further provides support for 
+identified health needs in local communities.3173 
+actions taken by our 
+suppliers in 2020 in response 
+to worker feedback.
+21.5M 
+supplier employees trained 
+on their rights since 2008.
+4.65M 
+supplier employees have 
+participated in educational 
+programming since 2008.Introduction Our Business Appendix Our People Customers Communities Environment Apple’s 2021 ESG Report   41 SuppliersEnvironment and the supply chain
+We are committed to creating products that enrich 
+the lives of our customers, and to producing 
+them in a manner that doesn’t deplete the earth’s 
+resources. This responsibility extends throughout 
+our supply chain—from initial design through 
+manufacturing, and across the entire life cycle 
+of our products.
+We work with our suppliers to help us address our 
+environmental commitments, such as becoming 
+carbon neutral by 2030 across our entire product 
+footprint. Our Supplier Energy Efficiency Program 
+and Supplier Clean Energy Program both address 
+direct and indirect emissions in our supply chain, 
+while our Supplier Clean Water and Zero Waste 
+programs help to reduce resource usage. In addition, our Code contains strict environmental 
+protections, which require our suppliers to 
+understand and take active steps to reduce their 
+environmental impact while also becoming better 
+stewards of the resources we all share and the 
+communities in which we operate. Specifically, 
+our Code addresses the management of regulated 
+substances, stormwater, wastewater, air emissions, 
+waste, and noise, as well as pollution prevention, 
+resource reduction, and obtaining necessary 
+environmental permits. For more information on 
+these supplier programs, 
+see the Environment  
+section (p7) and the 
+2021 Environmental 
+Progress  Report . 
+This 80 megawatt solar facility in North Carolina is one of the many energy solutions used by Apple’s suppliers to support their 
+commitments to 100 percent renewable energy for Apple production. 
+Introduction Our Business Appendix Our People Customers Communities Environment Apple’s 2021 ESG Report   42 SuppliersWorking in partnership
+From human rights to climate change, there 
+exists a wide range of issues that are bigger 
+than any one company or organization. They 
+require a multi-stakeholder approach, bringing 
+together the best thinking from a range of sectors 
+and geographies to address these issues at a 
+systemic level.
+To do this, we engage with industry associations, 
+civil society organizations, academics, UN 
+agencies, and governments to share our progress 
+and promote best practices. We also regularly 
+convene stakeholder roundtables and expert 
+groups to learn from others’ perspectives and 
+seek feedback on our programs.
+For more information on all of our efforts and 
+programs to protect people and the environment 
+throughout our supply chain, please refer to the 
+following reports and disclosures:
+• People and Environment in Our Supply Chain, 
+2021 Annual Progress Report  
+• How We Work With Suppliers
+• 2020 Conflict Minerals Report
+• 2020 Supplier List
+• 2020 Smelter and Refiner List
+• 2020 Efforts to Combat Human Trafficking  
+and SlaveryUsing our purchasing power for good
+For Apple, our work to make our company more inclusive extends 
+to how we choose the businesses we work with. When contracting 
+with suppliers, we use our purchasing power to increase diversity 
+in the field and change outdated norms that hurt those who are 
+underrepresented in their field or industry.
+Apple’s award-winning20 Supplier Diversity program, 
+established in 1993, actively engages suppliers from historically 
+underrepresented communities. We have policies that require 
+diverse supplier participation during early-stage sourcing, key 
+performance indicators to measure company success, and 
+diversity awareness trainings for our global sourcing team 
+members and related Apple business units. In 2016, Apple 
+was the first Silicon Valley–based company to be invited 
+into the Billion Dollar Roundtable (BDR) in recognition of our 
+long-standing commitment to promoting diversity within our 
+supplier base. BDR celebrates corporations that achieved 
+spending of at least $1 billion with minority- and woman-owned 
+businesses. In calendar year 2020, Apple spent $5 billion with 
+diverse suppliers around the world.21 Our program offers support 
+to participating suppliers and seeks active engagement in 
+industry diversity leadership activities.
+One highlight of this program is that minority-owned banks are 
+included in our debt offerings. For the last 14 U.S. bond offerings, 
+we selected minority-owned banks as underwriters and have 
+expanded both the number of firms we include and the allocation 
+and fees that we pay them. Our February 2021 $14 billion bond 
+issuance resulted in one of the largest amount of fees paid to 
+minority-owned banks on a single bond deal by a corporation.
+We’re also promoting diversity in the companies with which we 
+do business. For example, our contracts with law firms require 
+that the attorneys staffing our projects include members of 
+traditionally underrepresented groups, and provide anonymized 
+timekeeper data. It’s not only a contract term. In day-to-day 
+practice, we’ve implemented “diversity blend” commitments—
+how much billable time the firm will commit to have performed by 
+people from underrepresented communities, including women 
+and LGBTQ+ lawyers—when bidding for work. By initiating these 
+discussions at the contract negotiation stage, we are ensuring 
+that diversity is core to our engagement. In recognition of this 
+work, Apple has been awarded the Financial Times  Innovative 
+Lawyer Award  for Inclusion, Diversity and Social Justice.Introduction Our Business Appendix Our People Customers Communities Environment Apple’s 2021 ESG Report   43 Suppliers  
+Communities
+In this section
+Community initiatives  45
+Community investments  48
+Job creation 51Apple’s Community Education 
+Initiative (CEI) focuses 
+on expanding learning 
+opportunities in communities 
+that are traditionally 
+underrepresented and 
+under-resourced in technology.Apple’s 2021 ESG Report   44 Introduction Our Business Appendix Our People Suppliers Customers Environment CommunitiesAs a company with teams and customers around the world, we’re a member 
+of a shared global community. Those connections inspire our commitment to 
+act as a catalyst for positive change—change that uplifts the people we work 
+with, increases access to opportunity, and helps build a better future for all. 
+Whether we’re creating new tools for teachers and students, or new pathways 
+for the next generation of diverse entrepreneurs, the through-line is our focus 
+on advancing the always urgent cause of equity and justice.In her role as Vice President 
+for Environment, Policy 
+and Social Initiatives, Lisa 
+Jackson leads Apple’s 
+Racial Equity and Justice 
+Initiative and is responsible 
+for Apple’s environmental 
+initiatives, community 
+education programs, 
+product accessibility, 
+and community giving. 
+Community initiatives 
+are managed through 
+cross-functional 
+collaboration with teams 
+across Apple, including 
+Treasury, Compliance, 
+People, Real Estate & 
+Development, Legal,  
+and Education.Community initiatives
+At Apple, we are committed to leaving the world 
+better than we found it. That means supporting 
+communities globally with initiatives that combat 
+inequity and expand access to opportunity. 
+Through efforts that address racial equity and 
+justice, education, affordable housing, and 
+more, we foster open communication with 
+local community partners and stakeholders to 
+understand dynamic challenges in order to drive 
+meaningful impact. Apple supports these initiatives 
+through strategic investments as well as donations 
+to nonprofit partners.
+Racial Equity and Justice Initiative 
+We have an urgent responsibility to help dismantle 
+systemic racism and support opportunities for 
+communities of color. Our Racial Equity and 
+Justice Initiative  (REJI), launched in June 2020 
+and beginning in the United States, focuses on 
+creating lasting change in three areas: expanding 
+access to education, supporting criminal justice 
+reform, and removing economic barriers for 
+Black and Brown communities. Starting with a 
+$100 million commitment, this initiative has spurred 
+new partnerships and projects while inspiring us 
+to weave a focus on equity and justice into  
+everything we do. 
+Access to education
+REJI builds on our long-standing commitment 
+to education. We’re partnering with schools in 
+under-resourced communities to enrich their 
+science, technology, engineering, and math (STEM) 
+programs, and to support educators and learners 
+with Apple technology, curriculum, and hands-on 
+professional learning. To deepen our engagement 
+with historically Black colleges and universities (HBCUs) in the U.S., Apple helped launch the Propel 
+Center, a global innovation and learning hub in 
+Atlanta, Georgia, that offers innovation curricula, 
+technology support, career opportunities, and 
+fellowship programs. In addition, we are deepening 
+and expanding our work with new innovation grants 
+for HBCU engineering programs, a Fellows program 
+for educators, and academic scholarships.
+Criminal justice reform
+We support organizations that continue to 
+challenge a justice system that disproportionately 
+fails Black and Brown people. These include the 
+Equal Justice Initiative, Leadership Conference 
+Education Fund, the King Center, and the 
+Birmingham Civil Rights Institute.
+Economic equality
+Black founders and developers in the technology 
+sector face systemic barriers, especially when 
+starting and leading companies. Programs like 
+our Entrepreneur Camp for Black Founders and 
+Developers  give app founders and developers 
+guidance and support from Apple experts so 
+they can take their app experience to the next 
+level. We’re also partnering with Michigan 
+State University to open an Apple Developer 
+Academy in Detroit, a city with a vibrant Black 
+entrepreneur and developer community and over 
+50,000 minority-owned businesses.22 Our work 
+to promote Black and Brown businesses extends 
+to our own business activities, where we are 
+increasing Apple’s spend with diverse suppliers.
+Read more in Using our purchasing power 
+for good  (p43).Introduction Our Business Appendix Our People Suppliers Customers Environment Apple’s 2021 ESG Report   45 CommunitiesIn January 2021, we announced two financial 
+commitments to support Black and Brown 
+entrepreneurs. We are investing $10 million in 
+Harlem Capital, an early-stage venture capital firm 
+based in New York with a mission to support 1000 
+diverse founders over the next 20 years. And Apple 
+is investing $25 million in Siebert Williams Shank’s 
+Clear Vision Impact Fund, increasing loan capital 
+for small- and medium-sized minority-owned 
+businesses and underserved communities. 
+In May 2021, building on these two commitments, 
+we supported VamosVentures, a Latinx-owned 
+fund investing in technology-enabled companies 
+led by Latinx and diverse founders, and Collab 
+Capital, which aims to decrease the racial wealth 
+gap by helping Black-founded businesses 
+overcome the funding and network challenges  
+that often stifle their growth.
+To ensure that our work to protect the planet 
+also enhances equity, we launched an Impact 
+Accelerator for Black- and Brown-owned 
+businesses. Read more about Apple’s Impact 
+Accelerator  (p9).
+Education 
+We believe access to education is a human 
+right, and that everyone has their own way 
+of learning and expressing themselves. We 
+work hard to ensure our resources are used to 
+uplift communities around the world, creating 
+opportunities for educators and students to 
+gain coding skills and unlock creativity. 
+Community Education Initiative 
+Inspired by the impact of our ConnectED initiative  
+and programs like Everyone Can Create and 
+Everyone Can Code, we launched CEI in 2019 with 
+a focus on expanding learning opportunities in 
+communities that are traditionally underrepresented 
+and under-resourced in technology. Through 
+educational partnerships across the U.S., we’ve 
+been able to reach tens of thousands of students 
+and educators who might not have had access to 
+our technology and education tools.CEI partners with K–12 and higher education 
+institutions, community-based organizations, and 
+nonprofits to bring coding, creativity, and workforce 
+development opportunities to educators and 
+learners of all ages. CEI aims to build knowledge 
+and skills for high-demand, high-growth technical 
+careers alongside communities of color to advance 
+educational equity. Our support includes hardware 
+grants, monetary grants to support scholarships 
+and programming, resources for educator 
+training, curriculum development, and employee 
+engagement opportunities. 
+After starting with 10 communities in 2019, we are 
+now working in dozens of locations around the 
+U.S.—including with 36 HBCUs—to create more 
+coding, creativity, and other learning opportunities. 
+Grounded in the positive relationships that we have 
+created, we are working to deepen our impact in 
+three areas:
+• Educator development:  We’re providing 
+educator development and training opportunities 
+to build the knowledge and skills educators 
+need to teach coding in underrepresented 
+communities through Teacher Coding 
+Academies and the CEI Learning Series, in 
+which hundreds of teachers from around the 
+U.S. can meet virtually to share best practices 
+on remote learning. Through our Academies 
+and CEI Learning Series, we are connecting CEI 
+educators with Apple Distinguished Educators 
+from all around the world. Apple Distinguished 
+Educators lead and participate in learning 
+workshops, along with our Apple Professional 
+Learning Specialists.
+• Partnerships:  We’re partnering with 
+nonprofits, NGOs, and community-based 
+organizations that provide out-of-school-time 
+learning experiences.
+• Supporting minority-serving institutions:   
+We’re especially focused on expanding our 
+engagement with minority-serving institutions, 
+including HBCUs, HSIs, and tribal colleges and 
+universities, as well as community colleges and 
+public schools in underserved communities. 
+Read more about how we 
+design our products to 
+support education  (p29).Introduction Our Business Appendix Our People Suppliers Customers Environment Apple’s 2021 ESG Report   46 CommunitiesApple Developer Academy
+As the app economy continues to grow, 
+we’re investing in educational programs and 
+opportunities that prepare learners of all ages 
+for the jobs of the future. The Apple Developer 
+Academy  partners with educational institutions to 
+create an immersive 10- to 12-month program that 
+enables up-and-coming developers to apply the 
+latest technologies, build their businesses, and 
+market their ideas globally.
+In 2013, we started the Apple Developer Academy 
+to empower entrepreneurs, creators, and coders 
+by helping them cultivate the skills necessary to 
+pursue new career opportunities. The program 
+focuses on communities with high youth 
+unemployment and is open to anyone, regardless 
+of academic background or experience. The 
+program also seeks to attract women to software 
+development, a field where they’re grossly 
+underrepresented. In seven years, participation 
+among women in the Apple Developer Academy 
+has grown from 6 to 36 percent. 
+Currently available in several countries, Apple 
+Developer Academy consists of:
+• The Foundation Program:  A 30-day 
+introductory program designed for learners 
+considering app economy careers and looking 
+to better understand what it means to be 
+a developer. This program plays a critical  
+role in sparking interest among the next 
+generation of developers and bringing diverse 
+representation to the growing app ecosystem, 
+particularly among women and individuals from 
+underrepresented communities.
+• The Academy:  An intensive 10- to 12-month 
+program that helps aspiring developers build 
+the skills needed to participate in opportunities 
+within the app economy and even start their 
+own businesses. In addition to partnering 
+with institutions, the Academy works closely 
+with employers to provide direct pathways to 
+career opportunities.
+Our 22 Foundation Programs and 17 Academies 
+include close collaborations with institutions that 
+provide content and experience opportunities.160+ 
+new companies have been 
+founded by Apple Developer 
+Academy graduates.1500+ 
+apps on the App Store were 
+created by Apple Developer 
+Academy graduates.
+51 
+nationalities are represented 
+among Apple Developer 
+Academy graduates.
+As of July 2021, Apple has deployed more than $1 billion toward affordable housing projects and homeowner 
+assistance programs in California this year, including this Charities Housing Development Corporation project in 
+San Jose, financed in partnership with Housing Trust Silicon Valley.. Entrepreneur Camp
+Research shows that female and Black business 
+founders and leaders face specific challenges 
+in the technology sector. That’s why we created 
+Apple Entrepreneur Camp, an immersive tech lab 
+for app-driven companies founded and led by 
+developers from underrepresented backgrounds. 
+The camp offers one-on-one guidance from Apple 
+experts and engineers, mentorship from Apple 
+leaders, and ongoing support through a growing 
+alumni community.
+Apple held its first-ever Entrepreneur Camp in 2019 
+with a class of women founders and developers. 
+As part of our ongoing commitment to dismantle 
+barriers to opportunity, in early 2021 we welcomed 
+leaders and their teams from 13 app companies as 
+the inaugural cohort of our Entrepreneur Camp for 
+Black Founders and  Developers . 
+Affordable Housing Initiative
+Through our Affordable Housing Initiative , 
+announced in 2019, we have made a 
+comprehensive $2.5 billion commitment to 
+address the housing availability and affordability 
+crisis in California. Together with government and 
+community-based organizations, the initiative has 
+sought to jump-start long-term developments, help 
+first-time buyers purchase homes, and support 
+new housing and related programs to alleviate 
+homelessness. To date, we have deployed more 
+than $1 billion supporting projects and communities 
+in more than 25 counties across California.Introduction Our Business Appendix Our People Suppliers Customers Environment Apple’s 2021 ESG Report   47 CommunitiesIn partnership with the California Housing Finance 
+Agency (CalHFA), Apple has provided mortgage 
+and down payment assistance to thousands of 
+first-time buyers with low and moderate incomes, 
+with additional benefits for teachers, veterans, 
+and firefighters. Apple has also partnered with 
+CalHFA to launch an affordable housing investment 
+program, the first of its kind in California, which 
+has increased the availability of funding to develop 
+and build very low- to moderate-income housing 
+at a lower cost. And we are supporting several new 
+affordable housing projects funded through our 
+partnership with the Housing Trust Silicon Valley. Many of the new units are reserved for veterans, 
+the homeless or formerly homeless, and residents 
+with developmental disabilities.
+Apple’s Affordable Housing Initiative also includes 
+a partnership with Destination: Home, which has 
+helped fund the construction of thousands of new 
+units of affordable and supportive housing for the 
+most vulnerable populations across Silicon Valley. 
+With our support, Destination: Home has also 
+been able to expand its Homelessness Prevention 
+System to keep thousands of families from losing 
+their homes each year.
+Community investments 
+We invest in communities through donations to 
+nonprofit organizations as well as through strategic 
+investments. Over the past three years, we’ve 
+committed over $3 billion toward donations and 
+values-focused investments such as our  
+Affordable Housing Initiative, REJI, clean energy 
+investments, and the Apple Restore Fund. Strategic 
+investments are often multiyear commitments in 
+which Apple plays a substantive role in the project 
+development. We see an important opportunity 
+to continue to invest our capital for good. While 
+donations and investments are accounted for 
+separately, we undertake both with one common 
+goal: to create meaningful change in communities 
+around the world.
+Our corporate donations seek to accelerate  
+social change by supporting organizations that  
+are addressing society’s toughest problems.  
+We empower employees to contribute to the 
+causes they care about by amplifying their efforts 
+through matching their donations. Our swift 
+response to the COVID-19 crisis, which included 
+over $120 million23 in donations, is a reflection of 
+our commitment to being a source of relief and 
+recovery in the face of global challenges.Corporate donations
+Since fiscal year 2015, Apple has donated over 
+$1 billion24 to create positive change in communities 
+across the globe.25 Whether it’s racial injustice, food 
+insecurity, a natural disaster, or a health emergency, 
+our community giving program is agile enough 
+to allow us to respond in a timely, efficient, and 
+effective way. We support nonprofit organizations in 
+a variety of ways, including financial resources and 
+Apple technology and expertise from our teams.
+Accelerating social change 
+We have designed our corporate donations to 
+address immediate needs and to build community 
+resilience. Recent work includes launching our REJI 
+commitment to further racial equity and justice, 
+donating to the COVID-19 response, including 
+financial support and helping to source PPE, and 
+addressing housing scarcity and homelessness in 
+California through our Affordable Housing Initiative.$2.5B 
+We’ve committed $2.5 billion  
+toward projects that address  
+housing affordability and  
+availability in California.
+$3B+
+In the past three years,  
+we’ve committed over 
+$3 billion in strategic, 
+values-based investments 
+and community donations.Introduction Our Business Appendix Our People Suppliers Customers Environment Apple’s 2021 ESG Report   48 CommunitiesIn 2006, Apple joined (RED)’s  mission to end the 
+HIV/AIDS epidemic in sub-Saharan Africa, and 
+over the last 14 years our partnership has delivered 
+almost $250 million in donations for the Global 
+Fund’s HIV/AIDS programs for prevention, testing, 
+and counseling. Since 2006, Apple-supported 
+grants have provided over 10.8 million people 
+with care and support services, helped distribute 
+more than 167 million HIV tests, and provided 
+13.8 million people with ongoing access to 
+life-saving antiretroviral treatment. COVID-19 has 
+created challenges in accessing care, diagnostics, 
+and supplies, often disrupting crucial HIV/
+AIDS programs. At the onset of the pandemic, 
+contributions to (RED) were redirected to the 
+Global Fund’s COVID-19 Response to help alleviate 
+the impact of the virus on the communities most 
+affected by HIV/AIDS and provide critical support 
+in health systems threatened by the outbreak.
+Strengthening communities 
+We believe we can have an impact on communities 
+by supporting grassroots organizations that work 
+directly with local stakeholders. We focus our 
+donations on programs that are building strong 
+communities and empowering creatives in the 
+places where we live and work. Over the past 
+several years, Apple has offered more than 70 
+small grants across 12 countries—broadening our 
+impact and bolstering essential community work 
+around the world. The grants provide support for 
+museums, music programs, art and technology 
+education, and storytelling organizations. In 
+partnership with Today at Apple and local 
+community groups, we launched Today at Apple 
+Creative Studios , a global program to develop the 
+creative skills of young people from underinvested 
+communities in 11 cities, with 23 nonprofit partners.
+Dounia Larkoub in a scene from TOC TOC, a film she created with other participants in the program.Today at Apple Creative Studios, Grand Paris
+Formerly titled Made In Grand Paris, this Apple program was a 
+partnership in February 2021 with 1000 visages, an organization 
+dedicated to bringing film industry opportunities to youth from 
+underrepresented communities in France. With the support of an 
+Apple grant, 1000 visages will extend its curriculum over the next 
+three years and secure a permanent space to launch a free cinema 
+school. They are equipped with iPhone, iPad, and Mac hardware 
+and accessories so they can provide ongoing support to their young 
+members by lending out these creative kits. Our Today at Apple 
+Creative Pro team across France will also deliver annual dedicated 
+sessions to support youth in their creative film projects.Amplifying Apple’s values
+We are always looking for ways to support efforts 
+that align with our Apple values. In 2018, Apple 
+became Malala Fund’s first Laureate partner, 
+supporting the organization’s work with local 
+advocates and teachers in eight countries where 
+girls face significant education challenges. The 
+Fund champions every girl’s right to 12 years of 
+safe, free, quality education. Apple also assists with 
+technology, curriculum, and research into policy 
+changes related to girls’ education. The partnership 
+has since expanded, and in Brazil Apple’s 10 
+Developer Academies now work with Malala Fund 
+to further advance girls’ education opportunities. 
+Since engaging in this powerful partnership, Apple 
+has committed to donating more than $15 million 
+to the Fund.Total corporate donations  
+(excluding strategic 
+investments)
+FY18:
+$125M+
+FY19: 
+$190M+
+FY20: 
+$250M+ Introduction Our Business Appendix Our People Suppliers Customers Environment Apple’s 2021 ESG Report   49 CommunitiesTo continue promoting diversity across the tech 
+sector, Apple has long-standing commitments 
+with Thurgood Marshall College Fund (TMCF) 
+and the National Center for Women & Information 
+Technology (NCWIT), among others. The Apple 
+Scholars program provides scholarships and 
+mentorship to students from underrepresented 
+backgrounds. In partnership with TMCF, this 
+year Apple welcomed its sixth cohort of Apple 
+HBCU Scholar interns, representing students 
+from nearly 20 HBCUs. Our partnership with 
+TMCF was announced in 2015 as a $40 million 
+multiyear commitment.
+Through donations, Apple works with a diverse 
+set of partners to enhance environmental 
+protections and support global communities. 
+For example, for the launch of the Apple TV+ 
+documentary The Elephant Queen , Apple 
+partnered with Conservation International and 
+Save the Elephants to support community-based 
+elephant conservation in Kenya—including 
+improved elephant tracking and the Reteti 
+Elephant Sanctuary. 
+Apple also celebrated the 104th birthday of the 
+national parks with a donation to the National Park 
+Foundation. With support from Apple, the National 
+Park Foundation’s youth programs have given 
+thousands of young people the chance to learn 
+about and experience the parks through school 
+activities, trips, and service corps programs. 
+These programs include efforts to expand access 
+to education, bring youth from underserved 
+communities into the parks, and recruit interns 
+from HBCUs.
+Employee giving
+Our Employee Giving program provides 
+opportunities for employees to contribute to the 
+causes they care deeply about with the support 
+of Apple. From volunteering to donations to 
+smaller individual actions, Apple is committed to 
+giving, hand in hand with our team members. Our 
+program promotes charitable giving to qualified 
+organizations by matching donations of time, 
+money, or Apple products. 400,000+ 
+Employee volunteer hours 
+in FY20.
+53,000+ 
+# of employee donors27 
+in FY20.
+Apple team members paint a mural at a school in Hong Kong as part of Apple’s Employee Giving program.
+Since the program’s inception in 2011, Apple 
+employees have helped raise nearly $600 million 
+in total donations across 34,000 organizations, 
+and volunteered more than 1.6 million hours.26 
+Giving time
+Apple matches $25 per hour volunteered 
+with a qualified organization. Some of the 
+ways employees give their time include lending 
+skills in person or online, mentoring youth, and 
+participating in outdoor cleanups or other local 
+events with nonprofit organizations.
+Giving a donation
+When our employees donate money, Apple 
+matches their donations. That way, every 
+contribution goes further, every act inspires 
+another, and every effort is amplified. Apple 
+matches donations year-round, but in times 
+of greater need, we have often increased the 
+match cap up to $20,000 per employee.Introduction Our Business Appendix Our People Suppliers Customers Environment Apple’s 2021 ESG Report   50 CommunitiesApple Developer Program 
+membership is available at 
+no cost for eligible nonprofit 
+organizations, accredited 
+educational institutions, and 
+government entities that will 
+distribute only free apps on 
+the App Store.29 Job creation
+Apple supports millions of jobs in countries around 
+the world, across North America, Europe, Asia, 
+Central and South America, Australia, and Africa. 
+In the U.S., Apple is one of the biggest job creators, 
+and we continue to expand our commitment to 
+fostering innovation and opportunity in the U.S. 
+economy. We support 2.7 million jobs across all 50 
+states28 through direct employment, spending with 
+U.S. suppliers and manufacturers, and the iOS app 
+economy. Earlier this year, Apple announced an 
+acceleration of its U.S. investments, with plans to 
+make new contributions of more than $430 billion 
+and add 20,000 new jobs across the country over 
+the next five years. This includes a new North 
+Carolina campus, which will create at least 3000 
+new jobs in machine learning, artificial intelligence, 
+software engineering, and other cutting-edge 
+fields. In Europe, where we’ve been operating 
+for more than 35 years, we support more than 
+1.8 million jobs, a 25 percent increase since 2016.
+Employees
+Apple has 160,000 employees worldwide that 
+span an increasingly wide range of roles, including 
+hardware and software engineering, science, 
+construction, manufacturing, retail, customer 
+support, marketing, and design. 
+Suppliers and manufacturers
+Apple has a supply chain that spans the globe, with 
+manufacturing and assembly taking place around 
+the world, including in the U.S., Europe, Asia, 
+Central and South America, and Australia. From 
+component manufacturers to logistics providers, Apple directly or indirectly supports hundreds 
+of thousands of jobs, working with suppliers 
+and businesses in all 50 states in the U.S. and 
+every European country. These suppliers provide 
+equipment, parts, and materials for all of our 
+core products.
+Jobs in the app economy
+Since the App Store launched in 2008, the 
+iOS app economy has become one of the 
+world’s fastest-growing sectors. Throughout 
+the challenges of the COVID-19 pandemic, 
+the App Store continued to provide economic 
+opportunities to entrepreneurs. The App Store 
+ecosystem supports millions of jobs across the 
+world, empowering entrepreneurs from Argentina 
+and Alaska to Zimbabwe and beyond. In the U.S., 
+it supports more than 2.1 million jobs, an increase 
+of 15 percent since last year, and in Europe, it 
+supports another 1.7 million jobs.
+In January 2021, we launched the App Store Small 
+Business Program, which benefits the vast majority 
+of developers who sell digital goods and services 
+on the App Store. The new program cuts the 
+App Store commission in half—to 15 percent—for 
+small businesses that earned up to $1 million in 
+proceeds during the previous year. The reduced 
+commission means small developers have more 
+resources to create new jobs, expand their 
+businesses, explore cutting-edge technologies, 
+and pioneer new app innovations that reach users 
+around the world.Introduction Our Business Appendix Our People Suppliers Customers Environment Apple’s 2021 ESG Report   51 CommunitiesOur  
+Business
+In this section
+Corporate governance  53 
+Our commitment to human rights 55
+Ethics and compliance 56
+Tax payments 58 
+Stakeholder engagement  58In July 2020, Apple opened 
+its second and largest retail 
+location in Thailand, nestled 
+in the heart of Ratchaprasong, 
+Bangkok’s iconic intersection.Apple’s 2021 ESG Report   52 Introduction Appendix Our People Suppliers Customers Communities Environment Our BusinessAt Apple, we’re committed to conducting business ethically, honestly, and in full 
+compliance with the law. We believe that how we conduct ourselves is as critical 
+to Apple’s success as making the best products in the world. Our Business 
+Conduct and Compliance policies are foundational to how we do business and 
+how we put our values into practice every single day.
+Corporate governance
+Our corporate governance structure is designed 
+to foster principled actions, informed and effective 
+decision-making, and appropriate monitoring 
+of compliance and performance, assuring that 
+the long-term interests of shareholders are 
+being served. 
+Board oversight 
+Members of our Board of Directors take a proactive, 
+focused approach to their positions to ensure that 
+Apple is committed to business success through 
+the maintenance of high standards of responsibility 
+and ethics. Annual board evaluations—including 
+self-evaluations and peer reviews—are led by 
+the independent Chairman and overseen by the 
+Nominating and Corporate Governance Committee 
+and drive accountability at the Board level.
+Apple’s Board has a standing Audit and Finance 
+Committee, Compensation Committee, and 
+Nominating and Corporate Governance Committee.30The Board and its committees review and discuss 
+with management progress relating to Apple’s 
+values. Further, the Board and its committees also 
+review and discuss Apple’s commitments and 
+progress on inclusion and diversity, employee 
+engagement, compensation and benefits, and 
+compliance. During 2020, the Board and its 
+committees engaged with management on the 
+impact of COVID-19 on Apple’s employees, supply 
+chain, and business. The Board reviewed strategies 
+and initiatives to respond to, and mitigate, adverse 
+impacts, including enhanced health and safety 
+measures for Apple employees as well as workers 
+in our supply chain.
+Apple also has internal systems and procedures for 
+managing environmental, social, and governance 
+(ESG) topics, including with external stakeholders 
+to learn about their priorities and get their feedback 
+and to coordinate relevant projects and initiatives. 
+Work on environmental and social initiatives is 
+embedded across different lines of business, with 
+broad collaboration to drive forward initiatives that 
+are important to Apple.For more information on 
+Apple’s business, read 
+Apple’s Form 1 0-K  and 
+our 2021 Proxy Statement .Introduction Appendix Our People Suppliers Customers Communities Environment Apple’s 2021 ESG Report   53 Our BusinessBoard diversity and refreshment
+Apple’s Board consists of a diverse group of highly 
+qualified leaders in their respective fields. Among 
+our eight Board members, three self-identify as 
+women, and four self-identify as individuals from 
+underrepresented communities.31 
+In 2021, Monica Lozano, President and CEO 
+of College Futures Foundation, joined Apple’s 
+Board of Directors. Ms. Lozano brings a broad 
+range of leadership experience in the public and 
+private sectors, as well as a long and storied track 
+record as a champion for equity, opportunity, 
+and representation.Executive compensation
+Our executive compensation program is built 
+on sound compensation policies and practices 
+and clear guiding principles that align executive 
+compensation with our shareholders’ interests.
+We manage Apple for the long term. Consistent 
+with this approach, beginning in 2021, an ESG 
+modifier based on Apple’s values and other key 
+community initiatives has been incorporated into 
+our annual cash incentive program. This change 
+is intended to further motivate Apple’s executive 
+team to meet exceptionally high standards of 
+values-driven leadership in addition to delivering 
+strong financial results. Selected areas of Board and committee oversight in 2020
+Audit and 
+Finance CommitteeCompensation  
+CommitteeNominating and Corporate 
+Governance CommitteeFull Board  
+of Directors
+Corporate and Product Strategy
+Enterprise Risk Management
+Legal and Regulatory Compliance
+Tax
+Privacy and Data Security
+Environment
+COVID-19 Response
+People
+Inclusion and Diversity
+Governance and Stakeholder Engagement
+Board and Executive Succession
+50%
+of leadership positions 
+on our Board are held 
+by women.
+50%
+of our directors are 
+from underrepresented 
+communities.Introduction Appendix Our People Suppliers Customers Communities Environment Apple’s 2021 ESG Report   54 Our BusinessOur commitment to human rights
+Our commitment begins with treating everyone 
+with dignity and respect. But it doesn’t end there. 
+We believe in the power of technology to empower 
+and connect people around the world—and that 
+business can and should be a force for good.
+Apple’s Human Rights Policy
+Our Human Rights Policy  governs how we treat 
+everyone, including our customers, employees, 
+business partners, and people at every level of our 
+supply chain. 
+We are deeply committed to respecting 
+internationally recognized human rights in our 
+business operations, as set out in the United 
+Nations (UN) International Bill of Human Rights 
+and the International Labour Organization’s (ILO) 
+Declaration on Fundamental Principles and Rights 
+at Work. Our approach is based on the UN Guiding 
+Principles on Business and Human Rights (UNGPs). 
+We conduct human rights due diligence to identify 
+risks and work to mitigate them. We also seek to 
+remedy adverse impacts, track and measure our 
+progress, and report our findings.
+Our Board of Directors adopted the policy and 
+is responsible for overseeing and periodically 
+reviewing it. Apple’s Senior Vice President 
+and General Counsel is responsible for its 
+implementation, and reports to the Board and its 
+committees on our progress and significant issues.
+Embedding respect for human rights 
+We’ve worked hard to embed respect for human 
+rights across our company—in the technology we 
+make, the way we make it, and how we treat people. 
+A number of teams are responsible for carrying out 
+human rights due diligence, including the Privacy, 
+Corporate, and Compliance teams within Apple’s 
+Legal and Global Security organization—and 
+Apple’s Environment and Supply Chain Innovation 
+(ESCI) team within Worldwide Operations. Identifying and managing 
+salient human rights risks 
+Identifying human rights risks is the first step to 
+addressing those risks through improvements to 
+our policies and management systems. We work 
+to align our efforts with the business and human 
+rights due diligence process set forth in the UNGPs 
+to identify, mitigate, prevent, and remedy human 
+rights risks.
+We identify salient human rights risks through 
+internal risk assessments and external industry-level 
+third-party audits, as well as through the channels we 
+maintain with rights holders and other stakeholders, 
+including investors, human rights and labor experts, 
+governments, and international bodies such as 
+the UN. 
+In addition to our own internal monitoring, we 
+consider reports identifying potential risks 
+from external sources, including international 
+organizations, policymakers, shareholders, civil 
+society organizations, news outlets, customers, 
+individuals in the supply chain or supply chain 
+communities, whistleblower mechanisms, and 
+third-party hotlines. They also come through the 
+reporting mechanisms we make available directly 
+toall supplier employees, Apple employees, and 
+the general public. These reports can come to 
+us in any language and can be anonymous. 
+Based on this due diligence, examples of human 
+rights issues of particular focus at Apple include:
+• Privacy, freedom of expression, and access to 
+information risks
+• Discrimination risks in workforce management 
+and in product and services development
+• Labor and human rights risks in the 
+manufacturing supply chain, including freedom 
+of association and collective bargaining, risks of 
+involuntary labor, and discriminationIntroduction Appendix Our People Suppliers Customers Communities Environment Apple’s 2021 ESG Report   55 Our BusinessWe work to avoid, prevent, mitigate—and where 
+appropriate, remediate—human rights issues and 
+impacts across Apple’s business, including through 
+our commitments to:
+• Respecting the rights to privacy, freedom of 
+expression, and access to information
+• Promoting diversity, equity, and inclusion, 
+including in our workforce, leadership, product 
+and services development, and in our industry
+• Respecting labor and human rights in our 
+manufacturing supply chain, including freedom 
+of association, collective bargaining, and 
+the rights to be free from modern slavery 
+and discrimination 
+• Respecting human rights through our efforts 
+to protect the planet in how we design, 
+build, and recycle our products, and through 
+responsible sourcing and use of materials 
+and natural resourcesTracking progress
+We’re committed to continually assessing our 
+progress and incorporating what we learn into 
+our work. We track and measure our performance 
+across a range of areas, and apply the lessons we 
+learn to continually improve. We publicly report 
+detailed information on our approach and our 
+performance in several areas, including: 
+• Privacy Transparency Report  and Privacy 
+Governance web page
+• Inclusion and Diversity web page
+• People and Environment in Our Supply Chain: 
+Annual Progress Report
+• Efforts to Combat Human Trafficking  
+and Slavery
+• Conflict Minerals Report
+Ethics and compliance
+Apple is committed to conducting business 
+ethically, honestly, and in full compliance with 
+applicable laws and regulations. 
+Business conduct and compliance 
+Apple’s Business Conduct Policy  provides a guide 
+to our ethical requirements for our employees. 
+The Policy includes our commitment to respect 
+human rights and the principles that guide 
+our business practices—honesty, respect, 
+confidentiality, and compliance. Apple expects 
+its suppliers, contractors, consultants, and other 
+business partners to follow these principles when 
+providing goods and services to Apple or acting 
+on our behalf. 
+Apple’s Business Conduct and Global Compliance 
+team focuses on business conduct, political 
+compliance, export and sanctions compliance, 
+health compliance, antitrust compliance, 
+and anti-corruption compliance. Additional 
+compliance functions are integrated into 
+our business organizations.Business Conduct and Global Compliance 
+conducts internal and third-party independent 
+assessments of its programs, as needed, to 
+ensure they are effective. We make changes to 
+our policies and our training to reflect emerging 
+trends. Apple’s Chief Compliance Officer provides 
+regular updates to the Board’s Audit and Finance 
+Committee on the work done by the Business 
+Conduct and Global Compliance programs and 
+other compliance functions.
+Training
+Our employees take our values seriously, and 
+our training helps guide them in making good 
+decisions. Topics include workplace behaviors, 
+conflicts of interest, gifts, confidentiality, 
+competition, privacy, and Apple’s Human 
+Rights Policy. We offer additional resources for 
+employees to address questions and concerns, 
+including the Business Conduct Helpline and 
+the Business Conduct website.98%+
+Employees completing 
+business conduct training 
+in calendar year 2020.Introduction Appendix Our People Suppliers Customers Communities Environment Apple’s 2021 ESG Report   56 Our BusinessAll employees also get mandatory annual or 
+biannual training on Privacy, Respect at Apple, and 
+Inclusion and Diversity. Employees receive between 
+two and five hours of training annually, depending 
+on location and the risks and responsibilities of 
+their role. Additional required and recurring training 
+includes Anti-Corruption, Antitrust, Export and 
+Sanctions, and manager-specific training. Our 
+Board also regularly receives training and updates 
+on ethics and compliance at Apple. 
+Managers get supplementary resources and 
+training on topics such as disability awareness 
+and accommodations, discriminatory behavior, 
+and their responsibilities to receive and report 
+all allegations of misconduct. Apple also trains 
+eligible contractors on our expectations for ethical 
+behavior; topics include workplace behaviors, 
+secrecy, privacy, and important laws. 
+Compliance policies
+Apple’s ethical business practices are set out in 
+our Business Conduct Policy and additional key 
+compliance policies.
+Anti-corruption
+Apple does not tolerate any form of corruption 
+by Apple employees or by third parties when 
+providing goods or services to Apple or acting on 
+our behalf. Apple’s Ant i-Corruption Policy  details 
+our commitment to complying with anti-corruption 
+laws. If employees are unsure of the proper course 
+of action, or whether something constitutes 
+corruption, we encourage them to contact our 
+Business Conduct team.
+Export and sanctions
+Apple is committed to compliance with applicable 
+export and sanctions laws. All employees are 
+responsible for complying with these laws and 
+reporting possible violations.
+Antitrust and competition
+Apple is committed to conducting business in 
+full compliance with competition laws around 
+the world. Misconduct and violations of Apple’s 
+Antitrust and Competition Law Policy  and the law 
+must immediately be reported to our Antitrust Compliance Officer or to the Business Conduct 
+Helpline. Apple’s Antitrust Compliance Officer 
+regularly reports to the Board on matters including 
+the Antitrust Compliance Program’s alignment with 
+potential risks and its effectiveness in addressing 
+issues and promoting legal compliance.
+Public policy advocacy 
+Apple engages in policy discussions where they 
+matter to our business and customers. Our Public 
+Policy Advocacy website  defines our position on 
+corporate political contributions and describes how 
+Apple participates in public debate in the United 
+States through direct and indirect advocacy.
+Apple does not make political contributions to 
+individual candidates or parties, and we do not 
+have a political action committee. Any political 
+contributions made by Apple are made in the 
+interests of the company and without regard for the 
+private political preferences of individual executives 
+or employees. Political contributions are promptly 
+reported publicly on Apple’s website.
+Reporting concerns
+Our employees are required to speak up about any 
+violation of Apple’s Business Conduct Policy, other 
+Apple policies, or legal or regulatory requirements, 
+and we make it easy for employees and third parties 
+to report concerns.
+Our employees can contact Apple’s Business 
+Conduct team by phone, email, or web form. 
+Apple’s external helpline  is available to employees 
+and external parties to report concerns, and also 
+provides the option of anonymous reporting, where 
+permissible. The external helpline is available 24/7, 
+and provides a multilingual reporting service with 
+local, toll-free numbers. 
+Business Conduct partners with appropriate teams 
+at Apple to investigate concerns and determine 
+appropriate resolutions, including corrective 
+action up to and including termination where 
+necessary. Apple will not retaliate—and will not 
+tolerate retaliation—against any individual for 
+reporting a good-faith concern or complaint, or for 
+participating in the investigation of any complaint.For more information 
+about Apple’s business 
+compliance programs, 
+read Apple’s Ethics and 
+Compliance  website.296,000+
+Hours spent on 
+Apple-recommended and 
+required trainings in 2020.555,000
+Apple training courses 
+completed in 2020.Introduction Appendix Our People Suppliers Customers Communities Environment Apple’s 2021 ESG Report   57 Our BusinessStakeholder engagement
+Apple engages with stakeholders as part of our 
+commitment to advance meaningful change and find novel solutions to pressing challenges. Every day, at all levels of the business, we interact with a variety of stakeholders to listen and learn from others’ perspective and experiences, share our progress, and promote best practices. 
+Throughout the year, we proactively engage 
+with shareholders and other stakeholders. These engagements help us understand their perspectives on significant issues, from company performance, strategy, and corporate governance to executive compensation and other ESG topics. We take feedback and insights from our engagement with all stakeholders into consideration as we review and enhance our operations and disclosures, sharing them with our Board as appropriate.The following are examples of stakeholder groups that we actively engage with throughout the year, as described in this report and in the sources that we have referenced throughout: 
+•
+ C
+olleges and universities
+•
+ C
+ommunities
+•
+ Cust
+omers
+•
+ E
+mployees
+•
+ G
+overnments
+•
+ H
+uman rights and environmental defenders
+•
+ In
+vestor advisory groups
+•
+ L
+abor organizations
+•
+ N
+GOs
+•
+ R
+ights holders
+•
+ Sh
+areholders and investors
+•
+ S
+tandards bodies
+•
+ S
+uppliers
+•
+ U
+nited Nations and other 
+international organizationsTax payments
+Taxes play a necessary and important role in our 
+society and Apple believes every corporation has a responsibility to pay all the taxes they owe. As the largest taxpayer in the world, we comply with the law wherever we operate and pay taxes on everything we earn around the world. Over the past decade, Apple has paid more than $100 billion in corporate income taxes—and our annual effective tax rate was 23 percent on average.
+32 The Audit and Finance Committee of the Board of Directors regularly reviews and discusses Apple’s tax payments with management. The committee reviews reports on tax matters from Apple’s Chief Financial Officer, General Counsel, the heads of global Tax, Business Assurance, and Internal Audit, and from Apple’s independent auditor. These reports include, among other matters, updates on significant domestic and international tax-related developments, worldwide tax audits, international tax structure, international tax policy, and other tax-related legislative matters.Introduction Appendix Our People Suppliers Customers Communities Environment Apple’s 2021 ESG Report   58 Our BusinessAppendix
+In this section
+Awards and recognition  60
+United Nations Sustainable Development Goals 61
+About the report 63
+Notes  64Apple’s 2021 ESG Report   59 Introduction Our Business Our People Suppliers Customers Communities Environment AppendixAwards and recognition
+UN Climate Action  
+Award (2019)Global Climat eActio n
+Women’s Enterprise  
+USA Magazine — 
+Best of the Decade in   
+Supplier Diversity (2019)Financial Times  Innovative 
+Lawyers Award for 
+Inclusion, Diversity and 
+Social Justice (2020)
+Safer Choice Partner  
+of the Year award  
+from the EPA (2020)“A” rating on  
+CDP Climate  
+Change
+OMNIKAL Top 50  
+Corporation for Inclusion  
+in Procurement (received  
+for past 5 years)
+Thomson Reuters  
+Stop Slavery Award  
+(2018)
+RE100 Leadership  
+Award for Best Green 
+Catalyst (2020)Apple has made the top 10 of the 
+Top HBCU Supporters List. Ratings 
+are a result of voting by HBCU 
+Engineering Deans (2021)
+A+ Mind the Store  
+(2020): Recognized for  
+the 3rd year in a row
+Human Rights Campaign 
+Corporate Equality Index,  
+19th year in a row that we  
+received a perfect scoreJUST  Capital ranking  
+(1st in Industry)Apple awarded the first Corporate 
+Information Transparency Index 
+Master’s Level designation by 
+China’s Institute of Public and 
+Environmental Affairs (IPE)
+Alliance for Water Stewardship: 
+World’s First AWS Certified 
+Data Center
+Introduction Our Business Our People Suppliers Customers Communities Environment Apple’s 2021 ESG Report   60 AppendixUnited Nations Sustainable Development Goals
+We believe businesses have an important role to play in creating peace and prosperity for people and 
+the planet, now and into the future. Initiatives across Apple help advance a number of the Sustainable 
+Development Goals set out by the 193 Member States of the United Nations. 
+UN Sustainable Development Goal Apple’s supporting initiatives
+Goal 1
+End poverty in all its forms everywhere• Affordable Housing Initiative
+• Community Education Initiative 
+• Supplier Standards  relating to minimum wages and benefits
+• Commitment to competitive minimum wage
+• Support for Malala Fund
+• Donations help to alleviate poverty
+Goal 2
+End hunger, achieve food security 
+and improved nutrition and promote 
+sustainable agriculture• Donations to food banks, soup kitchens, and meals on wheels
+Goal 3
+Ensure healthy lives and promote 
+well-being for all at all ages• Support for product (RED)
+• Our work to promote health
+• Smarter chemistry  in our products
+• Environmental, health, and safety practices at Apple  and at supplier facilities
+Goal 4
+Ensure inclusive and equitable quality 
+education and promote lifelong learning 
+opportunities for all• Our work to support education
+• Racial Equity and Justice Initiative
+• Community Education Initiative
+• Apple Developer Academy
+• Supplier programs to promote education and professional development
+• Support for Malala Fund
+Goal 5
+Achieve gender equality and empower 
+all women and girls• Gender pay equity  and diversity policies and programs
+• Anti-human trafficking policy and programs
+• Supplier diversity programs
+• Support for Malala Fund
+Goal 6
+Ensure availability and sustainable 
+management of water and sanitation for all• Apple’s water stewardship programs  at our facilities and in our supply chain
+• Apple’s Restore Fund  and support for ecosystem restoration and protection projects
+• Responsible packaging initiatives
+Goal 7
+Ensure access to affordable, reliable, 
+sustainable and modern energy for all• 100% renewable energy  for Apple facilities
+• Supplier Clean Energy Program
+• Supplier Energy Efficiency Program
+• Power for Impact program
+Goal 8
+Promote sustained, inclusive and 
+sustainable economic growth, full and 
+productive employment and decent 
+work for all• Job creation  and economic contributions of app store ecosystem
+• Supplier diversity programs
+• Racial Equity and Justice Initiative , including Apple’s Impact Accelerator
+• Our commitment to a highly competitive wage
+• Gender pay equity  and diversity policies and programs
+• Programs to respect labor and human rights in our manufacturing supply chain
+• Anti-human trafficking policy and programs
+• Apple’s goal to create carbon neutral products  made of only recycled or renewable materialsIntroduction Our Business Our People Suppliers Customers Communities Environment Apple’s 2021 ESG Report   61 AppendixUN Sustainable Development Goal Apple’s supporting initiatives
+Goal 9
+Build resilient infrastructure, promote 
+inclusive and sustainable industrialization 
+and foster innovation• Job creation
+• Commitment to combat the housing crisis in California
+• Supplier Clean Energy Program
+• Apple’s procurement and generation of 100% renewable energy for its facilities
+• Apple’s R&D investments in and creation of new technology
+• Apple’s goal to create carbon neutral products  made of only recycled or renewable materials
+Goal 10
+Reduce inequality within and 
+among countries• Inclusion and diversity at Apple
+• Racial Equity and Justice Initiative
+• Our commitment to a highly competitive wage
+• Supplier diversity programs
+• Training supplier employees on their rights  and for professional development
+Goal 11
+Make cities and human settlements 
+inclusive, safe, resilient and sustainable• Commitment to combat the housing crisis in California
+Goal 12
+Ensure sustainable consumption and 
+production patterns• Transitioning all materials in Apple’s products and packaging to recycled and renewable sources
+• Advancing zero waste initiatives  at our facilities and in our supply chain
+• Incorporating smarter chemistry  in our products
+• Advancing smarter chemistry in manufacturing
+• Product trade-in and recycling programs
+Goal 13
+Take urgent action to combat climate 
+change and its impacts• Our ambitious goals and programs to mitigate climate change , including our commitment to carbon 
+neutrality for all of our products by 2030
+• Advocating for strong climate change policy
+Goal 14
+Conserve and sustainably use the 
+oceans, seas and marine resources for 
+sustainable development• Reducing our impact on ocean acidification through our climate change mitigation activities
+• Mangrove conservation
+Goal 15
+Protect, restore and promote sustainable 
+use of terrestrial ecosystems, sustainably 
+manage forests, combat desertification, 
+and halt and reverse land degradation and 
+halt biodiversity loss• Responsible packaging initiatives
+• Apple’s Restore Fund  and support for ecosystem restoration and protection projects
+Goal 16
+Promote peaceful and inclusive societies 
+for sustainable development, provide 
+access to justice for all and build effective, 
+accountable and inclusive institutions at 
+all levels• Racial Equity and Justice Initiative , criminal justice reform
+• Supplier Code of Conduct  (anti-corruption and non-discrimination practices)
+• Apple’s Business Conduct Policy and Practices
+• Supplier diversity programs
+• Inclusion and diversity at Apple
+Goal 17
+Strengthen the means of implementation 
+and revitalize the Global Partnership for 
+Sustainable Development• Developing solutions to global challenges is never an easy journey, and it isn’t one that can be 
+undertaken alone. We pursue partnerships with organizations around the world to further efforts to 
+make the world better. These partnerships are described throughout this report and on apple.com .Introduction Our Business Our People Suppliers Customers Communities Environment Apple’s 2021 ESG Report   62 AppendixAbout the report
+Reporting year:  This report focuses primarily on fiscal year 2020 activities, unless otherwise noted. All 
+references to a year throughout the report refer to Apple’s fiscal years, unless “calendar year” is specified. 
+Apple’s fiscal year is the 52- or 53-week period that ends on the last Saturday of September.
+Alignment to reporting frameworks: The report leverages reporting frameworks and standards such as 
+the Global Reporting Initiative (GRI), Sustainable Accounting Standards Board (SASB), and the Task Force 
+on Climate-related Financial Disclosures (TCFD). Apple’s ESG Index maps the disclosures in this report and 
+other Apple publications against the metrics in these reporting frameworks, as relevant to our business.
+Data assurance:  We obtain third-party verification for our Scope 1, 2, and 3 greenhouse gas emissions, 
+as well as our energy use, paper use, and waste and water impacts for our data centers, offices, and retail 
+stores worldwide. Apex Companies (Apex) provides “reasonable assurance”—one of the highest levels of 
+verification in the industry—for this environmental impact data. See the assurance statement for general 
+environmental impact data . Scope 3 renewable energy production and avoided carbon emissions related 
+to our Clean Energy Program are also verified to a level of “limited assurance” by Apex. See the assurance 
+statement for data specific to the supplier Clean Energy Program . Scope 3 greenhouse gas emissions 
+related to our products, calculated using life cycle assessment, are checked for quality and accuracy 
+by the Fraunhofer Institute in Germany in accordance with the internationally recognized ISO 14000 
+environmental management standards: ISO 14040 and 14044. See the Fraunhofer statement . Data in this 
+report reflects estimates using methodologies and assumptions believed to be reasonable and accurate. 
+Those estimates, methodologies and assumptions may change in the future as a result of new information 
+or subsequent developments.
+Forward-looking statements: The report does not cover all information about our business. References 
+in this report to information should not be construed as a characterization regarding the materiality of such 
+information to our financial results or for purposes of the U.S. securities laws. The information covered 
+by the report contains forward-looking statements within the meaning of the Private Securities Litigation 
+Reform Act of 1995, including statements regarding our ESG goals, commitments, and strategies and 
+related business and stakeholder impacts. These statements involve risks and uncertainties, and actual 
+results may differ materially from any future results expressed or implied by the forward-looking statements, 
+including any failure to meet stated ESG goals and commitments, and execute our strategies in the time 
+frame expected or at all, as a result of many factors, including changing government regulations, and our 
+expansion into new products, services, technologies, and geographic regions. More information on risks, 
+uncertainties, and other potential factors that could affect our business and performance is included in our 
+filings with the SEC, including in the “Risk Factors” and “Management’s Discussion and Analysis of Financial 
+Condition and Results of Operations” sections of the company’s most recently filed periodic reports on 
+Form 10-K and Form 10-Q and subsequent filings. We assume no obligation to update any forward-looking 
+statements or information, which speak as of their respective dates.
+Imagery:  All photographs in the report showing people without masks were taken prior to the COVID-19 
+pandemic or in accordance with Apple and other local COVID-19 protocols.View Apple’s Environmental, 
+Social, and Governance  
+Index here .Introduction Our Business Our People Suppliers Customers Communities Environment Apple’s 2021 ESG Report   63 AppendixNotes
+1 The Science Based T argets initiative (SBTi) 
+recently validated Apple’s emissions reduction 
+target: 61.7 percent by 2030 relative to our 2019 
+emissions. This SBTi-approved target is derived 
+from our current target—to reduce emissions by 
+75 percent by 2030—only with a 2019 base year, 
+instead of 2015.
+2 Based on sales-weighted averages of Mac, 
+iPad, iPhone, Apple Watch, Apple TV, HomePod, 
+AirPods, and Beats.
+3 Eligible products are those in a product category 
+for which ENERGY STAR certification exists. 
+For more information, visit www.energystar.gov . 
+ENERGY STAR and the ENERGY STAR mark 
+are registered trademarks owned by the U.S. 
+Environmental Protection Agency.
+4 Annualized metric tons of supply chain carbon 
+compared to fiscal year 2019 metrics. In previous 
+environmental progress reports, this metric was 
+reported based on calendar year data.
+5 The Impact Accelerator is a capacity-building 
+program for companies that are at least 51 percent 
+owned, operated, and controlled by an African 
+American, Hispanic American/Latinx, or Indigenous 
+American individual.
+6 Includes all devices collected by Apple for 
+refurbishing during fiscal year 2020.
+7 This total includes freshwater use as well as 
+alternative water sources, including recycled water, 
+rainwater, and recovered condensate. We define 
+freshwater as drinking-water quality, the majority of 
+which comes from municipal sources and less than 
+5 percent comes from onsite groundwater sources. 
+Recycled water represents a key alternative water 
+source. Our recycled water is sourced primarily 
+from municipal treatment plants, with less than 
+5 percent from onsite treatment. Recycled water 
+is primarily used for irrigation, make-up water in 
+cooling, or toilet flushing. Other alternative sources 
+of freshwater include rainwater and recovered 
+condensate that is captured onsite. Water used 
+for construction for activities like dust control is 
+not included in this total, and represents 8 million 
+gallons of water used in fiscal year 2020. Our 
+actual water discharge may vary by 10 percent 
+relative to our estimates. In these estimates, 
+we’ve taken into account consumptive activities, 
+including irrigation and cooling towers.8 These savings do not include reduction in water 
+use from facility closures and reduced occupancy 
+due to the COVID-19 pandemic. We consider those 
+savings temporary and also acknowledge that the 
+water use was transferred to employees’ homes.
+9 All established final assembly supplier sites—or 
+those that have been Apple suppliers for more 
+than one year—for iPhone, iPad, Mac, Apple 
+Watch, AirPods, HomePod, Apple TV, and Beats 
+are third-party certified as Zero Waste by UL 
+LLC (UL 2799 Standard). UL requires at least 
+90 percent diversion through methods other than 
+waste to energy to achieve Zero Waste to Landfill 
+(Silver 90–94 percent, Gold 95–99 percent, and 
+Platinum 100 percent) designations.
+10 Though we do not use the Federal Employer 
+Information Report EEO-1 to measure progress, 
+our most recent filing is publicly available on our 
+Inclusion & Diversity website. Our annual EEO-1 
+reports have been made available since 2015.
+11 Apple benefit programs vary by country, and are 
+subject to eligibility requirements, and may be 
+modified from time to time. Many programs extend 
+to full-time and part-time employees globally, but 
+there can be significant variations by country due 
+to local law.
+12 Free, confidential counseling for employees and 
+eligible dependents, subject to annual limits.
+13 Family and reproductive healthcare benefits 
+described in this report are specific to 
+U.S. employees.
+14 As of July 28, 2021. 
+15 As of July 28, 2021.
+16 Includes donations through the third quarter of 
+fiscal year 2021.
+17 As of August 2021.
+18 Based on surveys conducted by 451 research in 
+the U.S.
+19 Net Promoter®, NPS®, NPS Prism®, and the 
+NPS-related emoticons are registered trademarks 
+of Bain & Company, Inc., Satmetrix Systems, Inc., 
+and Fred Reichheld. Net Promoter ScoreSM and 
+Net Promoter SystemSM are service marks of Bain 
+& Company, Inc., Satmetrix Systems, Inc., and 
+Fred Reichheld.20 Apple’s Supplier Diversity program has received or 
+contributed to Apple’s receipt of dozens of awards 
+and recognition in the last 10 years, including “Best 
+of the Decade in Supplier Diversity” by Women’s 
+Enterprise USA Magazine (2019), and the “Top 50 
+Corporations for Inclusion” by OMNIKAL (2021).
+21 “Diverse Suppliers” are minority-owned (African 
+American/Black, Indigenous, Hispanic/Latinx, 
+Asian Pacific, and Asian Indian), women-owned, 
+veteran-owned, service-disabled veteran-owned, 
+LGBTQ+-owned, and disabled-owned.
+22 50,000 minority owned business in Detroit.
+23 Includes donations through the third quarter of 
+fiscal year 2021.
+24 Includes donations through the third quarter of 
+fiscal year 2021.
+25 Aggregate donations from fiscal year 2015 through 
+June 2021.
+26 Employee giving figures reflect data as of the end 
+of fiscal year 2020.
+27 Number of employees that received matching 
+contributions from Apple—monetary, product, and/ 
+or volunteer time.
+28 Job creation estimate based on research by 
+Dr. Michael Mandel, Progressive Policy Institute, 
+August 2020.
+29 Membership fee waivers for the Apple Developer 
+Program are limited to eligible regions listed 
+on https://developer.apple.com/support/
+membership-f ee-waiver/
+30 The Board has determined that all committee 
+members are independent under applicable 
+Nasdaq and Securities and Exchange Commission 
+(SEC) rules for committee memberships, and that 
+each member of the Audit Committee also meets 
+the additional independence criteria set forth in 
+Rule 10A-3(b)(1) under the Securities Exchange 
+Act of 1934, as amended.
+31 In the context of Apple’s Board of Directors, we 
+define underrepresented communities as an 
+individual who self-identifies as Black, African 
+American, Hispanic, Latino, Asian, Pacific Islander, 
+Native American, Native Hawaiian, or Alaska Native, 
+or who self-identifies as gay, lesbian, bisexual, 
+or transgender.
+32 Total tax payments and average annual effective 
+tax rate reflect data through fiscal year 2020.Introduction Our Business Our People Suppliers Customers Communities Environment Apple’s 2021 ESG Report   64 Appendix

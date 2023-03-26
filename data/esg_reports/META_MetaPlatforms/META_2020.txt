@@ -1,0 +1,1202 @@
+Sustainability 
+Report2020
+sustainability.fb.com/sustainabilityreport2020
+Sustainability  
+2 / 53 2020 Sustainability ReportAbout Facebook
+About This Report
+2020 Highlights
+Climate
+Energy
+Water
+Responsible Supply Chain
+Product Innovation
+Collaboration
+Data Centers
+Workplaces
+Appendix03
+04 
+06
+13
+17
+20
+27
+31
+34
+36
+40
+43Table of ContentsAbout Facebook3 / 53 2020 Sustainability ReportAt the end of 2020, our headcount was 58,604. Facebook team members are located at our offices in more than 80 
+cities across North America, Latin America, Europe, Middle East, Africa, and Asia Pacific. 
+Facebook technologies are powered by our data centers around the world. These data centers and all of our offices are 
+supported by 100 percent renewable energy.Founded in 2004, Facebook’s mission is to give people the power to build community and bring the world closer 
+together. People use our apps and technologies to connect with friends and family, to further embrace their 
+communities, and to help them expand their businesses.
+Our products empower more than 3 billion people around the world to share ideas, offer support, and make a 
+difference.
+Learn more about our products:About Facebook
+Oculus
+Facebook app
+Portal
+Instagram
+Workplace
+Messenger
+Novi
+WhatsApp
+Facebook headquarters
+1 Hacker Way
+Menlo Park, California 94025About This Report4 / 53 2020 Sustainability ReportClimate change is one of the biggest challenges we 
+face. Delivering essential technologies and reliable 
+climate information to billions of people is at the heart 
+of how Facebook can help address the crisis. And we 
+believe we can do it with a net zero carbon footprint.““At Facebook, we aim to give people the power to build community and bring the world closer together. Our sustainability 
+work helps us to operate and grow efficiently and responsibly, and empower people to build sustainable communities.
+This report reflects Facebook’s sustainability progress in fiscal year 2020 (January 1 - December 31, 2020). The world 
+shifted dramatically during this year as we all adapted to the unprecedented effects of the COVID-19 pandemic. And our 
+top priority has been to keep our Facebook communities safe and healthy, we still kept a close eye on our  
+sustainability initiatives.
+Sustainability is core to how Facebook operates, and we continue to build transparency into our strategy and reporting. 
+Through our sustainability report, we hold ourselves accountable to commitments made in areas of our operations, 
+as well as our value chain. This is part of a multi-year effort to provide transparency, visibility, and reliability in our 
+non-financial reporting, as we aim to strengthen trust with stakeholders including our clients, employees, partners, 
+shareholders, peers, and communities.
+This report will share our approach and progress, as well as our latest environmental data, which was reviewed and 
+verified by a third party. About This Report
+Mike Schroepfer, Chief Technology Officer
+About This Report5 / 53 2020 Sustainability ReportLast year was a year unlike any other in recent memory. The world came to a 
+grinding halt as a result of the COVID-19 pandemic, which drastically shifted 
+the way we work, live, and connect with others. 
+Rising social tensions and challenges have also shed light on how the impacts 
+of issues such as a global pandemic or climate change are experienced 
+differently across regions and groups of people, specifically BIPOC (Black, 
+Indigenous, and people of color) and economically-distressed communities. 
+Many of these communities already experience the worst impacts of climate 
+change—extreme temperatures, pollution, or weather patterns—due to the 
+lack of access to adequate resources. 
+While daily global carbon emissions fell for the first time last year due to the pandemic shutdown, the world remains at 
+a key inflection point. Science shows us we have less than 10 years to curb global warming. As we resume our ‘normal’ 
+lives, it is imperative that the private and public sectors take the lessons learned from 2020 into 2021 and beyond, and 
+remain steadfast in our support for the Paris Agreement .
+Last year, the health and safety of our global employees remained a top priority and we quickly shifted our projects 
+online as employees began remote work, in adherence to local public health guidance. Nevertheless, our teams 
+continued to make great strides in strengthening Facebook’s commitment to addressing climate change through 
+operational excellence and innovation: Letter from Rachel Peterson
+Vice President of Infrastructure
+• In September, we announced our most ambitious goal yet: to achieve net zero greenhouse gas emissions across 
+our value chain by 2030. By the end of 2020, we had achieved 100 percent renewable energy and net zero 
+emissions across our global operations through a 94 percent reduction in emissions and supporting high-quality 
+carbon removal projects. 
+• While the majority of our employees worked remotely, we continued to take steps to minimize our operational 
+footprint by making sure the facilities and offices that needed to stay open were running efficiently. Last year 
+was also the first time we procured additional renewable energy to support the electricity use of our employees 
+while they worked from home.
+• We launched two key products on our platform aimed at inspiring climate action: the Climate Science Information 
+Center and the Climate Conversation Map. The Center increases access to authoritative information on climate 
+change from the world’s leading climate science sources and the Map allows Facebook partners—academic 
+researchers and environmental nonprofits—to better understand how climate conversations are happening on  
+our platforms. 
+• We deepened supplier engagement through targeted capability building to ensure the health and resilience of our 
+supply chain workers during the pandemic. 
+While this progress is important, our collective work is far from over. Businesses must continue to take strong, quick 
+action to combat climate change’s toll on our planet. As we continue to innovate and implement solutions to drive 
+climate action, we will work to ensure that our solutions take into account the people who are most affected by climate 
+change so that the world can see a safer, cleaner, and healthier tomorrow.
+Rachel Peterson2020 Highlights6 / 53 2020 Sustainability Report2020 Highlights
+Net Zero
+In 2020, we achieved net zero emissions in our operations by 
+reducing emissions by 94 percent* and supporting carbon 
+removal projects.Climate
+reached net zero in operational GHG emissions
+*from a 2017 baseline
+5.8 million
+In 2020, Facebook locally restored nearly 5.8 million cubic 
+meters of water in high water-stress regions.Water
+cubic meters of water restored
+100%
+We achieved 100 percent renewable energy for our global 
+operations and now have over 2.8 gigawatts of wind and solar 
+projects online.Energy
+renewable energy supporting our operations
+2020 Highlights7 / 53 2020 Sustainability Report
+Product Innovation
+We expanded our portfolio of climate products and 
+launched the Climate Science Information Center , a 
+dedicated hub to provide authoritative information from 
+the world’s leading climate science sources. 
+Collaboration
+We expanded our presence during the virtualized Climate 
+Week and the UN General Assembly (UNGA) by hosting 
+an online panel, “Working Together to Accelerate Climate 
+Action ,” drawing over 1,000 viewers for the event. 
+Responsible Supply Chain
+During the global pandemic, we deepened our 
+collaboration with priority suppliers, working to address 
+labor, human rights, health and safety, and environmental 
+issues across our supply chain.
+Data Centers
+In Altoona, Iowa, we piloted a number of programs to 
+help reduce our environmental impact through our 
+construction equipment, including the use of the world’s 
+first electric drive dozer which consumes 25 percent less 
+diesel fuel compared to traditional bulldozers.
+Workplaces
+In 2020, we completed our first offices slated for WELL 
+and Fitwel® certifications, which focus on improving the 
+health of a building’s occupants. We also launched our 
+inaugural Sustainability Summit, an internal one-day 
+virtual sustainability event that aligns with UNGA and 
+Climate Week and aims to celebrate the cross-functional 
+teams that make Facebook’s sustainability work a reality.
+Our Vision & Approach8 / 53 2020 Sustainability ReportClimate change impacts all of us. We recognize the urgency of climate change and are committed to help tackle this 
+global challenge. We believe sustainability is about more than operating responsibly; it is an opportunity to support the 
+communities we are a part of and have a positive impact on the world.
+Our vision is a just and equitable transition to a zero-carbon economy, where no one is left behind. At Facebook, we have 
+achieved net zero emissions in our global operations and plan to reach net zero emissions for our value chain in 2030. 
+Beyond doing our part to reduce our environmental footprint, our approach is to accelerate access to authoritative 
+information and encourage positive action on climate through our core products and services, while working with others 
+to scale solutions that help create a healthier planet for all.
+Our climate efforts build on more than 10 years of work and we are not done yet. Sustainability is one of our core 
+principles and it is embedded in everything we do.
+Sustainability is embedded in Facebook’s business and is included in our governance structure. The Audit and Risk 
+Oversight Committee  of our Board of Directors is updated on climate, supply chain, and overall program strategy, and 
+Facebook leadership and senior management are engaged in assessing and managing sustainability risks and opportunities. 
+Our Sustainability team also provides quarterly updates on sustainability programs to a cross-functional group of internal 
+stakeholders, comprised of business unit leaders, and works across Facebook to make operational changes focused on 
+achieving our sustainability goals. 
+Our dedicated Sustainability team works to implement our overarching strategy and ensure alignment across global teams 
+to advance progress on topics such as water stewardship, renewable energy procurement, sustainable data center design, 
+sustainable facility operations, and supply chain engagement. The team’s mission is to support Facebook’s ability to 
+operate and grow efficiently and responsibly, as well as empower people to build sustainable communities.
+More information about Facebook’s corporate governance structure can be found here.Our Vision & Approach
+Governance
+Internal Engagement on Sustainability
+Our employees share our vision of having a positive impact on the world, often using their passion and skills to help drive 
+our sustainability agenda forward. All employees have access to company-wide sustainability updates through internal 
+leadership posts and interactive events that spur ongoing dialogue on these topics.
+In 2020, we shifted our internal engagement strategy to a virtual-first approach, due to our global work -from-home policy 
+during the COVID-19 pandemic. Across our global workforce, we focused on increasing remote access to sustainability 
+content by recording our live events for later viewing, helping expand the audience and reach of sustainability messaging 
+across company channels. In tandem, we continued to scale our employee engagement model across our offices in 
+EMEA, APAC, and the Americas with a regional champions support model. This organizing function helps employees 
+stay involved and educated in company-wide sustainability efforts, while allowing the Sustainability team to support the 
+interests of our most active internal advocates. 
+In 2020, we engaged employees through events to activate and excite our internal community. The two largest events 
+were Earth Week in April, spanning five days, and our first annual Sustainability Summit in September, a one-day 
+internal conference. Our global “Green@” groups were also instrumental in keeping employees informed and engaged 
+on sustainability-related topics within their respective offices. These 13 employee-led Green@ teams play a key role 
+in implementing workplace initiatives, such as hosting panels to discuss influencers on our platforms who are fighting 
+climate change and pushing forward efforts to eliminate the use of single-use plastic water bottles on office campuses. 
+These efforts not only help to bring colleagues along Facebook’s sustainability journey, but also allow us to drive greater 
+operational efficiency and reduce our greenhouse gas (GHG) emissions. 
+1Facebook’s regions are as follows: Europe, Middle East, and Africa (EMEA); Asia-Pacific (APAC); North America and Latin America (Americas)Our Vision & Approach9 / 53 2020 Sustainability ReportWe believe it is important to hold a continuous and open dialogue with our stakeholders. 
+Internal and external stakeholder perspectives are important to our sustainability journey. We regularly have formal 
+and informal meetings and conversations with different stakeholders, including the people who use our programs and 
+technologies, colleagues, communities, suppliers, industry peers, nongovernmental organizations (NGOs), policymakers, 
+and investors. These conversations help inform our sustainability programs and advance our progress.
+We connect regularly with experts in academia, civil society and other sectors to get feedback on our policies. We have 
+engaged with over 30 experts around the world to solicit input on how we should address misleading climate information 
+in our ads and discuss the nuances and challenges in this space. Through these conversations, we have gained valuable 
+insight on the impact the distribution of climate misinformation and skepticism can have and will leverage it for future 
+policy development.Stakeholder Engagement
+We conduct regular materiality assessments to understand the most significant ESG topics across our business over 
+the short, medium, and long term. From this assessment, we identify what matters most to our stakeholders and 
+sustainability agenda..
+Our most recent (2019) materiality assessment identified the following ESG issues as priorities for Facebook: Environment, Social, & Governance (ESG) and Materiality
+Facebook’s Priority ESG TopicsThrough further engagement with employees via internal hackathons  — Facebook’s longstanding tradition for 
+sustaining innovation — we continued to develop new solutions and features to help advance climate action on  
+our platform.
+HighStakeholder Relevance/ESG ImpactOperational 
+WasteEnergy & 
+Emissions
+Community Relations & 
+EngagementHuman Rights & 
+Labor Issues
+Product Stewardship & 
+Circular EconomyAccess to Internet/
+ConnectivitySocietal Impact of 
+Product & ServicesData Privacy & 
+Consumer Trust
+Innovation & IP 
+ProtectionTransparent & Ethical 
+Business Practices
+Water 
+ManagementDiversity & Inclusion
+Climate 
+ResilienceHuman CapitalData Security
+Business ImpactHighLow
+LowOur Vision & Approach10 / 53 2020 Sustainability ReportWhile Facebook works to address all of the topics outlined in our material issues map, our Sustainability team focuses on 
+the key issues below to maximize our sustainability impact. Our next materiality assessment will be conducted in 2021.
+Operational Waste Minimizing or eliminating the waste produced 
+across construction and operations, including 
+within headquarters, offices, and data centers.Data Centers
+Workplace
+Human Rights   
+& LaborRespecting and protecting human and labor rights 
+throughout our operations and supply chain.Responsible Supply ChainWater Management
+Circular Economy 
+& Product 
+StewardshipMinimizing or optimizing the overall water 
+consumption and quality impacts across 
+operations, including within headquarters and  
+data centers.
+Managing the environmental and GHG impacts of 
+manufactured products (including data centers) 
+across their life cycles, including hazardous 
+materials and e-waste.Water
+Responsible Supply Chain
+Data CentersEnergy & GHG 
+EmissionsEnsuring efficient use of energy and transitioning 
+to renewable energy sources in order to reduce 
+GHG emissions across Facebook (data centers, 
+facilities, employee travel).Climate
+EnergyMaterial Topic
+Climate ResilienceOur Working Definition
+Adapting to and addressing challenges and 
+risks caused by climate change and any relevant 
+disruptions to supply, operations, and users. Location in the Report
+Climate
+Societal Impact of 
+Products & ServicesUsing Facebook’s platform, products, and services 
+to promote and enable a more equitable, safe, 
+and healthy society. Empowering action on key 
+sustainability issues and mitigating negative 
+impacts through core products and services.Product Innovation
+CollaborationOur Vision & Approach11 / 53 2020 Sustainability ReportThe United Nations Sustainable Development Goals (SDGs)  call upon business, government and civil society to address 
+social, environmental, and economic challenges, and drive progress for humanity to build a more sustainable world for all 
+by 2030.
+Facebook’s mission is to empower people to build community and bring the world closer together. We believe this 
+requires inclusive communities and a world where everyone has a voice and access to opportunities. We acknowledge 
+the importance of each of these 17 goals and actively work alongside the UN and its partners to support progress on 
+these targets globally by 2030.
+We manifest this commitment through Project 17 (P17), our partnerships-first approach to accelerating progress on 
+the SDGs. Inspired by SDG 17: Partnerships for the Goals, P17 recognizes Facebook’s role as an enabler for businesses, 
+nonprofits, entrepreneurs, researchers, and other communities to advance their impact on the SDGs. A cross-company 
+initiative, P17 responds to the urgency of the SDGs by equipping partners with resources to advance their impact, 
+supporting efforts to evaluate our progress towards specific SDGs, and coordinating with the private sector through 
+initiatives like 2030Vision group.
+Our sustainability and broader corporate initiatives can help support achievement of all 17 SDGs. Below are some 
+examples of how our efforts align to the individual goals. Moving forward, we will continue to map our progress against 
+the SDGs and work closely with UN agencies to increase our transparency.
+For more information about our contributions in support of the SDGs, visit facebookatunga.com.United Nations Sustainable Development Goals 
+In 2020, we achieved 100 percent renewable energy for our operations and by year-end had over 2.8 
+gigawatts of wind and solar projects online.Our #SheMeansBusiness program has trained 1 million women in 38 markets around the world since 2016 
+and provides space for entrepreneurial women to make valuable connections, share advice, and move their 
+businesses forward. We also support the availability and use of gender data across all SDGs.SDG Goal Examples
+Through partnerships with governments, nonprofits, and researchers, Facebook connected billions of 
+people to authoritative COVID-19 pandemic information via our platform.
+As a global technology company supporting more than 200 million small businesses and 10 million 
+advertisers around the world, we have the scale and reach to produce a network effect of economic growth, 
+helping businesses thrive by enabling them to create jobs and give people breakthrough opportunities. 
+We take a preventive approach to biodiversity loss by limiting our environmental impact where possible, 
+while also partnering with local organizations and communities to restore habitats and ecosystems. 
+We work to ensure safe, healthy, and fair working conditions for workers within our global supply chain. 
+Through our Responsible Supply Chain program, we engage meaningfully with our supply chain partners, build 
+supplier capacity, and respond quickly to challenges as they arise.
+In 2020, we achieved net zero in operational GHG emissions through a 94 percent reduction in emissions, 
+compared to 2017 levels and with our support of carbon removal projects.Digital transformation and connectivity, links directly to the heart of Facebook’s mission. Facebook 
+implements many programs contributing to internet access for all—some focused on more basic access, like 
+our Discover program, while others work to improve quality or affordability like our 2Africa subsea cable.
+Our Vision & Approach12 / 53 2020 Sustainability ReportOur Approach to Policy
+Climate change is one of the most urgent challenges facing the world today. We use our voice and work with our global 
+partners, such as America Is All In, Renewable Energy Buyers Alliance, and the Corporate Leaders Group Europe, to 
+advocate for policies that will drive systems changes for a healthier planet (e.g., broad national commitments to reduce 
+emissions, clean energy requirements). 
+Together, we focus on policies that: 
+Actions in 2020 include:• Prioritize building resilient communities, as well as healthy supply chains and workforces.
+• Promote consistent, economy-wide decarbonization through federal policy.
+• Support emissions reduction, carbon capture and utilization storage through increased R&D funding.
+• Expand the markets, infrastructure, and technologies required to bring more clean and renewable energy to the 
+electric grid.
+• Joining the UN Race to Zero movement, the largest global campaign and alliance of businesses, cities, investors, and 
+higher education institutions committed to achieving net zero carbon emissions by 2050. 
+• Signing a joint letter with peer companies and investors to urge the EU to commit to at least a 55 percent reduction in 
+GHG emissions by 2030.  
+• Actively supporting the European Green Deal, the European Union’s roadmap toward climate neutrality by 2050. We 
+stand as a ready partner to the EU and European Governments in making the ambitions of the Green Deal a reality.  
+• Re-establishing our commitment as a founding member of the America Is All In (formerly We Are Still In) coalition, and 
+urging the new Biden administration to support ambitious climate policies to reach the U.S. Paris Agreement targets. Our Policy Actions
+In 2017, Facebook was among the first organizations to join the We Are Still In coalition and pledge support for the Paris 
+Agreement. Furthering our support of the United States upholding the Paris Agreement, we endorsed the Climate Action 
+Now Act (H.R. 9), in 2019. We also recognize the opportunity technology can play in achieving the UN’s 17 Sustainable 
+Development Goals and alongside peers Microsoft, Salesforce, Samsung, SoftBank, UNICEF , the University of Cambridge, and 
+others, we joined the 2030Vision group. Climate13 / 53 2020 Sustainability ReportClimate
+Facebook is committed to reaching net zero emissions across our value chain in 2030, aligning 
+our efforts with the latest science on what is needed to transition to a zero-carbon future.
+Science tells us that the next 10 years will be the defining decade to limit the worst impacts of climate change. As a 
+global company, we recognize the tech industry’s environmental impact, and we embrace the responsibility of not only 
+reducing our own footprint but also working with other industry leaders to drive climate action.  
+In 2020, we announced our most ambitious goal yet: Reach net zero greenhouse gas (GHG) emissions across our 
+value chain in 2030, aligning with the Science Based Targets initiative (SBTi) to set clear targets to help limit global 
+temperature rise to no more than 1.5 degrees Celsius above preindustrial levels.
+In 2020, we achieved net zero emissions in our operations by reducing our GHG emissions by 94 percent, compared to 
+2017 levels, and supporting high-quality carbon removal projects. Over the next decade, we will continue to decarbonize 
+our value chain and enable GHG reduction and carbon removal technology advancements. 
+Sourcing renewable energy for our operations has been a critical part of reducing our operational emissions, and we 
+will continue to reduce our emissions by enhancing the sustainability performance of our facilities while maintaining 
+100 percent renewable energy. For our full value chain emissions, we are looking at reductions through the life cycles of 
+our offices and data centers and by incorporating circular economy principles into our buildings, server hardware, and 
+consumer products. We are also partnering with suppliers to build capacity on data reporting and to support on-site 
+energy assessments that identify energy reduction opportunities and improve environmental performance. Achieving Net Zero Operational Emissions in 2020Climate14 / 53 2020 Sustainability ReportIn 2020, we worked to decrease emissions across our value chain, including:
+Covering 100 percent of the work -from-home electricity use of our employees with renewable energy. This 
+was the first year that we incorporated telecommuting emissions into our environmental inventory.1.
+Covering the emissions associated with our transmission and distribution loss, which are currently reported 
+in our indirect Scope 3 emissions, with renewable energy. 2.
+Testing new code improvements based on Erlang and reducing compute storage by 25 percent in our What’s 
+App team—all while yielding the same performance.3.
+While our climate strategy is largely focused on achieving significant emission reductions, we recognize that some of our 
+emissions will be hard to reduce by 2030. To reach our target of net zero emissions, we will remove an equivalent amount 
+of any GHG we emit through high-quality carbon removal projects. Examples of that in 2020 included supporting 
+forestry projects in East Africa and the Mississippi River Valley that removed 145,000 metric tons of carbon from the 
+atmosphere. These nature-based solutions will serve as a bridging mechanism toward long-term decarbonization. In 
+the future, we hope to invest in emerging carbon removal technologies (e.g., direct air capture) that will advance carbon 
+removal efforts everywhere.
+Moving forward, we will continue to partner with nonprofits, peers, and other experts to inform the composition of our 
+project portfolio and ensure that our due diligence process is rigorous. We will prioritize carbon removal projects that:We disclose our GHG emissions annually and are committed to increasing transparency around our impact. Our GHG 
+footprint includes the emissions associated with running our business and data centers, as well as the indirect emissions 
+created upstream from our operations and downstream in our products. These emissions correspond to Scope 1, Scope 
+2, and Scope 3 emissions as defined by the Greenhouse Gas Protocol . 
+We have been reporting Scopes 1 and 2 for ten years, some categories of Scope 3 since 2015, and full Scope 3 categories 
+since 2019. Our emissions are calculated annually and verified by a third party. We will continue reporting and updating 
+our emissions boundaries as our business grows.
+We invite you to learn more about our GHG Accounting Methodology here.
+• Are designed to be a durable, additional source of carbon sequestration.
+• Support local livelihoods and enable climate justice and equity.
+• Benefit the environment by supporting biodiversity, habitat, or water.
+• Are quantified using existing standards and verified by a third party.
+• Do not create adverse impacts elsewhere.Greenhouse Gas Accounting Methodology
+Reaching Net Zero in Our Value Chain in 2030ClimateClimate15 / 53 2020 Sustainability ReportAssessing Our Climate-Related Risks
+Facebook regularly conducts climate-related risks and opportunities assessments to better 
+understand future climate-related transitional and physical risks. Transitional risks can occur 
+as businesses recalibrate to a cleaner, green economy. To assess our transitional climate 
+risks, we consider potential changes to climate policies as well as technological, market, and 
+reputational risks. We believe we are better positioned for the transition to a greener future 
+through our efforts to support our operations with 100 percent renewable energy and our 
+goal to reach net zero emissions across our value chain in 2030.
+To address our physical climate-related risks, we execute assessments using models 
+and potential risk scenarios, including a business-as-usual pathway (RCP 8.5)2, to better 
+understand how acute and chronic physical risks may impact our global facilities, data 
+centers, and supply chain. In 2020, we assessed physical risks, such as wildfires, sea-level rise, 
+water stress, floods, hurricanes, and heat stress, completing climate risk assessments for over 450 priority Facebook 
+sites, an increase from 250 sites in 2019. Insights from these assessments help inform our operational strategy and 
+identify key opportunities to weave climate-related considerations into our long-term resiliency strategy.
+Additionally, we take steps to strengthen our climate resilience by incorporating the results of these assessments into 
+key business decisions. For example, we developed a climate resilience toolkit with checklists and key questions for each 
+type of physical risk to help develop resiliency plans. Teams also conduct tabletop exercises to practice responses to 
+disruptive extreme weather events.
+We bring this same approach to our global supply chain, where we work closely with suppliers to help them understand 
+and prepare for climate risks in and to their business. For high-risk suppliers, we conduct deeper assessments and 
+partner closely to ensure they have prepared sufficiently for climate risks.
+Reaching net zero emissions means that, for any emissions we cannot reduce, we are removing the same amount 
+of GHGs from the atmosphere as we emit. A simple example of a carbon removal project is planting new trees to 
+ sequester carbon.
+Some carbon offsets are considered “avoided emissions” offsets. An example of this type of offset is paying for someone 
+to not cut down an existing forest that would otherwise likely be cut. While we believe investment in these types of 
+offsets has a very important role in mitigating climate change and are critical from a biodiversity perspective, our net 
+zero goal aims to remove our emissions rather than offset their effects. We follow the Science Based Targets initiative 
+criteria for emissions reduction and removal in line with a pathway to limit temperature rise to no more than 1.5 degrees 
+Celsius above preindustrial levels.
+2The high-emissions Representative Concentration Pathway (RCP) 8.5 global warming scenario from the IPCCClimateClimate16 / 53 2020 Sustainability Report
+Each year, we increasingly experience the negative social, economic, and public health impacts of climate change. 
+Yet, these effects are not felt equally across different regions or populations. Black, Indigenous, and people of 
+color (BIPOC) and those in economically distressed communities are disproportionately affected by the extreme 
+weather patterns, natural disasters, and pollution brought on by rising temperatures. Climate action and solutions can 
+also often alienate these communities that are already experiencing racial and economic inequities, such as inadequate 
+housing or access to resources. Lack of stakeholder engagement or needs assessments can further exacerbate the 
+adverse socioeconomic and health impacts.
+We are committed to supporting climate solutions that take impacted communities and groups into consideration, 
+advancing projects and partnerships that incorporate equity and justice in their approach to addressing this urgent issue. 
+As we invest in nature-based carbon removal and infrastructure around the globe, we will also prioritize projects that 
+create environmental, social, and economic benefits for people most impacted by climate change. 
+For example, we supported a locally managed reforestation and sustainable development project in 2020 that will help 
+sustain existing income and improve crop yields for commodities such as fruit, nuts, and timber for smallholder farmers 
+in Kenya and Uganda. This also created a new source of income in the form of direct payments from sold carbon credits.
+Annual GHG IntensityClimate17 / 53 2020 Sustainability ReportRenewable Energy
+The Aviator Wind East project in Coke County, Texas became operational in 2020 and currently supports our operations in the region.
+Energy
+We are committed to accelerating the transition to renewable energy as well as supporting 
+renewable energy projects that are on the same electrical grids as our data centers.
+Supported by 100 Percent Renewable Energy
+In 2011, we announced our commitment to source 100 percent renewable energy for our facilities—and we achieved 
+that goal in 2020. Over the years, our procurement efforts have resulted in Facebook becoming one of the largest global 
+buyers of renewable energy. At the end of 2020, our global portfolio totaled over 5.9 GW of wind and solar projects under 
+contract, and we increased our operating portfolio of wind and solar to over 2.8 GW spanning 15 U.S. states, Europe, and 
+Asia. For 2021, we have announced additional contracts, including our first solar-plus-storage projects that include 180 
+MW of storage capacity across three states.
+Energy18 / 53 2020 Sustainability Report
+Extending Impact to Communities
+Beyond our operations, our commitment to support renewable energy projects on the same electricity grid as our data 
+center and facilities has had a profound economic impact on local communities. 
+To understand the impact of Facebook’s renewable energy projects on jobs and the economy, we released a study in 
+May 2021 that looked at the economic impact of 55 solar and wind projects that support our U.S. data centers. These 
+renewable energy projects total 5,763 MW—some of which are operating today and others that will come online over 
+the next three years—and represent an estimated $7.4 billion in investment. During construction, these renewable 
+energy projects have supported or will support over 42,000 jobs across the country and contribute more than $4.3 
+billion in U.S. GDP. A core part of our renewable energy strategy is supporting new projects and approaches that increase access to 
+renewable energy, as well as add renewable capacity to the grids that support our data centers. To do this, we partner 
+with utilities and developers to build new wind and solar projects to support our operations. 
+In 2019, we announced our first direct investment in a 300 MW solar power plant in Andrews County, Texas. After 14 
+months of construction, the plant became operational in July 2020 and has been delivering clean energy to the same 
+Texas grid that serves both our Fort Worth Data Center and Texas offices. Currently, it is also one of the largest solar 
+projects operating in Texas. 
+In 2020, we expanded the number of states in the U.S. where we have announced new renewable energy projects to 
+include Illinois, Tennessee, and Ohio, growing the grids on which Facebook is bringing new solar and wind energy. We 
+also work directly with local utilities around the U.S. to establish new green tariffs  that enable other companies and 
+customers, not just Facebook, to access renewable energy. To date, we have established six new tariffs in the U.S.
+Facebook takes this same approach across the globe as well. In October of 2020, we announced Singapore’s first 
+renewable virtual power purchase agreement to support our local operations—our offices and upcoming data center—
+with solar energy from panels to be installed on the rooftops of more than 1,200 public housing residential units and 
+49 government buildings. Once operational, the rooftops are expected to total more than 100 MW of solar capacity. 
+In Ireland, we also partnered with Brookfield Renewables to purchase energy produced by its 28.8 MW Lisheen III 
+wind farm based in Tipperary. This is our second renewable energy project in Ireland and the capacity will be enough to 
+support the electricity needs of our expanding data center buildings and new office campus in Dublin.Energy19 / 53 2020 Sustainability ReportSharing Market Expertise to Increase Access
+Collaboration is a core aspect of our strategy to source and increase access to renewable energy. As part of our efforts 
+to strengthen the global renewable energy market, we work closely with key stakeholders and industry groups—such as 
+Renewable Energy Buyers Alliance, RE-Source, the Centre on Regulation in Europe (CERRE), and the American Council 
+on Renewable Energy—to help other companies make their own renewable energy purchases and to accelerate the 
+transition to clean energy across the entire electricity system.Our portfolio of solar and wind projects spans 18 states and 46 counties, and many of these projects have benefited 
+under-resourced communities. Of the 55 U.S. solar and wind projects in our portfolio studied, 96 percent are located 
+outside of major metropolitan areas and 82 percent are located in counties with poverty rates above the national 
+average. The analysis showed that construction of these renewable energy projects have generated or will generate $2.6 
+billion of labor income for workers, and project operations will generate $70 million in annual employee compensation.
+61.6 MW Altavista Solar Project in VirginiaWater20 / 53 2020 Sustainability Report
+Water
+As part of our commitment to water stewardship, we actively work to reduce our water footprint 
+and are transparent about our water data. We strive to be good water stewards by restoring the 
+water we consume in water-stressed regions and by working with others to advance industry 
+understanding and practices. 
+Water is a finite resource, and every drop matters. 
+At our data centers, water is mainly used in two ways: evaporative cooling and humidification. Our evaporative cooling 
+system converts water into vapor to lower the temperature in our data centers, while our humidification process 
+maintains the humidity of our data centers to the current standard. As a result of our innovative design choices and 
+commitment to operational excellence, our data centers are over 80 percent more water efficient than the average data 
+center, and we are always striving to become more efficient. Managing Our Water Use 
+5.8 Million
+In 2020, Facebook locally restored nearly 5.8 million cubic 
+meters of water in water-stressed regions.Water
+cubic meters of water restored
+Water21 / 53 2020 Sustainability ReportCurrently, the servers in our data centers are designed to operate between 65°F and 85°F (18°C and 30°C) and in 
+relative humidity of 20 to 80 percent. In 2020, we completed an operational pilot project that explored the possibility 
+of operating at a lower relative humidity limit as a potential way to increase our water efficiency and conserve water. 
+The pilot program was successful as we reduced relative humidity to 13 percent and achieved an overall water savings 
+of more than 40 percent when operating at a lower relative humidity level. Since then, we have been building on the 
+program’s success to implement similar lower relative humidity setpoints at our other existing data centers, while also 
+making this the new standard for our future data centers. 
+Our pilot project that evaluates water savings of operating at a lower 
+relative humidity at our data center.  
+Our efforts to source more renewable energy have also reduced our water usage. Through Facebook’s renewable energy 
+procurement, we have found tremendous water savings compared with sourcing energy from the standard utility energy 
+mix, since renewable energy sources require less water to generate electricity than fossil fuels.
+In 2020, we sourced 7.1 billion kWh of renewable energy to support our operations, leading to a savings of 1.4 billion 
+cubic meters (over 380 billion gallons)—enough to fill 560,000 Olympic swimming pools. As part of our commitment 
+to transparency, Facebook is also one of the few companies to publicly report data on water embedded in  
+energy procurement. 
+2020 Water Data
+Unit: Cubic Meters 2017 2018 2020 2019
+Water Withdrawal
+Water Consumption 
+Water Restoration*3,833,390
+2,269,971
+5,794,0003,430,000
+1,971,000
+145,0002,367,000
+1,279,000 
+132,0001,609,000
+838,000
+N/A
+*Reported volumes represent total volume restored through water restoration projects for each year, not including contracted projects not yet implemented.In 2020, Facebook locally restored nearly 5.8 million cubic meters in high water-stressed regions.Water22 / 53 2020 Sustainability ReportIn addition to efforts to maximize efficiency in our operational water use, a key component of our water stewardship 
+strategy is supporting projects that restore local watersheds near our data center communities. 
+Part of that strategy involves partnering with local, trusted environmental nonprofits that share our vision to identify and 
+support water restoration projects that benefit neighboring communities, especially those in water-stressed regions. 
+Restoring local watersheds is not only essential for the global communities that they support; these projects also play a 
+critical role in preserving local habitats and advancing biodiversity. When identifying restoration projects to support, we 
+prioritize those that help maintain local wildlife habitats and species.
+Our overarching vision is to continue expanding our support for water restoration projects, while restoring 100 percent 
+of water consumed at our data centers located in high-risk areas. To date, we have contracted 10 water projects in four 
+high-risk regions, expecting to save approximately 6 million cubic meters (~1.6 billion gallons) each year. 
+In 2020, we restored more than 1.5 times our total water consumption to the watersheds where we operate. We also 
+added three new restoration projects in New Mexico, Utah, and California. Supporting Water Restoration
+2020 New Water Restoration Projects
+State Watershed ProjectContracted Volume m3/year  
+(gallons/year)
+New Mexico
+Utah
+CaliforniaRio Grande
+Provo River
+Sacramento 
+RiverMiddle Rio Grande Flow Restoration 
+Water rights lease to reduce withdrawal
+Provo River Olmstead Power Station 
+Water rights lease to reduce withdrawal
+Sacramento River Wildfire   
+Recovery Reforestation 
+Reforestation to reduce runoff123,000 m 3  (~33 million gal/yr)
+2,090,000 m 3 (~550 million gal/yr)
+140,000 m 3  (~37 million gal/yr)
+*Project started in 2020 and we are expecting benefits in 2021.Total Volume Contracted in 2020 ( m3) 2,353,000 m3 (~ 622 million gal/year)Water23 / 53 2020 Sustainability ReportNew Mexico
+Since 2018, we have worked closely with The Audubon Society in New Mexico to address shared 
+water challenges in the Rio Grande watershed through an innovative water leasing project. Through 
+this project, the Audubon Society leases water from the City of Bernalillo, City of Belen, and Village 
+of Los Lunas delivering it to key wetland and channel areas in the Isleta Reach of the Rio Grande that 
+lack adequate water to support riparian, in-channel, and environmental function. 
+In 2020, we extended our project support for another eight years, restoring approximately 123,400 
+cubic meters per year. This eight-year flow restoration project is the first long-term commitment to 
+lease water for environmental flows in the Rio Grande. To maximize the duration of flows to the Isleta 
+Reach, the water was combined with volumes acquired through other leases, and together the leases 
+helped keep 35 river miles flowing or wetted in 2020. This was crucial to sustain wetland vegetation 
+and fish and wildlife habitat during normally dry periods; a total of 75 bird species were identified at 
+three monitored locations in the project area in July 2020.
+California
+California experienced one of the worst wildfire years in the state’s history in 2018, when over 1.8 
+million acres of its forestland were engulfed in flames. To restore these areas, Arbor Day Foundation 
+and American Forest Foundation are planting two million trees on 8,000 acres, focusing on large 
+swathes of private lands that are often omitted from governmental revitalization efforts. 
+In 2020, we supported the planting of 70,000 trees on 280 acres. This restoration of burned lands 
+is expected to provide water benefits by reducing runoff and erosion, while restoring local habitat 
+and providing economic opportunity through sustainable timber harvesting to local landowners.
+For over 100 years, lower Provo River flows have been diverted out of the river at Olmstead 
+Diversion Dam for hydropower generation. As a result, in-river flows were reduced for an 
+approximately five-mile stretch of the river, with very significant low flow impacts occurring in 
+the most downstream 1.2-mile portion. During periods of high irrigation demand, river flows have 
+dropped below five cubic feet per second (cfs), resulting in warmer water and reduced oxygen levels, 
+which can be fatal to wild brown and rainbow trout populations in this popular fishery. 
+Facebook was the initial funder of this collaborative project to increase flows in the lower Provo 
+River, supporting the Central Utah Water Conservancy District to help ensure 1.6 million cubic 
+meters (416 million gallons) of water remains in the river during the hottest months of the year for 
+a 10-year period. Our initial funding has since been used to raise additional funds to help ensure 
+4.5 million cubic meters (over 1.2 billion gallons) of water remains in the river between April 15 and 
+October 15 of each year through 2029. These flows will be measured and dedicated to support 
+instream flow in the project reach.
+Moving Industry Standards Forward
+Industry collaboration is essential if we want to scale impact, which is why we actively engage in partnerships and 
+projects that advance best practices in corporate water stewardship—developing tools, driving collaboration and 
+understanding around key water risks, and setting goals to move the industry forward. As part of our collaborative 
+efforts, Facebook is a member of the World Resources Institute’s Aqueduct Alliance and the Bonneville Environmental 
+Foundation’s Change the Course Program to spur water restoration projects within our communities. Utah
+Provo River before and after flow restoration
+Photo Credit: Trout Unlimited
+24 / 53 2020 Sustainability Report
+Biodiversity
+ 
+Biodiversity
+Facebook takes a holistic approach to mitigating biodiversity-related 
+impacts in the communities where we build and operate facilities, 
+contributing where possible to support natural habitats and preserve 
+local species. 
+We also actively identify opportunities where Facebook is positioned to 
+protect and promote the planet’s irreplaceable biodiversity, leveraging our 
+platforms and partnerships to drive awareness and action. 
+Marion Brenner Photography, CMG Landscape Architecture, Gehry Partners, LLP25 / 53 2020 Sustainability Report
+BiodiversitySupporting Biodiversity at Our Facilities 
+Credits:  Marion Brenner Photography, CMG Landscape Architecture, Gehry Partners, LLP
+In 2020, we partnered with the mayor of Gallatin on the city’s Pollinator Habitat program and committed to providing 
+nearly 30 acres of improved pollinator habitat at our data center site in Tennessee over the next two years. At our data 
+center in Clonee, Meath Ireland, we implemented a beekeeping program to help cultivate bee hives and 
+planted a variety of native plants on-site to help provide resources for the region’s threatened bee 
+populations. There is currently enough room to accommodate over 500,000 bees at our Clonee  
+data center. 
+At our London offices, we partnered with the London Beekeepers Association to provide plantings on 
+our terraces that support pollinator habitat, helping to preserve the nearly 500 species of pollinator 
+insects native to the U.K. threatened with extinction due to biodiversity loss. In Dublin, we installed 
+beehives at multiple office locations to support local bee population security. We plan to expand these 
+efforts at additional office locations globally in 2021 and beyond.The loss of biodiversity—the rich assortment of living organisms that includes plants, bacteria, animals, insects; every living 
+species—has critical implications for humanity, from the collapse of food chains and health systems to the disruption of entire 
+supply chains. According to the World Economic Forum’s 2021 Global Risks Report, biodiversity loss is listed as the fifth-
+highest global risk in terms of likelihood and the fourth-highest risk in terms of impact. 
+Recognizing that our offices and data centers can impact biodiversity, we are continuously taking steps to both mitigate 
+that impact and seek opportunities to protect and promote biodiversity where we operate facilities. Through our Biodiversity 
+Program mitigation strategy, we take a preventive approach by limiting our impact on biodiversity where possible, while also 
+partnering with local organizations and communities to restore habitats and ecosystems. 
+At our Menlo Park headquarters, we installed a 12.5-acre green roof that provides a diverse landscape for local species, 
+offering habitats ranging from grasslands to oak savannas and meadows. The roof serves as a home to over 600 trees and, to 
+date, 5,300 birds representing 50 avian species have been found foraging and nesting on the roof by the Santa Clara Valley 
+Audubon Society during monthly surveys. As we continue to develop our Bayfront Campus in Menlo Park, California, we will 
+also focus on diversifying tree species, particularly in the oak ( Quercus ) family. 
+We also partner with a number of local nonprofits striving to promote biodiversity and improve habitats near our Menlo 
+Park headquarters, including: Canopy, who we partnered with to plant trees in the Belle Haven neighborhood of Menlo Park; 
+Citizens Committee to Complete the Refuge, which focuses on protecting wetlands in the Bay Area; and the San Francisco 
+Bay Bird Observatory, which focuses on bird conservation and has restored habitat for local endangered species, such as the 
+snowy plover and burrowing owl.
+Beekeeping at our Clonee Data Center to help 
+restore pollinator levels in the region.26 / 53 2020 Sustainability Report
+BiodiversityLeveraging Our Platforms to Protect Wildlife on Global and Local Levels 
+Preventing illegal wildlife exploitation is another key way to protect biodiversity. In the last few decades, poaching  
+and illegal wildlife trafficking activities have grown at an alarming rate, representing significant threats to   
+endangered species.  
+We have strong standards and policies in place to help prevent this type of illegal activity from happening on our 
+platforms. For example, our Community Standards prohibit the sale of live animals between private individuals (i.e., 
+non-brick -and-mortar stores) on our platform and the publishing of content that coordinates or supports the poaching 
+or selling of endangered species and their parts. Our Commerce Policy is even stricter, prohibiting the sale of any live 
+animals, pets, livestock, or animal parts.
+These policies align with the Convention on International Trade in Endangered Species (CITES) Appendix I , which 
+lists the most endangered animal and plant species and requires the highest level of protection against exploitation. In 
+addition to aligning with CITES Appendix I, we work closely with external partners to identify vulnerable animals that 
+are heavily trafficked and extend protection to them via our platform. Our content reviewers are trained on these topics, 
+including modules on ivory and specific species known to commonly surface. 
+Cross-sector collaboration and industry partnerships are crucial in scaling impact in this area. In 2018, in partnership 
+with the World Wildlife Fund (WWF) , the International Fund for Animal Welfare, TRAFFIC , and other leading businesses, 
+we launched the Coalition to End Wildlife Trafficking Online , aiming to reduce the illegal trade in ivory and other wildlife 
+products by 80 percent. 
+These partnerships have also led to the development of new features and capabilities on our platforms to drive 
+awareness around this issue. In 2017, we worked with WWF to create an educational alert feature on Instagram to further 
+prevent wildlife trafficking online and inform people about the harmful impact of wildlife exploitation. When a user 
+searches for a hashtag known to be associated with harmful behavior to animals, such as #tigerselfie or #elephantivory, 
+an advisory screen will appear to warn about these dangers and give the user an opportunity to learn more.
+We brought a similar feature to Facebook in 2020, again working with WWF . Facebook users will now receive an alert 
+whenever they search for terms that are linked to harming endangered animals such as “buy antique ivory” on the 
+platform. By redirecting users to credible sources, we hope to raise awareness around this issue and inspire more action 
+against wildlife exploitation. 
+Responsible Supply Chain 27 / 53 2020 Sustainability Report
+Responsible Supply Chain
+Facebook strives to have a positive impact on the communities and environments where we 
+operate, and we work to ensure safe, healthy, and fair working conditions for workers within our 
+global supply chain—all while minimizing our environmental footprint. 
+Through our Responsible Supply Chain program, we engage meaningfully with our supply chain 
+partners, build supplier capacity, and respond quickly to challenges as they arise.
+Strengthening supplier relationships was again a key focus for us this year. In 2020, we continued to provide a framework 
+of policies, standards, and implementation expectations to guide our supplier business relationships. Given how crucial 
+communication is when working with suppliers, we work collaboratively with them to increase their awareness and 
+understanding of our expectations and to ensure management systems are in place—and we expect suppliers to flow 
+down these standards throughout their extended supply chain.
+Our policies reflect our commitment to have a positive impact including: the Responsible Business Alliance Code 
+of Conduct, which sets out standards on labor, environment, health and safety, ethics, and management systems; 
+Facebook’s Anti-Slavery and Human Trafficking Statement ; and Facebook’s Conflict Minerals Policy. 
+Our suppliers are also expected to follow Facebook’s best practices in creating and ensuring a respectful workplace . Our 
+Materials of Concern Standard covers our product requirements around restrictions and use of hazardous substances 
+in our products, while our Electronics Reuse and Recycling Standard provides expectations for recyclers that manage 
+the end-of-life treatment of our hardware. Transparency and trust are essential to how we approach setting and 
+implementing our standards.Setting Standards for Our Suppliers28 / 53 2020 Sustainability ReportResponsible Supply Chain 
+In support of Facebook’s commitment to achieve net zero GHG emissions across our value chain in 2030, we are 
+embracing circularity and resource efficiency as key levers to reduce our emissions. Part of that effort is evaluating each 
+part of the product life cycle—materials, manufacturing, transportation, use phase, and end of life—and working to 
+embed circularity principles into how we design, build, and operate.  
+We actively seek to include recycled materials in our hardware and product designs, as well as embed circular design 
+principles into our product development process. We are building circularity into how we run and operate our server fleet, 
+exploring ways to extend the life of hardware and components used in our data centers. When hardware and devices 
+reach end of life, we partner with our downstream recyclers to ensure responsible treatment of electronic waste through 
+our e-waste assurance program, which stems from the expectations set in Facebook’s Electronics Reuse &  
+Recycling standard. Advancing Hardware Circularity In 2020, we conducted risk assessments to help us identify and prioritize the most critical issue areas and suppliers. 
+We proactively engaged with priority suppliers to verify conformance through dialogue, independent audits and 
+assessments, worker surveys, supplier questionnaires, and other forms of assurance. Any issues identified were actively 
+addressed through our corrective action, key performance indicator programs, and deeper supplier engagement. 
+An example of deeper engagement is our effort to work with suppliers on targeted capability building. Partnering 
+with third-party providers with experience in labor and health and safety issues, we helped suppliers identify areas for 
+improvement and develop a structured plan with KPIs. We also conducted training for entire teams—from workers, 
+senior management, supervisors, line leaders to the human resources team—on topics such as improving grievance 
+mechanisms and communications, to help them build the skills they need to achieve target outcomes. We continued to 
+monitor and track suppliers’ progress toward the goals outlined in the improvement plan through regular follow-up site 
+visits or calls as well.Responsible Supply Chain 29 / 53 2020 Sustainability ReportHow We Approach Circularity
+At Facebook, we strive to reduce waste by building and operating sustainable facilities. We see circularity as a key part 
+of this effort and an essential evolution from a linear system that is extractive, polluting and finite to a circular one that is 
+sustainable.
+To achieve this, we will all need to change the way that we design, make, use and dispose of the materials and items that 
+we use, striving to:
+To scale circular systems, we need to look beyond Facebook. Therefore, we will use our products, family of apps and 
+know-how to catalyze circularity in our industry and beyond.• Specify designs that minimize waste, enable complete disassembly and maximize material recovery.
+• Use materials with the highest possible level of recycled content.
+• Recycle synthetic materials at the highest level of quality within the technical loops.
+• Recirculate natural materials and ensure their eventual safe return to biological loops.
+• Eliminate toxins, pollutants and non-recyclable content from materials and products.
+• Prioritize the use of materials that restore natural environments.
+Facebook Community
+Global Community
+Our Industry 
+Advance circularity through 
+collaboration and open-source
+Our Hardware
+Make hardware re-use,  
+refurbishment and 
+recycling the norm
+Our Data Centers
+Build and run data 
+centers with optimal 
+resource efficiency
+Our Workplaces
+Shape and operate 
+healthy, waste-free 
+workplaces
+Our Products & Partnerships
+Empower people everywhere to live 
+in a more circular life
+Responsible Supply Chain Responsible Supply Chain 30 / 53 2020 Sustainability ReportDuring last year’s global pandemic and economic recession, the health and resilience of workers in our global supply 
+chain was top of mind more than ever. To that end, Facebook worked with our priority suppliers to address labor, human 
+rights, and health and safety focus areas that have the greatest impact in creating lasting change. 
+We also expanded supplier engagement through a program focused on collecting direct opinions and concerns from 
+workers via mobile-based and tablet surveys, using sentiment and insights from these surveys to help suppliers improve 
+management systems and working conditions. For example, we collaborated with a supplier to create and deliver an 
+employee board as a way to share encouraging messages to boost worker morale and focus on building community in 
+the workplace. 
+In 2020, we continued to strengthen our climate resiliency efforts throughout the supply chain, conducting physical 
+risk assessments of key manufacturing facilities, and partnering across Facebook to ensure strong supplier business 
+continuity practices. We also stepped up our supplier engagement program and continued to collect data from our 
+suppliers to understand the environmental challenges they face, continuously identifying ways to reduce their GHG 
+emissions impact. 
+We tailor our approach based on the maturity of our suppliers’ sustainability strategy as well as their needs and business 
+priorities. Our program engagement includes building capacity on data reporting; supporting virtual or on-site energy 
+assessments, and identifying energy and greenhouse gas reduction opportunities. Engaging Suppliers More Deeply 
+Collaboration is one of the best ways to drive more effective change. At Facebook, that means partnering and sharing 
+ideas with others and developing solutions that promote best practices for a responsible supply chain. We are members 
+of the Responsible Business Alliance, a multi-stakeholder initiative dedicated to advancing sustainability globally, the 
+Responsible Minerals Initiative, and the Responsible Labor Initiative. Advancing Industry Change
+Employees at one of Facebook’s supplier sites adding their thoughts to the factory’s 
+happiness board. Sustainability Report 2020Product Innovation31 / 53 2020 Sustainability Report
+Since 2019, we have accelerated our work to create and expand sustainability solutions that drive climate action through 
+our core products and services. We leverage capabilities and data across our platforms to create different solutions that 
+will not only increase our understanding of climate change but will also enable our users, partners, and industry leaders 
+to better drive climate action. Product Innovation
+We are thinking beyond Facebook’s operations and exploring how our products and platforms 
+can accelerate climate action and sustainability. Through strategic partnerships with 
+sustainability industry experts and NGOs, we identify emerging trends and new opportunities 
+for our products. 
+Increasing Climate Understanding through Innovation 
+Over the years, access to credible climate science information has continued to be a major challenge, inhibiting broader 
+awareness around the urgency of climate change. That is why in September 2020, we launched the Climate Science 
+Information Center (CSIC)  as a hub to provide authoritative information from the world’s leading climate science 
+sources. Following the launch, we continued to add new features to the tool, which is now available in 16 countries, 
+including a new section with facts debunking common climate myths and information labels on some posts directing 
+people to the Center. More than 3 million people globally follow the platform, with an average of 300,000 visitors   
+every day.
+To better understand public views on climate change, our Data for Good  team worked with the Yale Program on Climate 
+Change Communication to launch a Climate Change Opinion Survey in over 30 countries and territories on Facebook. 
+This first-of-its-kind survey gathers regional and global insight into public climate change knowledge, attitudes, policy 
+preferences, and behaviors. These findings will be used by external partners in research and advocacy efforts and provide 
+decision-makers an international view of climate change opinion.
+Many of our climate solutions are driven by science and data. In April 2020, we launched the Climate Conversation Map , 
+a tool that uses data science research and anonymized, aggregated data to show how climate conversations ebb and 
+flow throughout the world and over time. Sustainability Report 2020Product Innovation32 / 53 2020 Sustainability ReportConnecting Values-Driven People and Businesses
+There is a growing trend of people making shopping decisions by intentionally seeking out businesses and products that 
+align with their own values. In 2020, we explored ways to expand our support for businesses focused on sustainability to 
+connect with new consumers on our platforms. 
+In EMEA, we developed the Sustainable Business Program (SBP) to help businesses better engage with sustainability-
+minded customers, and to educate and empower consumers to make sustainable choices. Through SBP, we created a 
+network of over 100 businesses across EMEA, advocating and accelerating business contributions to achieving the UN 
+SDGs. As part of our work, the network published new insights and case studies across EMEA in a centralized resource 
+for participating clients, and we also leveraged client feedback to inform the development of new products that connect 
+conscious shoppers to sustainable brands on our platforms.
+In partnership with our clients, we also built a Sustainability Ads Testing Program that provides initial evidence showing 
+how values-driven communications can drive business results. For example, one test showed that ads showcasing 
+supply chain traceability led to a 50 percent increase in the number of purchases and a 31 percent decrease in cost per 
+acquisition. Moving forward, we will continue to enable sustainable brands and partners to connect with sustainability-
+conscious consumers on our platform and help advance values-driven shopping. For our academic and nonprofit partners, this tool offers key insight into how audiences in different regions are engaging 
+with climate-related news on our platforms and allows our partners to craft programs and messaging that resonate with 
+their audiences. Within five months of launch, we built new state-level and daily datasets for partners. Approximately 
+70 partners accessed the tool by the end of 2020, and we continue to work closely with select academic partners to 
+improve it.
+The Climate Science Information Center increases access to authoritative climate 
+information from the world’s leading climate science sources and experts.Sustainability Report 2020Product Innovation33 / 53 2020 Sustainability ReportInnovating through Hackathons
+Our employees are the driving force behind the success of our products and services. To support the passion that 
+many of our employees have for sustainability, we have built a community of Sustainability Hackers, who gather 
+during company hackathons throughout the world to incubate and build new climate product ideas and innovations. In 
+2020, we generated a total of 23 sustainability-related product ideas from our hackathons, ranging from biodiversity, 
+environmental justice, and circularity.   
+We take a similar approach to how we identify and support external opportunities to promote innovation beyond our 
+walls. In 2020, we partnered with EIT Climate-KIC , the largest private and public partnership in the EU addressing 
+climate change, to support their Berlin and California Climathons , city-based programs that provide opportunities for 
+cities and citizens to co-create ideas that address shared climate challenges. Collaboration34 / 53 2020 Sustainability Report
+Climate change is an urgent challenge that is too great for any single person, company, government, or entity to solve 
+alone. Together we can effect more change, and we have built partnerships with globally-renowned organizations over 
+the years to help share information about climate change and use the strength of our platforms to catalyze climate 
+action. As organizations and businesses shifted their global teams to remote work amidst the COVID-19 pandemic, our 
+platform and products offered a unique way for us and partners to collaborate. 
+During Climate Week NYC and the UN General Assembly (UNGA) in 2020, we helped the Climate Group reach a bigger, 
+wider audience via Facebook Watch Live. We also hosted a panel online titled, “ Working Together to Accelerate Climate 
+Action ,” where viewers tuned into the panel via the FBxUNGA microsite , a dedicated page on our platform to showcase 
+Facebook’s presence at UNGA. We will continue to use UNGA as an opportunity to share our progress against the   
+UN SDGs.  Creating New Climate Content during Climate Week Collaboration 
+Collaboration is essential to our ability to give people the power to build community and bring 
+the world closer together. Beyond efforts to expand our platform to connect more people, we 
+also recognize the importance of working with others to address key social and environmental 
+issues like climate change.
+That is why we work closely with our stakeholders and partners—including government, 
+academic institutions, industry peers, nonprofits, and local communities—to increase 
+knowledge access and provide a platform that helps empower and activate climate action.  Collaboration35 / 53 2020 Sustainability ReportFacebook annually hosts over 1,000 events across the world, and we understand the environmental impact that large-
+scale, in-person events can have. In 2020, teams across Facebook developed a Sustainable Events Framework to   
+help ensure Facebook’s global events align with our sustainability goal to reduce our GHG emissions and   
+environmental footprint. 
+Through the Sustainable Events Framework, we outlined best practices and set standards for reducing our events’ GHG 
+emissions, waste, and material use in line with our net zero GHG emissions target. Beyond using the new framework 
+to guide how we host Facebook events, we hope to share these practices and learnings broadly to accelerate progress 
+across industries globally. In 2021 and beyond, all Facebook event managers and agencies will be asked to take our online 
+course and follow the framework, with the goal of targeting our most impactful events moving forward.Sustainable Events FrameworkWith events going virtual in 2020, we partnered with the Stockholm International Water Institute (SIWI) for the second 
+year in a row to help bring World Water Week to a global online audience, working closely with the organization to 
+develop digital presentation best practices and provide capacity-building training on Facebook and Instagram tools. We 
+also supported the Stockholm Junior Water Prize, a global competition for youth to design water-related projects of 
+environmental, scientific, social, or technological significance.Virtualizing World Water Week36
+Data Centers36 / 53 2020 Sustainability Report
+Data Centers
+At Facebook, we are proud to design and operate some of the most sustainable data centers in 
+the world. Since we broke ground on our first data center in Prineville, Oregon in 2010, we have 
+worked to minimize our impact by incorporating design elements and construction practices 
+that prioritize resource efficiency and clean energy, while continuing to grow our presence to 
+connect more people around the world. 
+Supporting our data centers with 100 percent renewable energy and saving energy and water through efficient designs  
+are the foundations of our strategy to operate sustainable data centers. 
+A key component of that strategy is ensuring our buildings comply with industry standards, specifically the Leadership 
+in Energy and Environmental Design (LEED)—a globally recognized third-party verification standard for sustainable 
+buildings developed by the United States Green Building Council (USGBC).
+Since our Prineville data center earned the LEED Gold certification in 2011, we have continued to achieve Gold 
+certification levels—or higher—for all of our current and new data centers. In 2020, five of our new construction 
+projects—located across Denmark , Ireland  and the U.S.—were awarded LEED Gold certification. Additionally, our 
+Singapore data center, Facebook’s first project in the APAC region, earned Platinum certification under Green Mark, a 
+sustainability standard created by the Singapore government. Building and Operating Sustainable Data Centers
+In 2020, we earned LEED Gold certification for our third data center building (CLN3) at our Clonee, Ireland campus. 37
+Data Centers37 / 53 2020 Sustainability ReportAs part of our effort to reach net zero emissions for our value chain in 2030, we explored strategies to reduce the 
+environmental impacts linked to construction activities and building materials like concrete and steel. Last year, in 
+Altoona, Iowa, we began piloting the use of electric construction equipment, such as the Cat D6XE, the world’s first 
+electric drive dozer which uses 25 percent less diesel fuel compared to traditional bulldozers. We also piloted the 
+Embodied Carbon Construction Calculator (EC3), a new online tool that design and construction teams can use to 
+procure materials that reduce a building’s overall carbon footprint.
+Our data center in Odense, Denmark includes a system that reuses excess heat from data halls to warm homes in a neighboring community. We were able to divert 
+90 percent of the construction waste footprint from landfills through reuse, recycling and waste-to-energy facilities, and the project won the 2020 Data Center 
+Dynamics “Hyperscale Data Center Innovation Award”
+For our Los Lunas, New Mexico data center located in a desert climate, we engineered a system that captures rainwater from the roof in an underground cistern 
+and cuts in half the amount of potable water needed to irrigate the surrounding campus landscape.38
+Data Centers38 / 53 2020 Sustainability ReportWe prioritize embedding circularity principles into how we design, build, and operate our data centers to elevate resource 
+efficiency and reduce our carbon footprint. In 2020, our five projects that earned LEED Gold diverted an average of 78 
+percent of construction materials from landfills. And to help reduce our overall waste footprint, we also collaborated with 
+one of our major suppliers on an initiative to minimize the amount of packaging needed to ship fiber optic cables.
+Our circularity principles also extend to the kinds of materials we use. To lower the carbon impact of concrete—one of 
+the largest sources of global greenhouse gas emissions—we partnered with researchers from the University of Urbana-
+Champaign’s civil engineering department to use artificial intelligence algorithms to develop low-carbon mix designs 
+that use high amounts of byproducts from other industries as a replacement for cement. We hope to scale this pilot 
+initiative to other facilities where possible in the coming years.Embedding CircularityAnnual Data Center Water Usage Effectiveness (WUE)Annual Data Center Power Usage Effectiveness (PUE)
+39
+Data Centers39 / 53 2020 Sustainability ReportWe work closely with industry organizations and experts to help shape the industry’s standards for high-performance 
+data centers. We continue to collaborate with the United States Green Building Council to shape design and 
+construction standards and best practices, deepening our collaboration through our involvement in   
+technical committees. 
+And through our Open Compute Project (OCP) , we connect with other leading technology innovators to exchange 
+products and designs around data center infrastructure and hardware with an open source community. In 2020, the OCP 
+Incubation Committee, a working group dedicated to establishing the foundational and operational aspects of the OCP, 
+outlined key strategies to enable greater circularity within the data center industry.Moving Industry Standards ForwardFacebook is committed to investing in the vitality of communities where we develop data centers. When we build a data 
+center in a community, Facebook drives job growth and contributes to economic and community development   
+in the area. 
+According to our latest data center Economic Impact Report in the U.S., Facebook’s direct investments from 2017 
+through 2019 in data center construction and operations contributed a cumulative $18.6 billion to the U.S. GDP and 
+supported over 178,000 jobs. The study found that for every $1 million in capital expenditures, we support 14 jobs, and 
+for every $1 million in operating expenditures, we support 18 jobs. When constructing data centers, we estimate more 
+than 1,000 construction workers are on-site at peak. Once completed, a data center usually supports over 100 jobs to 
+manage facility and site operations. In EMEA, our data center spending in Ireland from 2015 to 2018 drove a total of 
+€721 million (approximately $875 million) of sales activity and €188 million (approximately $228 million) of GDP in the 
+country’s construction sector. 
+In addition to driving economic impact, Facebook is also committed to supporting the vitality of local communities by 
+investing in schools, nonprofit organizations, and community projects through direct grantmaking and volunteering. 
+Once a data center is operational, we launch our Community Action Grants program which provides grants focused on 
+leveraging the power of technology for community benefit, helping people connect online or off and improving local 
+science, technology, engineering, and mathematics (STEM) education on an annual basis. Economic Impact on CommunitiesWorkplaces40 / 53 2020 Sustainability Report
+Workplaces
+We are proud to design, build, and operate some of the most sustainable workplaces   
+in the world. 
+At Facebook, enhancing employee well-being and maintaining sustainable workplaces are key aspects to the way in 
+which we operate our facilities. Our workplace sustainability philosophy is centered around occupant health, resource 
+efficiency, and responsible supply chain management. 
+To achieve this, we implement stringent sustainability standards, as well as follow third-party green building 
+certifications, when designing and operating our global facilities. We aim to achieve LEED Gold certification at our 
+larger offices globally—and strive beyond that where possible, including earning LEED Platinum at our Menlo Park 
+headquarters, with pursuit underway at additional locations across the U.S., U.K., Brazil, and India. In 2020, we 
+completed our first offices slated for WELL and Fitwel® certification—two industry frameworks focused on promoting 
+the health and wellbeing of building occupants. Beyond this, we continued to ensure that our major EMEA campuses 
+continuously drive energy efficiency by achieving ISO 50001 Certification.Operating Sustainably
+Our Dublin Ballsbridge Campus in Ireland is slated for WELL® Platinum Certification. Workplaces41 / 53 2020 Sustainability ReportA key way Facebook is able to meet these rigorous industry standards is through our Healthy and Sustainable Materials 
+Program. Since first introducing the program in 2013, we have ensured that the building materials and furnishings used 
+within our facilities meet the highest standards for health and environmental impact. The program focuses on ingredient 
+disclosure, reducing embodied carbon, and avoidance of worst-in-class “chemicals of concern,” such as certain 
+phthalates, flame retardants, heavy metals, and fluorinated chemicals. The program serves as an important foundation 
+for how we promote sustainability through responsible procurement practices. 
+In an effort to further align our facility operations to our broader net zero emissions commitment, in 2020 we mapped 
+out a 2030 Workplace Carbon Reduction Action Plan. Over the next 10 years, the plan aims to deliver a 50 percent 
+carbon reduction across our workplaces’ top contribution to GHG emissions, including: electricity use, natural gas use, 
+waste generation, employee commute, food consumed on-site, and the embodied carbon of our building materials. As 
+part of this strategy, we will reduce our carbon impact through projects such as energy efficiency upgrades, installing on-
+site renewables, integrating circular economic practices to reduce waste, and delivering low-impact commute solutions.
+Reducing our workplace resource consumption in 2020
+We are committed to helping build and preserve strong, resilient communities in the places we call home by actively 
+engaging with our neighbors and making investments that support community needs and align with our core values. In 
+addition to supporting investments in data center communities, local teams at our global offices leverage Facebook’s 
+resources to drive a positive impact on communities across key pillars of economic opportunity, food and housing 
+access, and environmental sustainability. 
+One example of our efforts to support community environmental stewardship is our partnership with GRID Alternatives, 
+a California-based nonprofit installing solar systems on homes in underserved communities. To date, we have provided 
+grants to install 80 photovoltaic systems in communities near our Menlo Park headquarters in California, which are 
+expected to help avoid 3,370 tons of GHG emissions over their lifetime and help reduce energy bills for under-resourced 
+families. Over the past three years, we have also partnered with Build It Green and Franklin Energy in the San Francisco 
+Bay Area through the Healthy Home Connect initiative, which uses multiple funding sources to deliver energy and 
+healthy home upgrades to benefit the community’s most vulnerable populations. 
+Additionally in 2020, we supported the construction of the Ravenswood Bay Trail, a project by Midpeninsula Regional 
+Open Space District, to help close a critical gap in the otherwise continuous, 80-mile section of the Bay Trail in the San 
+Francisco Bay Area. This new trail segment increases community access to the bayfront, is a setting for wildlife viewing 
+and environmental education, as well as provides a commute alternative for cyclists. Supporting Local Community Environments Average design energy       
+use reduction22%
+Average design water            
+use reduction50%
+Average construction waste 
+recycling rate79%Workplaces42 / 53 2020 Sustainability Report
+Despite the COVID-19 pandemic, our employees remained engaged during key internal moments. We are so grateful 
+for our global teams and internal Green@ chapters for their commitment and support in advancing Facebook’s 
+sustainability commitments.
+As our employees adjusted to working remotely in 2020, we launched our Sustainability@Home educational program to 
+provide resources on leading a more sustainable lifestyle. The program included an educational video series highlighting 
+actionable steps employees can take to reduce their personal carbon footprint, as well as strategies to promote 
+wellbeing while working from home. 
+Last year, we held our two largest events—Earth Week and Sustainability Summit—virtually on Workplace, increasing 
+accessibility to our global employee base. Over five days during Earth Week, we hosted 68 virtual events, posts, and 
+livestreams to celebrate Facebook’s sustainability commitments and activate our employee base. To develop Earth 
+Week content, we drew from the expertise of our global sustainability community, including members from 27 teams 
+across 23 offices on three continents. By streaming all content through our internal Sustainability channels, we 
+increased global awareness of this celebration—with over 7,100 viewers tuning in to the livestreams. 
+In September 2020, we launched a new internal sustainability event to align with UNGA/Climate Week: our inaugural 
+Sustainability Summit. The goal of this one-day virtual conference was to highlight Sustainability programming across 
+the company and celebrate the cross-functional teams that make this work a reality. We held employee sessions on our 
+efforts to build and operate sustainable workplaces, partner with NGOs on water restoration projects, develop a Net 
+Zero 2030 roadmap, and sustainable platform projects.Changing How We Engage EmployeesWe are proud to support the Ravenswood Bay Trail that provides access to the bay for Menlo Park and East Palo Alto communities in California. 
+Photo credit: Mike Kahn, Midpeninsula Regional Open Space District43 / 53 2020 Sustainability ReportAppendix44 / 53 2020 Sustainability ReportFacebook Sustainability Data 2020 1,2Published June 2021
+Electricity Use (MWh)
+2016 2017 2018 2019 2020
+Altoona, IA 342,000 500,000 612,000 853,000 980,000
+Clonee, Ireland 1,000 1,000 200,000 382,000 487,000
+Forest City, NC 339,000 433,000 547,000 614,000 595,000
+Fort Worth, TX 16,000 189,000 461,000 695,000 941,000
+Luleå, Sweden 295,000 301,000 337,000 373,000 369,000
+New Albany, OH not yet online not yet online not yet online 38,000 270,000
+Odense, Denmark not yet online not yet online 4,000 128,000 343,000
+Papillion, NE not yet online not yet online 5,000 178,000 519,000
+Prineville, OR 327,000 426,000 488,000 573,000 686,000
+Henrico, VA not yet online not yet online not yet online 10,000 204,000
+Los Lunas, NM not yet online not yet online 26,000 289,000 571,000
+East Coast Leased Data Center Facility 317,000 359,000 432,000 674,000 795,000
+Other Data Center-Related Facilities 118,000 135,000 133,000 113,000 206,000
+Data Centers Total 1,756,000 2,360,000 3,245,000 4,918,000 6,966,000
+Offices Total 74,000 102,000 181,000 222,000 204,000
+Total Electricity Use 1,830,000 2,462,000 3,427,000 5,140,000 7,170,000
+Electricity mix 3Power Usage Effectiveness
+2016 2017 2018 2019 2020
+Renewable 44% 51% 75% 86% 100%
+Non-Renewable 56% 49% 25% 14% 0%2016 2017 2018 2019 2020
+Annual Data Center PUE 1.10 1.10 1.11 1.11 1.1045 / 53 2020 Sustainability ReportFacebook Sustainability Data 2020 1,2Published June 2021
+Greenhouse Gas Emissions by Scope (metric tons CO2e) 4,5,6,7
+Market-Based 2016 2017 2018 2019 2020
+Scope 1 9,000 25,000 42,000 44,000 29,000
+1% 2% 4% 1% 1%
+Scope 2 545,000 591,000 314,000 208,000 9,000
+77% 54% 31% 5% <1%
+Scope 3 156,000 480,000 652,000 4,078,000 4,029,000
+22% 44% 65% 94% 99%
+Total 710,000 1,096,000 1,008,000 4,330,000 4,067,000
+Carbon Removal 8-145,000
+Net Total 710,000 1,096,000 1,008,000 4,330,000 3,922,000
+Total Operational GHG Emissions 555,000 616,000 356,000 252,000 38,000
+Reduction From 2017 Baseline Baseline 42% 59% 94%Location-based 2016 2017 2018 2019 2020
+Total 789,000 1,387,000 1,983,000 6,295,000 7,555,000
+Operational Greenhouse Gas Emissions (market-based scope 1 & 2 metric tons CO2e) 9
+2016 2017 2018 2019 2020
+Altoona, IA 1,000 1,000 1,000 2,000 1,000
+Clonee, Ireland 0 <500 <500 <500 1,000
+Forest City, NC 116,000 136,000 53,000 9,000 <500
+Fort Worth, TX <500 1,000 1,000 1,000 <500
+Luleå, Sweden <500 <500 <500 <500 <500
+New Albany, OH not yet online not yet online not yet online <500 2,000
+Odense, Denmark not yet online not yet online 0 <500 <500
+Papillion, NE not yet online not yet online <500 <500 3,000
+Prineville, OR 239,000 293,000 137,000 1,000 3,000
+Henrico, VA not yet online not yet online not yet online <500 <500
+Los Lunas, NM not yet online not yet online 1,000 1,000 <500
+East Coast Leased Data Center Facility 115,000 98,000 102,000 188,000 0
+Other Data Center-Related Facilities 45,000 40,000 17,000 4,000 2,000
+Data Centers Total 516,000 568,000 314,000 207,000 14,000
+Offices Total 39,000 48,000 42,000 44,000 24,00046 / 53 2020 Sustainability ReportFacebook Sustainability Data 2020 1,2Published June 2021
+Market-Based vs. Location-Based Scope 2 Facilities GHG Emissions (metric tons CO2e)
+Greenhouse Gas Intensity (market-based scope 1 & 2 metric tons CO2e / monthly active person)2018 2019 2020
+Market-based Location-based Market-based Location-based Market-based Location-based
+Altoona, IA 0 346,000 0 483,000 0 555,000
+Clonee, Ireland 0 82,000 0 143,000 0 159,000
+Forest City, NC 52,000 201,000 8,000 208,000 0 202,000
+Fort Worth, TX 0 212,000 0 295,000 0 399,000
+Luleå, Sweden 0 7,000 0 6,000 0 7,000
+New Albany, OH not yet online not yet online 0 20,000 0 157,000
+Odense, Denmark 0 1,000 <500 18,000 0 57,000
+Papillion, NE 0 3,000 0 101,000 0 294,000
+Prineville, OR 137,000 145,000 0 167,000 0 200,000
+Henrico, VA not yet online not yet online 0 3,000 0 69,000
+Los Lunas, NM 0 12,000 0 135,000 0 266,000
+East Coast Leased Data Center Facility 102,000 128,000 188,000 193,000 0 223,000
+Other Data Center-Related Facilities 17,000 44,000 1,000 41,000 2,000 62,000
+Data Centers Total 308,000 1,181,000 197,000 1,813,000 2,000 2,650,000
+Offices Total 6,000 60,000 8,000 72,000 7,000 68,000
+Total Facilities GHG Emissions 314,000 1,241,000 205,000 1,885,000 9,000 2,718,000
+2016 2017 2018 2019 2020
+Annual GHG Intensity 0.00030 0.00029 0.00015 0.00008 0.000012
+Value Chain Greenhouse Gas Emissions (scope 3 metric tons CO2e) 10,11,12
+2016 2017 2018 2019 2020
+Category 1: Purchased Goods & Services 10data not available data not available data not available 1,428,000 1,846,000
+35% 46%
+Category 2: Capital Goods 10data not available data not available data not available 1,671,000 1,837,000
+41% 46%
+Category 3: Fuel & Energy-Related Activities data not available data not available data not available 264,000 56,000
+6% 1%
+Category 6: Business Travel 1164,000 246,000 397,000 529,000 129,000
+13% 3%
+Category 7: Employee Commuting 1236,000 43,000 71,000 90,000 61,000
+2% 2%
+Other Applicable Categories 10, 12data not available data not available data not available 96,000 100,000
+2% 2%
+Total 156,000 480,000 652,000 4,078,000 4,029,00047 / 53 2020 Sustainability ReportFacebook Sustainability Data 2020 1,2Published June 2021
+Water Withdrawal (cubic meters) 13
+Water Consumption (cubic meters)
+Water Usage Effectiveness
+Water Withdrawal Intensity (cubic meters / monthly active person)2016 2017 2018 2019 2020
+Altoona, IA   87,000   106,000   139,000   145,000   151,000 
+Clonee, Ireland  not yet online   10,000   188,000   395,000   615,000 
+Forest City, NC   123,000   129,000   99,000   85,000   68,000 
+Fort Worth, TX   14,000   98,000   269,000   322,000   300,000 
+Luleå, Sweden   32,000   66,000   53,000   58,000   49,000 
+New Albany, OH  not yet online  not yet online  not yet online   33,000   35,000 
+Odense, Denmark  not yet online  not yet online  not yet online   266,000   360,000 
+Papillion, NE  not yet online  not yet online  not yet online   62,000   108,000 
+Prineville, OR   70,000   172,000   160,000   208,000   445,000 
+Henrico, VA  not yet online  not yet online  not yet online  not yet online   42,000 
+Los Lunas, NM  not yet online  not yet online   25,000   92,000   140,000 
+East Coast Leased Data Center Facility   400,000   473,000   533,000   1,011,000   645,000 
+Other Data Center-Related Facilities   98,000   85,000   264,000   54,000   42,000 
+Data Centers Total   825,000   1,139,000   1,730,000   2,731,000   3,000,000 
+Offices Total   305,000   470,000   638,000   699,000   726,000 
+2016 2017 2018 2019 2020
+Total Water Consumption data not available 838,000 1,279,000   1,971,000   2,202,000 
+2016 2017 2018 2019 2020
+Annual Data Center WUE 140.21 0.24 0.27 0.27 0.30
+2016 2017 2018 2019 2020
+Annual Water Intensity 0.000607 0.000755 0.00102 0.00120 0.00113Total Water Withdrawal   1,129,000   1,609,000   2,367,000   3,430,000   3,726,000 
+Recycled Water   426,000   469,000   673,000   854,000   643,000 48 / 53 2020 Sustainability ReportFacebook Sustainability Data 2020 1,2Published June 2021
+1 Values are rounded and totals are calculated before rounding throughout this report.
+2 “Other data center-related facilities” includes facilities where Facebook used less than 100,000 MWh of electricity in the reporting year, such as 
+warehouses or colocation facilities. Owned data centers are always reported by site, even if they were below this threshold. 
+3 In owned and leased data center facilities included in scope 2 and 3 emissions, Facebook has matched building operations with renewable energy.
+4 Facebook’s methodology for calculating greenhouse gas emissions can be found here.
+5 Scope 1, 2, and 3 greenhouse gas emissions are calculated annually based on the WRI/WBCSD Greenhouse Gas Protocol . 
+6 (a)  Scope 1 includes emissions from diesel, natural gas, and refrigerants from offices and data centers and from diesel and gasoline in the 
+transportation fleet owned and controlled by Facebook.
+(b) Scope 2 includes emissions from electricity of offices and warehouses leased, controlled, and owned by Facebook; electricity of data centers 
+owned and leased (IT load) by Facebook; natural gas of offices and warehouses leased and serviced by Facebook; and purchased heat. Because 
+Facebook does not control building operations in leased data center facilities, as of 2017, only emissions associated with its IT load electricity are 
+included in Scope 2 emissions. 
+(c) Scope 3 emissions are indirect emissions throughout Facebook’s value chain. Starting in 2019, Facebook included emissions from all relevant 
+categories in Scope 3. Scope 3 emissions for 2015 to 2018 include business travel, employee commute, and construction.
+7 To ensure accurate tracking towards Facebook’s 75% operational emissions reduction target, any material changes are also applied to the 2017 
+base year, at minimum. 
+8 Prior to 2020, Facebook invested in avoided emissions offsets which are not considered carbon removal.
+9 In the 2019 reporting year, three updates to reporting were applied to 2017 (baseline year) and later inventories: 
+(a) Vehicles operated by the Transportation team in support of commuting and inter-campus travel were previously counted in Scope 3 – Employee 
+commute. After re-visiting Facebook’s operational control of these vehicles, it was determined that they should be accounted for in Scope 1.
+(b) It was determined that Facebook overestimated natural gas emissions by including estimates for offices which do not in fact use natural gas. 
+Recalculations have been applied to the inventory to remove these inaccuracies.
+(c) Fugitive emissions from refrigerant losses at offices not under Facebook operational control were moved from Scope 2 to Scope 3.
+10  In the 2020 reporting year, two emission factors updates have significantly impacted the GHG inventory: 
+(a) Economic-Environmental Input-Output emission factors were updated and applied to relevant categeories. 2019 numbers have been updated 
+to reflect these new emission factors. 
+(b) Waste emission factors have been updated and applied starting in 2020.
+11 In the 2020 reporting year, two updates to the methology were applied: 
+(a) A new business travel methodology was developed, which was applied to 2019 and updated. Air travel still includes radiative forcing starting 
+from 2017.
+(b) Employee commuting now includes telecommuting, or work-from-home, emissions starting in 2020, for which the electricity portion is 
+matched with renewable energy.
+12 This includes the following categories in Scope 3:  upstream and downstream transportation and distribution, waste generated in operations, 
+upstream leased assets, use of sold products, and end-of-life treatment of sold products
+13 Notes on Facebook’s 2020 water withdrawal: 
+(a) 17% is recycled water, 1% is ground and off-site water, and the remainder is provided by local utilities. All unconsumed water is returned to 
+utility-owned wastewater treatment plants. 
+(b) 25% of water withdrawal occurs in high water stress areas (determined using WRI’s Aqueduct tool and Facebook knowledge on local water 
+stress). 
+(c) Not included in these figures are an additional 388,000 cubic meters of water withdrawn for the construction of Facebook data centers.
+14 Water Use Effectiveness (WUE) is calculated based on best available data, including internal flow meters, design estimates, and utility bills 
+where applicable.49 / 53 2020 Sustainability ReportScope 1 emissions  direct 
+emissions from our data 
+centers, offices, and 
+transportation fleet
+Scope 2 emissions indirect 
+emissions from purchased 
+energy for our data centers 
+and offices• Stationary combustion (e.g., natural gas consumed at our Menlo Park campus for heating)
+• Mobile combustion (e.g., diesel emissions from our intercampus shuttles)
+• Fugitive emissions (e.g., refrigerants)
+• Purchased electricity
+• District heating
+• Stationary combustion from leased sitesGHG Accounting Methodology
+At Facebook, our sustainability work helps us to operate efficiently and responsibly in our mission to build community 
+and bring the world closer together. As a global company, we recognize the tech industry’s environmental impact and 
+role to play in addressing climate change. We embrace the responsibility to understand the full scope of our footprint 
+and be transparent and accountable in our mission to reduce our emissions. Identifying the source of our emissions on an 
+annual basis enables us to prioritize emissions reduction where we can make the most meaningful progress on our path 
+to net zero emissions across our value chain in 2030.Facebook’s Greenhouse Gas Accounting Methodology
+Facebook’s Greenhouse Gas (GHG) footprint includes the emissions associated with running our business and data 
+centers, as well as the indirect emissions created upstream from our operations and downstream in our products. 
+These emissions correspond to Scope 1, Scope 2, and Scope 3 emissions as defined by the Greenhouse Gas Protocol.
+Scope 1 and 2 emissions are considered our operational emissions. Scope 1 emissions come from our direct operations, 
+such as combustion of natural gas to heat our offices and the fuel burned in our employee shuttles. Scope 2 includes 
+indirect emissions from purchased energy, such as the electricity powering our data centers. 
+In 2020, Facebook reduced our operational emissions by 94% from a 2017 baseline and addressed the residual emissions 
+with high-quality carbon removal projects. As a result, Facebook’s operations produce net zero emissions.Facebook’s Greenhouse Gas Emissions 
+Operational Emissions50 / 53 2020 Sustainability ReportScope 3 emissions come from sources within our full value chain beyond our operations and comprise the largest 
+component of our footprint. Scope 3 includes:
+We measure our emissions by metric carbon dioxide equivalent, or CO2e, 
+units. CO2e is used to standardize the emissions from different greenhouse 
+gases based on their global warming potential.Full Value Chain Emissions
+1. Upstream emissions, such as the emissions from manufacturing our data center servers or emissions from 
+employee commutes; and
+2. Downstream emissions, such as the emissions associated with people using our Portal or Oculus devices.
+Facebook is committed to the Science Based Targets initiative and takes a scientific, standardized approach to 
+calculating its GHG emissions  in accordance with the GHG Protocol. Furthermore, Facebook’s GHG data undergoes a 
+third party review each year to verify our emissions and methodology. This is completed annually to ensure that only the 
+most accurate and up-to-date data is publicly reported.
+We quantify our GHG emissions via activity data, life cycle assessments (LCAs), and financial data. We prioritize 
+calculating our emissions through activity data which directly measures an activity that results in GHG emissions, such 
+as kilowatt hours (kWh) of electricity. Due to the complex nature of our business and value chain, we use other methods 
+to help calculate our emissions when activity data is not available.How We Calculate Our GHG EmissionsScope 3 emissions  our value 
+chain emissions upstream 
+and downstream of  
+our operationsUpstream:
+• Purchased goods and services (e.g., upstream emissions from purchased office supplies)
+• Capital goods (e.g., server hardware)
+• Fuel and energy-related activities
+• Upstream transportation and distribution of purchased and sold products
+• Waste generated from our operations
+• Business travel
+• Employee commuting (including telecommuting)
+• Upstream leased assets
+Downstream:
+• Downstream transportation and distribution of sold products
+• Direct use of our sold products
+• End-of-life treatment of sold productsGHG Accounting Methodology51 / 53 2020 Sustainability ReportGHG Accounting Methodology
+For activity data, we take the quantity of a specific measured activity and multiply it by an associated emission or life 
+cycle factor to calculate the total emissions from that activity. For example, if we take the kWh of electricity consumed 
+at a Facebook site and apply the appropriate  International Energy Agency’s country-specific emission factors, we could 
+calculate the total emissions from that site’s electricity use. We use activity data to calculate for:
+To understand cradle-to-gate emissions and/or upfront emissions that are released before certain assets are used (e.g., 
+the emissions released from the production of concrete before it is poured), we conduct third-party LCA studies or utilize 
+LCA tools to measure our impact. This is applicable in our 2020 inventory for the following emissions:
+Our Environmentally Extended Input Output (EEIO) method utilizes financial spend data and applies it to industry-
+specific emission factors (e.g., kg CO2e per dollar spent on electronic manufacturing) published by the U.S. 
+Environmental Protection Agency (EPA) to get “cradle-to-gate” emissions. We apply the EEIO method to the following:Activity Data
+Life Cycle Assessment (LCAs)
+Financial• Scope 1 and Scope 2
+• Fuel and energy-related activities 
+• Waste generated in operations
+• Business travel (including radiative forcing)
+• Employee commuting (including electricity and natural gas from telecommuting employees)
+• Downstream transportation and distribution of sold products
+• Direct use of sold products
+• End-of-life treatment of sold products
+• Upfront emissions associated with the materials used in construction of our data centers
+• Upfront emissions of materials in office renovations and new construction 
+• Cradle-to-gate emissions from the packaging found in sold products, such as Portal and Oculus devices
+• Purchased goods and services
+• Capital goods not related to construction
+• Upstream transportation and distribution
+• Upstream leased assets52 / 53 2020 Sustainability ReportGHG Accounting Methodology
+As Facebook decarbonizes our value chain over the next decade, the data and methodology that drives our climate 
+work will evolve and improve each year. We have disclosed our Scope 1 and 2 emissions for the last 10 years. We began 
+reporting on some Scope 3 categories in 2015, and have reported on every relevant category defined by the GHG 
+Protocol since 2019. As techniques to calculate our emissions improve, we will apply those methods to previous years to 
+get a better sense of our footprint. For example, in 2020 we used the EPA’s updated EEIO emission factors for our Scope 
+3 calculations and updated our 2019 data accordingly.
+Going forward, we will focus on increasing accuracy and granularity of our data. We will use activity data for more 
+emissions categories as methods to do so become available. We will continue reporting and updating our emissions 
+boundaries as our business grows on our path to net zero emissions.Improving Our MethodologyWe look forward to sharing more of our sustainability 
+progress with you through future reports.
+For more information, please visit:Thank you
+sustainability.fb.com

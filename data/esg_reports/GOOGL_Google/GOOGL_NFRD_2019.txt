@@ -1,0 +1,442 @@
+European Union 
+NFRD Report
+2019
+Published June 2019Contents
+1 Reporting principles
+2 Google's business model
+2 Environmental initiatives
+3 Employee matters
+5 Social impact
+6 Respect of human rights
+10 Anti-corruption and bribery matters
+11 Conclusion
+Reporting principles
+We are issuing this report pursuant to the European Union (EU) Non-Financial 
+Reporting Directive (NFRD) 2014/95/EU. This report covers the global 
+operations of Google LLC and all its subsidiaries. Google LLC itself is a wholly 
+owned subsidiary of Alphabet Inc. In 2019, Google Sweden AB—a Swedish 
+limited liability company— is the only entity required to report under Directive 
+2014/95/EU, according to the Swedish Annual Accounts Act (1995:1554) (Sw.
+Årsredovisningslagen). Therefore, we have also included select information 
+and examples specific to Sweden to complement global information.
+This report includes summary information on Google’s environmental 
+initiatives, employee matters, social impact, respect of human rights, and 
+anti-corruption and bribery matters. When available, such as for diversity 
+and inclusion data, data covers our 2018 fiscal year (January 1 to December 
+31, 2018). When 2018 data is not yet available, such as for most of our 
+environmental data, data covers our 2017 fiscal year (January 1 to December 
+31, 2017).
+For more detailed information on any of these topics, see Google’s 
+Commitments page, which highlights our work across five areas: Protecting 
+Users, Expanding Opportunity, Including all Voices, Responding to Crises, 
+and Advancing Sustainability. Our reports database contains all of our public 
+reports pertaining to each of these five areas. Additional information about 
+our commitment to corporate responsibility can be found on Alphabet’s 
+Investor Relations page.
+1
+European Union NFRD Report 2019Google’s business model
+Google’s mission is to organize the world’s information and make it universally 
+accessible and useful. Google’s business includes our main products such as 
+Ads, Android, Chrome, Google Cloud, Google Maps, Google Play, Hardware 
+(including Nest), Search, and YouTube. Our technical infrastructure is also 
+included in Google. Google generates revenues primarily from advertising; 
+sales of apps, in-app purchases, digital content products, and hardware; and 
+licensing and service fees, including fees received for Google Cloud offerings.
+For more information on Google’s business model, see Alphabet’s 
+annual report.
+Environmental initiatives
+Climate change is one of the most significant global challenges of our time, 
+and we’ve long been committed to improving our energy consumption. 
+Operating Google’s business in an environmentally sustainable way has 
+been a core value since our founding. We’re focused on tackling our energy 
+consumption through a threefold strategy for carbon neutrality. First, we 
+pursue aggressive energy efficiency initiatives. Second, we are the largest 
+corporate purchaser of renewable energy in the world,1 and for every kilowatt 
+hour of electricity we consume, we purchase a kilowatt hour of renewable 
+energy from a wind or solar farm that was built specifically for Google. Third, 
+we buy high-quality carbon offsets for any remaining emissions we haven’t 
+yet eliminated.
+Google has been carbon neutral since 2007 and in 2017, we purchased 
+enough renewable energy to match 100% of the electricity we consumed 
+for our global operations. Since 2010, Google has signed 26 power purchase 
+agreements totaling nearly 3 gigawatts of renewable energy. These deals 
+have enabled almost EUR 4.2 billion investments in renewable energy projects 
+across the globe.
+Google’s data centers are the heart of our company, powering products 
+like Search, Gmail, and YouTube for billions of people around the world, 24/7. 
+For more than a decade, we’ve worked to make Google data centers more 
+efficient and have striven to improve their environmental performance even 
+as demand for our products has dramatically risen. All Googlers who work 
+in our data centers are subject to our Data Center Energy Management 
+Policy, which, among other things, calls upon Google to “strive for continual 
+improvement of data center energy performance” and to “lead the industry in 
+the design, operation, and maintenance of economical, energy-efficient 
+data centers.”
+In fact, Google data centers use 50% less energy than typical data centers. 
+In 2018, the average annual power usage effectiveness (PUE) for our global 
+fleet of data centers was 1.11, compared with the industry average of 1.58 — 
+2
+European Union NFRD Report 20192meaning that Google data centers use about five times less overhead energy. 
+In 2018, we maintained ISO 50001 (energy management) certification for 
+12 of our 14 Google-owned and -operated data centers globally.
+In addition to our operating data centers in Finland, the Netherlands, 
+Belgium, and Ireland, Google also has acquired a 109-hectare property 
+in Horndal, Avesta Municipality in Sweden. We currently have no plans to 
+develop this site, but we bought the land to ensure that we have options to 
+expand our data center presence in Europe if our business demands it.
+At Google, just as we focus on users in designing our products, we focus 
+on our employees in creating healthy workplaces, from our San Francisco Bay 
+Area headquarters to Google offices at diverse sites in more than 160 cities 
+around the world. At the end of 2017, over 1 million square meters (11.1 million 
+square feet) of Google office facilities had achieved Leadership in Energy and 
+Environmental Design (LEED) certification.
+We also put Google technology to work helping others study and respond 
+to environmental challenges. We’re working with numerous research and 
+nonprofit organizations to map the world’s forests, oceans, watersheds, and 
+air quality, then helping to get that information into the hands of decision-
+makers. We do this by working with partners to build tools like Global Forest 
+Watch, Global Fishing Watch, Project Sunroof, Project Air View, Global Surface 
+Water Explorer, PowerExplorer, and the DiSARM platform for malaria 
+risk mapping.
+For more information about our environmental sustainability initiatives, risk 
+assessments, and key performance indicators, see our 2018 Environmental 
+Report  and our 2018 CDP Climate Change response. Alphabet has earned 
+a position on CDP’s Climate Change A List, which recognizes leadership on 
+climate action and transparency, for four consecutive years.
+Employee matters
+We recognize that our employees are our best assets and critical to our 
+continued success. We invest heavily in hiring talented individuals, and we 
+seek to hire people with diverse backgrounds and perspectives. 
+Google’s Code of Conduct provides a guide as to how our employees are 
+expected to live Google’s values as they pursue the company’s mission. This 
+includes respect for one another, and for our users. Employees are expected 
+to create and preserve a workplace culture that is free of harassment, 
+intimidation, bias, and unlawful discrimination. Code of Conduct training is 
+provided to all Google employees at all levels of the organization, and we 
+offer “unconscious bias” training both online and in-person.
+In an effort to accelerate our commitments to be a representative, 
+equitable, and respectful workplace, we are increasing transparency in 
+3
+European Union NFRD Report 20193relation to our Code of Conduct. We are working to provide transparency 
+around Googlers' concerns and how we handle them and increased 
+support for people who raise concerns. In 2019, we will share our policy 
+on Harassment, Discrimination, Retaliation, Standards of Conduct, and 
+Workplace Concerns, as well as our processes, and channels for raising 
+and investigating concerns. 
+When we say we want to build for everyone, we mean everyone. To do 
+that well, we need a workforce that’s more representative of the users we 
+serve. That’s why diversity, equity, and inclusion are business imperatives 
+for Google. They improve outcomes for our employees, our products, and 
+our users. As we shared in our 2019 Diversity Report, Google's leaders 
+share responsibility for a company-wide goal to foster a representative and 
+inclusive workplace for everyone.
+We continue to focus on developing, progressing, and retaining women and 
+employees from underrepresented communities at all stages of their careers. 
+In 2018, we launched new initiatives, including a sponsorship program that 
+pairs high-potential women directors with VPs who provide coaching and 
+advocacy to advance their careers.
+We are also proud to support the Employee Resource Groups (ERGs) that 
+provide additional support and community for underrepresented employees 
+and their allies. Collectively, more than 25,000 employees actively participate 
+as members of our 16 Employee Resource Groups. These Googler-initiated 
+networks are passionate about promoting diversity, equity, and inclusion 
+at Google.
+For more information on our Diversity efforts, see Google’s 2019 
+Diversity Report.
+When someone joins Google, we seek to provide resources to help them 
+achieve their personal and professional success and well-being, and Google’s 
+efforts in these areas are widely known. In fact, in Universum’s 2018 ranking of 
+Europe’s Most Attractive Employers, Google was ranked number one for both 
+Business and Engineering/IT.
+We aim to empower employees to act on great ideas regardless of their 
+role or function within the company, and provide training that helps them 
+develop the skills to do so. We have an e-learning curriculum, and conduct 
+“Googler-to-Googler” training sessions, where people learn new skills from 
+their colleagues. Google subsidizes outside studies related to an employee’s 
+job responsibilities, and - - because we believe that fostering curiosity is key 
+to success - - Google also provides allowances for employees to engage in 
+external training unrelated to their function.
+In terms of physical resources, we build our offices with a view to providing 
+our employees with a first-rate work environment, and we engage in a 
+process of continuous re-evaluation with respect to design and functionality 
+to meet the needs of our people.
+4
+European Union NFRD Report 2019Employee health is extremely important; we want our employees to live 
+happy and healthy lives, both in and out of work. Our benefits programs are 
+designed to give employees control over their health and well-being, and to 
+make it easy for them to take care of themselves and their families.
+Globally, new parents, regardless of gender, receive a minimum of 12 weeks 
+fully paid leave to bond with their child (birth mothers receive an additional 
+10-12 weeks of pregnancy recovery time). In Sweden, we adhere to longer 
+statutory parental leave requirements of up to 480 days of leave. Google also 
+provides enhanced pay (up to 90% of full salary) for a maximum of 390 days.
+In addition, all new parents globally benefit from a 2-week gradual return 
+policy (ramping back to work part-time at full-time salary). Google also 
+supports all employees (including parents) in availing of flexible working 
+options such as part-time working and job-sharing. We also provide baby 
+bonding benefits, which is a sum of money given to Googlers who are new 
+parents to help pay for services that support them during the first period 
+of being a parent (e.g., house cleaning, healthy take-out food, etc.) to allow 
+them to maximize the time and energy they can spend with their new 
+family member.
+Social impact
+We know that diversity and inclusion are values critical to our success and 
+future innovation. We also know challenging bias–inside and outside our 
+organization–is the right thing to do. That’s why we continue to support 
+efforts that fuel our commitments to progress. These commitments require 
+us to look at bias through a wider lens: at Google, in the industry, and in 
+society. And while progress takes time, our actions today will determine who 
+we are in the future. 
+Around the world, Google engineers, designers, and marketers are working 
+to understand the needs of communities who have been underrepresented 
+in tech. From Google’s Pixel Camera, to embracing equity in Google’s 
+global support services, we are making sustained efforts to drive inclusion 
+by design, to enable inclusive products such as the Google Assistant. 
+Launched in 2016, it’s now available on more than one billion devices in nearly 
+30 languages and 80 countries. In 2018, Swedish was added to the list of 
+languages. Before launch, the product team worked with Employee Resource 
+Groups to avoid stereotypes, historical biases, offensive language, and 
+hate speech.
+We also work with external partners to improve our products for everyone. 
+For example, our Digital Coaches host workshops as part of the Grow with 
+Google program, working with minority- and women-owned businesses that 
+are part of Google's Supplier Diversity program.
+5
+European Union NFRD Report 2019Digitalakademin (Sweden’s Grow with Google program) was founded 
+by Google Sweden during the autumn of 2015, in collaboration with the 
+government (including Arbetsförmedlingen) and partner Almi. The aim of 
+Digitalakademin is to help ensure that everyone is able to participate in the 
+digital economy. Our training programs range from basic online skills, like how 
+websites work and how to reach customers with email, to more advanced 
+topics, like tracking results with analytics and international marketing. 
+Through 100,000+ training hours, we have educated 32,000+ people in digital 
+skills since launching the program.
+On International Women’s Day, 120 Women@Google global chapters from 
+52 countries engaged tens of thousands of employees to discuss career 
+development and programs to improve our culture. Events also included 
+giving back to local communities. For example, we hosted computer 
+science workshops for high school girls and digital skills training for women 
+entrepreneurs. 
+We also partner with Women in Computer Science chapters across 100+ 
+universities to host 200+ events annually. These events provide women 
+opportunities to develop their technical skills, celebrate their achievements 
+through #IamRemarkable workshops, and offer exposure to the tech industry. 
+We hosted 19 global Women Techmakers summits and supported more than 
+300 community-led meet-ups to empower 25,000 women in the 
+tech industry.
+We also aim to inspire interest in engineering among young future talent by 
+working with local schools and camps, and hosting events such as Introduce 
+a Girl to Engineering Day , an annual initiative we support by hosting a group 
+of 12- to 19-year-old girls at Google Sweden to give them the opportunity to 
+learn about careers in engineering.
+Respect of human rights
+We are committed to respecting the human rights set forth in the Universal 
+Declaration of Human Rights and its implementing treaties, as well as in the 
+United Nations Guiding Principles on Business and Human Rights and the 
+Global Network Initiative Principles.
+At our foundation, Google’s Code of Conduct sets forth our expectations 
+for employees regarding privacy, security, freedom of expression, 
+discrimination, harassment, corruption, and compliance with all laws, 
+including anti-modern slavery legislation. The Code encourages employees 
+to raise questions or concerns about the Code and to report suspected 
+violations. Employees failing to follow the Code can be subject to disciplinary 
+action, including termination of employment. Failure of a Google contractor, 
+consultant, or other covered service provider to follow the Code in 
+connection with their services to Google can result in termination of 
+6
+European Union NFRD Report 2019their relationship with Google. Our Code of Conduct training reinforces 
+the expectation that employees, temporary workers, and contractors 
+(collectively, “our workers”) follow applicable laws and report concerns of 
+illegal or unethical activity. 
+Our commitment extends beyond our own employment practices to those 
+of our suppliers. We developed a Supplier Code of Conduct (the “Supplier 
+Code”), which is based on the Responsible Business Alliance (formerly the 
+Electronic Industry Citizenship Coalition) Code of Conduct; international 
+standards, such as the United Nations Guiding Principles on Business and 
+Human Rights and the Universal Declaration of Human Rights; and our own 
+values. The Supplier Code sets standards designed to protect the health, 
+safety, and treatment of workers; minimize their environmental impact; 
+combat corruption; respect freedom of association and collective bargaining; 
+comply with minimum wage laws; and prohibit any form of forced, bonded 
+(including debt bondage), or indentured labor, involuntary prison labor, sex 
+trafficking, and slavery or trafficking of people.
+We expect our suppliers to source only from conflict-free smelters, 
+such as those that are compliant with Conflict-Free Smelter Program 
+(CFSP) assessment protocols, and work with suppliers to achieve conflict-
+free sourcing. Our Conflict Minerals Policy directs suppliers to perform 
+due diligence on the source and chain of custody of minerals used to 
+manufacture products for Google.
+We strive to protect our users’ privacy, free expression, and secure 
+access to the web when they use Google products. We outline how we 
+safeguard privacy and security on our safety site , give users control over their 
+information through Google Account , and detail our efforts toward protecting 
+online expression and access to information in our statements on freedom of 
+expression . We're also committed to complying with Europe's new General 
+Data Protection Regulation. In 2018, we updated and improved our Privacy 
+Policy , making it easier to understand, adding informative videos that explain 
+our practices, and embedding key privacy controls directly in the text. We 
+also updated the privacy and security settings in the Google Account, which 
+ensures users can easily see their data and set their preferences for how 
+Google should store and use their information, including pausing or deleting 
+Search or YouTube history or disabling personalized ads. We continue to 
+develop and improve these and other tools to make them more robust 
+and intuitive.
+In June 2018, we announced the Google AI Principles: seven principles to 
+guide our Artificial Intelligence work going forward. In addition to these seven 
+principles, we have identified AI applications we will not pursue, including 
+designing or deploying AI in technologies whose purpose contravenes widely 
+accepted principles of international law and human rights. These are concrete 
+standards that govern our research and product development and impact our 
+7
+European Union NFRD Report 2019business decisions. We established a formal review structure to assess new 
+projects, products, and deals against the principles. This group includes our 
+human rights team, alongside our user researchers, social scientists, ethicists, 
+and policy, legal, and privacy advisors.
+We are founding members of the Global Network Initiative (GNI), a 
+multi-stakeholder non-governmental organization working to advance free 
+expression and privacy. The GNI Principles are informed by the UN Guiding 
+Principles on Business and Human Rights, and they concretize ICT companies’ 
+responsibility to respect and promote the freedom of expression and 
+privacy rights of their users. As part of GNI, we work to protect, promote, 
+and support human rights, including through improved responsible 
+decision-making, shared learning, and multi-stakeholder collaboration.
+We believe restrictions on the freedom of expression should be consistent 
+with international human rights laws or standards, the rule of law, and be 
+necessary and proportionate for the relevant purpose. We also believe that 
+laws around government surveillance of user information should be narrowly 
+tailored, transparent, and subject to oversight. We publish the Transparency 
+Report , which sheds light on how laws and policies affect internet users and 
+the flow of information online. 
+Our Chief Ethics and Compliance Officer oversees a team focused on 
+combating modern slavery in the company’s supply chains and business 
+operations. The Chief Ethics and Compliance Officer provides quarterly 
+updates on the status of our Anti-Modern Slavery Program to our Compliance 
+Steering Committee, composed of senior executives from across our 
+business. In addition, our Chief Ethics and Compliance Officer provides 
+regular updates on our anti-modern slavery efforts to the Audit Committee 
+of Alphabet’s Board of Directors. Regular updates on the status of the 
+Responsible Supply Chain Program — which includes addressing human rights 
+risk, among many other areas — are provided to our Responsible Supply 
+Chains Steering Committee, composed of our Chief Ethics and Compliance 
+Officer and leaders from Google’s direct and indirect supply chains.
+Our Policy Against Modern Slavery prohibits knowingly engaging in or 
+supporting human trafficking and child labor practices in our business 
+operations. Any violation of our standards by a Google employee can result 
+in disciplinary action, including termination of employment. Any violation by 
+a supplier can result in contract termination. Recently, we published our third 
+annual Modern Slavery Statement, which provides more detail on our efforts 
+to ensure that modern slavery is not taking place in our supply chains and 
+business operations.
+We perform periodic independent third-party audits at hardware and 
+non-hardware suppliers’ facilities. The audits include in-depth factory tours, 
+meetings with management, on-site worker interviews, document reviews, 
+and assessments of related areas, such as dormitories, cafeterias, wastewater 
+8
+European Union NFRD Report 2019treatment facilities, and warehouses. The audit protocol is designed to assess 
+suppliers’ performance in the areas covered by our Supplier Code, including 
+human rights risk. We work with our suppliers to determine root causes and 
+develop corrective action plans for any issues identified during the audit. 
+While our audits are announced, our supplier managers are trained to report 
+any concerns they might observe on an ongoing basis. In 2018, we published 
+our second annual Responsible Supply Chain Report. This report provides 
+more detailed information about our above-mentioned audit and supplier 
+engagement efforts. 
+As part of our efforts to mitigate human rights risks in our supply chain, we 
+also conduct due diligence on our direct suppliers and vendors identified as 
+having higher risk through our risk assessments. As part of the due diligence 
+process, suppliers complete a self-assessment questionnaire about their 
+working conditions and management systems. The due diligence process 
+also includes background checks, examination of labor-related red flags that 
+appear in publicly available databases and media sources, and a review of 
+higher risk suppliers’ names against human trafficking watch lists. In 2018, 
+after completing a risk assessment of our contingent workforce suppliers, 
+we focused additional due diligence efforts on an identified higher-risk 
+population of contingent workforce suppliers.
+If we discover red flags, we remediate these issues and document them. 
+In certain cases, we may decide to no longer pursue a relationship or to 
+terminate our current relationship with a supplier. Our workers who manage 
+relationships with higher risk suppliers identified in our risk assessment 
+receive supplemental in-person training. In addition, we have an online 
+training course that covers all of the aspects of our Supplier Code for our 
+workers in roles related to hardware supplier management. This training 
+helps our workers identify human rights red flags, shares best practices, and 
+instructs our workers to report human rights concerns.
+Certain areas of our business, such as our hardware production, present 
+human rights risks we have been working to eradicate; however, we 
+appreciate that there are risks present in many aspects of our business that 
+we must continue to work to understand and address. Working to mitigate 
+human rights risk is an ongoing process, and we continually strive to assess 
+this risk in all facets of our business. 
+Finally, we seek to apply technological innovation to advance social good 
+in the diverse communities and contexts in which we operate. Thus, we 
+support technology-focused social impact projects and provide resources to 
+help nonprofits tackle challenges such as human trafficking, education, and 
+economic development through Google’s AI for Social Good Program and 
+Social Impact Challenge.
+9
+European Union NFRD Report 2019Anti-corruption and 
+bribery matters
+Google recognizes that corruption adversely impacts economic growth 
+and disproportionately harms the most vulnerable people and communities 
+around the world.
+As with our modern slavery efforts, Google’s Chief Ethics and Compliance 
+Officer oversees a legal team dedicated to preventing corruption in the 
+company’s business operations and supply chain. The Chief Ethics and 
+Compliance Officer provides quarterly updates on the status of our 
+anti-corruption compliance program to the Compliance Steering Committee, 
+as well as the Audit Committee of Alphabet’s Board of Directors.
+Google’s Code of Conduct requires compliance with anti-bribery laws, 
+such as the US Foreign Corrupt Practices Act and the UK Bribery Act 2010. 
+We also have an Anti-Bribery and Government Ethics Policy, which prohibits 
+bribery and facilitation payments in our business operations and requires 
+legal pre-approvals for certain types of government-related expenses. A 
+Google employee, contractor, service provider, supplier, or vendor who 
+directly or indirectly gives, offers, or promises anything of value to anyone, 
+including government officials, with the corrupt intent to obtain or retain any 
+improper advantage will be disciplined up to and including termination of 
+employment or business relationship. 
+We continually strive to assess corruption risk in all facets of our business. 
+As with other companies in our industry, bribery and corruption risks 
+posed by working with third parties and intermediaries remain a significant 
+corruption risk to Google.
+We undertake a number of efforts to mitigate the risk of bribery and 
+corruption both in our company’s operations, as well as in our supply chain. 
+Below are a few key examples:
+• We maintain an anti-bribery third party due diligence program, where 
+we conduct documented, risk-based due diligence pertaining to the 
+engagement of third parties and channel partners.
+• We routinely inform business partners of Google's commitment to abide by 
+anti-bribery laws and seek a reciprocal commitment from them by including 
+anti-corruption compliance language in our contracts.
+• We strive to provide risk-based anti-bribery training for employees in 
+relevant functions at all levels of the company. Our Code of Conduct 
+training, which is administered to all employees, contains an anti-bribery 
+module. Furthermore, we have a separate training course fully dedicated 
+to the topic of anti-bribery and anti-corruption, which we administer to 
+certain employees whose roles and responsibilities involve higher risk in this 
+10
+European Union NFRD Report 2019area. Finally, we also periodically supplement our online trainings with live 
+instruction. In 2018, Google had a Code of Conduct training completion rate 
+of 99.38% and an anti-corruption training completion rate of 99.50%.
+• We conduct periodic reviews of the anti-bribery compliance program, 
+taking into account relevant developments in the business and field, as well 
+as evolving international and industry standards.
+• We conduct periodic and documented testing of relevant controls and 
+sampling of high-risk transactions. 
+• We implement appropriate processes and due diligence procedures to 
+analyze potential bribery risks associated with proposed mergers and 
+acquisitions, joint ventures, investments, and consortia.
+• Finally, as previously mentioned, we maintain multiple reporting channels 
+whereby employees can raise questions or concerns about the Code of 
+Conduct or our anti-bribery policy and to report suspected violations.
+Conclusion
+In their first letter to shareholders, our founders highlighted Google’s goal 
+to “develop services that significantly improve the lives of as many people 
+as possible.” This vision continues to guide all of us at Google. We believe in 
+technology’s power and potential to have a profoundly positive impact across 
+the world. There is much work that remains to be done, and we will continually 
+strive to achieve this objective.
+Endnote
+1. Bloomberg New Energy Finance database for wind and solar energy PPAs, as of December 31, 2017.
+11
+European Union NFRD Report 2019
