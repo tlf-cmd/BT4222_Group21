@@ -1,0 +1,1465 @@
+ 
+ 
+ResMed 18/19 Report on ESG Issues                                                                                                                         Page 1 of 48 
+ 
+ 
+ 
+Sustainability Report  
+June 2020  
+  
+ 
+ 
+ResMed 18/19 Report on ESG Issues                                                                                                                         Page 2 of 48 
+ 
+Report scope and reference  
+This Sustainability Report focuses on Economic, Environmental , and Social Governance (ESG) issues that encompass 
+our global operations , including those of our  international subsidiaries. Our approach is to include standards where 
+applicable to the Global Reporting Initiative (GRI) Sustainability Reporting Guidelines.  
+Any gaps in the data are noted in the relevant sectio n. 
+The report focuses on the three financial years ended 30 June 2017 –2019. This report also provides background to 
+issues relevant to these periods.   
+This report should be read with documents filed with the US Securities Exchange Commission, in particula r our 2019 
+Form 10 -K annual report and our 2019 Form DEF 14A proxy statement  for shareholders. These filed documents take 
+precedence over this ESG report in the event of any unintended inconsistency.  
+All references to dollars are US dollars unless otherwise noted.  References in this font  are hyperl inked to their source 
+or page reference.  
+The preparation of the report has been informed by the reporting guidelines of the GRI Reporting Framework. 
+APPENDIX 1 at the end of the documents matches the information in the report with the relevant GRI indicato rs. 
+While this report has been prepared with due care , it has not been externally assured.  
+Further information can be obtained by contacting Justin Italiano at ResMed Inc., Sydney, at +61 2 8884 1000 , or by 
+visiting the c ompany’s multilingual website at www.resmed.com . 
+ 
+ResMed Inc.  
+9001 Spectrum Center Blvd  
+San Diego, CA 92123  
+United States of America  
+ 
+   
+ 
+ResMed 18/19 Report on ESG Issues                                                                                                                         Page 3 of 48 
+ 
+Table of Contents  
+ ............................................................................................................................................. 1  
+Report scope and reference .............................................................................................................................................. 2  
+RESMED IN BRIEF ............................................................................................................................................................... 6  
+Locations and business  ...................................................................................................................................................... 6  
+GOVERNANCE  .................................................................................................................................................................. 11 
+OUR PEOPLE  .................................................................................................................................................................... 17 
+OUR PRODUCTS  ............................................................................................................................................................... 26 
+COMMUNITY  .................................................................................................................................................................. 30 
+ENVIRONMENT  ................................................................................................................................................................ 35 
+Appendix 1 – References to GRI core metrics  ................................................................................................................ 47 
+ 
+  
+ 
+ 
+ResMed 18/19 Report on ESG Issues                                                                                                                         Page 4 of 48 
+ 
+OUR APPROACH TO ESG  
+ResMed  has a mission to help people sleep better, breathe better, and live healthier, higher -quality lives outside the 
+hospital. In 2019, we improved 105 million lives and our ambitious goal is to improve 250 million lives in out- of-
+hospital healthcare in 2025.  As I write this letter in May 2020, the world remains in the throes of a global respiratory 
+pandemic caused by a novel coronav irus, and its deadly consequence: COVID -19. Amid significant loss of life around 
+the world, and broad economic impacts from lockdowns in many countries, we are grateful that we can be part of the 
+solution as we live our mission.  
+During this pandemic, many tens of thousands of people have accessed ResMed ventilators and mask systems, 
+allowing them to breathe while  their own immune system fight s against th is virus. We are proud of tripling our 
+production of ventilators during this crisis . At the same time, we have focused on our core business es: help ing the 936 
+million people worldwide who suffocate every night with sleep apnea, the 400 million people worldwide who suffer 
+from chronic obstructive pulmonary disease , and millions more who benefit from a streamli ned out-of-hospital  
+healthcare ecosystem  that includes home medical equipment to skilled nursing facilities, to home health and hospice, 
+and beyond.  
+ResMed is proud to provide innovative, digital, cloud -connected solutions to people living with sleep apnea , COPD, 
+asthma, and other chronic diseases in over 140 countries. For over 30 years, our mission has been encompassed in 
+what we call the “triple aim”: to improve quality of life, to prevent the progression of chronic disease, and to reduce 
+unnecessary hea lthcare costs.  
+What ESG means to us  
+ResMed’s overall strategy is grounded in our business sustainability because innovation, ethical business practices, 
+and operational excellence are precisely what enable us to save and enrich millions of lives. In short,  our approach to 
+the environment, our social communities, and best -practice governance is simply part of our DNA. In fact, this type of 
+altruistic foundation  overlaps fully with our business goal of improving 250 million lives in out- of-hospital healthcare : 
+it is key to our growth so we can serve hundreds of millions of people.   
+ResMed’s core strength is our team – we have 7,500+ people who have chosen to join us, and become ResMedians to 
+help us serve customers in over 140 countries worldwide. We’re deeply  committed to understanding the needs of our 
+team and engaging deeply with their professional and personal development. We are laser -focused on hiring, 
+developing, and advancing the best talent in the field of healthcare. Our corporate culture demands high levels of 
+innovation and a rigorous code of ethics and values – starting with tone at the top, and all the way through to the 
+customer, including our most important customer, the patient. Meeting these standards of excellence every day 
+requires a global team, dedicated to innovation and excellence.  
+Each year, and with ever -increasing detail, new research reveals the role healthy sleep plays in personal and 
+population health. Untreated sleep apnea is strongly linked to heart failure, hypertension, diabetes,  obesity, COPD, 
+peri-operative risks , and beyond. Untreated sleep apnea is also an occupational health and safety hazard, preventing 
+sleep -deprived workers and their companies from meeting their full potential of safety and productivity. The potential 
+econ omic benefits to national healthcare budgets are, on a different measure, equally significant. For all these 
+reasons, pursuing healthy sleep and healthy breathing is important to us all and demands our collective focus.  
+Our approach to ESG issues follows this corporate purpose and drives our priorities. What we do behind the scenes to 
+deliver high -quality, innovative products and services touches many of the ESG issues reflected in this report. We 
+invest heavily in research and development, both through our  own world -class team efforts, and in partnership with 
+key outside research organizations that help broaden our impact. Our corporate culture demands and values this 
+innovation, not just in medical science, but also in disease awareness, policy development , and in our own team’s  
+ 
+ResMed 18/19 Report on ESG Issues                                                                                                                         Page 5 of 48 
+ 
+operating excellence. Strict legal compliance and an emphasis  on safety, quality, environmental, privacy, and data 
+security are all integral elements to the global ResMed culture.   
+We know our performance, products , and solutions ar e only as good as our people. We seek the best people we can 
+find, and support them to be the best they can be. We understand that people –  our ResMedian team, our suppliers, 
+our partners in healthcare delivery, our distributors, and our ultimate customer,  the patient –  all need an environment 
+and culture that encourages and promotes the best outcomes.   
+We are proud of ResMed’s sound environmental and governance record, and that our social contribution is 
+substantial in the communities we serve locally and worldwide.  
+On behalf of 7,500+ ResMedians, thank you for your support to help us in our mission and vocation: to help hundreds 
+of millions of people sleep better, breathe better, and live healthier, higher -quality lives away from the hospital. Thank 
+you al so for your diligence in reading this ESG report from our ResMed team of experts in the field.   
+Yours sincerely,  
+ 
+Michael “Mick” Farrell  
+CEO, ResMed  
+Key ESG indicators  
+Table 1 captures our significant data. We present more detailed data on the indicated pages, for our primary 
+manufacturing and distribution sites over the three  years .  
+Table 1: Key ESG performance indicators  
+Economic Performance  June 30 
+2019  June 30 
+2018  June 30 
+2017  
+Economic value generated and distrubited (US$’000) :1    
+Revenue  2,606,572  2,340,196  2,066,737  
+Cost of goods sold2 1,069,987  978,032  864,992  
+Salaries and wages  644,145  573,561  532,747  
+Interest paid to lenders  36,156  28,355  28,236  
+Taxes paid to government3 114,255  205,724  77,396  
+Donation s to research foundation  800 750 600 
+Donations to other community purposes  1,726  1,000  235 
+Investment in research and development  180,651  155,149  144,467  
+Environmental Performance     
+Total energy use (GJ)  128,136  127,676  129,990  
+ 
+ 
+ResMed 18/19 Report on ESG Issues                                                                                                                         Page 6 of 48 
+ 
+Energy intensity (GJ/$m rev.)  49.2  54.6  62.9  
+Total  scope I and II greenhouse gas emissions (tCO 2e) 19,193  19,353  22,290  
+Significant NO, SO, and other air emissions  0 0 0 
+Total water withdrawal (kL) * 60,246  62,514  64,083  
+Percentage  of waste recycled by weight **  60%  57%  76%  
+Paper use (sheets per person per year)  1,121  1,512  1,298  
+Monetary value of environmental fines and sanctions  $0 $0 $0 
+Social performance     
+Annual voluntary employee turnover ***  14.8%  18.9%  16.7%  
+Fatalities  0 0 0 
+Lost time injury rate (injuries per million employee hours)  2.84 2.22  1.66  
+Percentage senior (VP or above) executives , female  32%  27%  21%  
+Material breaches of marketing and labelling regulations  0 0 0 
+Monetary value of fines and sanctions for production of market -related 
+non-compliance  $0 $0 $0 
+ 
+* Major sites Australia and the US only  ** Global ex -Switzerland  *** Voluntary  
+ 
+1 Detailed financial accounts are disclosed in our 2017 Annual Report at:  http://investor.resmed.com/investor -relations/default.aspx   
+2 Includes all payments to third parties for materials and services used in production  
+3 Includes major income tax measures  
+ 
+RESMED IN BRIEF  
+Founded in 1989, and headquartered in San Diego, California , ResMed pioneer s innovative solutions that treat and 
+keep people out of the hospital, empowering them to live healthier, higher -quality lives. Our cloud -connected medical 
+devices transform care for people with sleep apnea, COPD, and other chroni c diseases. Our comprehensive out -of-
+hospital software platforms support the professionals and caregivers who help people stay healthy in the home or 
+care setting of their choice. By enabling better care, we improve quality of life, reduce the impact chron ic disease, and 
+lower costs for consumers and healthcare systems in more than 1 40 countries.   
+Locations and business  
+Our principal global operations and functional support team locations are summarized below. Our primary 
+headquarter sites in San Diego  and Sydney  are owned while all other sites are leased.  
+Table 2: ResMed site locations  
+Regions  Primary Locations  Full-Time 
+Employee 
+Equivalent  Roles  
+Americas  California: San Diego, Moreno Valley, 
+Chatsworth  
+Georgia: Atlanta, Peachtree Corners  2,812 Administration, manufacturing, 
+sales  and marketing, quality, 
+distribution, customer service,  
+ 
+ResMed 18/19 Report on ESG Issues                                                                                                                         Page 7 of 48 
+ 
+Kansas: Overland Park  
+Minnesota: Minneapolis  
+Nova Scotia: Halifax  
+Pennsylvania: Media  
+Wisconsin: Paddock Lake  product development, software 
+development  
+Asia Pacific  Australia, China, India, Japan, South Korea, 
+Malaysia, New Zealand, Singapore  3,176  Administration, manufacturing, 
+sales and marketing, quality, 
+distribution, customer service, 
+product development, IT shared 
+services  
+Europe  Finland, France, Germany, Ireland, Norway, 
+Netherlands, Spain, Sweden, Switzerland , 
+United Kingdom  1,252  Administration, distribution, 
+customer service, sales and 
+marketing, quality  
+Administration, product development , and distribution  
+ResMed’s corporate  headquarters is at its 230,000 -square -foot facility in San Diego, California , USA . Further corporate 
+hubs are at Bella Vista (Sydney ), NSW, Australia;  Atlanta , Georgia, USA; and Munich- Martinsried, Germany.  
+Our principal research and development center i s in Sydney, with further research conducted at Chatsworth, 
+California , USA ; Dublin, Ireland; Halifax, Nova Scotia , Canada ; Munich -Martinsried, Germany ; and Singapore.  
+Distribution centers are located in Atlanta; Moreno Valley, California , USA ; Roermond, Netherlands; Abingdon, UK; 
+Basel, Switzerland; Lyon, France ; and Bremen, Germany. Our German home healthcare services are managed from 
+Martinsried and Gremsdorf.  
+Manufacturing operations  
+Our principal manufacturing operations occupy a 155,000 -square -foot facility at our Sydney site and a 95,000 -square -
+foot facility in Singapore. Other manufacturing is currentl y undertaken at our 174,000 -square -foot assembly and 
+distribu tion facility  in Atlanta , Georgia, USA, as well as another manufacturing site in Suzhou,  China. Further 
+manufacturin g is conducted at Lyon, France ; Chatsworth,  California,  USA; and Johor Bahru, Malaysia.  
+Sales and marketing  
+We currently market our products in more than 1 40 countries , using a network of distributors and our direct sales 
+force.  
+ North America and Latin America  represent a pproximately 65% of net revenues. Our products are typically 
+purchased by a home healthcare dealer  who then sell s our products to the patient. The decision to purchase 
+our products is made or influenced by one or more of the following individuals or organizations: the 
+prescribing p hysician and their employees ; the home healthcare dealer; the insurer ; and the patient. Our  field 
+sales organization includes regional territory representatives, program development specialists , and regional 
+sales directors.   
+ 
+ResMed 18/19 Report on ESG Issues                                                                                                                         Page 8 of 48 
+ 
+We also market our products directly to sleep clinics. Patients who are diagnosed with obstructive sleep 
+apnea ( OSA) and pr escribed continuous positive airway pressure ( CPAP)  treatment are typically referred by 
+the diagnosing sleep clinic to a home healthcare dealer to fill the prescription. The home healthcare dealer, in consultation with the referring physician, will assist the patient in selecting the equipment, fitting the patient 
+with the appropriate mask , and setting the flow generator pressure to the prescribed level.  
+ Europe and Asia Pacific represent a pproximately 3 5% of net revenues . In Europe , we have wholly  owned 
+subsidiaries in Austria, Czech Republic, Finland, France, Germany, Ireland, Norway, Netherlands, Poland, 
+Sweden, Switzerland , and the United Kingdom, and use independent distributors elsewhere. In many 
+European countries , we sell our products to home healthca re dealers who then sell the products to patients. 
+In Germany, we also operate a home healthcare company that provides products and services directly to 
+patients and  receives reimbursement directly from third -party government or private insurance payers .  
+In Asia Pacific , we have wholly  owned subsidiaries in Australia, China, Hong Kong, India, Japan, New Zealand, 
+South Korea, and Taiwan , and use a combination of our direct sales force and independent distributors.  
+   
+ 
+ResMed 18/19 Report on ESG Issues                                                                                                                         Page 9 of 48 
+ 
+Relevant awards  
+We have received the following recent awards relevant to our ESG performances:  
+Table 3: ResM ed awards , 2017–2019  
+Year  Award  Recipient  Awarded for  
+2019  “JUST 100” Forbes  ResMed  #1 Corporate Citizen in 
+Healthcare & 
+Equipment Services  
+2019  Canada’s Top 100 
+Employers  ResMed  Atlantic Canada’s Top 
+Employers  
+2019  Grad Australia  ResMed  Australia’s Top 100 
+Graduate Employers  
+2019  AAGE Top 75 Graduate 
+Employers  ResMed  Australian Association 
+of Graduate Employers  
+2019  CanadaStop100  ResMed  Nova Scotia’s Top 
+Employers  
+2019  “Best in KLAS”  MatrixCare  Long -Term Care 
+Software  
+2019  “Best Complete HME 
+Management Solution”  Brightree  HME Business New 
+Product Awards: 
+Brightree Business 
+Management Software  
+2019  “Best Specialized 
+Solution”  Brightree  HME Business New 
+Product Awards: 
+Brightree Patient Hub 
+app 
+2019  “Best Overall Health 
+Administration 
+Software”  Brightree  MedTech Breakth rough 
+Award: Home Health and Hospice EMR 
+solution  
+2019  “Dealmaker of the 
+Year”  ResMed  Medtech Insight  
+2019  “Top Workplace”  Propeller  Wisconsin State Journal  
+2019  “Intelligent Health 
+Association Award”  Propeller  Dignity Health: 
+improving patient care 
+and health delivery  
+2019  “Best Overall Medical 
+Device Product”  ResMed  MedTech Breakthrough 
+Award  for AirMini  
+2019  Good Design - Product 
+Design Category  ResMed  Good Design Australia 
+Awards, AirFitN30i and 
+AirFit P30i  
+2019  Winner for San Diego 
+Large Company 
+Leadership  ResMed (Mick Farrell)  San Diego Union 
+Tribune  
+2019  San Diego’s Top 
+Workplace  ResMed  San Diego Union 
+Tribune  
+2018  “JUST 100 ” Forbes  ResMed  Top Corporate Citizen   
+ 
+ResMed 18/19 Report on ESG Issues                                                                                                                         Page 10 of 48 
+ 
+2018  “Best in KLAS”  MatrixCare  Long -Term Care 
+Software  
+2018  Wisconsin Innovation 
+Award  Propeller   
+2017  MD+DI  ResMed  Medtech Company of 
+the Year (finalist)  
+2017  MD+DI  ResMed  Top Medical Device 
+Company to Work for  
+2017  “JUST 100” Forbes  ResMed  Top U.S. Corporate 
+Citizens  
+2017  “Best in KLAS”  MatrixCare  Long -Term Care 
+Software  
+2017  “50 Most Innovative 
+Companies”  Propeller  Fast Company  
+2017  “Australian Good 
+Design Awards”  ResMed  Best Design for CPAP, 
+CPAP Masks:  AirMini, 
+AirFit N20 , AirFit F20 , 
+AirTouch F20  
+ 
+  
+   
+ 
+ResMed 18/19 Report on ESG Issues                                                                                                                         Page 11 of 48 
+ 
+GOVERNANCE   
+Our corporate governance principles  outline how we hold ourselves accountable to shareholders and stakeholders. 
+These principles address the operation of our board and its sub- committees ; strategic and succession planning; and 
+director qualifications.  
+Corporate governance  
+Our board has adopted corporate governance guidelines to assist in exercising its responsibilities in accordance with 
+our constitution and all applicable laws and regul ations. These include the regulations of the US Securities and 
+Exchange Commission ( SEC) and the rules of both the New York Stock Exchange (NYSE) and the Australian Securities 
+Exchange (ASX ), on which ResMed is listed. The guidelines are posted on our investor website, investor.resmed.com . 
+Our board will continue to evaluate its governance structures as ResMed’s business evolves to ensure that we manage the business for the long -term interests of our shareholders and other stakeholders. A more detailed review of our 
+governance is provided in our annual 
+proxy statement  to shareholders, issued under section 14(a) of the Securities 
+Exchange Act.  
+Govern ance s tructure  
+ResMed is governed b y a board of eight directors and through four  standing board committees: Audit (3 directors), 
+Compensation (3 directors), Compliance Oversight (3 directors), and Nominating and Governance (3 directors). Each 
+committee is composed  of independent directors.  
+Michael (“Mick”) Farrell has served as ResMed's chief executive officer and a member of the board of directors since 
+March 2013. Robert (“Rob”) Douglas was simultaneously appointed as ResMed’s president, in addition to his 
+continuing role as chief operatin g officer. Our founder, Dr . Peter Farrell, is our non -executive chairman of the board. 
+Ron Taylor serves as our lead independent director.  
+Our board members have a variety of backgrounds, which reflects our continuing efforts to achieve a diversity of 
+view points , experience,  and knowledge as well as ethnicities and genders. Our board is comprised of three female 
+directors and five male directors.  
+Board independence  
+All board members other than Peter  Farrell and Mick Farrell are independent under the listing standards of the NYSE, 
+with no material commercial or personal relationship with ResMed that would impair their independence. Currently, 
+our independent directors and their tenures are as follows:  Mr. Rich Sulpizio and Mr. Ron Taylor since 2005; Ms. Carol 
+Burt since 2013; Ms. Karen Drexler since November 2017 ; Ms. Har jit Gill since November 2018; and J an De Witte since 
+May 2019 .   
+ 
+ResMed 18/19 Report on ESG Issues                                                                                                                         Page 12 of 48 
+ 
+In February 2020, we adopted an annual election process for our board . At our 2020 and 2021 annual stockholders’ 
+meetings, the directors proposed for election will serve until the next year’s annual meeting. Beginning with the 2022 
+annual meeting, all directors will be elected for terms lasting until the next year’s annual meeting.  
+There is no limit to the number of terms a director may serve, nor a set retirement age. The board has adopted a 
+majority voting policy, under which an incumbent director who does not receive a majority of votes for re -election 
+must tender a resi gnation to the board. The board will determine whether to accept or reject the tendered 
+resignation, and disclose the results and rationale within 90 days of the election.  
+The chair of the board’s Nominating and Governance Committee (currently Ron Taylor) also serves as our lead 
+director. The lead director presides over meetings of our independent directors (generally held each quarter), acts as 
+a liaison between the independent directors and chairman, communicates with stockholders as appropriate, and fulfills other duties that support sound corporate governance.  
+Under our corporate governance guidelines, directors have direct access to company management to secure the information they need for their duties.  
+Board performance  
+Our board’s N ominating and G overnance Committee has the delegated purposes of:  
+• Evaluating the board’s overall effectiveness in representing stockholders and otherwise contributing to lasting 
+value creation at ResMed ; 
+• Assisting in selecting board and committee members ; and 
+• Reviewing developments in corporate governance practices.  
+The committee oversees an annual formal review of these matters, concentrating on the performance of the board as 
+a whole, as well as that of individual members. The Nominating and G overnance Committee follows a process of 
+regularly reviewing board composition and board refreshment, with a long -term perspective, and maintains a 
+database of desired director skills and experience. The performance of directors who are seeking re- election at the 
+end of their three- year term  is ultimately reviewed by stockholders through their votes at the annual stockholder 
+meeting. Our independent directors review the performance of the chief executive officer annually.  
+Board and executive remuneration  
+Our board’s C ompensation Committee reviews cash compensation , benefits , perquisites, and equity compensation of 
+directors  and executives , including target and actual short -term incentives.  
+The committee’s in -depth review of director and executives ’ compensation is published in our proxy statement  to 
+stockholders before ResMed’s annual general meetings. The principles governing our executive compensation program include:   
+ 
+ResMed 18/19 Report on ESG Issues                                                                                                                         Page 13 of 48 
+ 
+• Pay-for-performance.  Pay-for-performance , align ment  with stockholder interests , and largely at- risk 
+compensation are the cornerstones of our compensation program. A significant portion of our executives’ 
+compensation is at risk and tied to the achievement of pre- established short- term corporate financial objectives 
+through our annual cash incentive programs that our corporate officers earn based on achieving  our goals 
+relating to adjusted net sales and adjusted operating profit, weighted equally . These two measures represent 
+fundamental financial metrics: top -line sales and the portion of those top -line sales that fall to the bottom  line. 
+Our executives in charge of a principal unit have 60% of their incentive opportunity tied to achieving set go als 
+for the same metrics at the business unit level and the remaining 40% tied to the corporate goals. All payouts 
+are determined in accordance with these objective performance metrics. Executive officer payouts ranged from 
+96% to 121% of target in F iscal Year 2019 with no discretion applied to the amount paid , with the payouts 
+reflect ing our strong performance and our rigorous goals.  
+ 
+• Provide market -competitive compensation . Our objective is to provide a target total compensation program that 
+is competitive with similarly sized US -based public companies in the medical device and medical technology 
+industries with which we compete for executive talent. The committee reviews ben chmark data for the 
+individual and for the group as a whole, but does not target a specific benchmark level. For our executives, total 
+target compensation should reflect a relatively lower emphasis on salary and a higher percentage of pay at risk in the fo rm of an annual cash incentive and equity awards. The guideline is broad, to recognize individual 
+situations, and also allows us to reflect the fact that we set challenging targets for our incentive programs.  
+  
+ 
+• Make informed decision s. The committee has retained FW Cook, Inc., an independent compensation consultant, 
+to advise the committee with respect to compensation matters for executive officers , and to perform a 
+comprehensive market analysis of our executive compensation program, pay levels , and relative operating 
+performance. FW Cook performs no work for us other than its work providing executive compensation consulting services to the committee.  
+ 
+Risk and ESG oversight  
+While our full board retains general risk oversight, our board committees oversee particular risks, periodically 
+updating the full board. The primary risk responsibilities for the committees are:  
+ 
+ Audit Committee  Overseeing financial risk, capital risk , and financial compliance 
+risk, as well a s internal controls over financial reporting  
+Compensation Committee  Overseeing our compensation philosophy and practices , as well as  
+the balance between risk -taking and rewards to senior officers  
+Nominating and Governance 
+Committee  
+ 
+ Evaluating each director’s independence and the effectiveness of 
+our corporate governance guidelines and code of business conduct, as well as  overseeing management’s succession planning  
+  
+ 
+ResMed 18/19 Report on ESG Issues                                                                                                                         Page 14 of 48 
+ 
+Compliance Oversight 
+Committee  Reviewing and overseeing matters related to our compliance with 
+United States federal healthcare program requirements and the 
+obligations of ResMed Corp. under the corporate integrity 
+agreement  
+ 
+Oversight of general business risks, including but not limited to material environmental and social risks, is retained by 
+the full board. A company -wide business risk analysis is undertaken periodically by management.  
+The following ESG -related risks are among those that face the business:  
+• Government and private insurance plans may not adequately reimburse our customers for  our products ; 
+• Health care reform  policies and legislation , including the US Patient Protection , the Affordable Care Act , and 
+changes to the US F ood and  Drug Administration  (FDA)  510(k) process, may have material adverse effect s on 
+our industry and our results of operations ; and   
+ 
+ResMed 18/19 Report on ESG Issues                                                                                                                         Page 15 of 48 
+ 
+ 
+• Other changes to the FDA’s quality and testing standards, and failure to comply promptly with those standards, 
+may have an adverse effect on our business.  
+These are in addition to standard business ris ks such as threats from competition, fluctuations in currency exchange 
+rates, the challenge of supporting continued growth and business acquisitions, disruptions to supply, and intellectual 
+property claims ( see our 2019 annual report ). 
+Business integrity  
+The best protection of integrity is to instill a culture that values honesty and ethics: doing what’s right every day; 
+relying on our pe ople’s good judgment and sense of fairness ; reporting unethical behavior ; and taking appropriate 
+action. All our directors, officers , and employees are nonetheless guided by our C ode of B usiness Conduct & Ethics, 
+which is published on our website . The code summarizes the compliance and ethical standards we expect of our 
+people, the procedures for any suspected breach, and the consequences  of any substantiated breach. The code also 
+constitutes ResMed’s code of ethics under US law and the New York Stock Exchange’s listing standards. It deals with 
+conflicts of interest; confidential information; fair dealing with customers, suppliers , and com petitors; and compliance 
+with financial reporting, insider trading , and other financial market regulation s. 
+The code is not intended to be a comprehensive rulebook and cannot address all situations that may arise. It provides 
+contacts for the company’s eth ics compliance officer and our  global general counsel should any employee require 
+assistance beyond an immediate supervisor. Where permissible, we also have a toll -free hotline to an independent 
+company for employees or others who want to speak up but pre fer to remain anonymous.  The code prohibits 
+retaliation against any employee who has taken action in good faith to seek help on or report a suspected breach of the code.  
+Ethics and corruption  
+We are committed to a strong ethics and compliance culture. We do not tolerate actions or behaviors  that are 
+inconsistent with our values or violate the ResMed Code of Conduct or applicable laws and regulations.  
+The code insists on compliance with laws and regulations covering bribery and gratuities, political contrib utions, 
+medical sales, and kickbacks. Under the code, client entertainment should not exceed reasonable and customary 
+business practice s where allowed, and in any case , employees should not provide entertainment or other benefits 
+that could be viewed as an  inducement to or a reward for customer purchase decisions. Facilitating and expediting 
+payments are prohibited unless pre -approved by legal counsel.  
+All employees are required to undertake business ethics training relevant to their position and developed by our legal 
+advisers, using our online Learning Management System facility where available and augmented by face -to-face 
+training where it is not. Ma ny positions receive additional guidance materials and competency training – for example, 
+to ensure compliance with the US Foreign Corrupt Practices Act, UK Bribery Act, and the Australian Competition and 
+Consumer Act.  
+In many jurisdictions , compliance of ficers have been assigned and trained, and compliance guides published.   
+ 
+ResMed 18/19 Report on ESG Issues                                                                                                                         Page 16 of 48 
+ 
+We have appointed a global corporate compliance officer, who reports directly to our chief executive officer, with an 
+additional direct reporting line to the board’s audit committee an d corporate compliance committee. In certain 
+jurisdictions, we also have appointed local compliance officers or local compliance committees.  
+In December 2019, we entered into a voluntary settlement with the US and other US states and government entities, 
+to resolve allegations into certain or our sales and marketing practices in the US. The settlement did not include any 
+determination of liability, and we continue to deny the allegations of wrongdoing in those matters. In December 2019, 
+we also entered int o a corporate integrity agreement with the U.S. Department of Health and Human Services Office 
+of Inspector General. The corporate integrity agreement, requires, among other things, that we implement various compliance and reporting requirements, including  documenting our product pricing and sales practices, and 
+conducting internal and external review and monitoring of our arrangements with referral sources and customers in the United States. We are committed to fulfilling our obliations under the corporate  integrity agreement.  
+We take seriously, investigate, and respond appropriately to any potential breaches of our code or of other 
+obligations. Internal audits of compliance standards, processes, practices, behaviors, and outcomes continue 
+throughout the bu siness as informed by our enterprise -wide risk assessments with oversight from our board’s Audit 
+Committee. We revise the subject matter of audit and training as part of the annual planning for internal audit and for our controls and compliance process, and additionally on the advice of our legal counsel and external advisers.  
+Political transparency  
+ResMed’s Code of Conduct  prohibits political contributions by the c ompany or by employees on behalf of the 
+company, except as approved in advance by the c hief executive officer, and subject to review by the c ompany’s g lobal 
+general counsel. During Fiscal Years 2018 and 2019, we did not make any politicial contributions.   
+ 
+Intellectual property  
+We rely on a combination of patents, designs, trademarks, trade secret s, copyrights, and non -disclosure agreements 
+to protect our proprietary technology and rights. Some of these patents, patent applications , and designs relate to 
+significant aspects and features of our products. We believe the combination of these rights, i n aggregate, are of 
+material importance to each of our businesses.  
+Through our various subsidiaries, as of June 30,  2019, we own or have licensed rights to over 5,700 granted, allowed, 
+or pending patents and designs. Patents and designs  have various statutory terms based on the legislation in 
+individual jurisdictions that may be subject to change.  
+Of our patents, 259 US patents and 705 foreign patents are due to expire in the next five years. We believe that the 
+expiration of these paten ts will not have a material adverse impact on our competitive position.  
+   
+ 
+ResMed 18/19 Report on ESG Issues                                                                                                                         Page 17 of 48 
+ 
+OUR PEOPLE  
+At ResMed, we are committed to our mission of transforming patient care in the out -of-hospital setting through 
+innovative solutions and tech- driven integrated care by con tinuing to build and foster a culture of belonging, inclusion , 
+and diversity for our high- performing, entrepreneurial people. We engage and enable our people to be the best they 
+can be by embracing diverse perspectives that spark innovative healthcare solu tions to improve millions of lives. We 
+believe these solutions are best when the people designing and delivering these can be their authentic selves . Our 
+core competencies  capture the essence of our culture : We are all leaders, we are team players, we are innovative, we 
+are customer -centric , and we are inclusive.  
+Our employee C ode of Business Conduct & Ethics and other formal policies on workplace behavior, discrimination and 
+harassment, health and safety, career development , and employee benefit programs help reinforce an environment 
+and culture that supports and encourages our people to be the best they can be. Our measures of safety, 
+remuneration , and employee engagement are strong while our rate of employee turnover is in line with or lower  than 
+industry benchmarks.  
+We invested in a new global human capital management information system that launched in December 2019 .  We 
+expect it to improve  our ability to deliver global  consistent and reliable data on human capital metri cs. For example, 
+our data on employee absenteeism are not yet globally reliable and consistent and so are not included in this 
+document.  
+Who we are  
+We are a high -performing, diverse team of over 7,500  people, of which 78 % are full time , working across multiple 
+geographies around the world.  
+Table 4:  ResM ed’s people  by sex , as of 30 Ju ne 2019  
+Total Full time Male Full time Female Full time
+Total Employees 7672 78% 3251 89% 4421 70%
+Americas 2845 73% 1044 93% 1801 61%
+Asia-Pacific 3322 83% 1479 87% 1844 79%
+Europe 1504 78% 728 86% 776 70% 
+- headcount data is implemented in the above table  
+ 
+Diversity  
+At ResMed, equal opportunity is integral to our people practices for us to develop, attract , and recognize agile leaders 
+who lead innovative solutions through transformative change. Our policy is to hire, retain, d evelop, promote,  and  
+ 
+ResMed 18/19 Report on ESG Issues                                                                                                                         Page 18 of 48 
+ 
+otherwise treat all our people on the basis of performance, capabilities, qualifications, competence , and experience. 
+We apply this policy regardless of an employee’s gender or any other personal characteristics. We do not tolerate any  
+harassment on the basis of race, color, creed, gender, religion, marital status, age, ancestry, disability or medical 
+condition, sexual orientation, military status , or any other unlawful consideration. Our board and executive team 
+recognize the importanc e of an inclusive and diverse workforce , and are fully supportive of our commitment to fair 
+and equitable people practices , including pay equity. We maintain programs to support equity and diversity with an 
+annual review and action plan, through which we a im to achieve desired levels of gender diversity (which we 
+measure) and cultural diversity (which we do not).   
+ 
+ResMed 18/19 Report on ESG Issues                                                                                                                         Page 19 of 48 
+ 
+Gender diversity  
+Over half (54%) of our people are women female employees and inclusion is foundational to ResMed. We have 
+multiple initiatives and programs to promote and accelerate gender diversity. We offer an engineering careers ladder that provides supportive career development pathways, coaching and mentoring programs that target high- potential 
+female employees and engineering students, spon sorship of the Women in Engineering group and Lucy Mentoring 
+Program in Australia, and paid participation in the Athena group for female professionals in San Diego. For our senior 
+female leaders, we participate in the G100 Women’s Leadership Network to pro vide accelerated learning, leadership 
+and connection opportunitie sand help develop their skills to succeed in executive roles, and ensure diverse representation of females each year in selection of participants for our internal leadership programs.  
+There is no distinction in ResMed employment benefits based on gender. We provide paid and unpaid parental leave 
+to all employees who meet eligibility criteria in accordance with or above relevant state and/or federal laws. Over the 
+last three years we have sign ificantly enhanced our maternity and parential leave policies across our major 
+employment hubs of Australia and the US. We offer reduced working hours for mothers returning to work, where 
+possible, and provide appropriate first- aid and breast- feeding areas  for working mothers, if required. In addition, we 
+have also formally introduced flexible working policies including, but not limited to, job shares, alternative rostering, 
+part- time employment options, working from home.  
+To ensure that we foster a culture of belonging, inclusion and diversity we actively encourage forums which promote 
+open and honest conversation on the topic of gender diversity.  These forums include board of directors member roundtable discussions, online social networking ‘Yammer’ discu ssions, employee resources groups, and large group 
+panel discussions with leaders who wish to inspire and connect with others to support the next generation of ResMed women. These forums are about women and men encouraging and supporting women; listening a nd understanding 
+what matters most to our people; giving back and helping others; removing barriers if they exist and addressing 
+challenges together, so that we can all bring our best selves to work.  
+Table 5 below shows the percentage of our employees who are female at four levels of seniority. These statistics 
+change from year to year as individuals join, are promoted into, and/or leave at various levels.  
+Table 5: Employee gender profile , by seniority band ( global )  
+Male Female Male Female Male Female Male Female
+2019 68% 32% 65% 35% 44% 56% 20% 80%
+2018 73% 27% 66% 34% 46% 54% 20% 80%
+2017 69% 21% 70% 30% 53% 47% 23% 77%Executives VP and 
+aboveSenior Mid-Junior Production
+ 
+Disability  
+We make all reasonable accommodations to enable a qualified employee or applicant with a disability to perform 
+their job. Access for people with physic al disabilities meets building code requirements for widened walkways, 
+doorways , and car parking. In France, a successful partnership with local community organizations has assisted with 
+placements, job adaptation , and specific equipment.   
+ 
+ResMed 18/19 Report on ESG Issues                                                                                                                         Page 20 of 48 
+ 
+How we work  
+Our c ore competencies capture the essence of our culture; who we are and how we act: W e are all leaders; we are 
+team players, we are innovative, we are customer -centric , and we are inclusive. These core competencies are 
+reiterated in our workplaces at practical  opportunities, beginning with hiring. They reflect our high expectations for 
+the quality of work needed in our business, our regard for  all people  – including ResMed  employees , partners, 
+suppliers, customers , and patients –  and a very low tolerance for non -compliance. Compliance with  environmental, 
+safety , and labor standards are integral to our operational ethos, and to our business integrity. Comprehensive 
+internal communications and consultation support those standards and  their attainment.  
+Hiring policies and practices  
+Our hiring policies and practices are merit- based, with a referral program for  existing employees in many locations. All 
+our manufacturing facilities, with the exception of our Malaysian manufacturing facili ty, are in OECD -member 
+countries, and all facilities have appropriate management and employees available locally.  
+Compensation and working conditions  
+We provide market -competitive compensation and benefits, based on benchmarking surveys we conduct on a reg ular 
+basis for all position levels against relevant peer companies. We have an employee stock purchase plan in addition to 
+formal service awards. We also provide  salary continuance, life insurance, health insurance, and similar benefits based 
+on local mark et conditions.  
+We take a thorough approach to ensur ing pay equity within our compensation programs and , to this end, have 
+monitoring and other internal processes in place to assist the company in identifying and addressing any potential pay 
+equity issues , mak ing adjustments where appropriate. Our board and executive team recognize the importance of an 
+inclusive and diverse workforce and are fully supportive of our commitment to fair and  equitable people practices , 
+including pay equity. Outlined below are ke y practices included in our approach to ensure pay equity . We are 
+confident that our approach help prevents statistically significant pay gap issues, including with respect to gender:  
+• Global grading framework  
+• Global review process  
+• Reviews for a ll eligible employees  
+• Multiple channels to report pay equity issues  
+Table 6 below  shows the percentage of our female employees at four levels of seniority and their average salaries 
+compared to male salaries at these levels. These statistics change from year to year a s individuals join, are promoted 
+into, and/or leave at various levels. As individuals enter more senior levels, they are likely to be at or below the mid -
+point of the applicable compensation range for the position compared with those who have held a simila r position at 
+the same level for a longer  period  time.   
+ 
+ResMed 18/19 Report on ESG Issues                                                                                                                         Page 21 of 48 
+ 
+Table 6: Employee gender profile globally , by seniority band  
+Female Salary Female Salary Female Salary Female Salary
+2019 32% 95% 35% 99% 56% 90% 80% 97%
+2018 27% 86% 34% 90% 54% 89% 80% 97%
+2017 21% 80% 30% 95% 47% 90% 77% 90%ProductionExecutives
+VP and above Senior Mid-Junior
+ 
+-Data as of 30 June  in the respective years.  
+- Recent acquisition MatrixCare employees not included in the above table  
+-Production classified as any EE under the manufacturing bonus plan  
+-Mid-Junior (Level 1 -4), Senior (Level 5 -7), VP -Exec (Level 8 -9) 
+Wor k-life balance and flexible working  
+In addition to market- competitive compensation packages, we support employees and their families with flexible 
+working arrangements, paid time  off, home working arrangements (in some countries, where feasible and approve d), 
+and consideration in rostering. Paid time  off varies with local conditions, but is generally available for sick leave, 
+parental -community -career leave, bereavement leave, volunteer emergency services, military service where 
+mandated by local laws, and in some locations for limited additional unpaid time  off to attend or participate in school 
+activities. We maintain a significant community volunteering program that allows our people to integrate volunteering 
+into their lives with the support of the compa ny. Additional leave is available for a range of other personal causes. 
+Flexible rostering in Australia and Europe has enabled a high proportion of our employees to remain full time. Part-
+time transitions have been made available for parents returning from  parental leave and in limited cases for 
+employees to pursue higher education.  
+Career development and learning  
+Our people are the  foundation of our 2025 strategy; as such, building and strengthening our talent pipeline is 
+imperative to ResMed’s success. Ou r approach to talent and performance is designed to ensure employees and 
+managers have regular feedback conversations about performance goals and development, to enable our high -
+performance culture, and to create an environment where we achieve our strategy of 250 million lives improved in 
+out-of-hospital healthcare in 2025!  
+Development is all about learning , and we know there are different ways to learn and obtain new skills. We  use the 
+70:20:10 model to help our people create a holistic plan:  
+• 70% Experiential: Learning through experiences and  from challenging work assignments  
+• 20% Collaboration: Learning by working with others  (e.g. colleagues, coaches, mentors) to gain new 
+perspectives   
+ 
+ResMed 18/19 Report on ESG Issues                                                                                                                         Page 22 of 48 
+ 
+• 10% Formal Training: L earning through course work  and/or supplemental reading  
+At ResMed, we have specific career and development pathways designed for specific roles in consultation with their 
+operational management, human resources, and learn ing and development specialists. We encourage our people to 
+take advantage of online, on -campus , and tertiary learning avenues . We also provide financial support, when 
+appropriate .  
+We provide online courses that are role -specific, with formal tracking of employee completion and performance. 
+Online and face -to-face courses on operational compliance issues are developed and delivered in -house. Online 
+compliance courses on ResMed’s  Code of B usiness Conduct and Ethics, diversity, US Foreign Corrupt Practices A ct, 
+and health and  safety are developed by our Learning and Development t eam with external subject- matter advisers. 
+We also have upgraded our online Learning Management System MyLearning , and reinvented the way we learn. 
+MyLearning was launched to provide a simplified online system, with access to on -demand knowledge databases and 
+training material, anytime anywhere.  
+Employee consultation and communication  
+Our management and labor workforce communicates effectively, including informal committees and regula r campus 
+and team briefings and meetings. We track concerns, including through global, local country , and department surveys 
+of employee issues.  
+In certain European countries, workers are represented by work councils, who are independent of trade unions a nd 
+with whom we must consult on any plan regarding the organization, health and safety, and working conditions. We have over 450 employees in our ResMed Homecare business in Germany, for example, 11 of whom serve on the work council. One employee is allowe d to spend 100% of their time on council matters, with full pay. In our French 
+operations, 22 employee work council members represent more than 250 employees.  
+Consistent with the law, our employees are free to join any organized labor  union or association. We do not keep a 
+record of such members. Subject to consultation where applicable with the European work councils, workplace 
+relations issues are negotiated directly with our employees, updating unions as required or requested.  
+ 
+HEAL TH AND WELLBEING  
+Employee wellbeing  
+We recognize the benefits of a healthy workforce and adopt a holistic approach to the health and safety of our 
+people. We can provide onsite support for employee fitness when possible , for example at our major campuses in 
+Sydney and San Diego. We offer employee health and wellbeing programs that may variously include on -site blood 
+pressure, cholesterol , and heart testing. Programs may include seasonal flu vaccinations, subsidized quit- smoking 
+programs, screening for slee p apnea , confidential third -party counseling and referrals on stress and mental health 
+issues, support for a gym membership , and in some jurisdictions, company -sponsored private health insurance.   
+ 
+ResMed 18/19 Report on ESG Issues                                                                                                                         Page 23 of 48 
+ 
+Working environment  
+In most locations, we are relatively sma ll teams working from well -appointed commercial premises. At our major 
+campuses in  San Diego, Singapore, and  Sydney, we have been able to design and build a collaborative and interactive 
+environment that underpins our culture of quality, performance , and i nnovation. Field -based teams are supported 
+through communication, monitoring , and other resources . 
+The buildings at the Sydney campus are designed to efficient ly facilitate corporate and manufacturing teams’ 
+collaboration , thereby accelerating and improv ing product design, development , and manufacturing. The iconic 
+Innovation Centre, with its narrow floor plate oriented towards the north , takes advantage of Environmental ly 
+Sustainable Design (ESD) principles.  
+We conduct periodic building environment assess ments to measure and inspect the quality of lighting, air, water , and 
+noise for the workplace. The overall results were compared and concluded to be well within the relevant standards.  
+Employee engagement  
+We regularly solicit employee feedback and sentimen t about our workplace through our global engagement surveys 
+that enable  our people to comment anonymously and freely on matters related to their employment experience, 
+including pay equity. There is an active program following these engagement surveys to s hare findings openly 
+throughout the company, and to put in place action plans at global and local levels to address priority issues. In 
+addition, we actively engage in social listening with our people through a variety of internal avenues such as Yammer, 
+a internal digital social networking platform, and our  global all-hands discussions with our Office of the CEO.  
+We also perform regular, specific , and localized surveys , and facilitate focus groups to ensure we monitor and capture 
+our employee engagement and attitudes during periods where a global survey is not conducted. This dual approach 
+allows us to identify and address specific local issues under a global framework i n the most efficient manner. The 
+surveys cover attitudes to our leadership and strategy, our communication and involvement, and our individual, team,  
+and company performance. Where comparable benchmarks are available, our results are evaluated against 
+international peer groups.  
+Health and safety  
+Our approach to health and safety uses both our management systems and our quality culture to minimize workplace 
+incidents and maximize the care taken for employees who suffer from a workplace incident. Our global approach to 
+health and safety is led by our Australian manufacturing operations  team , with support at regional and country levels . 
+Our safety approaches and performance measures are progressively adopted globally.  
+System and culture  
+Our safety management s ystems (for example, our US Workplace Injury and Illness Prevention  system ) are generally 
+the same format and nature as our quality  and environmental  management systems so that our people are familiar  
+ 
+ResMed 18/19 Report on ESG Issues                                                                                                                         Page 24 of 48 
+ 
+with how the y operate and know what is expected of them. Our health and safety organizational structure 
+incorporates both workplace committees and health and safety experts across our global sites as appropriate to local 
+needs.  
+Inherent in our quality culture is a strong safety imperative. In Sydney, safety walks, team briefings , and risk 
+assessments identify risks before incidents occur. This mid -operational risk identification is driving incident rates 
+lower. As we successfully re duce risks in the production environment, a higher proportion of our safety and risk 
+management actions are lower -order “administrative ” actions for controlling residual risks, such as communicating 
+risks and providing protective clothing and equipment. We  expect to further reduce incident rates with design factors 
+and continuous improvement in our operational risk management. To eliminate risks from the line, product development engineers look at product design and manufacturing processes . 
+Health and wellbeing programs at some locations also contribute to lower incident rates. Our philosophy is that 
+employees who are physically fit and able to concentrate are more aware of risks in their workplace, and better able 
+to identify and counter the m. 
+Injury rates  
+The number of incidents requiring time off work for rehabilitation (lost time injuries) has increased over the past three  
+years . Yet it has remained comparatively low relative to longer -term trends against a backdrop of expanding global 
+operations, indicating an effective management system and sustained focus on con tinuous improvement: see Table 7 . 
+Table 7: Injury rates  
+2019 2018 2017
+Fatalities 0 0 0
+Lost time injuries 28 24 15
+Lost time injury rate (Injuries per million employee hours) 2.84 2.22 1.66
+Total recordable injury rate (per million employee hours) 6.39 4.44 3.99 
+Employee turnover  
+We experience a relatively low turnover of production and warehousing employees, with turnover of professional 
+employees closer to comparison indices. Our overall voluntary turnover has been falling consistently from 2012 to 
+2019. Periodic organizational c hange in the form of acquisitions and business structural change may affect turnover 
+rates.    
+ 
+ResMed 18/19 Report on ESG Issues                                                                                                                         Page 25 of 48 
+ 
+Table 8 : Staff voluntary turnover, % of total  
+2019 2018 2017
+Global 10.50% 12.00% 10.20%
+Americas 10.30% 9.91% 9.12%
+Asia-Pacific 9.92% 12.10% 8.65%
+Europe 11.90% 13.90% 14.50% 
+Human rights  
+In managing our supply chain, we issue to our suppliers ResMed’s Supplier Manual that, among other issues, sets out 
+the requirements and expectations we have for our suppliers (and in turn their  suppliers ). We evaluate the risk of 
+human trafficking and slavery in our own supply chain, rather than using a third party to do so, and include policies in 
+our Supplier Manual to address those risks. Our anti -slavery and anti -trafficking policies include specific requirements 
+and warranties for:  
+• Prohibition of child labor based on the  1973  International Labor Organization’s  Minimum Age Convention;  
+• Compliance with applicable local occupational health and safety and labor laws (including slave, prisoner , or 
+any othe r form of forced or involuntary labor); and  
+• A right for ResMed to request a higher standard of compliance where we believe that the local laws are not in 
+line with our corporate values. The ResMed Supplier Manual includes an acknowledgment that the suppli er 
+must sign to indicate their responsibility for knowing and adhering to the standards of ResMed’s Supplier Manual and ResMed’s overall Supplier Management Process. Through this acknowledgment, our suppliers certify that the materials incorporated into Re sMed’s products comply with local laws regarding slavery and 
+human trafficking. Failure to comply with any part of the manual or the process can result in the removal of 
+the supplier from ResMed’s Approved Supplier List and termination of our relationship with them.  
+   
+ 
+ResMed 18/19 Report on ESG Issues                                                                                                                         Page 26 of 48 
+ 
+OUR PRODUCTS  
+Our core mission  is to improve people’s health and wellbeing by providing innovative and high -quality products and 
+services for sleep apnea, COPD, asthma, and other  chronic conditions , as well as to help streamline the process of 
+aiding and managing consumers of out -of-hospital care services such as skilled nursing, life plan care, or home health 
+and hospice services . This focus on product quality and innovation is reflected not only in the high regard our 
+customers have for our pr oducts and services but in our vigilance in meeting our safety and marketing obligations.  
+Quality, innovation , and continuous improvement  
+Our people work to high operational standards. Our commitment to quality, innovation, regulatory compliance , and 
+cont inuous improvement is stressed in our G lobal Quality Policy . Our key operational sites work to a comprehensive 
+quality management system to meet this policy. Our product quality is best reflected in the awards we have received 
+for product design. Please see Table 3 for these awards and highlights .  
+ 
+Research and development  
+We have a strong track record of innovation. Since introducing our first CPAP device in 1989, we have conducted an 
+ongoing program of product advancement and development. We continually seek to identify new applications of our 
+technology for significant un met medical needs. We support clinical trials in many countries, including Australia, 
+China, France, Germany, Italy, Switzerland, the United Kingdom, and the United States. We consult with physicians at 
+major sleep centers  throughout the world to identify trends and needs. New product ideas are also identified by our 
+marketing staff, direct sales force, network of distributors, customers , and patients.  
+For our products to remain leaders in very competitive markets, we invest appropriately in innovation, with approximately 1 7% of our employees devoted to research and development activities. In F iscal Year 2019, we invested 
+$180.70  million, or approximately 7 % of our net revenues, in research and development .  
+Table 9: E xpenditure on R&D, 201 7–2019   
+ 
+ 2019  2018  2017  
+R&D/revenues  7% 7% 7% 
+Revenues ($m)  2606.6  2340.2  2,067  
+R&D investment ($m)  180.7  155.1  144.5  
+Research and development staff  1198  928 880 
+   
+ 
+ResMed 18/19 Report on ESG Issues                                                                                                                         Page 27 of 48 
+ 
+Product quality   
+The quality management system engages our employees and suppliers to ensure our expected product quality. 
+ResMed has comprehensive systems and processes to ensure our products are designed to meet patient needs and 
+performance requirements. We use engineer ing and other scientific principles to design and manufacture our 
+products. We design manufacturing processes to consistently meet product quality attributes. We apply these 
+principles from product conception through commercialization , and for the product’ s life.  
+We have established data sources and metrics in several quality sub -systems including product development, supplier 
+performance, manufacturing process controls, equipment controls, field performance , complaint management , audits  
+(internal, external , and supplier) , and product risk assessment. We also monitor data trends and take appropriate 
+action based on those trends.  
+Quality at ResMed  
+Patient and employee safety are ResMed’s top priorities. As such, w e work to ensure every product  work s safely, 
+effectively , and efficiently. Our product quality is underpinned by our quality management system, which takes into 
+account the requirements of the International Organization for Standardization  (ISO) 13485 standards for medical 
+devices , the Europ ean medical legislative requirements (Directive 93/42/EEC and Regulation 2017/745) , the US FDA 
+Quality System Regulations for medical devices (21 CFR part 820), the Japan MHLW Ministerial Ordinance No.169 , and 
+other regulations in our target markets. ResMe d’s quality management system provides an integrated quality plan 
+covering quality practices, resources , and activities. The main systems include organization management; 
+environment management; change control and document management; and improvement manag ement, including 
+CAPA, risk management , and post -market surveillance. The quality management system is certified by an independent 
+notified body.  
+All of our employees complete training in relevant quality management system areas. We also train employees in  
+good manufacturing practice, which guides everyday behaviors  in a medical device manufacturing operation, such as 
+personal hygiene, protective clothing , and documentation standards. We implement a compr ehensive internal audit 
+program  across the entire bus iness – with over 50 internal audits a year – to ensure compliance with the quality 
+management system and to help identify improvement opportunities.  
+Quality with suppliers  
+ResMed draws over 2,000 individual components or materials from over 200 approved suppliers in our current 
+product range. We have a comprehensive supplier approval process, with assessment tools that include on -site audits 
+according to the assessed risk of the component or service. We establish standards for supplier communication, 
+resp onsibilities, quality systems, traceability , and environmental aspects. We require suppliers to have ISO 9001 or an 
+equivalent quality management system, to be certified by an acceptable third party, and to adhere to the applicable 
+Jedec, IPC, ANSI, J -STD, and SAE standards for electronic components. In some cases, we may approve a supplier that 
+is not ISO 9001 certified, based on our audit of their quality system, with agreed and documented controls.  
+We conduct ongoing supplier audits based on our initial assessment of a supplier, their subsequent performance , and 
+the nature of the supplied goods. Audit frequency can range from 6 to 48 months. On average, our supplier audit  
+ 
+ResMed 18/19 Report on ESG Issues                                                                                                                         Page 28 of 48 
+ 
+team audits 60 –70 suppliers a year. Most supplied components are also inspected befo re use for compliance against 
+detailed specifications. Corrective actions are specified for any quality defects, escalating through to termination of 
+contract for failure to address defects.  
+Supplier networks  
+We draw from an international supply chain that provides the best quality components and supplies available for an 
+appropriate price. All else being equal, our manufacturing operations seek suppliers from their local economies, 
+however , the suitability and quality of our supplies is paramount. To achie ve that quality, we seek and value long -term 
+stable relationships with our suppliers. We inform suppliers of our relevant business plans so that they can align their 
+plans. In particular, we encourage suppliers to develop partnerships, networks , and relati onships that can support 
+ResMed’s global manufacturing network.  
+Warranties  
+We generally offer either one- year or two -year limited warranties on our devices. In some regions and for certain 
+customers , we also offer extended warranties on our devices for one to three years in addition to our limited 
+warranty. Warranties on mask systems are for 90 days. Our distributors either repair our products with parts supplied 
+by us or arrange shipment of products to our facilities for repair or replacement.  
+We receive returns of our products from the field for various reasons. We believe the level of returns experienced to 
+date is consistent with levels typically experienced by manufacturers of similar devices. We provide for warranties and 
+returns based on historical data.  
+Customer satisfaction  
+ResMed keeps comprehensive confidential data on customer attitudes to our product quality and customer service.  
+ResMed generally sells products through medical and health product resellers in most markets, rather than direct to 
+users. But in some markets (most notably Germany and Australia) we sell directly to end  users. In wholesale markets, 
+health, marketing , and privacy regulations limit the extent to which we can engage directly with users. Accordingly, 
+much of our data on pr oduct quality and customer service is derived from wholesale customer surveys, rather than 
+surveys of those using our products. We believe the views of our customers, who also deal with comparable 
+healthcare products including those of our competitors, are  reliable, and in some aspects a more accurate and less 
+anecdotal reflection of overall performance than those of individual users.  
+Product safety  
+We take our product safety obligations seriously and rely on our quality management system to meet or exceed regulatory standards in all our markets. We apply risk management principles from product design through 
+commercialization . We continually monitor the field performance and safety of released devices , and work with 
+regulators to ensure safety and effectiveness for the product’s life.   
+ 
+ResMed 18/19 Report on ESG Issues                                                                                                                         Page 29 of 48 
+ 
+Market and labeling  
+Product marketing and labeling requirements are set by medical device regulators in all countries in which our 
+products are sold (for example, by the Therapeutic Goods Administration in Australia, and the Food and Drug 
+Administration in the US). Products cannot be marketed until an assessment verifies that these requirements are met. 
+All marketing material must correspond with approved labeling. Our qual ity management system incorporates 
+elements to ensure compliance with labeling requirements, including translations. Our internal quality audit processes 
+are designed to capture any flaws in product marketing, user guides , and clinical guides, including tr anslations.  
+We have not received any material non -compliance notices since 2017. Our internal audit has identified and corrected 
+several minor issues, and we have also received some notices of minor non -conformance from regulatory authorities . 
+Biocompatibi lity Testing  
+ResMed as a medical device company, distributing products into global markets, is required to comply with regulatory requirements intended to ensure materials in our products are biologically safe or biocompatible.  
+Biological evaluation is co mmissioned to be performed to confirm the biocompatibility of materials that go into our 
+products as per the international standard, ISO 10993 -1:2018, “Biological evaluation of medical devices.”  
+The FDA and other regulatory agencies still require safety da ta based on animal studies. If an animal study is not 
+avoidable, ResMed employs the 3Rs approach (Replacement, Reduction, and Refinement) to animal study whenever possible , and takes all practicable steps to ensure that we meet the required standard of ani mal care and welfare 
+specified by ISO 10993 -2:2006, “Animal welfare requirements .” These considerations are also reflected in our internal 
+work instructions during biocompatibility evaluation . 
+Military products and uses  
+Other than where our products are us ed by military personnel, neither ResMed nor its subsidiaries produce or 
+contribute to any  products or services designed or used for military purposes. We have no intention or aspiration to 
+produce or sell arms or any equipment designed solely for military  use. 
+ 
+   
+ 
+ResMed 18/19 Report on ESG Issues                                                                                                                         Page 30 of 48 
+ 
+COMMUNITY   
+Our community contributions reflect our  mission to improve millions of lives worldwide through the treatment of 
+chronic diseases like sleep apnea, COPD, and asthma, plus improved management of consumers benefiting from out -
+of-hospital care.  We target research in th ose area s and also help our em ployees support their communities in the 
+form of volunteer hours  and matching charity donations where appropriate. We further respect our communities by 
+being vigilant in meeting our product quality, safety , and marketing obligations, as well as with custo mer data privacy.  
+Contributions to health  
+Our core  business is improving people’s health and wellbeing by treating their sleep  apnea , COPD, asthma , or other 
+chronic conditions. Accordingly, most of our community engagement is on health- related matters, and  we continue to 
+raise awareness  through market and clinical initiatives  of the increasing link between the potential effects sleep  
+apnea, COPD, asthma, and other  respiratory conditions  can have on one another as well as on other chronic 
+conditions such as cardiovascular diseases, stroke, high blood pressure, obesity, and diabetes:  
+• Cardiovascular disease . Clinical research has demonstrated a high prevalence of sleep  apnea  in cardiology 
+patients and has suggested that it may increas e the risk of developing cardiovascular disease and heart failure. 
+The European Society of Cardiology, the American College of Cardiology , and American Heart Association 
+acknowledge the high prevalence of sleep  apnea  in heart failure cases and have recommended treatment with 
+various modes of positive airway pressure or PAP therapy to treat patients’ sleep apnea . Further studies have 
+highlighted this importance, showing the worsening of long -term outcomes in patients with heart failure and 
+sleep  apnea , and that treating sleep  apnea  may improve these outcomes .1 
+ 
+• Type 2 diabetes . The International Diabetes Federation strongly recommends health professionals treating a 
+patient for either type 2 diabetes or sleep  apnea  should also consider the presence of the other condition .2 The 
+American Association of Clinical Endocrinologists’ guidelines for a comprehensive diabetes care plan 
+recommend sleep  apnea  screening for adults .3 Other research reported treating patients with both type 2 
+diabetes and obstructive sleep apnea with CPAP leads to significantly lower blood pressure and better -
+controlled diabetes whil e affording a cost- effect ive use of healthcare resources .4 
+ 
+• Chronic obstructive pulmonary disease (COPD) . Published research has shown the use of non -invasive positive 
+pressure ventilation can significantly improve the survival of stable hypercapni c COPD patients whil e also 
+improving health -related quality of life .5 There is also a hospital readmission burden following an acute 
+                                                           
+1 Damy T et al. Prognostic impact of sleep -disordered br eathing and its treatment with nocturnal ventilation for  
+chronic heart failure. Eur J Heart Fail . 2012 Sep; 14(9):1009 -19. 
+2 Shaw JE et al. Sleep -disordered breathing and type 2 diabetes: a report from the International Diabetes  
+Federation Taskforce on Epi demiology and Prevention. Diabetes Res Clin Pract . 2008 Jul;81(1):2- 12. 
+3 Handelsman Y et al. American Association of Clinical Endocrinologists Medical Guidelines for clinical practice  
+for developing a diabetes mellitus comprehensive care plan: executive s ummary. Endocr Pract . 2011 Mar -Apr;17(2):287 -302.  
+4 Guest JF et al. Clinical Outcomes and Cost -Effectiveness of Continuous Positive Airway Pressure to Manage Obstructive Sleep 
+Apnea in Patients With Type 2 Diabetes in the U.K. Diabetes Care.  2014 Apr ;37(5):1263 -71. 
+5 Köhnlein T et al. Non -invasive positive pressure ventilation for the treatment of severe stable chronic obstructive pulmonary 
+disease: a prospective, multicentre, randomized, controlled clinical trial. Lancet Respir Med. 2014 Sep;2(9):698 -705.    
+ 
+ResMed 18/19 Report on ESG Issues                                                                                                                         Page 31 of 48 
+ 
+exacerbation of COPD and the use o f non -invasive positive pressure ventilation has been shown to si gnificantly 
+reduce this as well .6 
+ 
+• Transport safety . One of the largest measurable emerging contributions to community health that we are 
+making is in the link between sleep  apnea  and occupational safety, in particular transport safety. In a ResMed -
+sponsored study  of 22,000 members of the Union Pacific Railroad health plan  published in Population Health 
+Management , findings suggest that a low- cost, patient- focused sleep  apnea  educ ation campaign can improve 
+healthcare outcomes and reduce medical expenses. After the campaign was initiated, the healthcare plan 
+realized cost savings of US $4.9 m illion over two years .7 
+ 
+• Peri-operative risk . Over 80% of those with sleep apnea remain undiagnosed8. The incidence of postoperative 
+complications of surgery in undiagnosed obstructive sleep apnea patients is significant , making  screening before 
+surgery for high -risk patients necessary .9 Meta -analysis of the association between obstructive sl eep apnea and 
+postoperative outcomes  showed the incidence of respiratory failure, cardiac events , and intensive care unit 
+transfers was higher in patients with obstructive sleep apnea .10 
+We expect studies underway or planned for the future to provide further evidence that treating sleep  apnea  and 
+other respiratory insufficienc ies can improve mortality and morbidity, quality of life , and also healthcare cost 
+utilization  in relation to these patients. In some of these studies, we also work directly with payers and clinically 
+integrated delivery networks to understand how their costs and outcomes may be impacted by patients with 
+undiagnosed or untreated sleep apnea  within their population.  
+Other community contributions  
+Our contributions to our local commun ities are made in both monetary contributions and the time and effort of our 
+employees. ResMed gives every employee two  days of paid time off to volunteer for the personal cause of their 
+choice. While we encourage ResMedians to volunteer, how they choose t o donate their time is at their discretion and 
+does not reflect the values of the company.  
+As a company , we engage with a large number of community organizations, as do our staff as individuals, particularly 
+with local educational and scientific organizations. We committed significant time and donated over US  $1m  to over 
+150 community organizations and acade mic institutions in recent years : see Table 10.  
+Our community focus is on major national -level  relief efforts, on organizations near  our principal places of  business, 
+and on organizations that are involved in the research or treatment of one of the links between sleep  apnea  and one 
+or more comorbid links such as cardiovascular disease, type 2 diabetes, perioperative risk , or occupational health and 
+safety, as well as ventilator support to COPD and other chronic diseases.  
+                                                           
+6 Galli J et al. Home non -invasive ventilation use following acute hypercapnic respiratory failure in COPD. Respir Med . 2014 May;108(5):722 -8. 
+7 Potts KJ et al. Cost savings associated with an education campaign on the diagnosis and management of  
+sleep -disordered breathing: a retrospective, claims -based US study. Popul Health Manag. 2013 Feb;16(1):7 -13. 
+8 Young T et al. Estimation of the Clinically Diagnosed Proportion of Sleep Apnea Syndrome in Middle -Aged Men and Women. Sleep 19 97 Sep;20(9):705 -6. 
+9 Kaw R et al. Meta -analysis of the association between obstructive sleep apnoea and postoperative outcome. Br J  
+Anaesth. 2012 Dec;109(6):897 -906.  
+10 Iftikhar IH et al. Meta -analysis: continuous positive airway pressure improves insulin resistance in patients with  
+sleep apnea without diabetes. Ann Am Thorac Soc . 2013 Apr;10(2):115 -20.  
+ 
+ResMed 18/19 Report on ESG Issues                                                                                                                         Page 32 of 48 
+ 
+Table 10: Global Community contributions , in USD  per fiscal year   
+ 2019  2018  2017  
+Corporate Giving  $1,420,441.48  $676,195.55  $334,054.25  
+Foundation Funding  $600,000 .00 $750,000 .00 $600,00 .00 
+Total  $2,020,441.48  $1,426,195.55  $934,054.25  
+ 
+Industry and advocacy involvement   
+ResMed has been a consistent supporter of local scientific and industry organizations to help promote the social and 
+economic benefits of sound science and entrepreneurial enterprise. We contributed more than $100,000 during 
+either fiscal year 2018 or 2019 to eac h of the following organizations:  
+• AdvaMed (US)  
+• Council for Quality Respiratory Care (US)  
+• Syndicat National De L’Industrie des technologies Médicales ( National Union of the Medical Technology 
+Industry) (France)  
+• la Société Française de Recherche sur le Sommeil (French Society for Research and Medicine in Sleep)  
+   
+ 
+ResMed 18/19 Report on ESG Issues                                                                                                                         Page 33 of 48 
+ 
+ 
+Table 11: Industry associations contributions , in USD   
+ 2019  2018  2017  
+Memberships  $543,086  $585,126  $503,451  
+ 
+Government contributions  
+Our total tax paid is summarized in T able 1. We note the cost of medical care, including the use of our products in 
+many of the countries in which we operate , is funded in substantial part by government and private insurance 
+programs.  
+Customer data protection  
+ResMed has implemented a range of technical and orga nizational measures to provide assurance that customers’ data 
+will be protected and processed legally and ethically . ResMed processes sensitive personal health data for residents of 
+over 1 40 countries. Regulations governing our protection of customer data (including sensitive data) include but are 
+not limited to the US Health Insurance Portability and Accountability Act (HIPAA) and the Health Information 
+Technology for Economic and Clinical Health Act (HITECH), the European General Data Protection Regulatio n (GDPR), 
+the Japanese Act on the Protection of Personal Information (APPI), and the Australian Privacy Act. These jurisdictions 
+cover the majority of personal data processed by ResMed, but data protection regulations from other jurisdictions are 
+also moni tored and included where appropriate.  
+ResMed continues to make material investments in the people, process es, and technology controls for its  Information 
+Security and Privacy team functions. The design and effectiveness of these controls for systems hosting material 
+amounts of sensitive personal health data include validation via a Service Organization Control (SOC -2) report, a 
+Japanese P –Mark certificate, the French Hébergeurs de D onnées de Santé (HDS) or Health Data Hosting certificate, 
+and the United Kingdom National Health Service Data Security and Protection Toolkit (DSPT) online self -assessment 
+(with governmental spot audits).  
+The protection and processing of customers’ data i s overseen by a chief information security officer reporting to the 
+chief executive officer and a chief privacy officer reporting to the chief administrative officer and global general 
+counsel. Formal obligations are set by our employee and contractor contracts, our Code of Business Conduct and Ethics, our IT Information Security Policy, and other internal policies and training. Employees likely to handle 
+consumer data undergo data protection training. Our Privacy notices are published online. Versions appl icable to the 
+United States of America can be viewed here. Versions for other countries can be found here
+.  
+Anti-trust behavior  
+No government enforcement action has been taken against ResMed for any alleged violation of any antitrust or 
+competition regulation in this  reporting period .  
+ 
+ResMed 18/19 Report on ESG Issues                                                                                                                         Page 34 of 48 
+ 
+In the United States, our largest geographic market, the primary competitors for sa le of products used to treat sleep  
+apnea  are: Philips BV, who acquired previous competitor Respironics Inc.,  and Fisher & Paykel Healthcare Corporation 
+Limited. These firms are also our principal international competitors for the sale of flow generators a nd masks  for the 
+treatment of sleep apnea . The markets for our products are highly competitive. Our sleep products compete with 
+surgical procedures, dental appliances, and other means to treat sleep  apnea  and related respiratory conditions.  
+ResMed also sel ls ventilators , portable oxygen concentrators, high -flow cannulas and other respiratory accessories, 
+and software -as-a-service solutions – all in smaller quantities than our sales of sleep  apnea  breathing products. Those 
+products also face competition from  other companies.  
+   
+ 
+ResMed 18/19 Report on ESG Issues                                                                                                                         Page 35 of 48 
+ 
+ENVIRONMENT  
+Between  2017 and 2019 , there has been a noticeable increase in i nquiries from customers on the source, content , 
+and environmental performance of our products. This is in addition to the increasing appearance of sustainability 
+credentials in requests for tenders, particularly from the hospital sector. Each i nquiry raises internal consideration of 
+our existing manufa cturing and supply chain processes, and the extent to which we weigh environmental factors 
+against operational and financial factors in our decision  making.  
+We insist on and achieve strong compliance with environmental regulations, with no material breache s, and have 
+seen improvements in material efficiency and recycling in both production and administrative areas. We are extending 
+our adoption of ISO 14001 standards, which reflect the need to conserve scarce resources and protect our natural ecologies. We have invested in environmental stewardship at our sites, and are committed to extend ing that 
+stewardship to our product design and packaging.  
+At this stage, we are comfortable that our quality management system, with our pursuit of lean manufacturing and 
+continuous improvement, is delivering environmental improvements in a way that is both effective and integrated 
+with our core business.  
+Policies and systems  
+Responsibility for environmental management resides  at the site level. We have a comprehensive envi ronmental 
+management system with ISO 14001 certification at our primary manufacturing site in Sydney. Other sites rely on our quality management,  pollution control , and waste management systems to ensure compliance with relevant 
+environmental regulations.  
+Sydney manufacturing site  
+Our environmental management system at our Sydney manufacturing site is closely aligned with our quality assurance 
+and health and safety systems, with the continual expectation of improved performance in all three dimensions. 
+Although we have internal advisory roles on each dimension, line managers are accountable for their areas of 
+operational responsibility. Our environmental and communications teams work together to support the behaviors  and 
+culture needed to sustain continuous  improvement in environmental performance.  
+The environmental management system at Sydney was established in accordance with ISO 14001 certification to 
+systematically improve our environmental -related costs, and to ensure compliance with applicable local a nd 
+international environmental legislation affecting our operations.  Its scope considers impacts on the environment 
+throughout the lifecycle of our products and services.  That environmental policy and ISO 14001 certification are 
+publicly available on request.  
+Regulatory compliance is set by national, state , and local law, ISO 14001, occupational health and safety , and other 
+regulations that relate to our environmental prac tice and the conditions of consent to the development of our 
+premises.  
+Environmental risks are identified by analyzing  our product s’ lifecycle s, and by anticipating the views of internal and 
+external parties who may be concerned or impacted by our environ mental performance. Significant impacts and risks  
+ 
+ResMed 18/19 Report on ESG Issues                                                                                                                         Page 36 of 48 
+ 
+require environmental management plans and are reviewed annually, with accountabilities and measurable targets. 
+Where there are operational controls for these risks, personnel must have measurable competenc y and relevant 
+training.  
+Environmental performance is considered in the selection process for suppliers, with preference shown to suppliers 
+with good environmental performance, such as recognizing compliance with ISO 14001 through the supplier rating 
+prog ram.  
+Other sites 
+In our Singapore and Malaysia production facilities, the production processes replicate those developed in our Sydney 
+facility for similar manufactured products. Our distribution, commercial , and other production facilities do not 
+currentl y work to a comprehensive environmental management system and have not to date pursued ISO  14001 
+accreditation. Instead , they rely on our quality assurance systems and work with our waste management providers to 
+ensure compliance with relevant environmenta l and supplier regulations.  
+Review  
+Our senior management team reviews our environmental performance annually, including audit and compliance 
+results, non -conformance and corrective actions, communications and complaints, and available metrics on 
+environmental performance. At sites with an environmental management system, our environmental team conducts a 
+rolling internal audit for compliance with ISO 14001 and other controlled impacts on the environment, so that we 
+review all elements of the system at least once every two years.  
+The environmental performance of our Sydney manufacturing, research,  and administration site is externally audited 
+every year by TÜV SÜD to confirm its ISO 14001 certification. The last audit was a recertification audit completed in 
+April 2019. Our Sydney site also conduct s an internal audit at least once every two  years.  
+We do not use third -party “eco-labeling ” certification labels for our products, nor produce, publish or verify lifecycle 
+assessment data.  
+Compliance an d incidents  
+We have received no regulatory notices on material environmental issues in the three financial years 201 7–2019 . In 
+addition, we are not aware of regulatory notices or complaints raised about environmental matters against any of our 
+suppliers in  respect of any of the products or services provided to us.  
+Production and efficiencies  
+Led by our primary manufacturing sites, our operational culture focuses on efficiency and effectiveness, using S ix  
+Sigma and other lean manufacturing approaches as par t of our quality and continuous improvement management 
+systems . In Sydney, 10  forms of waste are identified – defects, overproduction, waiting, transport, inventory, motion,  
+ 
+ResMed 18/19 Report on ESG Issues                                                                                                                         Page 37 of 48 
+ 
+underutilized talents, materials, energy , and safety risks. Awareness and action o n all these dimensions have paid 
+dividends in materials, energy , and water use. We encourage all employees to suggest efficiency ideas, and we 
+systematically pursue them , recogniz ing staff who generate successfully implemented ideas with awards.  
+Global data on energy, water, materials , and waste has not been comprehensively recorded through 20 18–2019 , and 
+we present trend data for that period only for the locations for which we have it. While our figures represent our best 
+understanding of energy and materi al flows for the most recent year, these figures may be revised as our data capture 
+systems are improved and standardized internationally.   
+Sources and use of energy  
+All sites draw on a mix of natural gas and grid electricity. Our San Diego headquarters feature a rooftop solar 
+photovoltaic ( PV) array designed to provide a maximum of 6,811  kWh of electricity  per month. Commissioned in 2019, 
+our Sydney site administratio n building (Innovation Centre) installed a solar system that can produce approximately 
+122 MWh of electricity each year.  
+Apart from this new solar system, the uses of the other energy at our Sydney site are representative of uses at our 
+other global sites.  Gas is consumed chiefly by our heating, ventilating, and air conditioning system s’ boilers for space 
+heating and humidity control in manufacturing areas, as well as for domestic hot water and kitchen use. Its use primarily reflects variable climatic condi tions , as well as  building design and use. The primary electricity uses in 
+research, professional and administrative services are heating, ventilation, and air conditioning  (HVAC ) chillers ; 
+vertical transport, research , and development lab equipment ( e.g. environmental chambers, ovens, lathes, mills) ; and 
+lighting, catering , and office equipment. These uses respond more to behavioral change.  
+Group  energy use  
+We consumed 127,676 GJ in 2018 and 128,136 GJ  in 2019 of energy globally, representing an energy intensity of 54.6  
+and 49.2  GJ per US$million of revenue for the entire business in 2018 and 2019, respectively: s ee Table 12. These 
+figures represent  the gas and electricity consumed at our premises globa lly and does not include energy used in our 
+supply chain and transportation  or their corresponding greenhouse gas emissions.  
+ 
+   
+ 
+ResMed 18/19 Report on ESG Issues                                                                                                                         Page 38 of 48 
+ 
+Table 12: Global trend energy data 
+   
+ Electricity 
+Consumption (MWh)  Natural Gas 
+Consu mption (GJ)  Total Energy 
+Consumption (GJ)  Energy Intensity  
+2019  31,014  16,487  128,136  49.2  
+2018  31,235  15,231  127,676  54.6  
+2017  31,697  15,882  129,990  62.9  
+ 
+Global electricity consumption  has decreased steadily  over the three years . This reflects the positive progress of our 
+energy conservation  measures. At our primary manufacturing site in Sydney, the base -load energy consumption 
+(excluding production) is improving through equipment upgrade s and changed controls of the HVAC system. We 
+installed an 85.8 kW solar system to reduce electricity cons umption, yielding further improvements to the overall 
+system efficiency. Recent energy -efficient lamp retrofits, lighting control enhancements , and rescheduling at Sydney 
+and other sites also contributed to the improvement.  
+Since 2016, w e have made adjustments to the dehumidification control at our primary manufacturing site in Sydney –  
+a process that comprises the majority of natural gas usage, increased the use of econom ic cycle, and installed Variable 
+Speed Drives (VSD) to enable the u se of a more efficient plant control strategy.  Since consuming 19,055 GJ of natural 
+gas during Fiscal Year 2016, the company has seen a steady decline in gas consumption through Fiscal Year 2019 . 
+During these years , there has been some increased usage of o ur air conditioning systems , mainly for production 
+requirements  due to  additional afternoon and night shifts in some areas and 24/7 requirements for some ventilator 
+product testing. Additional exhaust requirements for new equipment supporting the manufactu re of new mask 
+product designs ha ve also placed considerable additional load on the air conditioning in this 24/7 area , which includes 
+dehumidification. These contributing factors as well as natural variations in seasons across the years, have led to 
+modes t increases.  
+Manufacturing energy  
+Our significant manufacturing operations are located in Sydney, Singapore, Mala ysia, and Chatsworth, California , USA . 
+We use an index of energy intensity that measures the energy used for our production output. The index was set at 
+100 for 2010 and fell  by 37.5% to 62.5  in 201 9: see Table 13. Our energy efficiency has improved through changes to 
+production equipment or manufacturing process. This involves adding new lean process equipment such as robot 
+demoulders and conveying systems. Although new process equipment consumes greater energy, it delivers higher 
+productivity and better energy intensity.  Improvements to the building plants and upgrade s of the lighting system also 
+contribute  to enhanc ing the baseload energy use and intensity of the manufacturing site.  
+Table 13: Global production energy use and intensity  
+2019 2018 2017
+Production energy (GJ) 72,636 71,171 63,542
+Intensity index 62.5 72.1 73.3  
+ 
+ResMed 18/19 Report on ESG Issues                                                                                                                         Page 39 of 48 
+ 
+Non-manufacturing electricity  
+Energy data is separated between office and production uses at our primary manufacturing and research and 
+development (R&D)  site in Sydney. Over  the three years Between end of Fiscal Year 2016 and  2019, electricity 
+consumed for office and  R&D purposes has significantly decreased by 12. 4%. Although the number of employees in 
+these areas increased, electricity use per person fell by 17.4 %: see Table 14. The efficiency improvement reflects the 
+positive results of lighting upgrades and control enhancement implemented during 2018 and 2019. The 
+Administration building on site (Innovation Centre) has installed an 85.8 kW Solar System that commissioned in F iscal 
+Year 19 to reduce the impact on the environment while hedging the risks associated with the fluctuating electricity 
+market prices.  
+Our other  sites also have implemented a number of energy efficiency initiatives. Malaysia, Switzerland , and Lyon have 
+upgraded the ir lighting system s to LED lamps and tubes. The new Atlanta site has installed motion  sensors in the 
+warehouse and energy -efficient lam ps around the site perimeter. The San Diego site has adjusted lighting and air -
+conditioning schedules to bet ter match conditions and needs: T he interior of the building has been updated with 50% 
+LED lighting; parking structure lighting has been recently converted to LED  as well . They have also leveraged its solar 
+electricity with low- voltage lighting controlled by daylight and motion  sensors, which are also being used in Abingdon 
+and Chatsworth.  
+   
+ 
+ResMed 18/19 Report on ESG Issues                                                                                                                         Page 40 of 48 
+ 
+Table 14: Electricity use for research an d administrative  purposes, Sydne y campus  
+Office e-MWh Δ PeopleOffice e-
+MWh/personΔ
+2019 4,131 -3.8% 815 5.1 -6.0%
+2018 4,296 -8.9% 797 5.4 -12.2%
+2017 4,714 -2.2% 768 6.1 -16.2%
+3 years -12.4% -17.4%
+ 
+Greenhouse gas emission  
+Our global Scope  1 (gas-fired energy) and Scope  2 emissions  have totaled  19,353 tons  of CO 2 equivalents  (T CO 2-e) in 
+2018 and 19,193 T CO 2-e in 201 9: see Table 15. Our t otal energy consumption (electricity and natural gas) and 
+greenhouse gas (GHG) emissions have fallen by 1.4% and 13.8%, respectively. The efficiency improvements reflect the 
+positive results of energy  initiatives implementations on  all ResMed sites and structural changes in energy section  that 
+has lower GHG emission s, replacing grid -connected electricity with solar power  and natural gas . 
+The total emissions are well below the thresholds that trigger emissions reporting or liabilities in countries in which we 
+operate, including the US, Australia, and Europe. Accordingly, we do not currently calculate our non- gas Scope  1 or 
+our Scope 3  emis sions.    
+ 
+ResMed 18/19 Report on ESG Issues                                                                                                                         Page 41 of 48 
+ 
+Table 15: Global greenhouse gas emissions , tons CO 2 equivalents , t CO 2-e 
+ Total Energy Consumption (GJ)  Total GHG Emissions (tCO 2-e) 
+2019  128,136  19,193  
+2018  127,676  19,353  
+2017  129,990  22,290  
+ 
+Water 
+We draw water from the local mains supply and measure its  use at all sites except Switzerland . Global * water use was 
+80,184 kL in 2018 and 79,174  kL in 2019  or 32.4  and 28.7  kL per US$mil lion in global revenues for 2018 and 2019 , 
+respectively: see Table 16. We reduced our global water consumption by  1010 kL between Fiscal Years 2018 and 
+2019 . Our primary sites Sydney and San Diego water usage have fallen from the year 2017 by 5.4% and 17.4 % 
+respectively despite an increasing number of employees.  
+Our Sydney site captured all rainwater from roofs, hard surfaces , and Bella Vista Farm Park with feeds to onsite ponds. 
+Stormwater pollution -control devices and bio -filters maintain the ponds’ water quality so it can serve as a  habitat for 
+native flora and  fauna, as well as an  irrigation  source  for native flora around the campus. Other initiatives to reduce 
+general water consumption are observed at many of our sites. These include water tap aerators to reduce flow 
+intensity and low- flow flush toilets and sensor faucets in restrooms. The water used for manufacturing purposes is 
+negligible.    
+ 
+ResMed 18/19 Report on ESG Issues                                                                                                                         Page 42 of 48 
+ 
+Table 16: Global and major sites ’ water consumption  
+Consumption (kL) Per Employee Per $M Global Rev
+2019 79,174 10.99 30.4
+2018 80,184 13.59 34.3
+2017 77,965** 15.02 37.7Global *
+ 
+*Exclude s Switzerland  
+**Exclude s Europe  
+Paper  
+Our global office paper use totaled  8.98 million sheets (4 1 tons) in 2018 and 8 .12 million sheets  (40 tons ) in 2019. 
+While the global number of employees has increased, the usage intensity per employee has decreased by 13.62 % 
+from 201 7. There are common paper reduction initiatives at many sites to promote the use of double -sided and 
+centralized printing, and by relying m ore on electronic means for internal communication.  In the past, our Sydney 
+operations had undertaken a campus -wide printer refresh with better energy efficiency printers and swipe -release 
+function to minimize  unnecessary printing. The implement ation  result ed in a noticeable reduction in paper utilization. 
+This system also enables data monitoring , which reveals paper savings from unreleased jobs for  52,297 and 43,801 
+sheets during FY18 and FY19, respectively . 
+Table 17: Paper use, global  
+Sheets ('000) TonnesSheets per 
+employeeΔ
+2019 8,118 40 1,121 -13.62%
+2018 8,982 44 1,512 16.53%
+2017 8,640 43 1,298 -Global
+   
+ 
+ResMed 18/19 Report on ESG Issues                                                                                                                         Page 43 of 48 
+ 
+Waste  
+Our global approach to waste is integrated with and influenced by our approach to quality, safety, and environmental 
+management: We continually seek to improve efficiency and outcomes. All sites segregate recyclable waste for 
+disposal. For 2018 and 2019, we have measured the total waste sent to landfill s and recycled in all but our UK site. In 
+our measured sites, we have achieved a recycling rate of 57% and 60% in 2018  and 201 9, respectively : see Table 18.  
+Landfill waste has increased , mainly due to the cha nge in the s ecure product destruction process  at all sites . In our 
+Sydney manufacturing site, the waste excluding the secure product destruction is 77.9% of the total waste  to landfill s.  
+Increasingly, waste manufacturing and office equipment materials are being diverted from landfill s as their 
+component elements, including rare earth metals, become more valuable. Packaging and pallets from our supply 
+chain are the main waste contributors.  Many sites, including Sydney and Munich,  have implemented reusable cartons 
+or pallets for our inte rnal logistics. We also worked with suppliers to reduce or return packaging for reuse, where 
+feasible. At our Chatsworth , California, USA site , we use evaporative heating to dispose of water -based coolant on a 
+small scale.  
+In Sydney, more deliberate actio n on both administrative and production waste has been  triggered by the 
+formalization of our environmental program with ISO  14001 accreditation since 2010. Recycling has been improved 
+with suitable bins plus  strong signage and other communication to influe nce behavior . Any existing or new waste 
+material is identified and considered for recycling by the production teams and by our recycling partners who carry 
+appropriate licenses. Ongoing efforts to enhance product design can further reduce waste over its li fecycle from 
+production, packaging to its end of life.  Our recent achievements include resiz ing our PET autobag  to reduce 44% of  
+the material used for multiple products , result ing in a material reduction of approximately 14 tons each year; 
+review ing accept ability criteria of parts to reduce reject rate (and wastage) due to minor cosmetic defects across 
+multiple products. This result ed in a reduction of the reject rate by up to 15%.   
+There are multiple sustainability projects underway to improve waste -to-landfill rates. For example, the Sydney site is 
+investigating the introduction of an onsite shredder that  would enable shredding for destruction but with additional 
+pre-sorting capabilities that  would enable some recycling of hard plastics, PCB boards , and other materials to occur 
+post shredding. There is an additional waste stream being implemented to recover some energy from dry waste 
+rather than send it to landfill s. Finally, there are multiple  environmental management system  (EMS ) and projects 
+aimed at reducing general waste from increasing sustainability in the design and manufacture of our products.  
+The education on environmental improvements is also embedded within our continuous improvement culture where 
+we enable a quick assessment to capture impro vements made by employees and combine efforts for environmental 
+targeted improvements.  
+ 
+   
+ 
+ResMed 18/19 Report on ESG Issues                                                                                                                         Page 44 of 48 
+ 
+Table 18: Waste from global operations, ex cluding the United Kingdom  
+Landfill waste (T) Δ Recycling Waste (T) Recycling Rate (%)
+2019 1,370 -21.29% 2,065 60%
+2018 1,741 218.56% 2,283 57%
+2017 556* 10.30% 1,761 76%Global ex-UK
+ 
+*excludes all of Europe  
+Environmental stewardship  
+Land, water and biodiversity impacts  
+Our operations do not have a large impact on the immediate environment. All but our Sydney premises have been 
+built or are leased in existing commercial locations. The major Sydney and San Diego premises feature drought-
+tolerant landscaping and plantings.  
+Sustainable design and packaging  
+We understand the influence that product design has on the environmental impact of our product manufacture, use , 
+and disposal. While we implement lean manufacturing to minimize waste in both product manufacture and packaging, 
+sustainable life -cycle design is now becoming more of a focus. It has been set as one of our EMS objectives  to 
+incorporate sus tainability into the design of our products and packaging where possible. For example, there are 
+improvements to the design and packaging of a new mask product that significantly reduce s the environmental 
+impacts of the product. When compared to its predec essor, the new product consumes less raw materials and 
+packaging, generates less waste matter in manufacturing, has better recyclability, and increases efficiency in 
+transportation. Based on prior learnings, we are now looking to create better consistency across multiple mask 
+platforms to take the entire end -to-end lifecycle of a product into consideration, without compromising the 
+performance and integrity of the product.  
+Our current five focal areas are:  
+• Packaging ( consider packaging early in the design phase);  
+• Substances ( avoid the use of hazardous substances);  
+• Material efficiency ( minimize  use of material for part and packaging design);  
+• Manufacturing efficiency ( minimize  the amount of waste, energy , and resources used to create parts for 
+production);  and 
+• Circularity ( maximize  use of and communicating recyclable or reusable materials on part and packaging. Design 
+for end of life considerations.)   
+ 
+ResMed 18/19 Report on ESG Issues                                                                                                                         Page 45 of 48 
+ 
+Hazardous materials  
+The European Directive on the Restriction of Hazard ous Substances (RoHS) in electrical and electronic equipment has 
+applied to medical devices since 2014. The RoHS directive restricts lead, mercury, hexavalent chromium, 
+Polybrominated biphenyls ( PBB), and Polybrominated diphenyl ethers ( PBDE ) to 0.1% of product weight, and 
+cadmium to 0.01% of product weight. All ResMed electrical devices placed on the market after this date compl y with 
+the RoHS Directive.    
+ 
+ResMed 18/19 Report on ESG Issues                                                                                                                         Page 46 of 48 
+ 
+Supply Chain  
+We set out our expectations of supplier environmental performance in the ResMed Supplier Manual . We reward 
+suppliers by our rating system if they operate to a certified e nvironmental standard (e.g., ISO  14001). Our regular 
+quality audit of supplier facilities includes observations on environmental performance.  
+Our expectations of suppliers include:  
+• Maintaining and disclosing up -to-date, traceable information for every individual (homogeneous) material , as 
+required;  
+• Compliance with the Restriction of Hazard ous Substances directive. RoHS status is confirmed as part of the 
+approval process on all new components and changes to existing components ; 
+• Supply pre -RoHS original or, where directed, alternative RoHS -compliant parts ;  
+• Compliance with Health Canada requi rements for disclosure of DEHP (found in flexible PVC) or BPA (found in 
+polycarbonate) ; and 
+• Compliance with the European  Union’s  2006 Registration, Evaluation, Authori sation , and Restriction of 
+Chemicals (REACH) regulations for substances of very high concern.  
+   
+ 
+ResMed 18/19 Report on ESG Issues                                                                                                                         Page 47 of 48 
+ 
+Appendix 1 – References to GRI core metrics   
+Section  Page  GRI Reference  
+Our Approach to ESG  4  101; 102  
+Key ESG Indicators   5 200s; 300s; 400s  
+ResMed In Brief   6 101; 102  
+Locations and Businesses   6 102 
+Administration, Product Development and Distribution   7 102 
+Manufacturing Operations   7 102 
+Sales and Marketing   7 102;202  
+Relevant Awards   9 102 
+Corporate Governance   11 102 
+Business Integrity   15 205 
+Ethics and corruption   15 205 
+Political Transparency  16 415 
+Intellectual Property   16 201 
+Our People  17 400s; 102  
+Diversity   17 405 
+Diversity and Disability  19  406 
+Health and Safety   23 403 
+Systems and Culture  23  403 
+Claim and Insurance Costs  24  403 
+Career Development and Learning   21 404 
+Employee Consultation and Communication   22 401; 402  
+Human Rights  25  400s  
+Compensation and Working Conditions  20  401 
+Work -life Balance   21 401 
+Health and Wellbeing   22 401; 403  
+Working Environment   23 401; 403  
+Employee Engagement  23  402 
+Employee Turnover   24 401; 402  
+Our Products   26 416 
+Quality, Innovation and Continuous Improvement   26 416 
+Research and Development   26 416; 417; 201  
+Product Quality   27 416 
+Quality with Suppliers  27 416; 308   
+ 
+ResMed 18/19 Report on ESG Issues                                                                                                                         Page 48 of 48 
+ 
+Supplier Networks   28 Voluntary  
+Warranties   28 Voluntary  
+Customer Satisfaction   28 418; 416  
+Product Safety   28 416 
+Marketing and Labeling  29  417 
+Biocompatability  Testing  29  Voluntary  
+Military Uses  29  Voluntary  
+Community   30 400s  
+Contributions to Health   30 416 
+Community Contributions  31  413 
+Industry and Advocacy Involvement  32  102 
+Privacy   33 418 
+Anti-Trust Behavior  33  206 
+Environment  35  300s  
+Policies and Systems  35  300s; 400s  
+Review   36 Voluntary  
+Compliance and Incidents   36 300s  
+Production Efficiencies   36 300s  
+Energy Use   37 302 
+Greenhouse  Gas Emissions  40  302 
+Water   41 303 
+Paper   42 301 
+Waste  43  306 
+Environmental Stewardship  44  300s  
+ 
