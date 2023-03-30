@@ -1,7 +1,6 @@
 import PyPDF2
 
 def pdfToText(pdfFilePath, outputFilePath):
-    
     # Open the PDF file
     pdf_file = open(pdfFilePath, 'rb')
 
