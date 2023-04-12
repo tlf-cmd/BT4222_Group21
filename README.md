@@ -9,12 +9,12 @@ Note: Activate a virtual environment before running pip install
 1. Run web scraper to extract S&P Global ESG Scores
 - code: `../Scrapers/ESGScoreScraper.ipynb`
 - output: `../Scrapers/scraped_data/{TICKER}_criteria_topic_score.csv`
-Note: top50companies.csv to include the companies and the corresponding tickers that you would want to scrape. Company name should be the official company name, i.e Apple Inc.
+- Note: top50companies.csv to include the companies and the corresponding tickers that you would want to scrape. Company name should be the official company name, i.e Apple Inc.
 
 2. Extract textual data from ESG PDF reports
 - code: `../pdfToText.ipynb`
 - output: `../pdf_text/{TICKER}_{YEAR OF REPORT}.csv`
-Note: download and save the company's ESG report under `../ESG_reports/{TICKER}_{YEAR OF REPORT}`
+- Note: download and save the company's ESG report under `../ESG_reports/{TICKER}_{YEAR OF REPORT}`
 
 3. Run Text Classifier to classify extracted text
 - code: `../topic_classifier.ipynb`
