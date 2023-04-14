@@ -9,3 +9,4 @@ pytorch
 torch
 selenium
 beautifulsoup4
+evaluate
