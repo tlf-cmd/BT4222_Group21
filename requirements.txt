@@ -2,4 +2,10 @@ pandas
 numpy
 PyPDF2
 nltk
-re
+rouge
+transformers
+tensorflow
+pytorch
+torch
+selenium
+beautifulsoup4
